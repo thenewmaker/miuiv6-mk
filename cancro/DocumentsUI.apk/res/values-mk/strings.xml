@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Документи</string>
+  <string name="create_error">Не успеав да создадам папка</string>
+  <string name="drawer_close">Скрие корени</string>
+  <string name="drawer_open">Прикажи корени</string>
+  <string name="empty">Нема предмети</string>
+  <string name="menu_create_dir">Креирај папка</string>
+  <string name="menu_delete">Избриши</string>
+  <string name="menu_grid">Табеларен преглед</string>
+  <string name="menu_list">Листа</string>
+  <string name="menu_open">Отворен</string>
+  <string name="menu_save">Зачувај</string>
+  <string name="menu_search">Барај</string>
+  <string name="menu_settings">Подесувања</string>
+  <string name="menu_share">Сподели</string>
+  <string name="menu_sort">Сортирај по</string>
+  <string name="mode_selected_count">%1$d избрано</string>
+  <string name="pref_advanced_devices">Прикажување на напредни уреди</string>
+  <string name="pref_device_size">Дисплеј големина</string>
+  <string name="pref_file_size">Големината на приказ на датотеки</string>
+  <string name="query_error">Не успеа пребарувањето на документи</string>
+  <string name="root_available_bytes">%1$s слободен</string>
+  <string name="root_recent">Последни</string>
+  <string name="root_type_apps">Повеќе апликации</string>
+  <string name="root_type_device">Уреди</string>
+  <string name="root_type_service">Сервиси за Складирање</string>
+  <string name="root_type_shortcut">Кратенки</string>
+  <string name="save_error">Не успеа да се сочува документот</string>
+  <string name="share_via">Сподели преку</string>
+  <string name="sort_date">По датум изменета</string>
+  <string name="sort_name">По име</string>
+  <string name="sort_size">По големина</string>
+  <string name="title_open">Отворена од</string>
+  <string name="title_save">Зачувајте во</string>
+  <string name="toast_failed_delete">Не може да се избришат некои документи</string>
+  <string name="toast_no_application">Не може да ја отворам датотеката</string>
+</resources>

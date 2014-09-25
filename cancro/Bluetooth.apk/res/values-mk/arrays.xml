@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Една страница на страна</item>
+        <item>Две страници на страна</item>
+        <item>Четири страници на страна</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Портрет</item>
+        <item>Пејсаж</item>
+        <item>Обратен пејсаж</item>
+        <item>Обратен портрет</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Еден едностран</item>
+        <item>Двострано долг раб</item>
+        <item>Двострано краток раб</item>
+    </string-array>
+</resources>

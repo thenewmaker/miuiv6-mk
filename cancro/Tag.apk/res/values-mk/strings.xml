@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="action_call">Повик% s</string>
+  <string name="action_text">Текст% s</string>
+  <string name="app_name">Тагови</string>
+  <string name="button_done">Завршено</string>
+  <string name="empty_tag_prompt">Овој таг е празен.</string>
+  <string name="import_vcard">Додади ^ 1</string>
+  <string name="mime_display_name">Податоци од NFC таг</string>
+  <string name="tag_empty">Празен таг</string>
+  <string name="tag_unknown">Непознат вид на таг</string>
+  <string name="title_existing_tag">таг</string>
+  <string name="title_scanned_tag">Нов таг колектиран</string>
+  <string name="vcard_title">Контакт инфо за ^ 1</string>
+</resources>

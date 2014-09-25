@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">SVI Подесувања</string>
+  <string name="svi_enable_summary_off">Искуството при гледањето нема да биде зголемено за состојбите на околината</string>
+  <string name="svi_enable_summary_on">Подобрување на гледањето врз основа на состојбата на околината</string>
+  <string name="svi_enable_title">Овозможи SVI Екран</string>
+  <string name="svi_info_default">Непознат</string>
+  <string name="svi_settings_title">SVI Подесувања на Екран</string>
+  <string name="svi_version_title">SVI верзија</string>
+</resources>

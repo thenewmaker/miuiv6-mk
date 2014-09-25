@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="altitude">% .1f</string>
+  <string name="altitude_title">височина</string>
+  <string name="altitude_unit">М</string>
+  <string name="app_label">Компас</string>
+  <string name="calibrate_altitude">калибрирање на надморска височина</string>
+  <string name="calibrate_failed_no_location">"Неможе да калибрира"</string>
+  <string name="calibrate_failed_timeout">"Неможе да се поврзе на серверот"</string>
+  <string name="calibrate_success">калибрирано</string>
+  <string name="cannot_get_location">-</string>
+  <string name="dialog_calibrat_altitude">Калибрирање...</string>
+  <string name="dialog_title_no_network">"Неможе да се поврзе на мрежата"</string>
+  <string name="direction_east">E</string>
+  <string name="direction_north">N</string>
+  <string name="direction_north_east">NE</string>
+  <string name="direction_north_west">NW</string>
+  <string name="direction_south">S</string>
+  <string name="direction_south_east">SE</string>
+  <string name="direction_south_west">SW</string>
+  <string name="direction_west">W</string>
+  <string name="do_not_show_next_time">"Не покажувај повторно"</string>
+  <string name="getting_location">Калибрирање...</string>
+  <string name="guide_toast">За да се калибрира, движете го вашиот телефон во движењето е прикажано подолу</string>
+  <string name="latitude">LAT</string>
+  <string name="location_east">EL</string>
+  <string name="location_north">NL</string>
+  <string name="location_south">SL</string>
+  <string name="location_west">WL</string>
+  <string name="longitude">LON</string>
+  <string name="menu_calibrate">Калибрирање на компасот</string>
+  <string name="mobiledata_alert_dialog_message">Поврзете се на интернет за калибрирање на надморска височина?</string>
+  <string name="mobiledata_alert_dialog_title">Предупредување за употреба на податоци</string>
+  <string name="pressure">% .1f</string>
+  <string name="pressure_title">Притисок</string>
+  <string name="pressure_unit">hPa</string>
+</resources>

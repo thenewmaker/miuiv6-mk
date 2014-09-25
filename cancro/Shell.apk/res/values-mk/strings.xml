@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">Обвивка</string>
+  <string name="bugreport_confirm">"Извештаите за грешки содржат податоци од различни системски белешки, Вклучувајќи персонални и приватни информации. Споделувајте грешки само со апликации и луѓе што им верувате."</string>
+  <string name="bugreport_confirm_repeat">Прикажија оваа порака следниот пат</string>
+  <string name="bugreport_finished_text">Допрете за да ја споделите информацијата на вашата грешка</string>
+  <string name="bugreport_finished_title">Информацијата на грешката зачувана</string>
+</resources>

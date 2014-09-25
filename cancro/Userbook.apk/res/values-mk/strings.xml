@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Прочитај ме</string>
+  <string name="bakc_key_toast_txt">За да излезете, допрете го копчето за назад повторно</string>
+  <string name="cta_dialog_button_text">Се согласувам и никогаш не ја исфрлувај</string>
+  <string name="cta_dialog_msg">"Вие ќе го користите userbook обезбеден од страна Xiaomi компанијата, која ви нуди повеќе возбудливи операции. за да се обезбеди целосна и ефективна информации на userbook мора да се ажурира автоматски во WLAN Дали се согласувате? *Забелешка: излезете со притискање на копчето за назад"</string>
+  <string name="cta_dialog_title">Совет</string>
+  <string name="downloading_data">Превземање...</string>
+  <string name="downloading_error">Грешка при превземање, ве молиме обидете се повторно подоцна!</string>
+  <string name="loading_userbook">Се вчитува...</string>
+  <string name="non_wifi_not_download_data">"Неможете да ја користите вашата дата конекција за да го симнете овој пакет, обидете се повторно кога ќе бидете поврзани со некоја WLAN мрежа"</string>
+</resources>

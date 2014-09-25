@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="author">Google</string>
+  <string name="vis2_desc">Ги исцртува звучните бранови на било која моментално пуштена песна.</string>
+  <string name="vis3_desc">Го покажува фреквенцискиот спектар од било која моментално пуштена песна.</string>
+  <string name="vis4_desc">Симулира аналоген звучен мерач.</string>
+  <string name="vis5_desc">Сите музички визуализации заедно, полека се врти во 3D.</string>
+  <string name="wallpaper_vis1">Визуелизатор</string>
+  <string name="wallpaper_vis2">Форма на бран</string>
+  <string name="wallpaper_vis3">спектар</string>
+  <string name="wallpaper_vis4">VU метар</string>
+  <string name="wallpaper_vis5">Многу</string>
+  <string name="wallpapers">Музчки Визуелизации за Позадини</string>
+</resources>

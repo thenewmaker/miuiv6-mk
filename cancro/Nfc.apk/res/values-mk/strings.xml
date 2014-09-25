@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="accessibility_nfc_enabled">NFC овозможено.</string>
+  <string name="app_name">NFC Служба</string>
+  <string name="beam_canceled">зракот откажана</string>
+  <string name="beam_complete">зракот е целосен</string>
+  <string name="beam_failed">Зрачењето не заврши</string>
+  <string name="beam_handover_not_supported">"Уредот на приемникот не поддржува голем пренос на датотеки преку зрак."</string>
+  <string name="beam_outgoing">Зрачење...</string>
+  <string name="beam_progress">Дојдовен зрак...</string>
+  <string name="beam_touch_to_view">Допри за да видиш</string>
+  <string name="beam_try_again">Допри ги уредте повторно заедно</string>
+  <string name="cancel">Откажи</string>
+  <string name="complete_with">Целосно со</string>
+  <string name="confirm_pairing">Дали сте сигурни дека сакате да го спарите Bluetooth уредот% 1 $ S?</string>
+  <string name="connect_headset_failed">Не може да се поврзае</string>
+  <string name="connected_headset">Поврзано</string>
+  <string name="connecting_headset">Поврзување</string>
+  <string name="could_not_use_app">"не можеше да користи% 1 $ s".</string>
+  <string name="default_pay_app_removed">Вашиот препорачан сервис за допри и плати е отстранет. Изберете друг?</string>
+  <string name="disconnected_headset">Исклучено</string>
+  <string name="disconnecting_headset">Исклучувам</string>
+  <string name="failed_to_enable_bt">Не можеше да овозможи Bluetooth</string>
+  <string name="inbound_me_profile_text">Допрете за да го додадете ова лице како контакт.</string>
+  <string name="inbound_me_profile_title">Контакт примен преку NFC</string>
+  <string name="nfcUserLabel">Nfc</string>
+  <string name="outbound_me_profile_text">Допрете за да му ги дадете на оваа личност вашите контакт информации.</string>
+  <string name="outbound_me_profile_title">NFC интеракција целосна</string>
+  <string name="pair_no">Не</string>
+  <string name="pair_yes">Да</string>
+  <string name="pairing_headset">Спарување</string>
+  <string name="pairing_headset_failed">Неможеше да се спраи</string>
+  <string name="pay_with">Плати со</string>
+  <string name="tap_again_to_complete">Допрете повторно за да се заврши со% 1 $ s</string>
+  <string name="tap_again_to_pay">Допрете повторно за да платите со %1$s</string>
+  <string name="touch">Допрете за зрачење</string>
+  <string name="transaction_failure">"Оваа трансакција неможе да се заврши со% 1 $ s".</string>
+</resources>

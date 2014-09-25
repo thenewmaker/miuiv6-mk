@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">UniPlay Служба</string>
+  <string name="app_pkg_name">com.milink.service</string>
+  <string name="app_ver_code">1</string>
+  <string name="app_ver_name">1,0</string>
+  <string name="notification_rc_desc">Можете да го користите Xiaomi далечинскиот управувач за да го контролирате вашиот Xiaomi box и ТВ</string>
+  <string name="notification_rc_title">Xiaomi далечински контролор</string>
+  <string name="service_name">UniPlay Служба</string>
+</resources>

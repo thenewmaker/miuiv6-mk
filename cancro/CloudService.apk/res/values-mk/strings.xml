@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="access_denied">Не е дозволен пристап</string>
+  <string name="account">Сметка</string>
+  <string name="activate">Активирај</string>
+  <string name="activating">Активирање…</string>
+  <string name="alert_notif_title_dspt">Не се синхронизира</string>
+  <string name="app_name">Mi Облак</string>
+  <string name="bad_authentication">Невалидно корисничко име или лозинка</string>
+  <string name="btn_return">Назад</string>
+  <string name="button_cancel">Откажи</string>
+  <string name="cloud_find_device">Пронајди уред</string>
+  <string name="cmcc_micloud_dspt">Користат Mi Облак за да ги синхронизирате податоците или лоцирате Вашиот уред,</string>
+  <string name="disable_find_device_error">Не може да го исклучите Најди уред. %1$s</string>
+  <string name="enableAll">Синхронизација на сите</string>
+  <string name="enable_find_device_error">Не може да се вклучи Пронајди уред. %1$s</string>
+  <string name="enable_micloud">Најавете се или креирајте сметка</string>
+  <string name="enable_sync">Вклучи</string>
+  <string name="enable_sync_dspt">Синхронизирањето е исклучено</string>
+  <string name="error_forbidden">Синхронизацијата е исклучена поради проблеми со вашата Mi сметка.</string>
+  <string name="error_network">Не може да се поврзете со мрежата</string>
+  <string name="error_not_acceptable">Синхронизацијата беше оневозможена.</string>
+  <string name="error_server">Грешка на серверот</string>
+  <string name="error_title">Не можеше да се синхронизира</string>
+  <string name="error_unauthorized">Синхронизацијата е исклучена поради премногу обиди за најавување.</string>
+  <string name="error_unknown">Не може да се логирате</string>
+  <string name="find_device">Пронајди уред е овозможено</string>
+  <string name="find_device_disabled_notice">Можете да менувате поставки за пронаоѓање  уреди во Поставки &gt; Сметки и синхронизација &gt; Mi Облак</string>
+  <string name="find_device_disabled_title">Оневозможено</string>
+  <string name="find_device_disabling">Исклучување…</string>
+  <string name="find_device_dspt">Заклучете го или избришете овој уред од далечина.</string>
+  <string name="find_device_enabling">Вклучување...</string>
+  <string name="find_device_error_network">Проверете ја вашата конекција и пробајте повторно.</string>
+  <string name="find_device_error_server">Нешто не беше во ред со нашите сервери.</string>
+  <string name="find_device_noise_title">Лоцирајте го уредот за звук</string>
+  <string name="find_device_notice_p1">Оди до</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
+  <string name="find_device_notice_p3">"да се најде, заклучи, или обнови вашиот телефон.
+Ако ја смените SIM картичката, мора да се прати нов SMS за активирање."</string>
+  <string name="find_device_stop_noise">Допрете OK за да замолчи</string>
+  <string name="find_device_success_title">Пронајди го уредот</string>
+  <string name="header_data_and_synchronization">Податоци и синхронизација</string>
+  <string name="i_know">ОК</string>
+  <string name="master_alert_notif_dspt_add">%s не се синхронизирани.</string>
+  <string name="master_alert_notif_dspt_no">Се е тековно.</string>
+  <string name="master_alert_notif_title">Последно синхронизирано пред %s дена</string>
+  <string name="micloud_dspt">Користете Mi Облак за да ги синхронизирате податоците или лоцирате Вашиот уред,</string>
+  <string name="micloud_dspt_provision">Користете Mi Облак за да ги синхронизирате,  лоцирате Вашиот уред, и да споделувате податоци со пријателите</string>
+  <string name="micloud_full_influence_dspt">"На сите ваши слики, видео, белешки и апликации ќе се направи бекап во облакот.
+
+На овој начин, и ако го изгубите или оштетите Вашиот уред, вашите податоци се уште ќе бидат безбедни
+
+Кога вашиот облак е полн, вашите стари податоци нема да одат никаде. Сепак, сите нови содржини кои ќе ги додадете (пр. фотографии, видео, белешки и апликации) нема да бидат зачувани.
+
+Да го надминете ова, можете или да се исчисти од некои стари додадени фајлови: да се направи простор за нови, или можете да ги купите дополнителни простор за складирање."</string>
+  <string name="micloud_full_influence_title">Кога вашиот Mi Облак е полн…</string>
+  <string name="micloud_intro_01_part_01">Заштеди користење на податоци</string>
+  <string name="micloud_intro_01_part_02">Облак пораки ви овозможува да комуницирате со пораки со други MIUI корисници користејќи WLAN.</string>
+  <string name="micloud_intro_02_part_01">Мигрирај без никаков напор</string>
+  <string name="micloud_intro_02_part_02">Синхронизирајте контакти, пораки, слики и др меѓу уреди.</string>
+  <string name="micloud_intro_03_part_01">Обезбедете ја содржината на вашиот телефон од било каде.</string>
+  <string name="micloud_intro_03_part_02">Далечински лоцирај, заклучи, или избришете ја содржина на Вашиот уред на i.mi.com</string>
+  <string name="micloud_more">Дознај повеќе</string>
+  <string name="micloud_proceed">Продолжи</string>
+  <string name="micloud_sec_dspt">и споделување на нештата со пријателите.</string>
+  <string name="micloud_space_full_influence">&lt;U&gt;Што се случува кога ќе снема простор?&lt;/U&gt;</string>
+  <string name="micloud_title_dspt" formatted="false">"Вкупниот простор на %s
+користи %s | Останатите %s"</string>
+  <string name="micloud_title_dspt_remain">%s останато</string>
+  <string name="micloud_title_full_dspt">Стасавте до лимитот на просторот!</string>
+  <string name="micloud_upgrade_space">Добијте повеќе простор за складирање</string>
+  <string name="micloud_user_space_title">Простор за складирање</string>
+  <string name="micloud_user_space_usage">Просторот се користи</string>
+  <string name="micloud_warn_full_sum">Новите фајлови нема да се синхронизираат со Ми Облак.</string>
+  <string name="micloud_warn_full_title">Нема место</string>
+  <string name="micloud_warn_low_sum">Вашиот Mi Облак е 90% полн.</string>
+  <string name="micloud_warn_low_title">Речиси нема простор…</string>
+  <string name="micloud_web_discription_01">најави се на i.mi.com</string>
+  <string name="micloud_web_discription_02">за чување и пристап до вашите фајлови од било каде</string>
+  <string name="next">Следна</string>
+  <string name="noRemind">Не ме потсетувај</string>
+  <string name="no_sim">Не е детектирана SIM картичка</string>
+  <string name="other_settings">Други поставувања</string>
+  <string name="password">Внесете ја Вашата лозинка</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизирајте ги сликите од контактите кога ќе бидете поврзани со некоја WLAN мрежа</string>
+  <string name="pref_title_sync_contacts_title">Синхронизација на контакти</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Користите само Wi-Fi да ги синхронизирате фотографиите</string>
+  <string name="pref_title_sync_my_profile_title">Профил за синхронизација</string>
+  <string name="restoreSync">Синхронизирај сега</string>
+  <string name="start_micloud">Старт</string>
+  <string name="sub_alert_notif_dspt_add">%s не се синхронизираат.</string>
+  <string name="sub_alert_notif_dspt_no">Се тековно до денеска.</string>
+  <string name="sub_alert_notif_title">Не синхронизира</string>
+  <string name="sub_sync_item_sms_summary">Синхронизирајте пораки кои содржат слики, аудио, или други медиуми само кога сте конектирани на WLAN мрежа</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Користете само WLAN за да ги синхронизирате MMS</string>
+  <string name="sync_dspt">Овозможи синхронизација</string>
+  <string name="sync_item_sms_summary">Синхронизирање на вашите текстуални пораки испратени и примени на овој телефон</string>
+  <string name="sync_item_sms_title">Синхронизирај пораки</string>
+  <string name="sync_off">Исклучено</string>
+  <string name="sync_on">Вклучено</string>
+  <string name="sync_sub_1_intl_sms">Меѓународни и домашни SMS-и ќе бидат испратени за да се врзе вашата SIM картичка со оваа сметка. Ќе ви се наплати соодветно од вашиот мобилен оператор.</string>
+  <string name="sync_sub_1_sms">СМС ќе биде испратен да се поврзе на вашата SIM картичка со оваа сметка. Ќе направат редовни трошоци од вашиот мобилен оператор.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Меѓународни и домашни SMS-и ќе бидат испратени за да се врзе вашата SIM картичка со оваа сметка. Ќе ви се наплати соодветно од вашиот мобилен оператор.</string>
+  <string name="sync_sub_2_intl_sms">Меѓународен SMS ќе биде испратен за да се поврзе вашата SIM картички со оваа сметка. Ќе се наплата редовни трошоци од вашиот оператор.</string>
+  <string name="sync_sub_2_sms">СМС ќе биде испратен да се поврзе на вашата SIM картичка со оваа сметка. Ќе направат редовни трошоци од вашиот мобилен оператор.</string>
+  <string name="sync_sub_dspt">Активирачката текст порака е предмет на редовна наплата.</string>
+  <string name="sync_sub_dspt_provision">Гледање и управување со вашите податоци од било каде</string>
+  <string name="sync_sub_int_dspt">Активирачката текст порака е предмет на меѓународни трошоци.</string>
+  <string name="title_reg">Креирајте сметка</string>
+  <string name="unactivated_user">Деактивирана</string>
+  <string name="vcode">Верификационен код</string>
+  <string name="verify">Потврди</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_cloud_service">Mi Облак</string>
+</resources>

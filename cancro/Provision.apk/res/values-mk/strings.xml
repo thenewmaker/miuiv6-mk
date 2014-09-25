@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="congratulation_label">Уживајте во вашиот нов телефон :)</string>
+  <string name="congratulation_next">Започни со користење на MIUI</string>
+  <string name="input_method_category">"Изберете стандардна тастатура која ќе се користи кога пишувате пораки, белешки, и било каде на друго место Имајте на ум дека можете да инсталирате други тастатури подоцна. "</string>
+  <string name="input_method_setting">Изберете стандардна тастатура</string>
+  <string name="logo_congratulation">"Се е спремно!"</string>
+  <string name="multisim_settings_category">Препорачани подесувања на сим картичката</string>
+  <string name="multisim_settings_title">Откриени 2 сим картички</string>
+  <string name="next">Следно</string>
+  <string name="other_settings">Дополнителни подесувања</string>
+  <string name="other_settings_location">Пристап на локација</string>
+  <string name="other_settings_location_summary">Дозволете апликациите да ја користат вашата локација</string>
+  <string name="other_settings_user_experience">Мислење на корисниците</string>
+  <string name="other_settings_user_experience_summary">"помогнете да се подобри MIUI со испраќање на анонимни податоци за користењето на датата, целиот процес се придржуваат до нашите"</string>
+  <string name="other_settings_user_experience_summary1">политика на приватност</string>
+  <string name="pref_title_data_slot">Препрачани податоци на сим картичката</string>
+  <string name="pref_title_voice_slot">Препорачан глас сим картичка</string>
+  <string name="shut_down">Исклучи</string>
+  <string name="sim_card_detecting">Проверка за SIM картичка...</string>
+  <string name="sim_card_detection">SIM картичка не откриена</string>
+  <string name="sim_card_detection_info">Потребна ви е СИМ картичка за да ја подесите Mi сметката.</string>
+  <string name="sim_dectection_next">Продолжи</string>
+  <string name="sim_redetection">Провери за SIM картичка повторно</string>
+  <string name="summary_not_set">Не е поставено</string>
+  <string name="summary_sim_card">Картичка% 1 $ d% 2 $ s</string>
+  <string name="welcome">Добредојдовте во</string>
+</resources>

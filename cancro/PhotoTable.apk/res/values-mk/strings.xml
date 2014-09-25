@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Фото Screensaver</string>
+  <string name="flipper_screensaver_name">фото рамка</string>
+  <string name="local_source_name">Сликите на Уредот</string>
+  <string name="need_to_configure">Не се избрани фотографии.</string>
+  <string name="no_photos">Нема фотографии на уредот.</string>
+  <string name="photodream_select_all">Избери ги сите</string>
+  <string name="photodream_select_none">Деселектирај ги сите</string>
+  <string name="posts_album_name">Слики од постови</string>
+  <string name="stock_photo_album_name">акции на фотографии</string>
+  <string name="table_screensaver_name">Фото Табела</string>
+  <string name="unknown_album_name">Неименуван Албум</string>
+</resources>

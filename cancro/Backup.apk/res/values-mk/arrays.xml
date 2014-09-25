@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi податоци</item>
+        <item>Сите програми</item>
+    </string-array>
+    <string-array name="system_package_label">
+	<item>Пребарувач</item>
+        <item>Пермисии</item>
+        <item>Камера</item>
+        <item>Искористен интернет сообраќај</item>
+        <item>Податоци а Времето</item>
+        <item>Време</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Контакти</item>
+        <item>Логирај повик</item>
+        <item>Пораки</item>
+       <item>Мултимедиа Пораки</item>
+        <item>Системски нагодувања</item>
+        <item>Wi-Fi нагодувања</item>
+        <item>Десктоп распоред</item>
+        <item>Нагодувања за аларм</item>
+        <item>Бележник</item>
+        <item>DND</item>
+        <item>Сметка</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Податоци</item>
+        <item>Апликации</item>
+        <item>Апликации и Податоци</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Контакти</item>
+        <item>Логирај повик</item>
+        <item>Пораки</item>
+        <item>Wi-Fi нагодувања</item>
+        <item>Бележник</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Контакти</item>
+        <item>Wi-Fi нагодувања</item>
+        <item>Бележник</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Логирај повик</item>
+        <item>Пораки</item>
+    </string-array>
+</resources>

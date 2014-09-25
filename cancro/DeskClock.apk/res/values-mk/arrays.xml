@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>Аларм за помалку од 1 минута</item>
+        <item>Аларм за %1$s</item>
+        <item>Аларм за %2$s</item>
+        <item>Аларм за %1$s %2$s</item>
+        <item>Аларм за %3$s</item>
+        <item>Аларм за %1$s %3$s</item>
+        <item>Аларм за %2$s %3$s</item>
+        <item>Аларм за %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Вчера</item>
+        <item>Денеска</item>
+        <item>Утре</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Еднаш</item>
+        <item>Дневно</item>
+        <item>Работни денови</item>
+        <item>Пон до Пет</item>
+        <item>Прилагодено</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Еднаш</item>
+        <item>Дневно</item>
+        <item>Пон до Пет</item>
+        <item>Прилагодено</item>>
+    </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="alarm_set">
+        <item>Алармот е наместен на помалку од 1 минута од сега.</item>
+        <item>Алармот е наместен на %1$s од сега.</item>
+        <item>Алармот е наместен на %2$s од сега.</item>
+        <item>Алармот е наместен на %1$s и %2$s од сега.</item>
+        <item>Алармот е наместен на %3$s од сега.</item>
+        <item>Алармот е наместен на %1$s и %3$s од сега.</item>
+        <item>Алармот е наместен на %2$s и %3$s од сега.</item>
+        <item>Алармот е наместен на %1$s, %2$s, и %3$s од сега.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 минута</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>20 минути</item>
+        <item>25 минути</item>
+        <item>30 минути</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Никогаш</item>
+        <item>1 минута</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>20 минути</item>
+        <item>25 минути</item>
+        <item>30 минути</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Не прави ништо</item>
+        <item>Одложи</item>
+        <item>Откажи</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="application_name">Изборник за Живи позадини</string>
+  <string name="configure_wallpaper">Подеси…</string>
+  <string name="live_wallpaper_empty">Нема зиви позадини</string>
+  <string name="live_wallpaper_loading">Вчитувам жива позадина…</string>
+  <string name="live_wallpaper_picker_label">Живи позадини</string>
+  <string name="live_wallpaper_picker_title">Одбери жива позадина</string>
+  <string name="live_wallpaper_preview_title">Ѕирни ја живата позадина</string>
+  <string name="set_live_wallpaper">Намести позадина</string>
+  <string name="wallpaper_cancel">Откажи</string>
+  <string name="wallpaper_instructions">Намести позадина</string>
+  <string name="wallpaper_title_and_author">%1$s од %2$s</string>
+</resources>

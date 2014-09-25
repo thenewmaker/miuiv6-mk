@@ -1,0 +1,833 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="about_to_receive">Примање...</string>
+  <string name="about_to_send">Испрати</string>
+  <string name="action_bar_home_description">Навигирај до дома</string>
+  <string name="action_bar_up_description">Отиди до</string>
+  <string name="activate">Активирај</string>
+  <string name="activate_fail_notification_title">Реактивирај ја Xiaomi синхронизација услугата</string>
+  <string name="activating">Активирање...</string>
+  <string name="alwaysUsePrompt">Постави како стандардно (без брза за следниот пат)</string>
+  <string name="android_common_last_name_prefixes">@string/common_last_name_prefixes</string>
+  <string name="android_common_name_conjunctions">@string/common_name_conjunctions</string>
+  <string name="android_common_name_prefixes">@string/common_name_prefixes</string>
+  <string name="android_common_name_suffixes">@string/common_name_suffixes</string>
+  <string name="android_lockscreen_glogin_instructions">За да отклучите, најавете се со вашиот профил</string>
+  <string name="android_ringtone_default_with_actual">@android:string/whichHomeApplication</string>
+  <string name="android_ringtone_silent">@android:string/permdesc_writeSms</string>
+  <string name="android_ringtone_unknown">@android:string/chooseActivity</string>
+  <string name="android_storage_usb">@android:string/no_matches</string>
+  <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
+  <string name="anti_aggression_day">反侵略日</string>
+  <string name="app_name">Трансфер</string>
+  <string name="app_no_notification">Ништо</string>
+  <string name="app_notificaiton_on_notificationBar">Нотификациона лента</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Статусна лента, лента за нотификација</string>
+  <string name="arbor_day">植树节</string>
+  <string name="armed_forces_day">軍人節</string>
+  <string name="autumn_begins">立秋</string>
+  <string name="autumn_equinox">秋分</string>
+  <string name="button_last">Почеток</string>
+  <string name="button_next">Следна</string>
+  <string name="button_pre">Назад</string>
+  <string name="callNoAnswerTimeFormat">Ѕвони % s пати</string>
+  <string name="call_record_or">Или</string>
+  <string name="call_record_sample_prefix_miui">Снимање на повик</string>
+  <string name="caller_info_name_delimiter">Или</string>
+  <string name="cancel">Откажи</string>
+  <string name="cancel_alert">Отфрли ги вашите промени?</string>
+  <string name="cancel_receive">престанете да примате</string>
+  <string name="cancel_send">Откажи Испраќање</string>
+  <string name="canceling">Откажување...</string>
+  <string name="check_phone_error_title">Не успеа да овозможи синхронизација услугата</string>
+  <string name="check_phone_io_error">мрежна грешка</string>
+  <string name="childrens_day">儿童节</string>
+  <string name="chinese_youth_day">青年节</string>
+  <string name="choose_title">Изберете датотека</string>
+  <string name="christmas_day">圣诞节</string>
+  <string name="clear_and_bright">清明</string>
+  <string name="cold_dews">寒露</string>
+  <string name="common_last_name_prefixes">
+  </string>
+  <string name="common_name_conjunctions">
+  </string>
+  <string name="common_name_prefixes">
+  </string>
+  <string name="common_name_suffixes">
+  </string>
+  <string name="connect_confirm">% $ 1 побарува врска</string>
+  <string name="connecting">Се поврзува...</string>
+  <string name="contact_carrier_message">Ве молиме контактирајте ја подршката за ако било какви прашања</string>
+  <string name="continue_to_send">Продолжи трансфер</string>
+  <string name="country_name_ac">AC</string>
+  <string name="country_name_ad">AD</string>
+  <string name="country_name_ae">АЕ</string>
+  <string name="country_name_af">AF</string>
+  <string name="country_name_ag">AG</string>
+  <string name="country_name_ai">АИ</string>
+  <string name="country_name_al">AL</string>
+  <string name="country_name_am">AM</string>
+  <string name="country_name_an">AN</string>
+  <string name="country_name_ao">AO</string>
+  <string name="country_name_ar">AR</string>
+  <string name="country_name_as">AS</string>
+  <string name="country_name_at">AT</string>
+  <string name="country_name_au">AU</string>
+  <string name="country_name_aw">AW</string>
+  <string name="country_name_az">AZ</string>
+  <string name="country_name_ba">BA</string>
+  <string name="country_name_bb">BB</string>
+  <string name="country_name_bd">BD</string>
+  <string name="country_name_be">BE</string>
+  <string name="country_name_bf">BF</string>
+  <string name="country_name_bg">BG</string>
+  <string name="country_name_bh">BH</string>
+  <string name="country_name_bi">BI</string>
+  <string name="country_name_bj">BJ</string>
+  <string name="country_name_bm">BM</string>
+  <string name="country_name_bn">BN</string>
+  <string name="country_name_bo">BO</string>
+  <string name="country_name_br">BR</string>
+  <string name="country_name_bs">BS</string>
+  <string name="country_name_bt">BT</string>
+  <string name="country_name_bw">BW</string>
+  <string name="country_name_by">BY</string>
+  <string name="country_name_bz">BZ</string>
+  <string name="country_name_cd">CD</string>
+  <string name="country_name_cf">CF</string>
+  <string name="country_name_cg">CG</string>
+  <string name="country_name_ch">CH</string>
+  <string name="country_name_ci">CI</string>
+  <string name="country_name_ck">CK</string>
+  <string name="country_name_cl">CL</string>
+  <string name="country_name_cm">CM</string>
+  <string name="country_name_cn">CN</string>
+  <string name="country_name_co">CO</string>
+  <string name="country_name_cr">CR</string>
+  <string name="country_name_cu">CU</string>
+  <string name="country_name_cv">CV</string>
+  <string name="country_name_cy">CY</string>
+  <string name="country_name_cz">CZ</string>
+  <string name="country_name_de">DE</string>
+  <string name="country_name_dj">DJ</string>
+  <string name="country_name_dk">DK</string>
+  <string name="country_name_dm">DM</string>
+  <string name="country_name_do">DO</string>
+  <string name="country_name_dz">DZ</string>
+  <string name="country_name_ec">EC</string>
+  <string name="country_name_ee">EE</string>
+  <string name="country_name_eg">EG</string>
+  <string name="country_name_er">ER</string>
+  <string name="country_name_es">ES</string>
+  <string name="country_name_et">ET</string>
+  <string name="country_name_fi">FI</string>
+  <string name="country_name_fj">FJ</string>
+  <string name="country_name_fk">FK</string>
+  <string name="country_name_fm">FM</string>
+  <string name="country_name_fo">FO</string>
+  <string name="country_name_fr">FR</string>
+  <string name="country_name_ga">GA</string>
+  <string name="country_name_gd">GD</string>
+  <string name="country_name_ge">GE</string>
+  <string name="country_name_gf">GF</string>
+  <string name="country_name_gg">GG</string>
+  <string name="country_name_gh">GH</string>
+  <string name="country_name_gi">GI</string>
+  <string name="country_name_gl">GL</string>
+  <string name="country_name_gm">GM</string>
+  <string name="country_name_gn">GN</string>
+  <string name="country_name_gp_bl_mf">GP/BL/MF</string>
+  <string name="country_name_gq">GQ</string>
+  <string name="country_name_gr">GR</string>
+  <string name="country_name_gt">GT</string>
+  <string name="country_name_gu">GU</string>
+  <string name="country_name_gw">GW</string>
+  <string name="country_name_gy">GY</string>
+  <string name="country_name_hk">HK</string>
+  <string name="country_name_hn">HN</string>
+  <string name="country_name_hr">HR</string>
+  <string name="country_name_ht">HT</string>
+  <string name="country_name_hu">HU</string>
+  <string name="country_name_id">ID</string>
+  <string name="country_name_ie">IE</string>
+  <string name="country_name_il">IL</string>
+  <string name="country_name_im">IM</string>
+  <string name="country_name_in">IN</string>
+  <string name="country_name_io">IO</string>
+  <string name="country_name_iq">IQ</string>
+  <string name="country_name_ir">IR</string>
+  <string name="country_name_is">IS</string>
+  <string name="country_name_it">IT</string>
+  <string name="country_name_je">JE</string>
+  <string name="country_name_jm">JM</string>
+  <string name="country_name_jo">JO</string>
+  <string name="country_name_jp">JP</string>
+  <string name="country_name_ke">KE</string>
+  <string name="country_name_kg">KG</string>
+  <string name="country_name_kh">KH</string>
+  <string name="country_name_ki">KI</string>
+  <string name="country_name_km">KM</string>
+  <string name="country_name_kn">KN</string>
+  <string name="country_name_kp">KP</string>
+  <string name="country_name_kr">KR</string>
+  <string name="country_name_kw">KW</string>
+  <string name="country_name_ky">KY</string>
+  <string name="country_name_la">LA</string>
+  <string name="country_name_lb">LB</string>
+  <string name="country_name_lc">LC</string>
+  <string name="country_name_li">LI</string>
+  <string name="country_name_lk">LK</string>
+  <string name="country_name_lr">LR</string>
+  <string name="country_name_ls">LS</string>
+  <string name="country_name_lt">LT</string>
+  <string name="country_name_lu">LU</string>
+  <string name="country_name_lv">LV</string>
+  <string name="country_name_ly">LY</string>
+  <string name="country_name_ma">MA</string>
+  <string name="country_name_mc">MC</string>
+  <string name="country_name_md">MD</string>
+  <string name="country_name_me">ME</string>
+  <string name="country_name_mg">MG</string>
+  <string name="country_name_mh">MH</string>
+  <string name="country_name_mk">MK</string>
+  <string name="country_name_ml">ML</string>
+  <string name="country_name_mm">MM</string>
+  <string name="country_name_mn">MN</string>
+  <string name="country_name_mo">MO</string>
+  <string name="country_name_mp">MP</string>
+  <string name="country_name_mq">MQ</string>
+  <string name="country_name_mr">MR</string>
+  <string name="country_name_ms">MS</string>
+  <string name="country_name_mt">MT</string>
+  <string name="country_name_mu">MU</string>
+  <string name="country_name_mv">MV</string>
+  <string name="country_name_mw">MW</string>
+  <string name="country_name_mx">MX</string>
+  <string name="country_name_my">MY</string>
+  <string name="country_name_mz">MZ</string>
+  <string name="country_name_na">NA</string>
+  <string name="country_name_nc">NC</string>
+  <string name="country_name_ne">NE</string>
+  <string name="country_name_ng">NG</string>
+  <string name="country_name_ni">NI</string>
+  <string name="country_name_nl">NL</string>
+  <string name="country_name_no">NO</string>
+  <string name="country_name_np">NP</string>
+  <string name="country_name_nr">NR</string>
+  <string name="country_name_nu">NU</string>
+  <string name="country_name_nz">NZ</string>
+  <string name="country_name_om">OM</string>
+  <string name="country_name_pa">PA</string>
+  <string name="country_name_pe">PE</string>
+  <string name="country_name_pf">PF</string>
+  <string name="country_name_pg">PG</string>
+  <string name="country_name_ph">PH</string>
+  <string name="country_name_pk">PK</string>
+  <string name="country_name_pl">PL</string>
+  <string name="country_name_pm">PM</string>
+  <string name="country_name_pr">PR</string>
+  <string name="country_name_ps">PS</string>
+  <string name="country_name_pt">PT</string>
+  <string name="country_name_pw">PW</string>
+  <string name="country_name_py">PY</string>
+  <string name="country_name_qa">QA</string>
+  <string name="country_name_re_yt">RE/YT</string>
+  <string name="country_name_ro">RO</string>
+  <string name="country_name_rs">RS</string>
+  <string name="country_name_ru_kz">RU/KZ</string>
+  <string name="country_name_rw">RW</string>
+  <string name="country_name_sa">SA</string>
+  <string name="country_name_sb">SB</string>
+  <string name="country_name_sc">SC</string>
+  <string name="country_name_sd">SD</string>
+  <string name="country_name_se">SE</string>
+  <string name="country_name_sg">SG</string>
+  <string name="country_name_sh">SH</string>
+  <string name="country_name_si">SI</string>
+  <string name="country_name_sk">SK</string>
+  <string name="country_name_sl">SI</string>
+  <string name="country_name_sm">SM</string>
+  <string name="country_name_sn">SN</string>
+  <string name="country_name_so">SO</string>
+  <string name="country_name_sr">SR</string>
+  <string name="country_name_st">ST</string>
+  <string name="country_name_sv">SV</string>
+  <string name="country_name_sx">SX</string>
+  <string name="country_name_sy">SY</string>
+  <string name="country_name_sz">SZ</string>
+  <string name="country_name_tc">TC</string>
+  <string name="country_name_td">TD</string>
+  <string name="country_name_tg">TG</string>
+  <string name="country_name_th">TH</string>
+  <string name="country_name_tj">TJ</string>
+  <string name="country_name_tk">TK</string>
+  <string name="country_name_tl">TL</string>
+  <string name="country_name_tm">TM</string>
+  <string name="country_name_tn">TN</string>
+  <string name="country_name_to">TO</string>
+  <string name="country_name_tr">TR</string>
+  <string name="country_name_tt">TT</string>
+  <string name="country_name_tv">TV</string>
+  <string name="country_name_tw">TW</string>
+  <string name="country_name_tz">TZ</string>
+  <string name="country_name_ua">UA</string>
+  <string name="country_name_ug">UG</string>
+  <string name="country_name_uk">UK</string>
+  <string name="country_name_us_ca">US</string>
+  <string name="country_name_uy">UY</string>
+  <string name="country_name_uz">UZ</string>
+  <string name="country_name_va">VA</string>
+  <string name="country_name_vc">VC</string>
+  <string name="country_name_ve">VE</string>
+  <string name="country_name_vg">VG</string>
+  <string name="country_name_vi">VI</string>
+  <string name="country_name_vn">VN</string>
+  <string name="country_name_vu">VU</string>
+  <string name="country_name_wf">WF</string>
+  <string name="country_name_ws">WS</string>
+  <string name="country_name_ye">YE</string>
+  <string name="country_name_za">ZA</string>
+  <string name="country_name_zm">ZM</string>
+  <string name="country_name_zw">ZW</string>
+  <string name="day_following_good_friday">耶穌受難節翌日</string>
+  <string name="day_of_month">"% Д"</string>
+  <string name="days">% d дена</string>
+  <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+  <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+  <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+  <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+  <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+  <string name="delete">Избриши</string>
+  <string name="deprecated_10">
+  </string>
+  <string name="deprecated_11">
+  </string>
+  <string name="deprecated_12">
+  </string>
+  <string name="deprecated_13">
+  </string>
+  <string name="deprecated_14">
+  </string>
+  <string name="deprecated_15">
+  </string>
+  <string name="deprecated_16">
+  </string>
+  <string name="deprecated_17">
+  </string>
+  <string name="deprecated_18">
+  </string>
+  <string name="deprecated_19">
+  </string>
+  <string name="deprecated_20">
+  </string>
+  <string name="deprecated_21">
+  </string>
+  <string name="deprecated_22">
+  </string>
+  <string name="deprecated_23">
+  </string>
+  <string name="deprecated_24">
+  </string>
+  <string name="deprecated_25">
+  </string>
+  <string name="deprecated_26">
+  </string>
+  <string name="deprecated_27">
+  </string>
+  <string name="deprecated_28">
+  </string>
+  <string name="deprecated_29">
+  </string>
+  <string name="deprecated_30">
+  </string>
+  <string name="deprecated_31">
+  </string>
+  <string name="deprecated_32">
+  </string>
+  <string name="deprecated_33">
+  </string>
+  <string name="deprecated_34">
+  </string>
+  <string name="deprecated_35">
+  </string>
+  <string name="deprecated_36">
+  </string>
+  <string name="deprecated_37">
+  </string>
+  <string name="deprecated_38">
+  </string>
+  <string name="deprecated_39">
+  </string>
+  <string name="deprecated_40">
+  </string>
+  <string name="deprecated_41">
+  </string>
+  <string name="deprecated_42">
+  </string>
+  <string name="deprecated_43">
+  </string>
+  <string name="deprecated_44">
+  </string>
+  <string name="deprecated_45">
+  </string>
+  <string name="deprecated_46">
+  </string>
+  <string name="deprecated_47">
+  </string>
+  <string name="deprecated_48">
+  </string>
+  <string name="deprecated_49">
+  </string>
+  <string name="deprecated_5">
+  </string>
+  <string name="deprecated_50">
+  </string>
+  <string name="deprecated_51">
+  </string>
+  <string name="deprecated_52">
+  </string>
+  <string name="deprecated_53">
+  </string>
+  <string name="deprecated_54">
+  </string>
+  <string name="deprecated_55">
+  </string>
+  <string name="deprecated_56">
+  </string>
+  <string name="deprecated_57">
+  </string>
+  <string name="deprecated_58">
+  </string>
+  <string name="deprecated_59">
+  </string>
+  <string name="deprecated_6">
+  </string>
+  <string name="deprecated_60">
+  </string>
+  <string name="deprecated_61">
+  </string>
+  <string name="deprecated_62">
+  </string>
+  <string name="deprecated_63">
+  </string>
+  <string name="deprecated_64">
+  </string>
+  <string name="deprecated_65">
+  </string>
+  <string name="deprecated_66">
+  </string>
+  <string name="deprecated_67">
+  </string>
+  <string name="deprecated_68">
+  </string>
+  <string name="deprecated_69">
+  </string>
+  <string name="deprecated_7">
+  </string>
+  <string name="deprecated_70">
+  </string>
+  <string name="deprecated_71">
+  </string>
+  <string name="deprecated_72">
+  </string>
+  <string name="deprecated_73">
+  </string>
+  <string name="deprecated_74">
+  </string>
+  <string name="deprecated_75">
+  </string>
+  <string name="deprecated_76">
+  </string>
+  <string name="deprecated_77">
+  </string>
+  <string name="deprecated_78">
+  </string>
+  <string name="deprecated_79">
+  </string>
+  <string name="deprecated_8">
+  </string>
+  <string name="deprecated_80">
+  </string>
+  <string name="deprecated_81">
+  </string>
+  <string name="deprecated_82">
+  </string>
+  <string name="deprecated_83">
+  </string>
+  <string name="deprecated_9">
+  </string>
+  <string name="deprecated_alarm_message_12_hour_formate">
+  </string>
+  <string name="device_default_name">Xiaomi</string>
+  <string name="device_edit_title">Преименувај телефон</string>
+  <string name="device_hongmi">Hongmi телефон</string>
+  <string name="device_name">Име на уред</string>
+  <string name="device_name_input_error">Неуспешно зачувување на името на уредот</string>
+  <string name="device_name_input_hint">Внесете име</string>
+  <string name="device_name_tip">Внесете име на уред</string>
+  <string name="device_name_usage_point">Ова име ќе биде видливи за други Bluetooth уреди во вашата близина</string>
+  <string name="device_xiaomi">Xiaomi phone</string>
+  <string name="double_seventh_day">七夕</string>
+  <string name="easter">復活節</string>
+  <string name="editmode_menu_delete">Избриши</string>
+  <string name="editmode_menu_share">Сподели</string>
+  <string name="emergency_call_string">Итни случаи</string>
+  <string name="err_resource_leak">За жал,% 1 $ s запре за ресурс протекување.</string>
+  <string name="error_bad_file">Датотека корумпиран</string>
+  <string name="error_connect_service">"Неможете да се поврзете со услугата за пренос"</string>
+  <string name="error_download">Се случи непозната грешка</string>
+  <string name="error_forbidden">Вашата сметка сретна проблеми. Синхронизација оневозможена.</string>
+  <string name="error_general">Се случи непозната грешка</string>
+  <string name="error_network">мрежна грешка</string>
+  <string name="error_not_acceptable">Сервер malfunctional. Синхронизација оневозможена.</string>
+  <string name="error_not_enough_space">Нема доволно простор</string>
+  <string name="error_not_selected">Не е селектирана датотеката или датотека не постои</string>
+  <string name="error_peer_disconnected">Peer исклучен</string>
+  <string name="error_select">грешка во датотеката</string>
+  <string name="error_title">Sync грешка за% s</string>
+  <string name="error_transmit">Грешка при трансфер</string>
+  <string name="error_unauthorized">Премногу неуспеси на најавување. Синхронизацијата оневозможена.</string>
+  <string name="error_upload">Прикачи грешка</string>
+  <string name="every_day">Секој ден</string>
+  <string name="experimental_validate">Потврди</string>
+  <string name="experimental_validate_fail">Потврдата неуспешна, ве молиме пробајте повторно</string>
+  <string name="experimental_validate_password">Лозинка</string>
+  <string name="experimental_validate_progress">Валидација...</string>
+  <string name="experimental_validate_thanks">Ви благодариме!</string>
+  <string name="experimental_validate_username">Xiaomi ID</string>
+  <string name="experimental_validate_warning">секое ваше истражување помага MIUI да стане подобро!</string>
+  <string name="fail">Неуспешно</string>
+  <string name="failed">Неуспешно</string>
+  <string name="file_not_exist">датотеката не постои</string>
+  <string name="find_device_check_sim">Сим проверка...</string>
+  <string name="find_device_sim_change_instructions">"Вашиот уред е заклучен
+Ве молиме вметнете SIM картичка, или внесете ја вашиот Xiaomi профил лозинка "</string>
+  <string name="find_device_sim_change_instructions_no_network">" Вашиот уред е заклучен
+Ве молиме вметнете ја SIM картичката "</string>
+  <string name="find_device_turn_off_flight_mode">Исклучи авион режим</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Вашиот уред е заклучен
+Ве молиме исклучете авион режим"</string>
+  <string name="finish">Целосно</string>
+  <string name="firewall_setting">Антиспам</string>
+  <string name="first_back_long_press_message">"Дали сакате да се овозможи функцијата на долго притискање на копчето за назад за да се уништи тековниот процес и неговите позадински услуги
+овозможи преку Прилагодување&gt; Систем&gt; копчето Подесувања "</string>
+  <string name="first_in_tip">Користење Трансфер</string>
+  <string name="fm_record_smaple_prefix_miui">Снимање на радио</string>
+  <string name="fools_day">愚人节</string>
+  <string name="force_exit_message">Успешно затворено \ "% 1 $ s \"</string>
+  <string name="forget_password_string">Заборави ја лозинка</string>
+  <string name="format_time_in_12_hours">hh:mma</string>
+  <string name="global_action_privacy_mode_dialog_message">Во заштитен режим, повиците, белешки, податоците од галеријата и текстуалните пораки ќе бидат скриени и почетниот екран нема да биде во можност да влезе во режим на едитирање. Можете да го поставите лозинка за заштита на подесувањата на контролата за пристап</string>
+  <string name="global_action_toggle_privacy_mode">Заштита</string>
+  <string name="goback">Назад</string>
+  <string name="good_friday">耶穌受難節</string>
+  <string name="grain_buds">小满</string>
+  <string name="grain_in_ear">芒种</string>
+  <string name="grain_rain">谷雨</string>
+  <string name="grant_permissions_account">Барање за пристап на сметката</string>
+  <string name="grant_permissions_apps">Барање за пристап на аплкациите</string>
+  <string name="great_cold">大寒</string>
+  <string name="great_heat">大暑</string>
+  <string name="group_name_contacts">Контакти</string>
+  <string name="group_name_coworkers">Колеги</string>
+  <string name="group_name_family">Семејство</string>
+  <string name="group_name_friends">Пријатели</string>
+  <string name="guide_label">Трансфер водич</string>
+  <string name="heavy_snow">大雪</string>
+  <string name="history">Пренеси историја</string>
+  <string name="history_all">Цела историја</string>
+  <string name="history_receive">Прими историја</string>
+  <string name="history_send">Испрати историја</string>
+  <string name="hksar_establishment_day">行政區 成立</string>
+  <string name="hoar_frost_falls">霜降</string>
+  <string name="hours">% d часа</string>
+  <string name="incorrect_pincode">Погрешен PIN код</string>
+  <string name="incorrect_pincode_remaining_attempts">Погрешен PIN код, Останати обиди % d</string>
+  <string name="incorrect_pukcode">Неправилен PUK код</string>
+  <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код, Останати обиди % d</string>
+  <string name="input_device_name">Внесете име на уред</string>
+  <string name="input_device_name_tip">Ова име ќе биде видливо за другите Bluetooth уреди во вашата област.</string>
+  <string name="input_pin_code">Внеси ПИН</string>
+  <string name="input_pin_code_to_unlock">Внеси PIN код за отклучување уред</string>
+  <string name="input_puk_code">Внеси PUK</string>
+  <string name="input_puk_code_to_unlock">Внеси PUK код за отклучување уред</string>
+  <string name="insects_awaken">惊蛰</string>
+  <string name="international_womens_day">妇女节</string>
+  <string name="labour_day">劳动节</string>
+  <string name="lantern_festival">元宵节</string>
+  <string name="light_snow">小雪</string>
+  <string name="loading">Се вчитува...</string>
+  <string name="lock_screen_date">"yyyy/MM/dd 
+ EEEE"</string>
+  <string name="lockscreen_access_pattern_cell_added">Мобилен додаден</string>
+  <string name="lockscreen_access_pattern_cleared">Комбинација избришана</string>
+  <string name="lockscreen_access_pattern_detected">Комбинацијата завршена</string>
+  <string name="lockscreen_access_pattern_start">Комбинацијата е започната</string>
+  <string name="lockscreen_emergency_call">Итен повик</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Погрешно ја внесовте лозинката % d пати. По% d повеќе неуспешни обиди, ќе биде побарано да го отклучите вашиот телефон преку вашата корисничка сметка.
+Обидете се за %d секунди. "</string>
+  <string name="lockscreen_forgot_pattern_button_text">Ја заборавите комбинацијата?</string>
+  <string name="lockscreen_pattern_instructions">Нацртајте комбинација за да го отклучите</string>
+  <string name="lockscreen_pattern_wrong">Try again</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Обидете се повторно за% d секунди.</string>
+  <string name="lockscreen_transport_next_description">Копче за следна песна</string>
+  <string name="lockscreen_transport_play_description">копче за изведба</string>
+  <string name="lockscreen_transport_prev_description">Копче за претходната песна</string>
+  <string name="lockscreen_unlock_sim_via_puk">Внесете PUK код за да ја отклучите SIM картичката</string>
+  <string name="login_website_in_case_forget_password">Посети i.xiaomi.com за да ја ресетирате вашата лозинка во случај да ја заборавивте</string>
+  <string name="lunar_ba">八</string>
+  <string name="lunar_calendar">农历</string>
+  <string name="lunar_chu">初</string>
+  <string name="lunar_chu_shi">初十</string>
+  <string name="lunar_er">二</string>
+  <string name="lunar_er_shi">二十</string>
+  <string name="lunar_jiu">九</string>
+  <string name="lunar_leap">闰</string>
+  <string name="lunar_ling">O</string>
+  <string name="lunar_liu">六</string>
+  <string name="lunar_nian">廿</string>
+  <string name="lunar_qi">七</string>
+  <string name="lunar_san">三</string>
+  <string name="lunar_san_shi">三十</string>
+  <string name="lunar_shi">十</string>
+  <string name="lunar_shi_er">腊</string>
+  <string name="lunar_shi_yi">冬</string>
+  <string name="lunar_si">四</string>
+  <string name="lunar_wu">五</string>
+  <string name="lunar_year">年</string>
+  <string name="lunar_yi">一</string>
+  <string name="lunar_yue">月</string>
+  <string name="lunar_zheng">正</string>
+  <string name="memory_clear_nothing_result">Нема меморија која би можела да биде ослободена во моментов</string>
+  <string name="memory_clear_result">"Успешно ослободена% 1 $ s меморија,
+Моменталната достапна меморија е% 2 $ s"</string>
+  <string name="minutes">% d минути</string>
+  <string name="miui_copyright_title">Авторски права</string>
+  <string name="miui_device_default_name">Андроид</string>
+  <string name="miui_device_name">Андроид</string>
+  <string name="miui_mibi_license_title">Mi кредит договор со корисникот</string>
+  <string name="miui_privacy_policy_title">Заштита на личните податоци</string>
+  <string name="miui_unlockscreen_password_wrong">Обидете се повторно</string>
+  <string name="miui_user_agreement_title">Договор со корисникот</string>
+  <string name="miui_user_manual_title">Упатство</string>
+  <string name="month_of_april">април</string>
+  <string name="month_of_august">август</string>
+  <string name="month_of_december">декември</string>
+  <string name="month_of_february">февруари</string>
+  <string name="month_of_january">Јануари</string>
+  <string name="month_of_july">јули</string>
+  <string name="month_of_june">јуни</string>
+  <string name="month_of_march">март</string>
+  <string name="month_of_may">мај</string>
+  <string name="month_of_november">ноември</string>
+  <string name="month_of_october">октомври</string>
+  <string name="month_of_september">септември</string>
+  <string name="multi_select_title">Избрани% 1 $ s предмети</string>
+  <string name="national_day">国庆节</string>
+  <string name="national_father_day">國父誕辰</string>
+  <string name="never">никогаш</string>
+  <string name="new_years_day">元旦</string>
+  <string name="no_content">Празно</string>
+  <string name="no_selected">Не е избран ни една датотека</string>
+  <string name="no_sim">Нема SIM, мрежата е недостапна</string>
+  <string name="no_transfer_history">Нема трансфер историја</string>
+  <string name="noti_completed">Завршено: пренесени% 1 $ d /% 2 $ d датотека (и)</string>
+  <string name="noti_receiving">% $ 1 Примање на% 2 $ d /% 3 $ d датотека(и)</string>
+  <string name="noti_sending">% 1 $ s: Испраќање на% 2 $ d /% 3 $ d датотека(и)</string>
+  <string name="noti_wait_receive">Чекање испраќач...</string>
+  <string name="noti_wait_send">Чека за превземање: Осигурајте се дека испраќачот има овозможено поврзување и може да испраќа датотеки</string>
+  <string name="ok">Потврди</string>
+  <string name="open_wifi_settings">Отвори мрежна конекција</string>
+  <string name="operation_delete">Избриши</string>
+  <string name="operation_goto_folder">Оди до директориум на датотеки</string>
+  <string name="operation_info">Опис на датотеката</string>
+  <string name="operation_send">Испрати</string>
+  <string name="partys_day">建党节</string>
+  <string name="payphone">говорница</string>
+  <string name="peace_day">和平紀念</string>
+  <string name="perm_auto_backup">Автоматска резервна копија</string>
+  <string name="perm_data_update_dspt">Дозволи да се исптрати афтентична мрежна надградба</string>
+  <string name="perm_data_update_lab">Ажурирање на податоци</string>
+  <string name="perm_payment_dspt">Дозволете апликацијата да наплати преку Xiaomi наплатниот сервис</string>
+  <string name="perm_payment_lab">Xiaomi наплатниот сервис</string>
+  <string name="perm_send_push_dspt">Дозволете да испрати Xiaomi push порака</string>
+  <string name="perm_send_push_lab">Испрати push порака</string>
+  <string name="perm_tigger_toggle_dspt">Дозволете апликациите да ги активира копчињата обезбедени од страна на статусната лента</string>
+  <string name="perm_tigger_toggle_lab">Активирај копчиња од статусната лента</string>
+  <string name="perm_use_find_device">Најди уред</string>
+  <string name="permdesc_accessNote">Дозволи на апликацијата да ги прочита и да ги менува вашите белешки складирани на вашиот телефон. Малициозни апликации можат да го употребат ова за да ги испратат вашите белешки на други луѓе или да ги избришат сите.</string>
+  <string name="permlab_accessNote">Пристапете до Вашите белешки</string>
+  <string name="picker_title">Програми</string>
+  <string name="pin_operation_failed">ПИН операцијата не успеа.</string>
+  <string name="pincode_set_to_default_msg">PIN код е поставен на 1234, ве молиме ресетирате ПИН тука.</string>
+  <string name="private_num">приватен број</string>
+  <string name="provider_114">Provided by 114号码百事通</string>
+  <string name="provider_sougou">Provided by 搜狗号码通</string>
+  <string name="puk_operation_failed">PUK Операцијата не успеа.</string>
+  <string name="reboot_confirm">Телефон ќе се рестартира</string>
+  <string name="reboot_confirm_title">Дали сте сигурни дека сакате да го рестартирате вашиот телефон?</string>
+  <string name="reboot_progress">Рестартирање...</string>
+  <string name="receive">Примање</string>
+  <string name="receive_cancel_tip">Трансферот некомплетен. Стопирајте го трансферот и излезете?</string>
+  <string name="receive_cancel_tip2">Трансферот е откажан: Прими% 1 $ d /% 2 $ d датотека(и)</string>
+  <string name="receive_canceled">Откажано</string>
+  <string name="receive_cannot_created_file">Не успеа да креира датотека</string>
+  <string name="receive_files">Примање</string>
+  <string name="receive_finish">Примање завршено</string>
+  <string name="receive_finish_tip">Примено $ 1% d датотека(и):</string>
+  <string name="receive_from">Примање од:</string>
+  <string name="receive_store">Зачувај датотека во:</string>
+  <string name="receive_tip">
+  </string>
+  <string name="receive_uncompleted">Трансфер нецелосен</string>
+  <string name="received">Примено</string>
+  <string name="recv_sound">Прими звук</string>
+  <string name="resend">Препрати</string>
+  <string name="retrocession_day">光復節</string>
+  <string name="return_to_me_message">Ве молиме вратете ме ако сум изгубен</string>
+  <string name="reverse_all">Избриши ги сите</string>
+  <string name="safetylegal_activity_unreachable">Вашиот телефон не е поврзан со дата услуга. Да ја погледнете оваа информација сега, одете на% s од било кој компјутер поврзан на интернет.</string>
+  <string name="scan_2d_code">скенирање 2D код</string>
+  <string name="scan_tip">"Бидете сигурни дека примачот ја вклучил врска
+може да прима датотеки."</string>
+  <string name="scan_title">Ве молиме фокусирајте го 2D кодот</string>
+  <string name="scanning">Скенирање...</string>
+  <string name="screen_button_notification_text">"Притисни 'Home'+'Power' за да го уклучи"</string>
+  <string name="screen_button_notification_title">Копчињата на екранот се изгасени</string>
+  <string name="screen_on_proximity_sensor_hint">"Принудно гасење: притискајќи 'Back'+'Volume Up' копчиња"</string>
+  <string name="screen_on_proximity_sensor_summary">"Не го покривајте горниот дел од екранот"</string>
+  <string name="screen_on_proximity_sensor_title">Misoperation prevent mode</string>
+  <string name="sd_not_available">SD картичката не е прикачена или е недостапна</string>
+  <string name="sd_not_available_low_internal_storage">SD картичката не е прикачена или недостапна, внатрешната меморија има малку достапна меморија</string>
+  <string name="sd_not_available_saved_to_internal_storage">зачувано во внатрешната меморија</string>
+  <string name="sd_not_available_use_internal_storage">SD картичката е недостапна, зачувано е во внатрешната меморија</string>
+  <string name="sdcard_unavailable">SD картичката е недостапна</string>
+  <string name="select">Изберете</string>
+  <string name="select_all">Изберете ги сите</string>
+  <string name="send">Испрати</string>
+  <string name="send_2d_code">Испрати со 2D код</string>
+  <string name="send_cancel_tip">Трансферот е се уште во тек. Стопирајте го трансферот и излезете?</string>
+  <string name="send_cancel_tip2">Трансферот е откажан: испратено% 1 $ d /% 2 $ d датотека(и)</string>
+  <string name="send_files">Испраќање% 1 $ d датотеки</string>
+  <string name="send_finish">датотеката испратена!</string>
+  <string name="send_finish_tip">Испратени% 1 $ d датотека(и) на:</string>
+  <string name="send_nfc">Испрати со NFC</string>
+  <string name="send_sms_for_sync_notice">Активациона порака треба да биде испратена, продолжете?</string>
+  <string name="send_sms_for_sync_title">Sync услугата не е активирана</string>
+  <string name="send_sound">Испрати со звук</string>
+  <string name="send_tip">Испрати група на слики, музика, и контакт информации.</string>
+  <string name="send_to">Испрати на:</string>
+  <string name="send_uncompleted">Трансферот е нецелосен</string>
+  <string name="sent">Испратено</string>
+  <string name="settings_auto_pair_sender_summary">Користете аудио сигнал да ги споите уредите автоматски</string>
+  <string name="settings_auto_pair_sender_title">Автоматско-спојување преку аудио</string>
+  <string name="settings_connect">Прилагодувања на конекцијата</string>
+  <string name="settings_label">Трансфер прилагодувања</string>
+  <string name="settings_photo">Аватар</string>
+  <string name="settings_photo_camera">Сликајте нова слика</string>
+  <string name="settings_photo_pick">Изберете од Галерија</string>
+  <string name="settings_photo_remove">Избриши аватар</string>
+  <string name="settings_receive_confirm_summary">Потребна е потврда пред да прими додадени датотеки:</string>
+  <string name="settings_receive_confirm_title">Прашај пред примање</string>
+  <string name="share">Сподели</string>
+  <string name="share_text">MIUI V5 поддржува трансфер на датотеки без користење на дата податоци. Не MIUI V5 корисниците ве молиме симнете:% 1 $ s</string>
+  <string name="short_pincode_error_msg">Ве молиме внесете 4-8 цифри</string>
+  <string name="short_pukcode_error_msg">Ве молиме внесете најмалку 8 цифри</string>
+  <string name="shortmessage">Кратка порака</string>
+  <string name="shutdown_confirm_title">Дали сте сигурни дека сакате да го исклучите вашиот телефон?</string>
+  <string name="sim_account_name">SIM</string>
+  <string name="sim_changed_reactivate_int_notice">Моменталната СИМ е Неактивирана. Меѓународна смс е потребна за да ја активирате услугата, активирајте сега?</string>
+  <string name="sim_changed_reactivate_notice">Моменталната СИМ е Неактивирана. Обична смс порака е потребна за да ја активирате услугата, активирајте сега?</string>
+  <string name="sim_in_airplane_mode">Ве молиме исклучете авионски режим.</string>
+  <string name="sim_locked">SIM-картичката е заклучена</string>
+  <string name="sim_not_ready">SIM картичката е во употреба. Ве молиме обидете се повторно подоцна.</string>
+  <string name="sim_unavailable">SIM картичката недостапна</string>
+  <string name="slight_cold">小寒</string>
+  <string name="slight_heat">小暑</string>
+  <string name="solar_calendar">公历</string>
+  <string name="speaker">Speaker</string>
+  <string name="spring_begins">立春</string>
+  <string name="stopping_the_heat">处暑</string>
+  <string name="summary_step_one">Испрати слики, музика, и контакт податоци</string>
+  <string name="summary_step_two">Покани пријатели да инсталираат AnyShare</string>
+  <string name="summer_begins">立夏</string>
+  <string name="summer_solstice">夏至</string>
+  <string name="support_tip">Поддршка обезбедена од страна AnyShare</string>
+  <string name="sync_one_time_sync">допри за да синхронизирате (% $ 1 и)</string>
+  <string name="teachers_day">教师节</string>
+  <string name="text_copied">Текстот е копиран на таблата со исечоци.</string>
+  <string name="text_pastelist">клипбордот</string>
+  <string name="the_armys_day">建军节</string>
+  <string name="the_double_ninth_festival">重阳节</string>
+  <string name="the_dragon_boat_festival">端午节</string>
+  <string name="the_first_weekday_after_christmas">聖誕節後第一個周日</string>
+  <string name="the_laba_rice_porridge_festival">腊八</string>
+  <string name="the_mid_autumn_festival">中秋节</string>
+  <string name="the_rains">雨水</string>
+  <string name="the_spring_festival">春节</string>
+  <string name="title_step_one">Трансфер на датотеки брзо, без користење на дата конекција.</string>
+  <string name="title_step_three">Бесплатно неограничено споделување</string>
+  <string name="title_step_two">Cross OS трансфери: не-MIUI корисниците можат да пренесат датотеки преку AnyShare</string>
+  <string name="toast_lockscreen_glogin_empty_password">лозинка е потребна.</string>
+  <string name="today">Денес</string>
+  <string name="tomorrow">Утре</string>
+  <string name="transfer_history">Трансфер историја</string>
+  <string name="trasfer_list">Трансфер листа</string>
+  <string name="tw_childrens_day">兒童節</string>
+  <string name="tw_youth_day">青年節</string>
+  <string name="united_nations_day">聯合國日</string>
+  <string name="unknown">Непознат број</string>
+  <string name="unknown_caller">Непознат повикувач</string>
+  <string name="unlock_string">OK</string>
+  <string name="unlocking_sim_card">Отклучување SIM картичка</string>
+  <string name="unlockscreen_low_battery">Поврзете го вашиот полнач</string>
+  <string name="unlockscreen_recharge_completed">Полнењето е завршено</string>
+  <string name="unlockscreen_recharging_message">Полнење% d %%</string>
+  <string name="use_start">Започнете</string>
+  <string name="user_agreement1">Ќе го користите системот и онлајн услугите обезбедени од страна Xiaomi, ве молиме прочитајте</string>
+  <string name="user_agreement2">"Кориснички договор"</string>
+  <string name="user_agreement3">"И"</string>
+  <string name="user_agreement4">Политика на приватност</string>
+  <string name="user_agreement5">, Со притискање на ОК вие во потполност се согласувате со горе наведената содржина, притиснете Откажи за да излезете.</string>
+  <string name="v5_date_picker_label_day">
+  </string>
+  <string name="v5_date_picker_label_month">
+  </string>
+  <string name="v5_date_picker_label_year">
+  </string>
+  <string name="v5_date_time_picker_dialog_title">Намести го времето на потсетникот</string>
+  <string name="v5_deselect_all">Отстранете ги сите</string>
+  <string name="v5_edit_mode_title_empty">Проверете датотеки</string>
+  <string name="v5_icon_menu_bar_more_item_label">Повеќе</string>
+  <string name="v5_select_all">Означи ги сите</string>
+  <string name="v5_time_picker_label_hour">H</string>
+  <string name="v5_time_picker_label_minute">М</string>
+  <string name="valentines_day">情人节</string>
+  <string name="vernal_equinox">春分</string>
+  <string name="voice_assist_match">Брз авто-спојување</string>
+  <string name="voice_match">Брзо спојување...</string>
+  <string name="volume_alarm">аларм</string>
+  <string name="volume_icon_description_bluetooth">Bluetooth</string>
+  <string name="volume_icon_description_incall">Повик</string>
+  <string name="volume_icon_description_media">Медиа</string>
+  <string name="volume_icon_description_notification">Известување</string>
+  <string name="volume_icon_description_ringer">Звук за ѕвонење</string>
+  <string name="volume_ring_description">Звук за ѕвонење &amp; известуваање</string>
+  <string name="waiting_receive">Чекајќи испраќач...</string>
+  <string name="wake_alarm_message">исклучениот аларм сеуште ѕвони на% s</string>
+  <string name="wanna_receive">Прими</string>
+  <string name="welcome_tip1">"пренеси датотеки брзо, без користење на вашата дата конекција
+WLAN апликацијата ќе биде отворена при примање податоци "</string>
+  <string name="welcome_tip2">Сподели слики, музика, контакти, и многу повеќе!</string>
+  <string name="white_dews">白露</string>
+  <string name="winter_begins">立冬</string>
+  <string name="winter_solstice">冬至</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="yellow_page_module_sms_sent">СМС пораката е испратена</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Неможе да се испрати порака во гостинскиот режим"</string>
+  <string name="yellow_page_sms_send_failed">Неуспешно испраќање на СМС порака</string>
+  <string name="yellow_page_sms_sending">Испраќање...</string>
+  <string name="yellow_page_unable_send_sms">Не може да испрати СМС пораката</string>
+  <string name="yesterday">Вчера</string>
+  <string name="you_can">OK</string>
+</resources>

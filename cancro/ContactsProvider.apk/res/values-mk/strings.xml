@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Склад за контакти</string>
+  <string name="call_log_provider_label">лог на повици</string>
+  <string name="create_contact">Нов контакт</string>
+  <string name="debug_dump_database_message">Вие ќе 1) направите копија на вашата база на податоци која ги вклучува сите информации поврзани со контактите и целиот лог на повици на внатрешна меморија и 2) Ке го пратите преку е-пошта. Не заборавајте да ја избришете копијата штом успешно сте ископирале од уредот или е-поштата е примена.</string>
+  <string name="debug_dump_delete_button">Избришете сега</string>
+  <string name="debug_dump_email_body">Во прилог е мојата база на податоци од контакти со сите информации за контактите. Внимателно ракувајте.</string>
+  <string name="debug_dump_email_sender_picker">Изберете програма за испраќање на вашата датотека</string>
+  <string name="debug_dump_email_subject">Во прилог е база на податоци од контактите</string>
+  <string name="debug_dump_start_button">Старт</string>
+  <string name="debug_dump_title">Копирање на базата на податоци</string>
+  <string name="default_directory">Контакти</string>
+  <string name="edit_contact">Додај во Контакт</string>
+  <string name="local_invisible_directory">Други</string>
+  <string name="pound_search_tip">Внеси број после # за пребарување на контактите</string>
+  <string name="provider_label">Контакти</string>
+  <string name="read_write_all_voicemail_description">Овозможува на апликацијата да ги чува и добие  сите гласовни пораки од овој уред.</string>
+  <string name="read_write_all_voicemail_label">Пристап до сите гласовни пораки</string>
+  <string name="send_sms">Испрати порака</string>
+  <string name="sharedUserLabel">Андроид Основни Апликации</string>
+  <string name="third_party_delete_contact_info">\"%s\" се обидува да ги брише вашите контакти. Ова дејство не може да се врши од страна на трети лица или апликации. За да избришете контакти, за ова користете ја MIUI апликацијата Контакти.</string>
+  <string name="upgrade_msg">Надградба на базата на податоци од контактите.</string>
+  <string name="upgrade_out_of_memory_notification_text">Допрете за да се заврши надградбата.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Надградбата на контакти бара повеќе меморија.</string>
+  <string name="upgrade_out_of_memory_notification_title">Надградба на складот на контакти</string>
+  <string name="voicemail_from_column">Говорна пошта од</string>
+</resources>

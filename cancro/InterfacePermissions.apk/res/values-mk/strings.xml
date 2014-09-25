@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Дозвола за Интерфејс</string>
+  <string name="desc1">ДИАГ Дозвола за Мапирање</string>
+  <string name="desc2">Дозвола за Мапирање Радио</string>
+  <string name="desc3">Дозвола за Мапирање на Net_raw</string>
+  <string name="intro">Дозвола за Мапирање на Интерфејс</string>
+  <string name="label">Дозвола за Интерфејс</string>
+</resources>

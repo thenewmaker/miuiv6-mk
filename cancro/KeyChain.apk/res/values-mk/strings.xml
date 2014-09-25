@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="allow_button">Дозволете</string>
+  <string name="app_name">Привезок</string>
+  <string name="deny_button">Одбиј</string>
+  <string name="install_new_cert_button_label">Инсталирајте</string>
+  <string name="install_new_cert_message">Можете да инсталирате сертификат од PKCS#12 датотеката со %1$s или %2$s проширување од надворешна локација</string>
+  <string name="requesting_application">Оваа апликација %s бара сертификат. Со изборот на сертификат ќе овозможите апликацијата да се идентификува на серверите.</string>
+  <string name="requesting_server">Оваа апликација го идентификуваше серверот како %s, но дадете и пристап до сертификатот само доколку и верувате на апликацијата.</string>
+  <string name="title_no_certs">Не се најдени сертификати</string>
+  <string name="title_select_cert">Изберете сертификат</string>
+</resources>

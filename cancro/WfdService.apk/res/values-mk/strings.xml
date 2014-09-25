@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">WFD служба</string>
+  <string name="perm_desc">пристап Qualcomm WLAN Покажи Stack API-јата</string>
+  <string name="perm_label">КК WLAN Покажи Stack</string>
+</resources>

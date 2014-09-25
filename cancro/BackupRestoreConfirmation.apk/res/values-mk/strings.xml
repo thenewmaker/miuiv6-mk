@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="allow_backup_button_label">Направете резервна копија од моите податоци</string>
+  <string name="allow_restore_button_label">Врати ги моите податоци</string>
+  <string name="backup_confirm_text">"Побарана е целосна копија на сите податоци од телефон на поврзан десктоп компјутер. Дали дозволувате тоа да се случи?
+
+Ако не ја баравте копијата вие, не дозволувајте операција за да продолжи."</string>
+  <string name="backup_confirm_title">Целосна копија</string>
+  <string name="backup_enc_password_optional">Ако сакате да ја криптирате целосната копија на податоците, внесете лозинка подолу:</string>
+  <string name="backup_enc_password_text">Ве молиме внесете лозинка за да се користи за енкрипција на целосна резервна копија на податоците. Ако е ова празно, вашата тековната  лозинка за бекап ќе се користи:</string>
+  <string name="current_password_text">Ве молиме внесете ја вашата тековна лозинка за бекап подолу:</string>
+  <string name="deny_backup_button_label">Не прави бекап</string>
+  <string name="deny_restore_button_label">Не враќај податоци</string>
+  <string name="device_encryption_backup_text">Ве молиме внесете ја лозинката за енкрипција на Вашиот уред. Ова исто така ќе се користи за криптирање на резервната архива.</string>
+  <string name="device_encryption_restore_text">Ве молиме внесете ја подолу лозинката за енкрипција.</string>
+  <string name="restore_confirm_text">"Целосно враќање на податоци од поврзан десктоп компјутер е побарано. Дали сакате да дозволиме тоа да се случи?
+
+Ако не го баравте тоа вие, не дозволувајте работата да продолжи. Ова ќе ги замени сите сегашни податоци на уредот!"</string>
+  <string name="restore_confirm_title">Целосен враќање на податоци</string>
+  <string name="restore_enc_password_text">Ако податоците за враќање се енкриптирани, ве молиме внесете ја лозинката подолу:</string>
+  <string name="toast_backup_ended">Бекапот заврши</string>
+  <string name="toast_backup_started">Бекапот започнува...</string>
+  <string name="toast_restore_ended">Вражањето на податоци заврши</string>
+  <string name="toast_restore_started">Враќањето податоци започнува...</string>
+  <string name="toast_timeout">Истече времето за извршување на операцијата</string>
+</resources>

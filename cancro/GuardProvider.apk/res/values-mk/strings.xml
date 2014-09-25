@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">com.securitycore.miui_t</string>
+  <string name="hello_world">Здраво свету!</string>
+  <string name="menu_settings">Подесувања</string>
+  <string name="title_activity_main">Главна Активност</string>
+</resources>

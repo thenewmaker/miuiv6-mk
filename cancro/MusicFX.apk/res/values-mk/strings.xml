@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Засилување на басот</string>
+  <string name="ci_extreme">Засилувач на ефекти</string>
+  <string name="eq_dialog_title">Еквилајзер</string>
+  <string name="headset_plug">Приклучете слушалки за овие ефекти.</string>
+  <string name="main_toggle_effects_title">Аудио ефекти</string>
+  <string name="no_effects">Ефектите не се достапни.</string>
+  <string name="picker_title">Контролен панел на Музички ефекти</string>
+  <string name="pr_dialog_title">Подесување на одекнување</string>
+  <string name="pr_summary">Дополнителни ефекти на одекнување во собата</string>
+  <string name="pr_title">Одекнување:</string>
+  <string name="setup">Подесување</string>
+  <string name="user">Корисник</string>
+  <string name="virtualizer_strength">Опкружувачки звук</string>
+</resources>

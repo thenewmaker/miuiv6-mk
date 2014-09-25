@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth уредот е премногу далеку за да го отклучите.</string>
+  <string name="contact_carrier_message">Контактирајте го Вашиот мобилен оператор, ако имате било какви дополнителни прашања.</string>
+  <string name="default_lockscreen_unlock_hint_text">Проклизајте нагоре за да отклучите</string>
+  <string name="delete">Избриши</string>
+  <string name="emergency_call_string">Итни</string>
+  <string name="experimental_try_string">Обидете</string>
+  <string name="experimental_validate">Потврди</string>
+  <string name="experimental_validate_fail">"не можеше да се најави"</string>
+  <string name="experimental_validate_password">Лозинка</string>
+  <string name="experimental_validate_progress">Најавување во...</string>
+  <string name="experimental_validate_thanks">Ви благодариме!</string>
+  <string name="experimental_validate_username">Корисничко име</string>
+  <string name="experimental_validate_warning">Ви благодариме што помагате да го направиме MIUI подобар!</string>
+  <string name="find_device_check_sim">Проверување SIM...</string>
+  <string name="find_device_turn_off_flight_mode">Исклучи режим на лет</string>
+  <string name="find_device_turn_off_flight_mode_instructions">"Вашиот уред е заклучен.
+Ве молиме исклучете го режимот на лет."</string>
+  <string name="forget_password_string">Заборавена лозинка</string>
+  <string name="incorrect_pincode">Неправилен PIN код</string>
+  <string name="incorrect_pincode_remaining_attempts">внесовте погрешен PIN код,% d обиди останати</string>
+  <string name="incorrect_pukcode">Неправилен PUK код</string>
+  <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код,% d обиди останати</string>
+  <string name="input_password_hint_text">Внесете лозинка</string>
+  <string name="input_pin_code">Внесете PIN</string>
+  <string name="input_pin_code_to_unlock">Внесете PIN код за да го отклучите уредот</string>
+  <string name="input_puk_code">Внесете PUK</string>
+  <string name="input_puk_code_to_unlock">Влез PUK код за да го отклучите уредот</string>
+  <string name="lock_screen_date">MM/DD Е</string>
+  <string name="lockscreen_access_pattern_cell_added">Мобилен додаден</string>
+  <string name="lockscreen_access_pattern_cleared">Шемата расчистен</string>
+  <string name="lockscreen_access_pattern_detected">Шемата завршена</string>
+  <string name="lockscreen_access_pattern_start">Шемата започна</string>
+  <string name="lockscreen_charging_msg">Полнење</string>
+  <string name="lockscreen_emergency_call">Итен повик</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Погрешно пробавте да го отклучите телефонот% d пати. По% d повеќе неуспешни обиди, телефонот ке биде рестартиран во фабричките стандардни поставки и сите податоци на корисникот ќе бидат избришани.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вие погрешно ја внесовте вашата лозинка% d пати. По% d повеќе неуспешни обиди, Вие ќе бидете прашани да го отклучите телефонот користејќи ја вашата сметка.
+
+Обидете се повторно во % d секунди. "</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Вие пробавте погрешно да го отклучите телефонот% d пати.Телефонот сега ќе биде рестартиран во фабричките подесувања.</string>
+  <string name="lockscreen_forgot_pattern_button_text">Заборави</string>
+  <string name="lockscreen_glogin_checking_password">Проверување...</string>
+  <string name="lockscreen_glogin_forgot_pattern">Отклучување сметка</string>
+  <string name="lockscreen_glogin_instructions">За да отклучите, најавете се со вашата Mi сметка</string>
+  <string name="lockscreen_glogin_invalid_input">Невалидно корисничко име или лозинка.</string>
+  <string name="lockscreen_glogin_password_hint">Лозинка</string>
+  <string name="lockscreen_glogin_submit_button">Најавете се</string>
+  <string name="lockscreen_glogin_too_many_attempts">Премногу шематки обиди</string>
+  <string name="lockscreen_pattern_instructions">Нацртајте шема за да отклучите</string>
+  <string name="lockscreen_pattern_wrong">Обидете се повторно:</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Обидете се повторно за% d секунди.</string>
+  <string name="lockscreen_transport_next_description">Следно</string>
+  <string name="lockscreen_transport_play_description">Копче за изведба</string>
+  <string name="lockscreen_transport_prev_description">Претходна</string>
+  <string name="login_website_in_case_forget_password">За да ја рестартирате вашата лозинка, одете на  i.mi.com</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">отклучено со Bluetooth уред</string>
+  <string name="miui_unlockscreen_password_wrong">Обидете се повторно:</string>
+  <string name="open_wifi_settings">Отвори мрежна конекција</string>
+  <string name="phone_locked_string">телефонот е заклучен</string>
+  <string name="phone_locked_timeout_minutes_string">Обидете се повторно во % s минути</string>
+  <string name="phone_locked_timeout_seconds_string">Обидете се повторно за % s секунди</string>
+  <string name="pin_operation_failed">ПИН операцијата не успеа.</string>
+  <string name="pincode_set_to_default_msg">PIN код е поставен на 1234, можете да го промените тука:</string>
+  <string name="puk_operation_failed">PUK операцијата не успеа.</string>
+  <string name="return_to_me_message">"ако пронајдете ве молиме вратете до"</string>
+  <string name="screen_on_proximity_sensor_hint">За да ја исклучите оваа функција, притиснете ги Назад и Погласно копчињата истовремено.</string>
+  <string name="screen_on_proximity_sensor_summary">"Не го покривајте врвот на екранот"</string>
+  <string name="screen_on_proximity_sensor_title">Спречување на џебно повикување</string>
+  <string name="short_pincode_error_msg">Ве молиме внесете 4-8 цифри</string>
+  <string name="short_pukcode_error_msg">Вие треба да внесете најмалку 8 цифри.</string>
+  <string name="starting_camera_string">Стартување камера</string>
+  <string name="unlock_sim_string">Отклучи СИМ</string>
+  <string name="unlock_string">OK</string>
+  <string name="unlocking_sim_card">Одбокирање СИМ картичка</string>
+  <string name="unlockscreen_low_battery">Поврзете го вашиот полнач.</string>
+  <string name="unlockscreen_recharge_completed">батеријата е целосна</string>
+  <string name="unlockscreen_recharging_message">Полнење% d %%</string>
+</resources>

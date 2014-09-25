@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Избриши %1$d датотеки</item>
+        <item quantity="zero">Избриши %1$d датотеки</item>
+        <item quantity="one">Избриши %1$d датотека</item>
+        <item quantity="two">Избриши %1$d датотеки</item>
+        <item quantity="few">%1$Избриши %1$d датотеки</item>
+        <item quantity="many">Избриши %1$d датотеки</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" и %1$d папки?"</item>
+        <item quantity="zero">" и %1$d папки?"</item>
+        <item quantity="one">" и %1$d папка?"</item>
+        <item quantity="two">" и %1$d папки?"</item>
+        <item quantity="few">" и %1$d папки?"</item>
+        <item quantity="many">" и %1$d папки?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d ставки</item>
+        <item quantity="zero">%d ставки</item>
+        <item quantity="one">%d ставка</item>
+        <item quantity="two">%d ставки</item>
+        <item quantity="few">%d ставки</item>
+        <item quantity="many">%d ставки</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d датотеки преостанати за симнување</item>
+        <item quantity="zero">%1$d датотеки преостанати за симнување</item>
+        <item quantity="one">%1$d датотека преостаната за симнување</item>
+        <item quantity="two">%1$d датотеки преостанати за симнување</item>
+        <item quantity="few">%1$d датотеки преостанати за симнување</item>
+        <item quantity="many">%1$d датотеки преостанати за симнување</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d датотеки за качување</item>
+        <item quantity="zero">%1$d датотеки за качување</item>
+        <item quantity="one">%1$d датотека за качување</item>
+        <item quantity="two">%1$d датотеки за качување</item>
+        <item quantity="few">%1$d датотеки за качување</item>
+        <item quantity="many">%1$d датотеки за качување</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d селектирани</item>
+        <item quantity="zero">%1$d селектирани</item>
+        <item quantity="one">%1$d селектирани</item>
+        <item quantity="two">%1$d селектирани</item>
+        <item quantity="few">%1$d селектирани</item>
+        <item quantity="many">%1$d селектирани</item>
+    </plurals>
+</resources>

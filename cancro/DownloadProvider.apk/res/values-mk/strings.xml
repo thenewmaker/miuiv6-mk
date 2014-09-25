@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Менаџер за Превземање</string>
+  <string name="auto_restart_under_wifi">WLAN автоматски ќе го симне овој фајл</string>
+  <string name="button_cancel_download">Откажи</string>
+  <string name="button_queue_for_wifi">На чекање</string>
+  <string name="button_start_now">Започнете сега</string>
+  <string name="dialog_insufficient_space_on_cache">Нема доволно место во внатрешниот простор за симнување</string>
+  <string name="dialog_insufficient_space_on_external">Нема доволно место во надворешниот простор за складирање</string>
+  <string name="download_error">Неуспешно</string>
+  <string name="download_no_application_title">Не може да ја отворам датотеката</string>
+  <string name="download_percent">%d%%</string>
+  <string name="download_queued">Чекаат на ред</string>
+  <string name="download_remaining">%s левата</string>
+  <string name="download_running">Во тек</string>
+  <string name="download_running_percent">Во тек, %d%%</string>
+  <string name="download_unknown_title">&lt;Непознато&gt;</string>
+  <string name="notification_download_complete">Превземањето заврши.</string>
+  <string name="notification_download_failed">Преземањето е неуспешно.</string>
+  <string name="notification_need_wifi_for_size">Големината за преземање бара WLAN.</string>
+  <string name="notification_paused_in_background">Паузирано во позадина.</string>
+  <string name="permdesc_accessAllDownloads">Овозможува на апликацијата да ги види и менува сите преземања иницирани од било кога апликација во системот.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Овозможува на апликацијата да преземе датотека во кешот за преземање, кој не можат да бидат автоматски избришан кога менаџерот за симнување му треба повеќе простор.</string>
+  <string name="permdesc_downloadCompletedIntent">Овозможува на апликацијата да испрати известувања за завршени симнувања. Малициозни апликации може да го користат ова за да се побркуваат други апликации кои преземаат датотеки.</string>
+  <string name="permdesc_downloadManager">Овозможува на апликацијата да пристапи на менаџерот за преземете и да го корист за да преземе датотеки. Малициозните апликации може да го искористат ова да го нарушат преземањето и да пристапат до приватни информации.</string>
+  <string name="permdesc_downloadManagerAdvanced">Овозможува на апликацијата пристап до напредни функции на менаџерот за преземање. Малициозни апликации може да го искористат ова за да го нарушат преземањето и да пристапат до приватни информации.</string>
+  <string name="permdesc_downloadWithoutNotification">Овозможува на апликацијата да преземете фајлови преку менаџер за симнување без известување да се прикажува на корисникот.</string>
+  <string name="permdesc_seeAllExternal">Овозможува на апликацијата да ги видите сите преземања на SD картичка, без разлика преку која апликација сте ги преземале.</string>
+  <string name="permlab_accessAllDownloads">Пристап до сите системски преземања</string>
+  <string name="permlab_downloadCacheNonPurgeable">Резерва простор во кешот за преземање</string>
+  <string name="permlab_downloadCompletedIntent">Испрати известувања за преземања.</string>
+  <string name="permlab_downloadManager">Пристап до Менаџерот за Превземање.</string>
+  <string name="permlab_downloadManagerAdvanced">Напредни функции на Менаџерот за Превземање.</string>
+  <string name="permlab_downloadWithoutNotification">преземање на датотеки без известување</string>
+  <string name="permlab_seeAllExternal">Видете ги сите преземања на USB уред за складирање</string>
+  <string name="root_downloads">Превземања</string>
+  <string name="wifi_recommended_body" formatted="false">"Стартувањето на ова %s симнување може да резултира со прекумерна употреба на вашата мобилна конекција за податоци, која може да доведе до наплата од страна на вашиот мобилен оператор во зависност од вашиот интернет пакет.
+
+Допри %s за да започне ова преземање следниот пат кога ќе бидете поврзани со некоја WLAN мрежа."</string>
+  <string name="wifi_recommended_title">Закажи преземање за подоцна?</string>
+  <string name="wifi_required_body" formatted="false">"Мора да користите WLAN за да се заврши ова %s преземање
+
+Допри %s за да започне ова преземање следниот пат кога ќе бидете поврзани со некоја WLAN мрежа."</string>
+  <string name="wifi_required_title">Преземањето е премногу големо за мжежата на операторот.</string>
+</resources>

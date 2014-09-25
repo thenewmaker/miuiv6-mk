@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="IZAT_AGREE">Се согласувам</string>
+  <string name="IZAT_DISAGREE">Не се согласувам</string>
+  <string name="IZat_MENU_TEXT">Забрзана локација</string>
+  <string name="IZat_SUB_TITLE_TEXT">Користење на Qualcomm &lt;sup&gt; &amp;рег &lt;/ sup&gt; IZat &lt;sup&gt; ТМ &lt;/ sup&gt; хардвер забрзана локација</string>
+  <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\"&gt;Terms and Privacy Policy&lt;/a&gt;</string>
+  <string name="POPUP_BOX_TEXT">За да се овозможи хардверско забрзување, овозможи IZat да се соберат податоците за локација. IZat зачувува некој податоци на вашиот уред и може да работи дури и кога не работат апликации.</string>
+  <string name="POPUP_BOX_TITLE">Локација согласност</string>
+  <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>

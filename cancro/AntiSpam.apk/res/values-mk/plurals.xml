@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="AD_COUNT">
+        <item quantity="other">%d додатоци за реклами</item>
+        <item quantity="one">1 додаток за реклами</item>
+    </plurals>
+    <plurals name="AD_TITLE_COUNT">
+        <item quantity="other">%d апликации содржат adware</item>
+        <item quantity="one">1 апликација содржи adware</item>
+    </plurals>
+</resources>

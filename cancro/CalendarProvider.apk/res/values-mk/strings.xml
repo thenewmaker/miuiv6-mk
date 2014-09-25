@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_default_name">Стандардно</string>
+  <string name="calendar_info">Календар инфо</string>
+  <string name="calendar_info_error">Грешка</string>
+  <string name="calendar_info_events">Настани: %1$d</string>
+  <string name="calendar_info_events_dirty" formatted="false">Настани: %1$d, Несочувано: %2$sd</string>
+  <string name="calendar_info_no_calendars">Нема календари</string>
+  <string name="calendar_storage">Склад за Календари</string>
+  <string name="debug_tool_delete_button">Избришете сега</string>
+  <string name="debug_tool_email_body">Додаден е мојот календар со сите мои состаноци и лични информации. Внимателно со него.</string>
+  <string name="debug_tool_email_sender_picker">Изберете програма за испраќање на вашата датотека</string>
+  <string name="debug_tool_email_subject">Календар Db додадено</string>
+  <string name="debug_tool_message">Вие ќе 1) Направите копија на вашиот календар на SD картичка / USB уред за складирање, кој е читлив од страна на било која апликација, и 2) ке го пратите на е-мејл. Не заборавајте да ја избришете копијата штом успешно сте го копирале уредот или e-mail е примен.</string>
+  <string name="debug_tool_start_button">Почеток</string>
+  <string name="holiday_data_no_network">Не може да се поврзете на мрежата. Проверете ја вашата податочна конекција и пробајте повторно.</string>
+  <string name="holiday_data_update_failed">Не може да се ажурира. Проверете ја вашата податочна конекција и пробајте повторно.</string>
+  <string name="holiday_data_update_succeed">Надградбата заврши</string>
+  <string name="holiday_data_updating">Обновување…</string>
+  <string name="holiday_update_summary">Допрете за да се ажурираат информациите на календарот.</string>
+  <string name="holiday_update_title">Ажурирање на располагање</string>
+  <string name="provider_label">Календар</string>
+  <string name="upgrade_msg">Надградување на податоците на Календарот.</string>
+</resources>

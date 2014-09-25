@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="clock_settings">Подесувања на Поларниот часовникот </string>
+  <string name="palette">Палета на бои</string>
+  <string name="palette_black_c">Црна дупка (динамичен)</string>
+  <string name="palette_gray">Железо</string>
+  <string name="palette_halloween">Пита од тиква</string>
+  <string name="palette_matrix">Зелен екран</string>
+  <string name="palette_oceanic">Плав ласер</string>
+  <string name="palette_violet">полноќ</string>
+  <string name="palette_white_c">Поларна мечка (динамичен)</string>
+  <string name="palette_zenburn">вонземјанин овошна салата</string>
+  <string name="show_seconds">Прикажи секунди</string>
+  <string name="variable_line_width">Вари прстен широчина</string>
+  <string name="wallpaper_clock">поларна часовници</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Прикажи го датумот како лакови на стрелките на часовникот: месец, ден, час, минута и секунда.</string>
+  <string name="wallpaper_fall">Вода</string>
+  <string name="wallpaper_fall_author">Google</string>
+  <string name="wallpaper_fall_desc">Есенски лисја&amp;lt;br&amp;gt; Во езерцето подолу:&amp;lt;br&amp;gt; Течна позадина Зен</string>
+  <string name="wallpaper_galaxy">Галаксија</string>
+  <string name="wallpaper_galaxy_author">Google</string>
+  <string name="wallpaper_galaxy_desc">Галаксија направена од вител на ѕвезди.</string>
+  <string name="wallpaper_grass">Трева</string>
+  <string name="wallpaper_grass_author">Google</string>
+  <string name="wallpaper_grass_desc">Трева во форма на нежен бран пред дневно или ноќно небо.</string>
+  <string name="wallpaper_nexus">Nexus</string>
+  <string name="wallpaper_nexus_author">
+  </string>
+  <string name="wallpaper_nexus_desc">Ѕиркајте внатре во електронската мрежа</string>
+  <string name="wallpaper_walkaround">Види</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Види преку вашиот телефон и се шетаат без да се ризикува несреќи.</string>
+  <string name="wallpapers">Андроид во живо Позадини</string>
+</resources>

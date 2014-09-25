@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>Пон.</item>
+        <item>Вто.</item>
+        <item>Сре.</item>
+        <item>Чет.</item>
+        <item>Пет.</item>
+        <item>Саб.</item>
+        <item>Нед.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Пон.</item>
+        <item>Вто.</item>
+        <item>Сре.</item>
+        <item>Чет.</item>
+        <item>Пет.</item>
+        <item>Саб.</item>
+        <item>Нед.</item>
+    </string-array>
+    <string-array name="months">
+        <item>јануари</item>
+        <item>Февруари</item>
+        <item>Март</item>
+        <item>Април</item>
+        <item>Мај</item>
+        <item>Јуни</item>
+        <item>Јули</item>
+        <item>Август</item>
+        <item>Септември</item>
+        <item>Октомври</item>
+        <item>Ноември</item>
+        <item>Декември</item>
+    </string-array>
+    <string-array name="select_days_simple">
+        <item>Еднаш</item>
+        <item>Секој ден</item>
+        <item>Од Пон. до Пет.</item>
+        <item>Прилагоди</item>
+    </string-array>
+    <string-array name="fortune">
+        <item>"Лесно е да се постигне целата за еден ден, но потешко за секојден."</item>
+        <item>"Не е лесно да се постигнува целта секој ден."</item>
+        <item>Ти поставуваш нови рекорди секојдневно!</item>
+        <item>Уживај во градењето на подобар ти!</item>
+        <item>Никогаш не си губитник се додека не се откажеш.</item>
+        <item>Ние сме тоа што го правиме постојано. Перфекцијата не е дело, туку навика.</item>
+        <item>Достигни по една нова цел секој ден.</item>
+        <item>Поттикнете се себеси за подобро денес.</item>
+        <item>Just do it.</item>
+        <item>Продолжете да вежбате, победата сама ќе дојде.</item>
+    </string-array>
+</resources>

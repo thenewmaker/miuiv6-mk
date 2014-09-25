@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">%1$d станици скенирани</item>
+        <item quantity="zero">%1$d станици скенирани</item>
+        <item quantity="one">1 станица скенирана</item>
+        <item quantity="two">%1$d станици скенирани</item>
+        <item quantity="few">%1$d станици скенирани</item>
+        <item quantity="many">%1$d станици скенирани</item>
+    </plurals>
+</resources>

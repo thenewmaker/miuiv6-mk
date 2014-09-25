@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>лог</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>тан</item>
+        <item>син</item>
+        <item>кос</item>
+        <item>п</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>лева заграда</item>
+        <item>десна заграда</item>
+        <item>факториела</item>
+        <item>природен логаритам</item>
+        <item>логарирам</item>
+        <item>квадратен корен</item>
+        <item>поделено со</item>
+        <item>множено со</item>
+        <item>плус</item>
+        <item>minus</item>
+        <item>точка</item>
+        <item>моќ</item>
+        <item>тангента</item>
+        <item>синус</item>
+        <item>косинус</item>
+        <item>пи</item>
+        <item>еднакво</item>
+    </string-array>
+</resources>
