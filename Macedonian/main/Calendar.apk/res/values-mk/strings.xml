@@ -40,7 +40,6 @@
   <string name="attendees_label">Гости</string>
   <string name="birthday_calendar_display_name">Роденденски потсетник</string>
   <string name="birthday_event_description">Денес му е роденден на %1$s</string>
-  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_text_three_days_later">3 дена до роденден (%3$s)</string>
   <string name="birthday_notification_text_today">Не заборавајте да кажете среќен роденден!</string>
   <string name="birthday_notification_title_three_days_later">роденденот на %1$s доаѓа</string>
