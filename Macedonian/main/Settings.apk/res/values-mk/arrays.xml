@@ -641,16 +641,6 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
         <item>720x480/160</item>
@@ -1032,10 +1022,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>Allow</item>
         <item>Deny</item>
-    </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Native</item>
     </string-array>
     <string-array name="values_color_calibration">
         <item>0</item>
