@@ -2131,7 +2131,6 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="strict_mode">Strict mode enabled</string>
   <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
   <string name="sum_carrier_select">Choose a network operator</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">Supplicant state:</string>
   <string name="symbols_not_allowed_for_password">"Password can't contain symbols"</string>
   <string name="sync_active">Sync active</string>
@@ -2177,7 +2176,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="time_picker_title">Time</string>
-  <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Time zone</string>
   <string name="title_color_calibration">Color Correction preset</string>
   <string name="title_dolby_control">Dolby digital plus</string>
