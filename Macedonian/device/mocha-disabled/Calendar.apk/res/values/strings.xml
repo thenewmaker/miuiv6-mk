@@ -25,10 +25,10 @@
   <string name="acessibility_selected_marker_description">Избран настан</string>
   <string name="acessibility_snooze_notification">Оддложи Известување</string>
   <string name="add_account">Додај сметка</string>
-  <string name="agenda_today">ДЕНЕС,% 1 $ s</string>
-  <string name="agenda_tomorrow">УТРЕ,% 1 $ s</string>
+  <string name="agenda_today">ДЕНЕС, %1$s</string>
+  <string name="agenda_tomorrow">УТРЕ, %1$s</string>
   <string name="agenda_view">Агенда</string>
-  <string name="agenda_yesterday">ВЧЕРА% 1 $ s</string>
+  <string name="agenda_yesterday">ВЧЕРА, %1$s</string>
   <string name="alert_title">Календар известувања</string>
   <string name="ampm_circle_radius_multiplier">0,19</string>
   <string name="app_label">Календар</string>
@@ -43,8 +43,8 @@
   <string name="circle_radius_multiplier">0,82</string>
   <string name="circle_radius_multiplier_24HourMode">0,85</string>
   <string name="color_picker_default_title">Изберете боја</string>
-  <string name="color_swatch_description">Боја% 1 $ d</string>
-  <string name="color_swatch_description_selected">Боја% $ 1 d избрана</string>
+  <string name="color_swatch_description">Боја  %1$d</string>
+  <string name="color_swatch_description_selected">Боја %$1d избрана</string>
   <string name="copy_db">Испрати база на податоци</string>
   <string name="copy_email">Копирај е-пошта адреса</string>
   <string name="copy_number">Копирајте телефонски број</string>
@@ -54,17 +54,17 @@
   <string name="creating_event_with_guest">Поканите ќе бидат испратени.</string>
   <string name="custom">"Прилагодено (неможете да уредите на таблет)"</string>
   <string name="daily">Дневно</string>
-  <string name="date_time_fmt" formatted="false">% s% s</string>
+  <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_of_week_label_typeface">sans-serif</string>
   <string name="day_picker_description">Месец мрежа на денови</string>
   <string name="day_view">Ден</string>
   <string name="day_view_new_event_hint">+ Нов настан</string>
   <string name="delete_label">Избриши</string>
-  <string name="delete_recurring_event_title">Избриши% S?</string>
+  <string name="delete_recurring_event_title">Избриши %s?</string>
   <string name="delete_this_event_title">Избриши го овој настан?</string>
-  <string name="deleted_key">% $ 1 избришани</string>
+  <string name="deleted_key">%$s избришани</string>
   <string name="description_label">Опис:</string>
-  <string name="directory_searching_fmt">Пребарување% s...</string>
+  <string name="directory_searching_fmt">Пребарување %s...</string>
   <string name="discard_label">Откажи</string>
   <string name="dismiss_all_label">Отфрли ги сите</string>
   <string name="do_not_check">Да НЕ се проверува -&gt;</string>
@@ -84,7 +84,7 @@
   <string name="email_picker_label">Е-пошта со</string>
   <string name="email_subject_prefix">"Ре:"</string>
   <string name="empty_event">Празен настан не е креиран.</string>
-  <string name="endByDate">; додека% s</string>
+  <string name="endByDate">; додека %s</string>
   <string name="event_color_picker_dialog_title">Боја на настан</string>
   <string name="event_color_set_to_default">Поставете стандардна боја на календарот</string>
   <string name="event_create">Нов настан</string>
@@ -107,7 +107,7 @@
   <string name="hint_what">Име на настанот</string>
   <string name="hint_where">Локација</string>
   <string name="hour_picker_description">часа кружни лизгач</string>
-  <string name="item_is_selected">% 1 $ s избрани</string>
+  <string name="item_is_selected">%1$s избрани</string>
   <string name="loading">Се вчитува...</string>
   <string name="local_calendar_display_name">Локален календар</string>
   <string name="local_owner_account_name">Локална сметка</string>
@@ -136,8 +136,8 @@
   <string name="month_medium_september">Септември</string>
   <string name="month_view">Месец</string>
   <string name="monthly">Месечно</string>
-  <string name="monthly_on_day">Месечен (на денот% s)</string>
-  <string name="more_string">+% 1 $ s</string>
+  <string name="monthly_on_day">Месечен (на денот %s)</string>
+  <string name="more_string">+%1$s</string>
   <string name="new_event_dialog_label">Нов настан</string>
   <string name="new_event_dialog_option">Нов настан</string>
   <string name="no_calendars_found">Пред да можете да додадете настан, мора да внесете барем една сметка на Календарот на вашиот уред и да го направи календарот видлив. Допрете Додај Сметка да додадете сметка (ако само додадете сметка, Чекајте да заврши синхронизацијата и обидете се повторно). Или допрете Откажи и бидете сигурни дека барем еден календар е видлив.</string>
@@ -151,7 +151,6 @@
   <string name="numbers_radius_multiplier_normal">0,81</string>
   <string name="numbers_radius_multiplier_outer">0,83</string>
   <string name="palestine_display_name">Палестина</string>
-  <string name="prefDefault_alerts_vibrate_true">секогаш</string>
   <string name="preferences_about_title">За</string>
   <string name="preferences_alerts_popup_title">Скокачко известување</string>
   <string name="preferences_alerts_ringtone_title">Звук</string>
@@ -199,7 +198,7 @@
   <string name="recurrence_dialog_title_never">Никогаш не повторува</string>
   <string name="recurrence_end_continously">Засекогаш</string>
   <string name="recurrence_end_count_label">За број на настани</string>
-  <string name="recurrence_end_date">Додека% s</string>
+  <string name="recurrence_end_date">Додека %s</string>
   <string name="recurrence_end_date_label">До датум</string>
   <string name="recurrence_month_pattern_by_day">на истиот ден секој месец</string>
   <string name="reminders_label">Додај потсетник</string>
@@ -228,13 +227,13 @@
   <string name="selection_radius_multiplier">0,16</string>
   <string name="show_controls">Прикажи контроли</string>
   <string name="show_day_view">Прикажи ден</string>
-  <string name="show_newer_events">Допрете за да видиш настани по% 1 $ s</string>
-  <string name="show_older_events">Допрете за да видиш настаните пред% 1 $ s</string>
+  <string name="show_newer_events">Допрете за да видиш настани по %1$s</string>
+  <string name="show_older_events">Допрете за да видиш настаните пред %1$s</string>
   <string name="snooze_all_label">Повтори ѕвонење на сите</string>
   <string name="snooze_label">Одложи</string>
   <string name="synced">синхронизирано</string>
   <string name="tardis">TARDIS</string>
-  <string name="template_announce_item_index">настан% 1 $ s од% 2 $ s.</string>
+  <string name="template_announce_item_index">настан %1$s од %2$s.</string>
   <string name="text_size_multiplier_inner">0,14</string>
   <string name="text_size_multiplier_normal">0,17</string>
   <string name="text_size_multiplier_outer">0,11</string>
@@ -242,19 +241,19 @@
   <string name="time_separator">:</string>
   <string name="timezone_label">Временска зона</string>
   <string name="today">Денес</string>
-  <string name="today_at_time_fmt">Денес на% s</string>
+  <string name="today_at_time_fmt">Денес на %s</string>
   <string name="tomorrow">Утре</string>
-  <string name="tomorrow_at_time_fmt">Утре во% s</string>
+  <string name="tomorrow_at_time_fmt">Утре во %s</string>
   <string name="view_event_calendar_label">Календар:</string>
   <string name="view_event_organizer_label">Организатор:</string>
   <string name="view_event_response_label">Присуство?</string>
   <string name="week_view">Недела</string>
-  <string name="weekly">Неделно (секои% s)</string>
+  <string name="weekly">Неделно (секои %s)</string>
   <string name="what_label">Што</string>
   <string name="when_label">Кога:</string>
   <string name="where_label">Каде:</string>
   <string name="year_label">年</string>
   <string name="year_picker_description">Листа на година</string>
-  <string name="yearly">годишно (на% s)</string>
+  <string name="yearly">годишно (на %s)</string>
   <string name="yearly_plain">Годишно</string>
 </resources>
