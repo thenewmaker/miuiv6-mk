@@ -6,12 +6,6 @@
         <item>SMS</item>
         <item>Alarm</item>
     </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="reminder_minutes_labels">
         <item>0 minutes</item>
         <item>1 minute</item>
@@ -92,22 +86,11 @@
         <item>Sunday</item>
         <item>Monday</item>
     </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="availability">
         <item>Busy</item>
         <item>Available</item>
         <item>Tentative</item>
     </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="visibility">
         <item>Default</item>
         <item>Private</item>
@@ -131,11 +114,6 @@
         <item>This and future events</item>
         <item>All events</item>
     </string-array>
-    <integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>This &amp; future events</item>
         <item>All events</item>
