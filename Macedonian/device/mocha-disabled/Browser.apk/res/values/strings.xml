@@ -361,13 +361,9 @@
   <string name="pref_content_search_engine">Постави пребарувач за насловната лента</string>
   <string name="pref_content_search_engine_summary">Изберете пребарувач</string>
   <string name="pref_content_title">Содржина на страницата</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Барај резултати од претходно вчитани</string>
   <string name="pref_data_preload_summary">Дозволете прелистувачот претходно да ги вчита резултатите од пребарувањето во заштитена позадина</string>
   <string name="pref_data_preload_title">Барај резултат претходно вчитани</string>
-  <string name="pref_data_preload_value_always">СЕКОГАШ</string>
-  <string name="pref_data_preload_value_never">НИКОГАШ</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_data_title">Управување на проток</string>
   <string name="pref_default_text_encoding">Текст кодирање</string>
   <string name="pref_default_text_encoding_default">латински 1</string>
@@ -410,12 +406,10 @@
   <string name="pref_lab_quick_controls">Брзи контроли</string>
   <string name="pref_lab_quick_controls_summary">Проклизајте со показалецот од левиот или десниот раб за да се отворат брзи контроли и сокриј ги апликациите и URL ленти</string>
   <string name="pref_lab_title">Лаборатории</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Веб сајт претходно вчитување</string>
   <string name="pref_link_prefetch_summary">Дозволете прелистувачот претходно да ги вчита поврзаните веб-страници во позадина</string>
   <string name="pref_link_prefetch_title">Претходно вчитување на Веб страницата</string>
   <string name="pref_link_prefetch_value_always">СЕКОГАШ</string>
-  <string name="pref_link_prefetch_value_never">НИКОГАШ</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_min_font_size">Минимална големина на фонт</string>
   <string name="pref_min_font_size_value">% ДТП</string>
