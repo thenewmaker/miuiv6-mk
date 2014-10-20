@@ -855,59 +855,6 @@
         <item>shipin</item>
         <item>tupian</item>
     </string-array>
-        <item>search_google</item>
-        <item>ic_search_engine_google</item>
-        <item>google</item>
-    </string-array>
-    <string-array name="yahoo_in_list">
-        <item>ic_search_engine_yahoo</item>
-        <item>yahoo</item>
-    </string-array>
-        <item>search_bing</item>
-        <item>ic_search_engine_bing</item>
-        <item>bing</item>
-    </string-array>
-        <item>search_baidu</item>
-        <item>ic_search_engine_baidu</item>
-        <item>baidu</item>
-    </string-array>
-    <string-array name="sogou_in_list">
-        <item>search_sogou</item>
-        <item>ic_search_engine_sogou</item>
-    </string-array>
-    <string-array name="bing_zh_CN_in_list">
-        <item>search_bing</item>
-        <item>bing_zh_CN</item>
-    </string-array>
-    <string-array name="s139_in_list">
-        <item>search_s139</item>
-        <item>ic_search_engine_s139</item>
-        <item>s139</item>
-    <string-array name="taobao_in_list">
-        <item>search_taobao</item>
-        <item>ic_search_engine_taobao</item>
-        <item>taobao</item>
-    </string-array>
-    <string-array name="yicha_in_list">
-        <item>ic_search_engine_yicha</item>
-        <item>yicha</item>
-    </string-array>
-    <string-array name="easou_in_list">
-        <item>search_easou</item>
-        <item>ic_search_engine_easou</item>
-    <string-array name="dianping_in_list">
-        <item>search_dianping</item>
-        <item>ic_search_engine_dianping</item>
-    </string-array>
-    <string-array name="shipin_in_list">
-        <item>search_shipin</item>
-        <item>ic_search_engine_shipin</item>
-        <item>shipin</item>
-    </string-array>
-    <string-array name="tupian_in_list">
-        <item>search_tupian</item>
-        <item>tupian</item>
-    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Always on</item>
         <item>On demand</item>
@@ -1014,11 +961,6 @@
         <item>Default</item>
         <item>iPad</item>
         <item>Desktop</item>
-    </string-array>
-    <string-array name="pref_ua_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Custom</item>
