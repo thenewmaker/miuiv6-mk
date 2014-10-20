@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="account_cache_provider">Сметка Кеш Провајдер</string>
   <string name="account_duplicate_dlg_message_fmt">"Вие веќе го користите ова корисничко име за оваа сметка \". ""% S \</string>
   <string name="account_duplicate_dlg_title">Дуплирај сметка</string>
   <string name="account_folder_list_summary_drafts">Недовршени</string>
@@ -225,7 +224,6 @@
   <string name="clear_display_images_whitelist_title">Исчисти одобренија на слика</string>
   <string name="collapse_recipient_details">Колапс детали на примачот</string>
   <string name="compose">Напиши нова</string>
-  <string name="compose_help_context">Напиши нова</string>
   <string name="confirm_discard_text">Отфрли ја оваа порака?</string>
   <string name="confirm_response">Испраќање одговор...</string>
   <string name="confirm_send_message">Испрати ја оваа порака?</string>
@@ -247,7 +245,6 @@
   <string name="contextmenu_send_mail">Испрати е-пошта</string>
   <string name="contextmenu_sharelink">Сподели линк</string>
   <string name="contextmenu_sms_dot">СМС...</string>
-  <string name="conversation_content_provider">Провајдер за содржина на разговор</string>
   <string name="conversation_folder_moved">Преместено во% 1 $ s</string>
   <string name="conversation_photo_welcome_text">Допрете ја сликата на испраќачот за да го означите тој разговор.</string>
   <string name="copy_email">Копирај е-пошта адреса</string>
@@ -288,7 +285,6 @@
   <string name="email_feedback_uri">
   </string>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_spam">Празен спам</string>
   <string name="empty_spam_dialog_title">Празен спам?</string>
   <string name="empty_trash">Празно ѓубре</string>
@@ -313,7 +309,6 @@
   <string name="forward_attribution_no_headers">---------- Препратена порака ----------</string>
   <string name="forward_download_failed_ticker">"Неможеше да препрати еден или повеќе додатоци."</string>
   <string name="forward_download_failed_title">Додатокот не е препратен</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"Од:"</string>
   <string name="from_label">Сметка на Испраќач</string>
   <string name="general_preference_confirm_delete_label">Потврди пред бришење</string>
@@ -362,14 +357,7 @@
   <string name="mailbox_name_display_starred">Означени</string>
   <string name="mailbox_name_display_trash">Ѓубре</string>
   <string name="mailbox_name_display_unread">Непрочитани</string>
-  <string name="mailbox_name_server_all_unread">Непрочитани</string>
-  <string name="mailbox_name_server_drafts">Недовршени</string>
-  <string name="mailbox_name_server_inbox">Пошта</string>
-  <string name="mailbox_name_server_junk">Несакани</string>
-  <string name="mailbox_name_server_outbox">Излезни</string>
   <string name="mailbox_name_server_sent">Испрати</string>
-  <string name="mailbox_name_server_starred">Означени</string>
-  <string name="mailbox_name_server_trash">Ѓубре</string>
   <string name="mailbox_settings_activity_title">Синхронизација опции</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Синхронизација опции (% s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Денови на поштата за да синхронизирате</string>
@@ -413,7 +401,6 @@
   <string name="message_invite_title">Календар покана</string>
   <string name="message_saved">Порака зачувана како недовршена.</string>
   <string name="message_view_attachment_background_load">Еден или повеќе прилози во вашата препратена порака ќе биде преземено пред испраќање.</string>
-  <string name="mock_content_provider">Мок содржината на услуги</string>
   <string name="more_info_attachment">Информации</string>
   <string name="more_string">+% 1 $ s</string>
   <string name="more_than_999">999+</string>
@@ -464,8 +451,6 @@
   <string name="policy_require_password">Бара лозинка на уред</string>
   <string name="policy_screen_timeout">Потребен е неактивен уред да го заклучи неговиот екран</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">листа</string>
-  <string name="prefDefault_removal_action">архива</string>
   <string name="prefDialogTitle_conversationListIcon">Слика на испраќач</string>
   <string name="prefDialogTitle_removal_action">Архива &amp; избришете акции</string>
   <string name="preference_removal_action_title">Архива &amp; избришете акции</string>
@@ -507,14 +492,9 @@
   <string name="reply">Одговори</string>
   <string name="reply_all">Одговори на сите</string>
   <string name="reply_attribution" formatted="false">На %s, %s напиша:</string>
-  <string name="reply_subject_label">Одг :</string>
   <string name="replyto_heading">"Одговори-на"</string>
   <string name="report">Извештај</string>
   <string name="report_phishing">Извештај фишинг</string>
-  <string name="report_rendering_improvement">Изгледа добро</string>
-  <string name="report_rendering_improvement_desc">Оваа порака изгледа добро.</string>
-  <string name="report_rendering_problem">Изгледа лошо</string>
-  <string name="report_rendering_problem_desc">Оваа порака изгледа лошо.</string>
   <string name="report_spam">Извештај за спем</string>
   <string name="require_manual_sync_message">Позадинско синхронизирање за оваа сметка е оневозможено додека сте во роаминг.</string>
   <string name="respond_inline">Одговори регистрација</string>
@@ -608,8 +588,6 @@
   <string name="wait_for_manual_sync_body">"Оваа сметка не е подесена за да се синхронизира автоматски.Допрете "&lt;b&gt;Синхронизирај сега&lt;/b&gt; да ја синхронизирате е-поштата еднаш, or &lt;b&gt;Променете Поставувања на Синхронизација&lt;/b&gt;Да ја подесите оваа сметка да ја синхронизира е-поштата автоматски.</string>
   <string name="wait_for_sync_body">Вашата e-пошта ќе се појави наскоро.</string>
   <string name="wait_for_sync_title">Чекајќи синхронизација</string>
-  <string name="wait_help_context">чека</string>
   <string name="widget_large_unread_count">(% d +)</string>
-  <string name="widget_provider">com.android.email.provider.WidgetProvider</string>
   <string name="yes">Да</string>
 </resources>
