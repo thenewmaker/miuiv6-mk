@@ -60,9 +60,9 @@
   <string name="day_view">Ден</string>
   <string name="day_view_new_event_hint">+ Нов настан</string>
   <string name="delete_label">Избриши</string>
-  <string name="delete_recurring_event_title">Избриши %S?</string>
+  <string name="delete_recurring_event_title">Избриши %s?</string>
   <string name="delete_this_event_title">Избриши го овој настан?</string>
-  <string name="deleted_key">%$1 избришани</string>
+  <string name="deleted_key">%$s избришани</string>
   <string name="description_label">Опис:</string>
   <string name="directory_searching_fmt">Пребарување %s...</string>
   <string name="discard_label">Откажи</string>
