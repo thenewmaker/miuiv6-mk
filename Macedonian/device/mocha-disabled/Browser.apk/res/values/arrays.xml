@@ -844,18 +844,6 @@
         <item>yahoo</item>
         <item>bing</item>
     </string-array>
-    <string-array name="search_bar_search_engines_cmcc">
-        <item>s139</item>
-        <item>baidu</item>
-        <item>sogou</item>
-        <item>taobao</item>
-        <item>yicha</item>
-        <item>easou</item>
-        <item>dianping</item>
-        <item>shipin</item>
-        <item>tupian</item>
-    </string-array>
-<<<<<<< HEAD
     <string-array name="google_in_list">
         <item>search_google</item>
         <item>ic_search_engine_google</item>
@@ -921,21 +909,16 @@
         <item>ic_search_engine_tupian</item>
         <item>tupian</item>
     </string-array>
-=======
->>>>>>> origin/master
     <string-array name="pref_content_plugins_choices">
         <item>Always on</item>
         <item>On demand</item>
         <item>Off</item>
-    </string-array>
-<<<<<<< HEAD
+    </string-array>    
     <string-array name="pref_content_plugins_values">
         <item>ON</item>
         <item>ON_DEMAND</item>
         <item>OFF</item>
     </string-array>
-=======
->>>>>>> origin/master
     <string-array name="pref_text_size_choices">
         <item>Tiny</item>
         <item>Small</item>
