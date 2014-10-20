@@ -69,14 +69,6 @@
         <item>delete</item>
         <item>archive-and-delete</item>
     </string-array>
-    <string-array name="account_settings_check_frequency_entries">
-        <item>@string/account_setup_options_mail_check_frequency_never</item>
-        <item>@string/account_setup_options_mail_check_frequency_5min</item>
-        <item>@string/account_setup_options_mail_check_frequency_10min</item>
-        <item>@string/account_setup_options_mail_check_frequency_15min</item>
-        <item>@string/account_setup_options_mail_check_frequency_30min</item>
-        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
-    </string-array>
     <string-array name="account_settings_check_frequency_values">
         <item>-1</item>
         <item>5</item>
@@ -84,15 +76,6 @@
         <item>15</item>
         <item>30</item>
         <item>60</item>
-    </string-array>
-    <string-array name="account_settings_check_frequency_entries_push">
-        <item>@string/account_setup_options_mail_check_frequency_push</item>
-        <item>@string/account_setup_options_mail_check_frequency_never</item>
-        <item>@string/account_setup_options_mail_check_frequency_5min</item>
-        <item>@string/account_setup_options_mail_check_frequency_10min</item>
-        <item>@string/account_setup_options_mail_check_frequency_15min</item>
-        <item>@string/account_setup_options_mail_check_frequency_30min</item>
-        <item>@string/account_setup_options_mail_check_frequency_1hour</item>
     </string-array>
     <string-array name="account_settings_check_frequency_values_push">
         <item>-2</item>
@@ -103,14 +86,6 @@
         <item>30</item>
         <item>60</item>
     </string-array>
-    <string-array name="account_settings_mail_window_entries">
-        <item>@string/account_setup_options_mail_window_1day</item>
-        <item>@string/account_setup_options_mail_window_3days</item>
-        <item>@string/account_setup_options_mail_window_1week</item>
-        <item>@string/account_setup_options_mail_window_2weeks</item>
-        <item>@string/account_setup_options_mail_window_1month</item>
-        <item>@string/account_setup_options_mail_window_all</item>
-    </string-array>
     <string-array name="account_settings_mail_window_values">
         <item>1</item>
         <item>2</item>
@@ -118,15 +93,6 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
-    </string-array>
-    <string-array name="account_settings_mail_window_entries_with_default">
-        <item>@string/account_setup_options_mail_window_default</item>
-        <item>@string/account_setup_options_mail_window_1day</item>
-        <item>@string/account_setup_options_mail_window_3days</item>
-        <item>@string/account_setup_options_mail_window_1week</item>
-        <item>@string/account_setup_options_mail_window_2weeks</item>
-        <item>@string/account_setup_options_mail_window_1month</item>
-        <item>@string/account_setup_options_mail_window_all</item>
     </string-array>
     <string-array name="account_settings_mail_window_values_with_default">
         <item>0</item>
@@ -137,13 +103,6 @@
         <item>5</item>
         <item>6</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_entries">
-        <item>@string/general_preference_text_zoom_tiny</item>
-        <item>@string/general_preference_text_zoom_small</item>
-        <item>@string/general_preference_text_zoom_normal</item>
-        <item>@string/general_preference_text_zoom_large</item>
-        <item>@string/general_preference_text_zoom_huge</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_values">
         <item>tiny</item>
         <item>small</item>
@@ -151,23 +110,6 @@
         <item>large</item>
         <item>huge</item>
     </string-array>
-    <string-array name="default_quick_responses">
-        <item>@string/quick_1</item>
-        <item>@string/quick_2</item>
-        <item>@string/quick_3</item>
-        <item>@string/quick_4</item>
-    </string-array>
-    <array name="combined_view_account_colors">
-        <item>@color/combined_view_account_color_1</item>
-        <item>@color/combined_view_account_color_2</item>
-        <item>@color/combined_view_account_color_3</item>
-        <item>@color/combined_view_account_color_4</item>
-        <item>@color/combined_view_account_color_5</item>
-        <item>@color/combined_view_account_color_6</item>
-        <item>@color/combined_view_account_color_7</item>
-        <item>@color/combined_view_account_color_8</item>
-        <item>@color/combined_view_account_color_9</item>
-    </array>
     <string-array name="smtp_host_prefixes">
         <item>pop3</item>
         <item>pop</item>

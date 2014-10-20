@@ -297,8 +297,6 @@ Agreement: %2$s"</string>
   <string name="points_exchange">Наградни кредити</string>
   <string name="prev_step">Претходно</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Повеќе напор</string>
-  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
-  <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
   <string name="pull_to_refresh_pull_label">Повлечете надолу за да освежите</string>
   <string name="pull_to_refresh_refreshing_label">Вчитувам…</string>
   <string name="pull_to_refresh_release_label">Отпуштете</string>
