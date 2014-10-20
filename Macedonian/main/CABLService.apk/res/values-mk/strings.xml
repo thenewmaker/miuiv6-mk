@@ -5,7 +5,6 @@
   <string name="cabl_enable_summary_on">Адаптивното светло ќе се преадаптира врз основа на содржината на екранот</string>
   <string name="cabl_enable_title">Овозможи Адаптивно заднинско осветлување</string>
   <string name="cabl_info_default">Непознат</string>
-  <string name="cabl_level_default">Автоматски</string>
   <string name="cabl_levels_summary">Пониско ниво на квалитетот укажува дека CABL ќе се обиде да ја зачувате моќта колку што е можно без значително влијаат содржина се прикажува. Автоматското ниво на визуелен квалитет значи CABL ќе се обиде да ја максимизира заштедата на моќта врз основа автоматското откривање на типот на содржина кој се прикажува.</string>
   <string name="cabl_levels_title">Визуелно ниво на квалитет</string>
   <string name="cabl_settings_title">Подесување на Адаптивното заднинско осветлување.</string>
