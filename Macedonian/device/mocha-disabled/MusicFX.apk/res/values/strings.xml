@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="app_name">MusicFX</string>
-  <string name="bass_boost_strength">Bass boost</string>
-  <string name="ci_extreme">FX booster</string>
-  <string name="eq_dialog_title">Equalizer</string>
-  <string name="headset_plug">Plug in headphones for these effects.</string>
-  <string name="main_toggle_effects_title">Audio effects</string>
-  <string name="no_effects">Effects not available.</string>
-  <string name="picker_title">Music effects control panel</string>
-  <string name="pr_dialog_title">Reverb preset</string>
-  <string name="pr_summary">Additional room reverberation effects</string>
-  <string name="pr_title">Reverb:</string>
-  <string name="setup">Setup</string>
-  <string name="user">User</string>
-  <string name="virtualizer_strength">Surround sound</string>
+  <string name="bass_boost_strength">Појачување бас</string>
+  <string name="ci_extreme">FX појачувач</string>
+  <string name="eq_dialog_title">Еквилајзер</string>
+  <string name="headset_plug">Приклучете ги слушалките за овие ефекти.</string>
+  <string name="main_toggle_effects_title">Аудио ефекти</string>
+  <string name="no_effects">Ефектите не се достапни.</string>
+  <string name="picker_title">Контролен панел на музичките ефекти</string>
+  <string name="pr_dialog_title">Поставка на ехо</string>
+  <string name="pr_summary">Дополнителни ефекти на резонанцата во собата</string>
+  <string name="pr_title">Ехо:</string>
+  <string name="setup">Поставување</string>
+  <string name="user">Корисник</string>
+  <string name="virtualizer_strength">Опкружувачки звук</string>
 </resources>
