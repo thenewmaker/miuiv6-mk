@@ -860,10 +860,6 @@
         <item>On demand</item>
         <item>Off</item>
     </string-array>
-        <item>ON</item>
-        <item>ON_DEMAND</item>
-        <item>OFF</item>
-    </string-array>
     <string-array name="pref_text_size_choices">
         <item>Tiny</item>
         <item>Small</item>
