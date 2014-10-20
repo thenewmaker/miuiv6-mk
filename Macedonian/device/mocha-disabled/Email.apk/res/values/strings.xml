@@ -357,7 +357,6 @@
   <string name="mailbox_name_display_starred">Означени</string>
   <string name="mailbox_name_display_trash">Ѓубре</string>
   <string name="mailbox_name_display_unread">Непрочитани</string>
-  <string name="mailbox_name_server_sent">Испрати</string>
   <string name="mailbox_settings_activity_title">Синхронизација опции</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Синхронизација опции (% s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Денови на поштата за да синхронизирате</string>
