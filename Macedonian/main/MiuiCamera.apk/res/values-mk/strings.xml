@@ -251,7 +251,6 @@
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Авто</string>
   <string name="pref_camera_exposuretime_title">Време на експозиција</string>
-  <string name="pref_camera_facedetection_default">Вистинско</string>
   <string name="pref_camera_facedetection_title">Детектор на лице</string>
   <string name="pref_camera_flashmode_entry_auto">Авто</string>
   <string name="pref_camera_flashmode_entry_off">Исклучи</string>
@@ -272,10 +271,6 @@
   <string name="pref_camera_hdr_type_entry_normal">Нормално</string>
   <string name="pref_camera_hdr_type_title">HDR вид</string>
   <string name="pref_camera_hfr_title">Висока стапка на рамки (бавно движење)</string>
-  <string name="pref_camera_hfr_value_2x">60</string>
-  <string name="pref_camera_hfr_value_3x">90</string>
-  <string name="pref_camera_hfr_value_4x">120</string>
-  <string name="pref_camera_hfr_value_off">Исклучено</string>
   <string name="pref_camera_histogram_entry_disable">Оневозможи</string>
   <string name="pref_camera_histogram_entry_enable">Овозможи</string>
   <string name="pref_camera_histogram_title">Хистограм</string>
