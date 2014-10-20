@@ -14,9 +14,8 @@
   <string name="abc_searchview_description_submit">Поднеси барање</string>
   <string name="abc_searchview_description_voice">Гласовно пребарување</string>
   <string name="abc_shareactionprovider_share_with">Сподели со</string>
-  <string name="abc_shareactionprovider_share_with_application">Сподели со% s</string>
-  <string name="account_cache_provider">Провајдер за кеш сметка</string>
-  <string name="account_duplicate_dlg_message_fmt">"Вие повторно го користите ова кориснично име за сметката \". ""% S \</string>
+  <string name="abc_shareactionprovider_share_with_application">Сподели со %s</string>
+  <string name="account_duplicate_dlg_message_fmt">"Вие повторно го користите ова кориснично име за сметката \". ""%S \</string>
   <string name="account_duplicate_dlg_title">Дуплирај сметка</string>
   <string name="account_folder_list_summary_drafts">Недовршени</string>
   <string name="account_folder_list_summary_inbox">Сандаче</string>
@@ -271,7 +270,6 @@
   <string name="collapse_recipient_details">Спушти ги деталите за примачот</string>
   <string name="colon">:</string>
   <string name="compose">Напиши</string>
-  <string name="compose_help_context">напиши</string>
   <string name="compose_send">Испрати</string>
   <string name="compose_sent">Успешно испратена</string>
   <string name="confirm">Потврди</string>
@@ -305,7 +303,6 @@
   <string name="contextmenu_send_mail">Испрати е-маил</string>
   <string name="contextmenu_sharelink">Сподели линк</string>
   <string name="contextmenu_sms_dot">СМС...</string>
-  <string name="conversation_content_provider">Операторски содржини на разговорот</string>
   <string name="conversation_folder_moved">Преместен во% 1 $ s</string>
   <string name="conversation_item_mark_read">Прочитај</string>
   <string name="conversation_item_mark_unread">Непрочитани</string>
@@ -376,7 +373,6 @@
   <string name="email_feedback_uri">
   </string>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Неможе да пронајде сметка"</string>
   <string name="empty_email_tip">"Неможе да испрати празна порака"</string>
   <string name="empty_spam">Празен спам</string>
@@ -429,7 +425,6 @@
   <string name="forward_attribution_no_headers">---------- Препратена порака ----------</string>
   <string name="forward_download_failed_ticker">"Неможе да препрати еднен или повеќе приклучоци ".</string>
   <string name="forward_download_failed_title">Приклучок не е препратен</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">Од</string>
   <string name="from_heading">"Од:"</string>
   <string name="general_preference_confirm_delete_label">Потврдете пред да се избрише</string>
@@ -487,14 +482,6 @@
   <string name="mailbox_name_display_starred">Означени</string>
   <string name="mailbox_name_display_trash">ѓубре</string>
   <string name="mailbox_name_display_unread">Непрочитани</string>
-  <string name="mailbox_name_server_all_unread">Непрочитани</string>
-  <string name="mailbox_name_server_drafts">Недовршени</string>
-  <string name="mailbox_name_server_inbox">Сандаче</string>
-  <string name="mailbox_name_server_junk">Ѓубре</string>
-  <string name="mailbox_name_server_outbox">Излезни</string>
-  <string name="mailbox_name_server_sent">Испратени</string>
-  <string name="mailbox_name_server_starred">Означени</string>
-  <string name="mailbox_name_server_trash">Ѓубре</string>
   <string name="mailbox_settings_activity_title">Опции на синхронизација</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Опции на синхронизација (% s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Денови на пошта да ги синхронизирате</string>
@@ -567,7 +554,6 @@ CC: %4$s
   <string name="message_saved">Пораката зачувана како недовршена.</string>
   <string name="message_type_name">Е-пошта</string>
   <string name="message_view_attachment_background_load">Една или повеќе приклучоци во вашата препратена порака ќе биде преемена пред испраќање.</string>
-  <string name="mock_content_provider">Потсмевни се на Операторот на Содржината</string>
   <string name="more_atts_total">% 1 $ d прилози</string>
   <string name="more_info_attachment">Информации</string>
   <string name="more_string">+% 1 $ s</string>
@@ -664,7 +650,6 @@ CC: %4$s
   <string name="policy_screen_timeout">Потребно е неактивен уред за да го заклучи неговиот екран</string>
   <string name="policy_text_truncation">Ограничи големина на текстот во е-поштата</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">листа</string>
   <string name="prefDialogTitle_conversationListIcon">Слика на испраќач</string>
   <string name="prefDialogTitle_removal_action">Архива &amp; избришете акции</string>
   <string name="preference_removal_action_title">Архива &amp; избришете акции</string>
@@ -716,14 +701,9 @@ CC: %4$s
   <string name="reply">Одговори</string>
   <string name="reply_all">Одговори на сите</string>
   <string name="reply_attribution" formatted="false">На% s% s напиша:</string>
-  <string name="reply_subject_label">Одг:</string>
   <string name="replyto_heading">"Одговори -на: "</string>
   <string name="report">Пријави</string>
   <string name="report_phishing">Пријави фишинг</string>
-  <string name="report_rendering_improvement">Изгледа добро</string>
-  <string name="report_rendering_improvement_desc">Оваа порака изгледа добро.</string>
-  <string name="report_rendering_problem">Изгледа лошо</string>
-  <string name="report_rendering_problem_desc">Оваа порака изгледа лошо.</string>
   <string name="report_spam">Пријави</string>
   <string name="request_entity_large">Датотеката е премногу голема</string>
   <string name="require_manual_sync_message">Позадинска синхронизација за оваа сметка е оневозможена додека сте во роаминг.</string>
@@ -847,11 +827,9 @@ CC: %4$s
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Допрете го известувањето за да се заврши поставувањето.</string>
   <string name="wait_for_sync_title">Чекаја да синхронизира</string>
-  <string name="wait_help_context">чека</string>
   <string name="widget_all_mail">Цела пошта</string>
   <string name="widget_large_unread_count">% d +</string>
   <string name="widget_other_views">Други</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">Внесената лозинка е неточна</string>
   <string name="xiaomi_bytes_unit">% 1 $ СБ</string>
   <string name="xiaomi_external_storage_unavailable">Меморијата недостапна, ве молиме проверете ја SD картичка.</string>
