@@ -96,7 +96,6 @@
   <string name="ext_media_safe_unmount_notification_title">USB меморијата може безбедно да се отстрани</string>
   <string name="ext_media_unmountable_notification_message">USB меморијата е оштетена. Можеби ќе треба да ја реформатирате.</string>
   <string name="ext_media_unmountable_notification_title">Оштетена USB меморија</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Локација поставена од страна на GPS</string>
   <string name="gps_notification_searching_text">Пребарување за GPS</string>
   <string name="headset_custom">Конфигурирај</string>
