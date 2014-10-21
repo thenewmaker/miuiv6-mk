@@ -409,8 +409,6 @@
   <string name="pref_link_prefetch_dialogtitle">Веб сајт претходно вчитување</string>
   <string name="pref_link_prefetch_summary">Дозволете прелистувачот претходно да ги вчита поврзаните веб-страници во позадина</string>
   <string name="pref_link_prefetch_title">Претходно вчитување на Веб страницата</string>
-  <string name="pref_link_prefetch_value_always">СЕКОГАШ</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_min_font_size">Минимална големина на фонт</string>
   <string name="pref_min_font_size_value">% ДТП</string>
   <string name="pref_privacy_clear_cache">Исчисти кеш</string>

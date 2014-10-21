@@ -156,15 +156,9 @@
   <string name="composer_failed_to_get_database_infomation">"Неможеше да добие информации за базата на податоци."</string>
   <string name="composer_has_no_exportable_contact">Нема износни контакти. Ако имате контакти на вашиот таблет, некои мобилни провајдери не можат да им овозможат на контактите да се извезуваат од таблетот.</string>
   <string name="composer_not_initialized">"Креаторот за визит картички не започна правилно"</string>
-  <string name="config_export_extensions_to_consider">
-  </string>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix">
-  </string>
-  <string name="config_export_file_suffix">
-  </string>
-  <string name="config_export_vcard_type">стандардно</string>
-  <string name="config_import_vcard_type">стандардно</string>
+  <string name="config_export_extensions_to_consider"></string>
+  <string name="config_export_file_prefix"></string>
+  <string name="config_export_file_suffix"></string>
   <string name="confirm_delete_contact_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_selected_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_sim_entry_miui">Избриши %d  контакти на SIM картичката?</string>

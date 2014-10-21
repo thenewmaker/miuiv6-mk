@@ -320,11 +320,6 @@
         <item>Removable SD card</item>
         <item>Let the system decide</item>
     </string-array>
-    <string-array name="app_install_location_values">
-        <item>device</item>
-        <item>sdcard</item>
-        <item>auto</item>
-    </string-array>
     <string-array name="app_ops_categories">
         <item>Location</item>
         <item>Personal</item>
@@ -582,11 +577,6 @@
         <item>Check for DRM content only</item>
         <item>Always check</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
         <item>Use HDCP checking for DRM content only</item>
@@ -682,11 +672,6 @@
         <item>Off</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Off</item>
@@ -900,14 +885,6 @@
         <item>Close current app</item>
         <item>Show menu</item>
     </string-array>
-    <string-array name="screen_key_long_press_action_value">
-        <item>none</item>
-        <item>recent_panel</item>
-        <item>voice_assistant</item>
-        <item>google_now</item>
-        <item>close_app</item>
-        <item>show_menu</item>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 second</item>
         <item>1 second</item>
@@ -1053,12 +1030,6 @@ Please follow"</item>
     <string-array name="phone_call_noise_suppression_values">
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Face unlock</item>

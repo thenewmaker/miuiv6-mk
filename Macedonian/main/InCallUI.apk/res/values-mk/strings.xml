@@ -549,10 +549,7 @@
   <string name="sip_account_list">SIP сметки</string>
   <string name="sip_accounts">Интернет повикувајќи (SIP) сметки</string>
   <string name="sip_accounts_title">Сметки</string>
-  <string name="sip_address_only">SIP_АДРЕСИ_САМО</string>
-  <string name="sip_always">SIP_СЕКОГАШ</string>
   <string name="sip_always_send_keepalive">Секогаш испрати</string>
-  <string name="sip_ask_me_each_time">SIP_ПРАШАЈ_МЕ_СЕКОЈ_ПАТ</string>
   <string name="sip_call_options_entry_1">За сите повици кога мрежа на податоци е достапна</string>
   <string name="sip_call_options_entry_2">Само за интернет повици</string>
   <string name="sip_call_options_entry_3">Прашај за секој повик</string>
@@ -645,7 +642,6 @@
   <string name="voicemail_default">Мојата кариера</string>
   <string name="voicemail_notification_ringtone_title">Звук</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Вибрации</string>
-  <string name="voicemail_notification_vibrate_when_default">Никогаш</string>
   <string name="voicemail_notification_vibrate_when_title">Вибрации</string>
   <string name="voicemail_number_not_set">&lt;Не е поставена&gt;</string>
   <string name="voicemail_provider">Услуга</string>

@@ -91,7 +91,6 @@
   <string name="guide_install_app_msg">"Аплкацијата не е инсталирана на вашиот телефон. Пронајди ја и превземија сега? "</string>
   <string name="guide_install_app_title">Инсталирај апликација</string>
   <string name="guide_tips_editing_mode">допрете &amp; задржете за да кренете додаток на екрот</string>
-  <string name="home_indicator">bottom_point</string>
   <string name="install">Инсталирај</string>
   <string name="invalid_contact_shortcut">Невалиден контакт</string>
   <string name="loading_desktop">Вчитување стартувач</string>

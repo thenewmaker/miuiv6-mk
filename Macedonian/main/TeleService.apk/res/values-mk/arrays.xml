@@ -62,11 +62,6 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="clir_values">
-        <item>DEFAULT</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
-    </string-array>
     <string-array name="cdma_call_waiting_entry_values">
         <item>1</item>
         <item>0</item>
@@ -166,14 +161,5 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
-    </string-array>
-    <string-array name="absent_num">
-        <item>ABSENT NUMBER</item>
-        <item>ABSENTNUMBER</item>
-    </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
     </string-array>
 </resources>

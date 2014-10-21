@@ -701,10 +701,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="sip_accounts">Internet calling (SIP) accounts</string>
   <string name="sip_accounts_title">SIP Accounts</string>
   <string name="sip_add_account_tip_text">To use internet calling, add a SIP account</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Always send</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">For all calls when data network is available</string>
   <string name="sip_call_options_entry_2">Only for Internet calls</string>
   <string name="sip_call_options_entry_3">Ask for each call</string>

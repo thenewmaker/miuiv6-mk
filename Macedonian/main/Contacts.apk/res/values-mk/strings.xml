@@ -153,18 +153,10 @@
   <string name="composer_failed_to_get_database_infomation">"Неможеше да добие информација за базата на податоци."</string>
   <string name="composer_has_no_exportable_contact">Нема извозни контакти. Ако имате контакти на вашиот телефон, некои провајдери на податоци може да не дозволат контактите да се извезуваат од телефонот.</string>
   <string name="composer_not_initialized">"Композиторот на визит картичката не стартуваше правилно"</string>
-  <string name="config_export_dir">/ mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider">
-  </string>
-  <string name="config_export_file_extension">VCF</string>
-  <string name="config_export_file_prefix">
-  </string>
-  <string name="config_export_file_suffix">
-  </string>
-  <string name="config_export_vcard_type">v30_generic</string>
-  <string name="config_import_vcard_type">стандардно</string>
-  <string name="config_prohibited_phone_number_regexp">
-  </string>
+  <string name="config_export_extensions_to_consider"></string>
+  <string name="config_export_file_prefix"> </string>
+  <string name="config_export_file_suffix"> </string>
+  <string name="config_prohibited_phone_number_regexp"> </string>
   <string name="confirm_delete_contact_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_selected_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_sim_entry_miui">Избришете %d  контакти од СИМ картичката?</string>
