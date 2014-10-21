@@ -10,7 +10,7 @@
   <string name="add_to_cloud_album">Додади во албумот</string>
   <string name="add_to_cloud_exceeded_the_size_message">Датотеката е преголема</string>
   <string name="add_to_cloud_fail_too_many_items">Премногу избрани предмети</string>
-  <string name="add_to_cloud_failed_message_with_count">"% 2 $ s предмети неможат да бидат додадени во cloud% 1 $ s".</string>
+  <string name="add_to_cloud_failed_message_with_count">" %2$s  предмети неможат да бидат додадени во cloud %1$s ".</string>
   <string name="add_to_cloud_file_exist_message">Сликата веќе постои во избраниот албум</string>
   <string name="add_to_cloud_folder">Додај во папката</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Надминат лимитот на слика</string>
@@ -28,10 +28,10 @@
   <string name="album_share_exit_confirm">Излезете од овој албум?</string>
   <string name="album_share_kicked">% 1 $ е затворена</string>
   <string name="album_share_stat_content">Покани</string>
-  <string name="album_share_subtitle_accepting">Прифаќање на покана од% 1 $ s...</string>
-  <string name="album_share_subtitle_denying">Игнорирање на покана од% 1 $ s...</string>
-  <string name="album_share_subtitle_invited">Споделено од% 1 $ s</string>
-  <string name="album_share_subtitle_normal">Споделено од% 1 $ s</string>
+  <string name="album_share_subtitle_accepting">Прифаќање на покана од %1$s ...</string>
+  <string name="album_share_subtitle_denying">Игнорирање на покана од %1$s ...</string>
+  <string name="album_share_subtitle_invited">Споделено од %1$s </string>
+  <string name="album_share_subtitle_normal">Споделено од %1$s </string>
   <string name="album_share_subtitle_not_ready">Фали информација за албумот</string>
   <string name="album_share_subtitle_quitting">Излегување...</string>
   <string name="album_share_subtitle_requesting">Добивање на информации за албумот...</string>
@@ -578,7 +578,7 @@
   <string name="error_unknown_host">"Неможе да поврзе на мрежата. Проверете ја вашата дата конекција  и обидете се повторно.".</string>
   <string name="exit">Излез</string>
   <string name="exit_share">Излезете од албум</string>
-  <string name="exit_share_failed">"Не можеше да излезе % 1 $ s"</string>
+  <string name="exit_share_failed">"Не можеше да излезе  %1$s "</string>
   <string name="exit_share_in_process">излегување...</string>
   <string name="exit_share_successfully">излезено %1$s  на</string>
   <string name="exposure_time">Време на експозиција</string>
@@ -628,7 +628,7 @@
   <string name="group_by_location">По локација</string>
   <string name="group_by_tags">Од тагови</string>
   <string name="group_by_time">Од време</string>
-  <string name="has_invalid_recipient">Невалиден корисници: &lt;% 1 $ s&gt;</string>
+  <string name="has_invalid_recipient">Невалиден корисници: &lt; %1$s &gt;</string>
   <string name="height">Висина</string>
   <string name="highlight">Потцртувања</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -748,7 +748,7 @@
   <string name="operation_unset_as_screensaver">Откажи чувар на екранот</string>
   <string name="orientation">Ориентација</string>
   <string name="other_category">Дополнителни подесувања</string>
-  <string name="owner_album_subtitle">Споделено со% 1 $ s корисници</string>
+  <string name="owner_album_subtitle">Споделено со %1$s  корисници</string>
   <string name="path">Пат</string>
   <string name="people">Луѓе</string>
   <string name="photo_page_always_rotate">автоматско-ротирај слики</string>
@@ -855,7 +855,7 @@
   <string name="share_by_email_start">Сподели% 1 $ во позадина</string>
   <string name="share_by_email_successfully">Споделено %1$s  на</string>
   <string name="share_current_album">Сподели го моменталниот албум</string>
-  <string name="share_public_url_text">"Јас го споделив албумот% 1 $ s со вас. Погледнете го на% 2 $ s"</string>
+  <string name="share_public_url_text">"Јас го споделив албумот %1$s  со вас. Погледнете го на %2$s "</string>
   <string name="sharer_quota_fulfiled">"Вие веќе го споделивте овој албум со максималниот број на корисници."</string>
   <string name="sharpen">Изострено</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
@@ -867,8 +867,8 @@
   <string name="show_videos_only">Само видеа</string>
   <string name="sina_weibo_save">Weibo</string>
   <string name="size_above"> %1$s  или над</string>
-  <string name="size_below">% 1 $ s или под</string>
-  <string name="size_between">% 1 $ s на% 2 $ s</string>
+  <string name="size_below"> %1$s  или под</string>
+  <string name="size_between"> %1$s  на %2$s </string>
   <string name="skip_hide_special_album">"Неможе да ги сокрие системските албуми (на пример, . камера, слики од екранот) "</string>
   <string name="slideshow">Слајдшоу</string>
   <string name="slideshow_category">Слајдшоу</string>
@@ -913,7 +913,7 @@
   <string name="tint">Нијанса</string>
   <string name="title">Име на датотеката</string>
   <string name="to_count"> %d  вкупно</string>
-  <string name="too_many_recipients">"Вие неможете да додадете повеќе од% 2 $ s примачи (Вие моментално додадовте% 1 $ s) ".</string>
+  <string name="too_many_recipients">"Вие неможете да додадете повеќе од %2$s  примачи (Вие моментално додадовте %1$s ) ".</string>
   <string name="try_to_send">Испрати</string>
   <string name="ubifocus_data_missing">Некои од податоците за оваа слика недостасуваат</string>
   <string name="ubifocus_guide_text">допрете &amp; задржете за да се рефокусира</string>

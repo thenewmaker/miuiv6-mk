@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="mipay_add_bank_card">Користете нова картичка</string>
-  <string name="mipay_agreement">Согласи се на% 1 $ s</string>
+  <string name="mipay_agreement">Согласи се на %1$s </string>
   <string name="mipay_alipay">Alipay</string>
   <string name="mipay_alipay_error">Alipay успеа</string>
   <string name="mipay_bank_card_cvv2">CVV2</string>
@@ -19,19 +19,19 @@
   <string name="mipay_bank_card_phone_hint">"Поврзан личен телефонски број со банкарската сметка"</string>
   <string name="mipay_bank_card_safe_info">Оваа услуга е кодирана и овластена од страна на Xiaomi и Банката</string>
   <string name="mipay_bank_card_support_list">Поддржани банки</string>
-  <string name="mipay_bank_card_tail_number">картичка бр. % 1 $ s</string>
-  <string name="mipay_bank_card_type">% 1 $ S-% 2 $ s</string>
+  <string name="mipay_bank_card_tail_number">картичка бр.  %1$s </string>
+  <string name="mipay_bank_card_type">% 1 $ S- %2$s </string>
   <string name="mipay_bank_card_type_credit">Кредитна картичка</string>
   <string name="mipay_bank_card_type_debit">Дебитна картичка</string>
   <string name="mipay_bank_card_valid_date">Датум на истекување</string>
   <string name="mipay_bank_card_valid_date_hint">месец/година</string>
   <string name="mipay_bank_cards">Банкарски картички</string>
   <string name="mipay_bank_cards_add">Додај банкарска картичка</string>
-  <string name="mipay_bank_cards_item_bank_number">**** **** *** *% 1 $ s</string>
+  <string name="mipay_bank_cards_item_bank_number">**** **** *** * %1$s </string>
   <string name="mipay_bank_cards_item_bank_title">%1$s%2$s</string>
   <string name="mipay_bank_cards_title">Мој банкарски картички</string>
   <string name="mipay_button_cancel">Откажи</string>
-  <string name="mipay_button_count_down">ги истражуваат% 1 $ s секунди</string>
+  <string name="mipay_button_count_down">ги истражуваат %1$s  секунди</string>
   <string name="mipay_button_done">Завршено</string>
   <string name="mipay_button_finish">Заврши</string>
   <string name="mipay_button_next">Следно</string>
@@ -56,7 +56,7 @@
   <string name="mipay_check_personal_info_phone_hint">"Поврзан личен телефонски број со банкарската сметка"</string>
   <string name="mipay_check_sms_captcha_hint">Ве молиме внесете верификационен код</string>
   <string name="mipay_check_sms_captcha_resend">Препраќање</string>
-  <string name="mipay_check_sms_captcha_summary">Верификациониот код е испратен до Вашиот телефон% 1 $ s</string>
+  <string name="mipay_check_sms_captcha_summary">Верификациониот код е испратен до Вашиот телефон %1$s </string>
   <string name="mipay_check_sms_captcha_wait">%1$ssec</string>
   <string name="mipay_common_license">Кориснички договор</string>
   <string name="mipay_counter_app_name">Банкарски картички</string>
@@ -85,11 +85,11 @@
   <string name="mipay_pay_check_password_title">Ве молиме внесете ја вашата лозинка за наплаќање</string>
   <string name="mipay_pay_check_sms_captcha_title">Ве молиме внесете верификационен код</string>
   <string name="mipay_pay_cvv2_error">Ве молиме проверете ја вашата CVV2</string>
-  <string name="mipay_pay_order_denom_summary">Цена: ¥% 1 $ s</string>
+  <string name="mipay_pay_order_denom_summary">Цена: ¥ %1$s </string>
   <string name="mipay_pay_record">Евиденцијата за плаќање</string>
   <string name="mipay_pay_record_empty">Нема евиденција за плаќање</string>
   <string name="mipay_pay_record_title">Евиденција за плаќање</string>
-  <string name="mipay_pay_sms_captcha_summary">Верификациониот код е испратен до% 1 $ s</string>
+  <string name="mipay_pay_sms_captcha_summary">Верификациониот код е испратен до %1$s </string>
   <string name="mipay_pay_type_hint">Ве молиме изберете методи за наплаќање</string>
   <string name="mipay_process_bind_bank_card">Поврзи банкарска картичка</string>
   <string name="mipay_process_expired">Вашата операција истече, ве молиме рестартирајте</string>

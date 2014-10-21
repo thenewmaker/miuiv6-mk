@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="act_aqi_src_port">"% 1 $ S% 2 $ s% 3 $ s"</string>
+  <string name="act_aqi_src_port">"% 1 $ S %2$s % 3 $ s"</string>
   <string name="act_find_city_hint">Внесете локација</string>
   <string name="act_find_city_hot_title">Додај</string>
   <string name="act_set_city_find_side">Лоцирање...</string>
@@ -16,23 +16,23 @@
   <string name="activity_find_city_dialog_message">Дозволи Времето да ја користи вашата локација</string>
   <string name="activity_find_city_dialog_set">Поставување</string>
   <string name="activity_find_city_dialog_title">Локациони услуги</string>
-  <string name="activity_main_refresh_time">Последно ажурирани% 1 $ s</string>
+  <string name="activity_main_refresh_time">Последно ажурирани %1$s </string>
   <string name="activity_main_refresh_timeout">Освежи истечено време</string>
-  <string name="activity_main_update_time">Ажурирано% 1 $ s</string>
+  <string name="activity_main_update_time">Ажурирано %1$s </string>
   <string name="activity_main_update_time_right_now">Само сега</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Лоцирање...</string>
   <string name="add_city">Додај</string>
   <string name="app_label">Временски Провајдер</string>
   <string name="app_name">Време</string>
-  <string name="aqi_quality_index_break">AQI% 1 $ s</string>
-  <string name="aqi_quality_index_dangerous">AQI% 1 $ s</string>
-  <string name="aqi_quality_index_good">AQI% 1 $ s</string>
-  <string name="aqi_quality_index_hazardous">AQI% 1 $ s</string>
+  <string name="aqi_quality_index_break">AQI %1$s </string>
+  <string name="aqi_quality_index_dangerous">AQI %1$s </string>
+  <string name="aqi_quality_index_good">AQI %1$s </string>
+  <string name="aqi_quality_index_hazardous">AQI %1$s </string>
   <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-  <string name="aqi_quality_index_moderate">AQI% 1 $ s</string>
-  <string name="aqi_quality_index_pure">AQI% 1 $ s</string>
-  <string name="aqi_quality_index_unhealthy">AQI% 1 $ s</string>
+  <string name="aqi_quality_index_moderate">AQI %1$s </string>
+  <string name="aqi_quality_index_pure">AQI %1$s </string>
+  <string name="aqi_quality_index_unhealthy">AQI %1$s </string>
   <string name="button_abandon">Напушти промени</string>
   <string name="button_allow">Дозволете</string>
   <string name="button_not_allow">Одбиј</string>
@@ -47,8 +47,8 @@
   <string name="menu_more">Детали</string>
   <string name="network_unavailable">"Неможе да се поврзе на мрежа."</string>
   <string name="view_aqi_main_no_data">N/A</string>
-  <string name="view_aqi_pm25_format">PM2.5:% 1 $ s</string>
-  <string name="view_aqi_pubtime">освежено на% 1 $ s</string>
+  <string name="view_aqi_pm25_format">PM2.5: %1$s </string>
+  <string name="view_aqi_pubtime">освежено на %1$s </string>
   <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
   <string name="view_aqi_source">Национален еколошки мониторинг центар на Кина</string>
   <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>

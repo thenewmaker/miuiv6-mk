@@ -9,7 +9,7 @@
   <string name="account_dspt">Еден акаунт за сè Xiaomi</string>
   <string name="account_dspt_provision">Еден акаунт за сè Mi.</string>
   <string name="account_hint_text">Емаил или телефонски број</string>
-  <string name="account_name">акаунт:% 1 $ s</string>
+  <string name="account_name">акаунт: %1$s </string>
   <string name="account_not_activated">"Акаунтот не беше активиран"</string>
   <string name="account_sec_dspt">MIUI, Mi Cloud, Mi Market, Mi Store</string>
   <string name="account_sec_dspt2">
@@ -167,7 +167,7 @@
   <string name="login_title">Најавете се на вашата Mi сметка</string>
   <string name="micloud_account">Mi сметка</string>
   <string name="micloud_account_details">Детали на сметката</string>
-  <string name="micloud_account_label">сметка:% 1 $ s</string>
+  <string name="micloud_account_label">сметка: %1$s </string>
   <string name="micloud_account_name">Mi сметка</string>
   <string name="micloud_account_not_actived">"Вашата сметка не е сеуште активирана"</string>
   <string name="micloud_activate_account_fail_notify_title">"Неможе да се активира сметката"</string>
@@ -244,7 +244,7 @@
   <string name="quick_login_title">Внесете ја Вашата лозинка</string>
   <string name="re_get_verify_code">Земете го кодот повторно</string>
   <string name="re_register">Пријавете се повторно</string>
-  <string name="reg_by_email_failure">"Неможе да се подеси сметката% 1 $ s"</string>
+  <string name="reg_by_email_failure">"Неможе да се подеси сметката %1$s "</string>
   <string name="reg_failed">"Неможе да се подеси сметката"</string>
   <string name="reg_sms_send_prompt">Испрати верификационен код во %s </string>
   <string name="reg_success">сметка создадена</string>

@@ -94,7 +94,7 @@
   <string name="hours"> %s  часови</string>
   <string name="hours_label">h</string>
   <string name="hours_label_description">Часови</string>
-  <string name="item_is_selected">% 1 $ s избрани</string>
+  <string name="item_is_selected"> %1$s  избрани</string>
   <string name="label">Ознака</string>
   <string name="label_description">Ознака</string>
   <string name="label_unlabeled">

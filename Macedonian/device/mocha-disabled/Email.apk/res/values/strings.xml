@@ -169,8 +169,8 @@
   <string name="add_photo_attachment">Прикачи слика</string>
   <string name="add_star">Додај ѕвезда</string>
   <string name="add_video_attachment">Прикачи видео</string>
-  <string name="address_display_format">% 1 $ s% 2 $ s</string>
-  <string name="address_display_format_with_via_domain">% 1 $ S% 2 $ s преку% 3 $ s</string>
+  <string name="address_display_format"> %1$s  %2$s </string>
+  <string name="address_display_format_with_via_domain">% 1 $ S %2$s  преку% 3 $ s</string>
   <string name="all_folders_heading">Сите папки</string>
   <string name="always_show_images">Секогаш прикажувај слики од овој испраќач</string>
   <string name="always_show_images_toast">Слики од овој испраќач ќе бидат прикажани автоматски.</string>
@@ -211,7 +211,7 @@
   <string name="cannot_move_special_mailboxes_toast">"Пораките во Недовршени, Излезни и Испратени неможат да бидат поместени."</string>
   <string name="cant_move_or_change_labels">"Неможе да помести бидејќи означеното содржи повеќе сметки."</string>
   <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc:% 1 $ s 
+  <string name="cc_attribution">Cc: %1$s  
 </string>
   <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Промени папки</string>
@@ -230,10 +230,10 @@
   <string name="confirm_send_message_with_no_body">"Нема текст во полето за порака"</string>
   <string name="confirm_send_message_with_no_subject">"Нема текст во предметот на пораката"</string>
   <string name="confirm_send_title">Испрати порака?</string>
-  <string name="contact_info_string">Прикажи информации на контакт за% 1 $ s</string>
+  <string name="contact_info_string">Прикажи информации на контакт за %1$s </string>
   <string name="contact_info_string_default">Прикажи информации за контактот</string>
-  <string name="content_description">% 1 $ s за% 2 $ s,% 3 $ s на% 4 $ s,% 5 $ s</string>
-  <string name="content_description_today">% 1 $ s за% 2 $ s,% 3 $ s на% 4 $ s ,% 5 $ s</string>
+  <string name="content_description"> %1$s  за %2$s ,% 3 $ s на% 4 $ s,% 5 $ s</string>
+  <string name="content_description_today"> %1$s  за %2$s ,% 3 $ s на% 4 $ s ,% 5 $ s</string>
   <string name="contextmenu_add_contact">Додади контакт</string>
   <string name="contextmenu_copy">Копирај</string>
   <string name="contextmenu_copylink">Копирај URL линк</string>
@@ -245,7 +245,7 @@
   <string name="contextmenu_send_mail">Испрати е-пошта</string>
   <string name="contextmenu_sharelink">Сподели линк</string>
   <string name="contextmenu_sms_dot">СМС...</string>
-  <string name="conversation_folder_moved">Преместено во% 1 $ s</string>
+  <string name="conversation_folder_moved">Преместено во %1$s </string>
   <string name="conversation_photo_welcome_text">Допрете ја сликата на испраќачот за да го означите тој разговор.</string>
   <string name="copy_email">Копирај е-пошта адреса</string>
   <string name="copy_number">Копирајте телефонски број</string>
@@ -253,9 +253,9 @@
   <string name="custom_from_account_label">Испрати пошта како:</string>
   <string name="date">2888/88/88</string>
   <string name="date_heading">"Датум:"</string>
-  <string name="date_message_received">% 1 $ s,% 2 $ s</string>
-  <string name="date_message_received_today">Денес,% 1 $ s</string>
-  <string name="date_message_received_yesterday">Вчера,% 1 $ s</string>
+  <string name="date_message_received"> %1$s , %2$s </string>
+  <string name="date_message_received_today">Денес, %1$s </string>
+  <string name="date_message_received_yesterday">Вчера, %1$s </string>
   <string name="debug_clear_webview_cache">Исчисти WebView кеш</string>
   <string name="debug_disable_graphics_acceleration_label">Оневозможи забрзување на хардверска графика </string>
   <string name="debug_enable_debug_logging_label">Овозможи дополнителни debug логирање?</string>
@@ -276,7 +276,7 @@
   <string name="done_action">Завршено</string>
   <string name="download_again">Превземи повторно</string>
   <string name="download_failed">"Неможеше да преземе. Допрете за да пробате повторно."</string>
-  <string name="draft_count_format">(% 1 $ s)</string>
+  <string name="draft_count_format">( %1$s )</string>
   <string name="drawer_close">Затвори цртач на навигација</string>
   <string name="drawer_open">Отвори цртач на навигација</string>
   <string name="edit_quick_response_dialog">Брз одговор</string>
@@ -289,7 +289,7 @@
   <string name="empty_spam_dialog_title">Празен спам?</string>
   <string name="empty_trash">Празно ѓубре</string>
   <string name="empty_trash_dialog_title">Испразни го ѓубрето?</string>
-  <string name="enable_sync_in_account_settings">Вклучете во% 1 $ s.</string>
+  <string name="enable_sync_in_account_settings">Вклучете во %1$s .</string>
   <string name="enumeration_comma">","</string>
   <string name="exchange_name">Корпорација</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -297,13 +297,13 @@
   <string name="failed">"Неможеше да ја вчита сликата"</string>
   <string name="feedback">Испрати повратни информации</string>
   <string name="fetching_attachment">Собира прилог</string>
-  <string name="filtered_tag">[% 1 $ s]% 2 $ s</string>
+  <string name="filtered_tag">[ %1$s ] %2$s </string>
   <string name="folder_icon_desc">Икона на папка</string>
   <string name="folder_picker_title">Бирач на папка</string>
-  <string name="folder_removed">Отстранет од% 1 $ s</string>
+  <string name="folder_removed">Отстранет од %1$s </string>
   <string name="folder_shortcut_widget_label">Е-пошта папка</string>
-  <string name="formatted_email_address">&lt;% 1 $ s&gt;</string>
-  <string name="formatted_subject">% 1 $ S% 2 $ s</string>
+  <string name="formatted_email_address">&lt; %1$s &gt;</string>
+  <string name="formatted_subject">% 1 $ S %2$s </string>
   <string name="forward">Напред</string>
   <string name="forward_attribution">---------- Препратена порака ----------&lt;br&gt;Од: %1$s&lt;br&gt;Дата: %2$s&lt;br&gt;Предмет: %3$s&lt;br&gt;До: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Препратена порака ----------</string>
@@ -401,10 +401,10 @@
   <string name="message_saved">Порака зачувана како недовршена.</string>
   <string name="message_view_attachment_background_load">Еден или повеќе прилози во вашата препратена порака ќе биде преземено пред испраќање.</string>
   <string name="more_info_attachment">Информации</string>
-  <string name="more_string">+% 1 $ s</string>
+  <string name="more_string">+ %1$s </string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Премести во</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;% 1 $ s &lt;/ b&gt; "% 2 $ s"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt; %1$s  &lt;/ b&gt; " %2$s "</string>
   <string name="mute">Нечујно</string>
   <string name="network_error">Нема врска</string>
   <string name="new_incoming_messages_one">Нова порака од %s . Прикажи.</string>
@@ -486,7 +486,7 @@
   <string name="recipient_error_dialog_title">примач грешка</string>
   <string name="recipient_needed">Додај барем еден примач.</string>
   <string name="refresh">Освежи</string>
-  <string name="remove_folder">Отстрани од% 1 $ s</string>
+  <string name="remove_folder">Отстрани од %1$s </string>
   <string name="remove_star">Отстрани ѕвезда</string>
   <string name="reply">Одговори</string>
   <string name="reply_all">Одговори на сите</string>
@@ -529,15 +529,15 @@
   <string name="shortcut_name_title">Име на кратенката на папката</string>
   <string name="show_elided">▶ Прикажи цитиран текст</string>
   <string name="show_images">Прикажи слики</string>
-  <string name="show_n_more_folders">Прикажи% 1 $ s повеќе папки</string>
+  <string name="show_n_more_folders">Прикажи %1$s  повеќе папки</string>
   <string name="signature">"
 
  %s "</string>
   <string name="signin">Најави се</string>
   <string name="silent_ringtone">Тивко</string>
   <string name="single_new_message_notification_big_text">" %1$s  на
-% 2 $ s"</string>
-  <string name="single_new_message_notification_title">% 1 $ s:% 2 $ s</string>
+ %2$s "</string>
+  <string name="single_new_message_notification_title"> %1$s : %2$s </string>
   <string name="status_network_error">Проблем на конекција.</string>
   <string name="storage">Меморија</string>
   <string name="subject_and_snippet" formatted="false"> %s  - %s </string>
@@ -561,19 +561,19 @@
   <string name="to">До</string>
   <string name="to_heading">"До:"</string>
   <string name="too_large_to_attach_additional">Датотеката не е прикачена. %1$s лимитот достигнат.</string>
-  <string name="too_large_to_attach_multiple">Една или повеќе датотеки не се прикачени. Лимит% 1 $ s.</string>
-  <string name="too_large_to_attach_single">"Неможе да прикачите датотека преку% 1 $ s".</string>
+  <string name="too_large_to_attach_multiple">Една или повеќе датотеки не се прикачени. Лимит %1$s .</string>
+  <string name="too_large_to_attach_single">"Неможе да прикачите датотека преку %1$s ".</string>
   <string name="trash_folder_selection_title">Изберете сервер ѓубре папка за %s </string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">U</string>
   <string name="trigger_save_char">а</string>
   <string name="trigger_y_char">y</string>
-  <string name="turn_auto_sync_on_dialog_body">Промените што ги правите сите апликации и профили, не само на Gmail, ќе бидат усогласени помеѓу веб, вашите други уреди, и вашите% 1 $ s.</string>
+  <string name="turn_auto_sync_on_dialog_body">Промените што ги правите сите апликации и профили, не само на Gmail, ќе бидат усогласени помеѓу веб, вашите други уреди, и вашите %1$s .</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Вклучете</string>
   <string name="turn_auto_sync_on_dialog_title">Вклучете авто-sync на?</string>
   <string name="undo">Врати</string>
   <string name="unread_string">разговор непрочитан</string>
-  <string name="unsent_messages_in_outbox">% 1 $ s неиспратени во% 2 $ s</string>
+  <string name="unsent_messages_in_outbox"> %1$s  неиспратени во %2$s </string>
   <string name="veiled_address">
   </string>
   <string name="veiled_alternate_text">
@@ -582,7 +582,7 @@
   </string>
   <string name="veiled_summary_unknown_person">
   </string>
-  <string name="via_domain">преку% 1 $ s</string>
+  <string name="via_domain">преку %1$s </string>
   <string name="view_more_conversations">Видете повеќе разговори</string>
   <string name="wait_for_manual_sync_body">"Оваа сметка не е подесена за да се синхронизира автоматски.Допрете "&lt;b&gt;Синхронизирај сега&lt;/b&gt; да ја синхронизирате е-поштата еднаш, or &lt;b&gt;Променете Поставувања на Синхронизација&lt;/b&gt;Да ја подесите оваа сметка да ја синхронизира е-поштата автоматски.</string>
   <string name="wait_for_sync_body">Вашата e-пошта ќе се појави наскоро.</string>

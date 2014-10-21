@@ -16,7 +16,7 @@
   <string name="connect_headset_failed">Не може да се поврзае</string>
   <string name="connected_headset">Поврзано</string>
   <string name="connecting_headset">Поврзување</string>
-  <string name="could_not_use_app">"не можеше да користи% 1 $ s".</string>
+  <string name="could_not_use_app">"не можеше да користи %1$s ".</string>
   <string name="default_pay_app_removed">Вашиот препорачан сервис за допри и плати е отстранет. Изберете друг?</string>
   <string name="disconnected_headset">Исклучено</string>
   <string name="disconnecting_headset">Исклучувам</string>
@@ -31,8 +31,8 @@
   <string name="pairing_headset">Спарување</string>
   <string name="pairing_headset_failed">Неможеше да се спраи</string>
   <string name="pay_with">Плати со</string>
-  <string name="tap_again_to_complete">Допрете повторно за да се заврши со% 1 $ s</string>
+  <string name="tap_again_to_complete">Допрете повторно за да се заврши со %1$s </string>
   <string name="tap_again_to_pay">Допрете повторно за да платите со %1$s</string>
   <string name="touch">Допрете за зрачење</string>
-  <string name="transaction_failure">"Оваа трансакција неможе да се заврши со% 1 $ s".</string>
+  <string name="transaction_failure">"Оваа трансакција неможе да се заврши со %1$s ".</string>
 </resources>

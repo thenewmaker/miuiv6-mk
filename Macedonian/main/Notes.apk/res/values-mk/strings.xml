@@ -5,10 +5,10 @@
   <string name="alert_action_edit_anyway">Продолжи уредување</string>
   <string name="alert_edit_action_delete">Отстрани</string>
   <string name="alert_edit_action_update">Измени</string>
-  <string name="alert_message_delete_folders">Избриши% 1 $ s папки?</string>
-  <string name="alert_message_delete_folders_notes">Избриши% 1 $ s папки и% белешки 2 $ s?</string>
+  <string name="alert_message_delete_folders">Избриши %1$s  папки?</string>
+  <string name="alert_message_delete_folders_notes">Избриши %1$s  папки и% белешки 2 $ s?</string>
   <string name="alert_message_delete_note">Избриши ја оваа белешка?</string>
-  <string name="alert_message_delete_notes">Избриши% 1 $ s белешки?</string>
+  <string name="alert_message_delete_notes">Избриши %1$s  белешки?</string>
   <string name="alert_message_edit_anyway">Ако ја уредите оваа белешка некои од неговите содржини можат да се изгубат.</string>
   <string name="alert_title_edit_anyway">Оваа забелешка содржи неподдржанa содржина</string>
   <string name="app_name">Забелешки</string>
@@ -30,7 +30,7 @@
   <string name="error_unsupport_content">Оваа забелешка содржи неподдржана содржина, допрете тука за да ја ажурирање потребната апликација</string>
   <string name="error_widget_exist_for_send_to_desktop">Оваа забелешка е веќе на вашиот Почетен екран</string>
   <string name="folder_exist">Папка со исто име веќе постои</string>
-  <string name="format_move_notes_to_folder">Преместени %1$d  белешки на% 2 $ s</string>
+  <string name="format_move_notes_to_folder">Преместени %1$d  белешки на %2$s </string>
   <string name="hint_foler_name">Име</string>
   <string name="info_note_enter_desktop">Додадено на Почетниот екран</string>
   <string name="login_sync">Пријавете се &amp; синхронизирајте</string>
@@ -41,7 +41,7 @@
   <string name="menu_send_to_desktop">Намести на Почетниот екран</string>
   <string name="menu_send_wechat">Испрати на WeChat</string>
   <string name="menu_send_weibo">Испрати на Weibo</string>
-  <string name="menu_source">Од:% 1 $ s</string>
+  <string name="menu_source">Од: %1$s </string>
   <string name="menu_stick">Пин</string>
   <string name="menu_title_select_folder">Изберете папка</string>
   <string name="menu_unstick">Откачи</string>

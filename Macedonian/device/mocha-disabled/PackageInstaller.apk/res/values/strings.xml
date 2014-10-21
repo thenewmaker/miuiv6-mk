@@ -14,7 +14,7 @@
   <string name="cancel">Откажи</string>
   <string name="dlg_app_replacement_statement">"Апликацијата што ја инсталирате ќе ја замени постоечката.
 Сите податоци на корисникот ќе бидат избришани."</string>
-  <string name="dlg_app_replacement_statement_with_version">" %1$s  s (% 2 $ s) ќе ја замени моментално инсталираната верзија (% 3 $ s). Вашите кориснички податоци ќе бидат зачувани. Инсталирај нова верзија?"</string>
+  <string name="dlg_app_replacement_statement_with_version">" %1$s  s ( %2$s ) ќе ја замени моментално инсталираната верзија (% 3 $ s). Вашите кориснички податоци ќе бидат зачувани. Инсталирај нова верзија?"</string>
   <string name="dlg_sys_app_replacement_statement">"Ова е системска апликација.Сите кориснички податоци ќе бидат зачувани."</string>
   <string name="done">Завршено</string>
   <string name="install">Инсталирај</string>
@@ -26,7 +26,7 @@
   <string name="install_failed_invalid_apk">Пакетот се чини дека е корумпиран.</string>
   <string name="install_failed_msg"> %1$s  s не може да биде инсталирано на овој таблет.</string>
   <string name="install_failed_older_sdk">Овој пакет работи само на поновите верзии на MIUI.</string>
-  <string name="installer_name">来源:% 1 $ s</string>
+  <string name="installer_name">来源: %1$s </string>
   <string name="installing">Инсталирање...</string>
   <string name="launch">Отвори</string>
   <string name="main_title">安装 应用</string>
@@ -60,8 +60,8 @@
 
 Можете да се префрлате на оваа поставка во Подесувања&gt; Безбедност&gt; Непознати извори. "</string>
   <string name="update_log_default">无 应用 更新 信息</string>
-  <string name="update_time">% 1 $ s 年% 2 $ s 月% 3 $ s 日 发布% 4 $ на 版</string>
-  <string name="update_title">% 1 $ s 已经 有 新 版本</string>
+  <string name="update_time"> %1$s  年 %2$s  月% 3 $ s 日 发布% 4 $ на 版</string>
+  <string name="update_title"> %1$s  已经 有 新 版本</string>
   <string name="virus_scan_clear">Отстрани</string>
   <string name="virus_scan_install">&lt;u&gt; Инсталирај ипак&lt;/ u&gt;</string>
   <string name="virus_scan_is_risk">"Оваа апликација поседува ризик за безбедноста на вашиот уред"</string>

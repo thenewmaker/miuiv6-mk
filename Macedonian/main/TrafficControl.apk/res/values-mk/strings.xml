@@ -43,7 +43,7 @@
   <string name="debug_dm_write_to_pref">Рекордно време на прикачување</string>
   <string name="debug_dump_memory">Отфрлена меморија</string>
   <string name="debug_dump_memory_caption">Отфрли ја меморијата во .hprof датотека</string>
-  <string name="debug_dumped_to">меморија отфрлени на% 1 $ s</string>
+  <string name="debug_dumped_to">меморија отфрлени на %1$s </string>
   <string name="debug_enable_online_configuration">Овозможи Онлајн Конфигурација</string>
   <string name="debug_force_update_direct_hosts">Присили надградување на директните хостови</string>
   <string name="debug_force_update_traffic_packages">Присилно надградување дата пакетите</string>

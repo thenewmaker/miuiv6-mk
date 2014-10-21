@@ -10,7 +10,7 @@
   <string name="miracast_connection_status_warning_conn_lost">"Изгубена врска со"</string>
   <string name="miracast_display_notification_disconnect">Исклучете</string>
   <string name="miracast_hdcp_failure_text">Премиум содржината не може да бидат прикажана.</string>
-  <string name="miracast_hdcp_title">HDCP Проверката не успеа со% 1 $ s</string>
+  <string name="miracast_hdcp_title">HDCP Проверката не успеа со %1$s </string>
   <string name="miracast_hdmi_title">HDMI</string>
   <string name="miracast_hdmi_unavailable">недостапно бидејќи Miracast е активнен.</string>
 </resources>

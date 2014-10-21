@@ -157,7 +157,7 @@
   <string name="settings">Подесувања</string>
   <string name="share">Сподели</string>
   <string name="share_content">"Јас *%1$s* напишав на Mi NFC таг. За да го прочитате, само допрете со задниот дел од вашиот уред. Преземете ја апликацијата тука: http://app.xiaomi.com/detail/56946"</string>
-  <string name="share_subject">Сподели една апликација:% 1 $ s</string>
+  <string name="share_subject">Сподели една апликација: %1$s </string>
   <string name="share_wifi">Сподели WLAN</string>
   <string name="shortcut">Брзи задачи</string>
   <string name="sleep_mode">Не ме вознемирувај</string>
@@ -205,9 +205,9 @@
   <string name="xiaomi_external_storage_unavailable">Складирањето недостапно, ве молиме проверете ја SD картичката.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Воведување на верзијата% 1 $ s
-Големина:% 2 $ s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Воведување на верзијата% 1 $ s
-Делта големина на ажурирање:% 2 $ s "</string>
-  <string name="xiaomi_update_dialog_title">% 1 $ s ажурирај!</string>
+  <string name="xiaomi_update_dialog_message">"Воведување на верзијата %1$s 
+Големина: %2$s "</string>
+  <string name="xiaomi_update_dialog_message_diff">"Воведување на верзијата %1$s 
+Делта големина на ажурирање: %2$s  "</string>
+  <string name="xiaomi_update_dialog_title"> %1$s  ажурирај!</string>
 </resources>

@@ -97,7 +97,7 @@
   <string name="error_app_unsupported_raw_wavelet">Wavelet denoise нема да има ефект додека сликате повеќе слики</string>
   <string name="error_fail_to_start_audio_capture">Неуспешно да започне аудио снимање</string>
   <string name="exposure_time">Време на експозиција</string>
-  <string name="face_analyze_info">Возраст:% 2 $ s (% 1 $ s)</string>
+  <string name="face_analyze_info">Возраст: %2$s  ( %1$s )</string>
   <string name="face_analyze_info_female">Женско</string>
   <string name="face_analyze_info_male">Машко</string>
   <string name="face_beauty_age_alias_female_0_7">Женско 0-7</string>

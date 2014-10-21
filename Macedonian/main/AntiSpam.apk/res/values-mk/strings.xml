@@ -258,7 +258,7 @@
   <string name="toast_keyword_blank">Треба да внесете клучен збор</string>
   <string name="toast_keyword_exist">Клучни зборови додадени во филтер</string>
   <string name="toast_keyword_invalid">Невалиден клучни зборови</string>
-  <string name="two_address_choose_hint">% 1 $ s,%2$s s2 локации</string>
+  <string name="two_address_choose_hint"> %1$s ,%2$s s2 локации</string>
   <string name="user_define_title">Додадете правила</string>
   <string name="whitelist_prefix_add_hint">Додадете ги сите броеви со префикс на исклучоци</string>
   <string name="wl_no_whitelist">Без исклучоци</string>

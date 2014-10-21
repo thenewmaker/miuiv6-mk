@@ -77,7 +77,7 @@
   <string name="firewall_fragment_tab_title_sys">Систем</string>
   <string name="firewall_rule_group_title_mobile">Дата</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
-  <string name="firewall_service_network_blocked"> %1$s  s е забрането од користење на% 2 $ s мрежи</string>
+  <string name="firewall_service_network_blocked"> %1$s  s е забрането од користење на %2$s  мрежи</string>
   <string name="force_stop_dlg_text">"Ако ги забраните позадинските мобилни податоци, некои апликации и услуги нема да работат, освен ако не се поврзете со некоја WLAN мрежа"</string>
   <string name="force_stop_dlg_title">Забрани позадински податоци</string>
   <string name="foreground_traffic">Преден план %s </string>
@@ -111,9 +111,9 @@
   <string name="main_primary_message_traffic_purchase">Вие треба да надополните</string>
   <string name="main_primary_message_traffic_warning">Приближување на лимитот за користење на датата</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
-Евтина тарифа:% 1 $ s останати |% 2 $ s искористени"</string>
+Евтина тарифа: %1$s  останати | %2$s  искористени"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Тарифа:% 1 $ S% 2 $ s останати |% 3 $ s се користи"</string>
+Тарифа:% 1 $ S %2$s  останати |% 3 $ s се користи"</string>
   <string name="main_secondary_message_traffic_over">над</string>
   <string name="main_secondary_message_traffic_remain">останати</string>
   <string name="main_secondary_message_traffic_used_leisure"> %s  евтина тарифа на податоци</string>
@@ -138,8 +138,8 @@
   <string name="network_assistant_upgraded_title">Ажурирањето заврши</string>
   <string name="network_control">Видете ги подесувањата на апликацијата</string>
   <string name="none_mi_service_app_detail">Празно</string>
-  <string name="notification_content_title">Искористено% 1 $ s, додека е заклучен</string>
-  <string name="notification_title">% 1 $ S-% 2 $ s: за% 3 $ s искористени</string>
+  <string name="notification_content_title">Искористено %1$s , додека е заклучен</string>
+  <string name="notification_title">% 1 $ S- %2$s : за% 3 $ s искористени</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Разговор</string>
   <string name="online_read">читање</string>
@@ -192,9 +192,9 @@
   <string name="pref_more_traffic_settings">Дополнителни поставувања</string>
   <string name="pref_new_installed_preconfig_title">Стандардни поставувања за нови апликации</string>
   <string name="pref_open_adjust_traffic">"Синхронизирај ги статистиките за користење на твојата дата со серверите на твојот оператор"</string>
-  <string name="pref_package_traffic_leisure"> %1$s  s | Евтина тарифа:% 2 $ s</string>
+  <string name="pref_package_traffic_leisure"> %1$s  s | Евтина тарифа: %2$s </string>
   <string name="pref_package_traffic_normal">Максимум: %s </string>
-  <string name="pref_package_traffic_overlay">% 1 $ s | Дополнителни:% 2 $ s</string>
+  <string name="pref_package_traffic_overlay"> %1$s  | Дополнителни: %2$s </string>
   <string name="pref_package_traffic_settings">Ограничување на мобилната дата</string>
   <string name="pref_pkg_begin_date">Дата на ресетирање на циклусот за користење</string>
   <string name="pref_setting_operators_message">Измени ја пораката што вашиот уред ја праќа на вашиот оператор за да ги синхронизирате вашите статистики за користењето на податоци</string>
@@ -228,13 +228,13 @@
   <string name="songs_unit">"песни"</string>
   <string name="sorted_button">Сортирај по</string>
   <string name="sorted_dialog_title">Сортирај по</string>
-  <string name="spinner_title">% 1 $ S - Мобилни податоци:% 2 $ s</string>
+  <string name="spinner_title">% 1 $ S - Мобилни податоци: %2$s </string>
   <string name="stop_app_button">Стоп</string>
   <string name="system_app">Системски апликации</string>
   <string name="text_day">
   </string>
   <string name="tips_dialog_title">"Не го знаете вашиот лимит?"</string>
-  <string name="tips_message">"Ако ви е нејасно за деталите на вашиот безжичен план, можете да ги видите со бирање% 2 $ s (% 1 $ s)."</string>
+  <string name="tips_message">"Ако ви е нејасно за деталите на вашиот безжичен план, можете да ги видите со бирање %2$s  ( %1$s )."</string>
   <string name="traffic_config_alert_body">"Сметководството на вашиот оператор покажува дека имате искористено %s Ажурирајте ги информациите за вашето користење на дата?"</string>
   <string name="traffic_config_alert_body_leisure">"Сметководството на вашиот оператор покажува дека имате искористено %1$s од вашата ефтина тарифа за овој месец, оваа е поинаква од %2$s таа што ја наместивте рачно."</string>
   <string name="traffic_config_alert_body_leisure_notset">""Сметководството на вашиот оператор покажува дека имате искористено %s од ефтината тарифа е преостанато. Вие немате наместено лимит за ефтината тарифа на датата."</string>

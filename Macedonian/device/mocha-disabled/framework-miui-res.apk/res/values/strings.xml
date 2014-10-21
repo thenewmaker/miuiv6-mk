@@ -32,7 +32,7 @@
   <string name="first_back_long_press_message">"Долго притискање Назад ке го уништи моменталниот процес и сите негови сервиси во поадина. Да ја овозможите оваа функција, идете во Подесувања &gt; Систем &gt; Копчиња"</string>
   <string name="fm_record_smaple_prefix_miui">ФМ снимање</string>
   <string name="fools_day">愚人节</string>
-  <string name="force_exit_message">Затворено \ "% 1 $ s</string>
+  <string name="force_exit_message">Затворено \ " %1$s </string>
   <string name="global_actions_airplane_mode">Авионски режим</string>
   <string name="global_actions_reboot">Рестартирај</string>
   <string name="global_actions_shutdown">Исклучи</string>

@@ -83,7 +83,7 @@
   <string name="context_menu_add_to_browser_favorite">Додај-во обележувачите на Пребарувачот</string>
   <string name="context_menu_browse_web">Разгледај</string>
   <string name="context_menu_call">Повик</string>
-  <string name="context_menu_contact">Контакт:% 1 $ s</string>
+  <string name="context_menu_contact">Контакт: %1$s </string>
   <string name="context_menu_copy">Копирај</string>
   <string name="context_menu_copy_notice">Копирано на таблата со исечоци</string>
   <string name="context_menu_new_contact">Нов контакт</string>
@@ -113,7 +113,7 @@
   <string name="discard_message">Отфрли</string>
   <string name="discard_message_reason">Вашата порака ќе биде отфрлена поради тоа што нема валидна примачи.</string>
   <string name="discard_slideshow">Отфрли слајдшоу</string>
-  <string name="dl_failure_notification">"Не можеше да превземе порака % 1 $ s од% 2 $ s"</string>
+  <string name="dl_failure_notification">"Не можеше да превземе порака  %1$s  од %2$s "</string>
   <string name="done">Завршено </string>
   <string name="download">Превземи</string>
   <string name="download_later">"Неможе да превземе во моментов. Обидете се повторно подоцна.".</string>
@@ -141,7 +141,7 @@
   <string name="exceed_message_size_limitation">Ограничувањето на големината пораката е достигнат.</string>
   <string name="expire_on">Истекува: %s </string>
   <string name="exporting_progress_private_message">Извезување пораки...</string>
-  <string name="failed_to_add_media">"Неможете да го додадете ова% 1 $ s на вашата порака."</string>
+  <string name="failed_to_add_media">"Неможете да го додадете ова %1$s  на вашата порака."</string>
   <string name="failed_to_resize_image">Сликата не е променета.</string>
   <string name="fdn_check_failure">Можете само да испратите пораки до вашите фиксно бирачки броеви.</string>
   <string name="feedback_description_hint">Напишете ја вашата порака тука</string>
@@ -158,7 +158,7 @@
   <string name="flatshow_page_no"> %1$d </string>
   <string name="forward_from">Препрати од:</string>
   <string name="forward_prefix">"Fwd:"</string>
-  <string name="found_old_messages">Внеси пораки од% 1 $ s на% 2 $ s?</string>
+  <string name="found_old_messages">Внеси пораки од %1$s  на %2$s ?</string>
   <string name="found_old_messages_title">Прикачи пораки од вашите други SIM картички?</string>
   <string name="found_wild_messages">пораки од броевите подолу се зачувани во Вашиот Mi Cloud. % Превземи ги сега?</string>
   <string name="found_wild_messages_title">Превземи пораки</string>
@@ -168,7 +168,7 @@
   <string name="group_resend_message">Препрати ( %d )</string>
   <string name="guild_add_attachments">допрете да додадете смешковци и други содржини</string>
   <string name="guild_add_recipients">Допрете за да додадете приматели од адресарот</string>
-  <string name="has_invalid_recipient">Невалиден корисници: &lt;% 1 $ s&gt;</string>
+  <string name="has_invalid_recipient">Невалиден корисници: &lt; %1$s &gt;</string>
   <string name="hidden_sender_address">Скриена адреса на испраќачот</string>
   <string name="hint_search_sms"> %d  пораки</string>
   <string name="hms_first_use_tips">За да примате услужни пораки, треба да биде поврзан со WLAN мрежата</string>
@@ -391,7 +391,7 @@
   <string name="secs">секунди</string>
   <string name="select_audio">Изберете аудио</string>
   <string name="select_bottom_text">Текст на дното</string>
-  <string name="select_different_media">Изберете различна% 1 $ s.</string>
+  <string name="select_different_media">Изберете различна %1$s .</string>
   <string name="select_link_title">Изберете акција</string>
   <string name="select_local_audio">Изберете аудио</string>
   <string name="select_local_video">Изберете видео</string>
@@ -410,7 +410,7 @@
   <string name="send_sms">Испрати порака</string>
   <string name="send_to">До:</string>
   <string name="send_to_count">Испратени% 1 $ S пораки</string>
-  <string name="send_to_index_contact"> %1$s  S /% 2 $ s</string>
+  <string name="send_to_index_contact"> %1$s  S / %2$s </string>
   <string name="sent_label">"Испрати"</string>
   <string name="service_message_not_found">Порака истече или е недостапна</string>
   <string name="service_network_problem">"не можеше да испрати поради проблем со мрежата"</string>
@@ -430,7 +430,7 @@
   <string name="sim_manage_messages_title">Текстуалните пораки на SIM картичка</string>
   <string name="sim_view">Види</string>
   <string name="slide_number">Слајд %s </string>
-  <string name="slide_show_part">Дел% 1 $ s /% 2 $ s</string>
+  <string name="slide_show_part">Дел %1$s  / %2$s </string>
   <string name="slideshow_activity">Слајдшоу</string>
   <string name="sms_content">Содржина:</string>
   <string name="sms_full_body">"Нова порака одбиена: Нема доволно простор на овој уред."</string>
@@ -477,8 +477,8 @@
   <string name="toast_feedback_finish">"Вашиот извештај ќе биде испратен кога ќе бидете поврзани со WLAN"</string>
   <string name="toast_feedback_max">"Неможете да поднесете повеќе од 3 извештаи дневно"</string>
   <string name="toast_feedback_start">Собирање на податоци за дневниците...</string>
-  <string name="too_many_attachments">Постои ограничување на% 1 прикачувања $ s. Само првите% 2 $ s ќе бидат додадени.</string>
-  <string name="too_many_recipients">"Пораката има премногу примачи (% 1 $ s) Неможете да имате повеќе од% 2 $ s примачи."</string>
+  <string name="too_many_attachments">Постои ограничување на% 1 прикачувања $ s. Само првите %2$s  ќе бидат додадени.</string>
+  <string name="too_many_recipients">"Пораката има премногу примачи ( %1$s ) Неможете да имате повеќе од %2$s  примачи."</string>
   <string name="too_many_unsent_mms">"Неможете да пратите порака во моментов. Премногу неиспратени мултимедијални пораки.".</string>
   <string name="try_to_send">Обидете се да се испратите</string>
   <string name="type_attachment">прикачи</string>
@@ -496,7 +496,7 @@
   <string name="unstick">Откачи</string>
   <string name="unstick_conversation">Откачи го тековниот разговор</string>
   <string name="unsticked_conversation">Разговор е веќе откачен</string>
-  <string name="unsupported_media_format">Неподдржан% 1 $ s формат.</string>
+  <string name="unsupported_media_format">Неподдржан %1$s  формат.</string>
   <string name="user_agreement1">Прочитајте ги внимателно применливите услови пред да инсталирате дополнителен софтвер или користите го овој производ.</string>
   <string name="user_agreement2">"Кориснички договор"</string>
   <string name="user_agreement3">"и"</string>

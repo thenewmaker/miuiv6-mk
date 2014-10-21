@@ -3,14 +3,14 @@
   <string name="account_detail">"Xiaomi сметка:
 %1$s"</string>
   <string name="app_name">Mi Кредит</string>
-  <string name="balance_payment">% 1 $ s Mi Кредити</string>
+  <string name="balance_payment"> %1$s  Mi Кредити</string>
   <string name="balance_title">Баланс</string>
   <string name="bankcall_bank_account">Картичка од банка</string>
   <string name="bankcall_call_hint">Ќе добиете повик од UnionPay (020-96.585) наскоро.</string>
   <string name="bankcall_card">Картичка од банка</string>
   <string name="bankcall_card_hint">Ве молиме внесете број на сметка</string>
-  <string name="bankcall_card_type">% 1 $ S-% 2 $ s</string>
-  <string name="bankcall_card_type_tailnum">% 1 $ S-% 2 $ s (карта бр% 3 $ s)</string>
+  <string name="bankcall_card_type">% 1 $ S- %2$s </string>
+  <string name="bankcall_card_type_tailnum">% 1 $ S- %2$s  (карта бр% 3 $ s)</string>
   <string name="bankcall_city">Град</string>
   <string name="bankcall_credit_card">Кредитна картичка</string>
   <string name="bankcall_debit_card">Дебитна картичка</string>
@@ -28,12 +28,12 @@
   <string name="bankcall_phone_credit_hint">"Жиро сметките и соодветниот личен телефонски број"</string>
   <string name="bankcall_phone_debit_hint">Бидете сигурни дека ќе имате добра интернет конекција.</string>
   <string name="bankcall_province">Провинцијата</string>
-  <string name="bankcall_saved_card_info">% 1 $ S - картичка бр% 2 $ s</string>
+  <string name="bankcall_saved_card_info">% 1 $ S - картичка бр %2$s </string>
   <string name="bankcall_xiaomi_company">Xiaomi Корпорација (Пекинг)</string>
   <string name="btn_agree">Се согласувам</string>
   <string name="btn_back">Врати</string>
   <string name="btn_call">Повик</string>
-  <string name="btn_count_down_auto">Истражи по % 1 $ s секунди</string>
+  <string name="btn_count_down_auto">Истражи по  %1$s  секунди</string>
   <string name="btn_delete_record">Избриши</string>
   <string name="btn_finish">Заврши</string>
   <string name="btn_mili_center_recharge">Дополни Mi кредит</string>
@@ -100,12 +100,12 @@
   <string name="error_network_summary">"Неможе да се поврзе на мрежата."</string>
   <string name="error_server_summary">Грешка на серверот. Ве молиме обидете се повторно подоцна</string>
   <string name="error_user_id_mismatch_summary">Ве молиме проверете и повторно најавете се со вашата сметка</string>
-  <string name="fee">% 1 $ s Mi кредит</string>
+  <string name="fee"> %1$s  Mi кредит</string>
   <string name="forget_password">&lt;u&gt; Заборавена лозинка &lt;/ u&gt;</string>
   <string name="format_date">MMM. dd, yyyy</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
   <string name="frozen">Замрзнато</string>
-  <string name="giftcard_acitivity_and_denomination">% 2 $ s-Mi кредит подарок од% 1 $ s</string>
+  <string name="giftcard_acitivity_and_denomination"> %2$s -Mi кредит подарок од %1$s </string>
   <string name="giftcard_define_detail">Користете ги овие подарок картички исто како и редовните Mi кредити. Може да добиете подарок картички по учеството во Xiaomi настани и промоции.</string>
   <string name="giftcard_denom">Mi кредитни</string>
   <string name="giftcard_denom_available">Mi кредит на располагање</string>
@@ -113,9 +113,9 @@
   <string name="giftcard_empty">Нема подарок картички.</string>
   <string name="giftcard_expire"> %1$s  истеченно</string>
   <string name="giftcard_hint">Mi кредити додадени преку подарок картичката ќе бидат потрошени најпрвин автоматски.</string>
-  <string name="giftcard_payment">% 1 $ s Mi Кредити</string>
+  <string name="giftcard_payment"> %1$s  Mi Кредити</string>
   <string name="giftcard_push_notification_prime_title">"Вие примивте подарок сертификат"</string>
-  <string name="giftcard_push_notification_sub_title"> %1$s  s:% 2 $ s Mi кредити раздавање.</string>
+  <string name="giftcard_push_notification_sub_title"> %1$s  s: %2$s  Mi кредити раздавање.</string>
   <string name="giftcard_record">Мој подарок картички</string>
   <string name="giftcard_title">Mi кредит подарок картичка</string>
   <string name="giftcard_value">Вклучи% 1 $ S-Mi кредит подарок картичка</string>
@@ -171,7 +171,7 @@
   <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt; Заборавена шематска лозинка &lt;/ u&gt;</string>
   <string name="login">Најави се</string>
   <string name="memu_refresh">Освежи</string>
-  <string name="mibi_license_message">"Вие ќе користите Mi кредити, што е услуга обезбедена од Xiaomi Inc. Пред да можете да ја користите оваа услуга, мора да се согласувате со Условите за Користење наведени во% 1 $. Притиснете ок ако се согласувате со условите опишани во% 1 $ s. Потребен ви е интернет со. "</string>
+  <string name="mibi_license_message">"Вие ќе користите Mi кредити, што е услуга обезбедена од Xiaomi Inc. Пред да можете да ја користите оваа услуга, мора да се согласувате со Условите за Користење наведени во% 1 $. Притиснете ок ако се согласувате со условите опишани во %1$s . Потребен ви е интернет со. "</string>
   <string name="mibi_license_message_span">Кориснички договор за Mi кредити </string>
   <string name="mibi_license_title">Услови</string>
   <string name="mili_center">Mi кредити</string>
@@ -184,9 +184,9 @@
   <string name="msg_picker_hint_1_1">1</string>
   <string name="msg_picker_hint_1_2">Надополување преку текст можеби е поскапо: &lt;боја на фонт = црвени&gt; ¥ %1$d  = %2$d  Mi кредити &lt;/ font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">операторите наплаќаат ¥% 1 $ s членарина за надополнување</string>
+  <string name="msg_picker_hint_2_2">операторите наплаќаат ¥ %1$s  членарина за надополнување</string>
   <string name="msg_picker_hint_3_1">3</string>
-  <string name="msg_picker_hint_3_2">Максимално месечно надополнување: ¥% 1 $ s</string>
+  <string name="msg_picker_hint_3_2">Максимално месечно надополнување: ¥ %1$s </string>
   <string name="msg_progress_hint_2_1">Вашиот мрежен оператор е контактиран!</string>
   <string name="msg_progress_hint_2_2">Ќе добиете потврда со порака наскоро.</string>
   <string name="msg_send_no_net_error">"Неуспешно испраќање порака:Неможе да се поврзе со мрежниот оператор."</string>
@@ -202,7 +202,7 @@
   <string name="msg_telecom_picker_hint_2_1">Вашиот оператор е контактиран!</string>
   <string name="msg_telecom_picker_hint_2_2">Ќе добиете СМС потврда за кратко време</string>
   <string name="msg_telecom_sending">Контактирање оператор...</string>
-  <string name="order_price">% 1 $ s Mi Кредити</string>
+  <string name="order_price"> %1$s  Mi Кредити</string>
   <string name="partner_giftcard_payment">%1$sMi Кредити（%2$s）</string>
   <string name="password_error">Лозинката е неточна.</string>
   <string name="password_forget">заборави?</string>
@@ -213,7 +213,7 @@
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_error_install">Неуспешно инсталирање %1$s мобилен безбедносен додаток</string>
   <string name="paytool_error_msp">%1$s неуспешно</string>
-  <string name="paytool_msp_not_installed">Немате инсталирано% 1 $ s мобилен додаток за безбедност, инсталирате сега?</string>
+  <string name="paytool_msp_not_installed">Немате инсталирано %1$s  мобилен додаток за безбедност, инсталирате сега?</string>
   <string name="paytool_tenpay">Tenpay</string>
   <string name="pc_pay_login">Ве молам најавете се</string>
   <string name="pc_pay_website">mibi.xiaomi.com</string>
@@ -231,7 +231,7 @@
   <string name="prepaid_picker_hint_1_2">Само поддржува еднократно плаќање;</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"Избраната номинална вредност мора да биде во согласност со онаа на при-пејд картичка Избирајќи друга вредност ќе ја уништи картичката. Оваа акција неможе да се врати назад."</string>
-  <string name="prepaid_picker_hint_2_2_b">Ако номиналната вредност на при-пејд картичка не е &lt;бојата на фонтот = црвени&gt; ¥% 1 $ s &lt;/ font&gt;, картичката ќе биде поништена. Xiaomi не е одговорен за било каква парична загуба, која се јавува како резултат на корисничка грешка.</string>
+  <string name="prepaid_picker_hint_2_2_b">Ако номиналната вредност на при-пејд картичка не е &lt;бојата на фонтот = црвени&gt; ¥ %1$s  &lt;/ font&gt;, картичката ќе биде поништена. Xiaomi не е одговорен за било каква парична загуба, која се јавува како резултат на корисничка грешка.</string>
   <string name="prepaid_picker_title_default">Изберете износ</string>
   <string name="prepaid_picker_title_selected">износ</string>
   <string name="processing">加载 中</string>
@@ -239,24 +239,24 @@
   <string name="progress_bankcall_card_querying">Проверување вид на сметка...</string>
   <string name="progress_creating">Враќање информации од нарачката...</string>
   <string name="progress_downloading">Почекајте...</string>
-  <string name="progress_error_pay_summary">% 1 $ s Mi Кредити наполнети, но плаќањето не успеа, ве молиме обидете се повторно подоцна.</string>
+  <string name="progress_error_pay_summary"> %1$s  Mi Кредити наполнети, но плаќањето не успеа, ве молиме обидете се повторно подоцна.</string>
   <string name="progress_error_pay_title">Плаќањето не успеа</string>
   <string name="progress_error_recharge_summary">Надополнувањето не успеа, ве молиме обидете се повторно подоцна.</string>
   <string name="progress_error_recharge_title">Надополнувањето не успеа</string>
   <string name="progress_loading">обработка...</string>
   <string name="progress_mipay_creating">Генерирање нарачка...</string>
   <string name="progress_msg_creating">Генерирање надополнета нарачка...</string>
-  <string name="progress_paytool_creating">Генерирање% 1 $ s нарачка...</string>
+  <string name="progress_paytool_creating">Генерирање %1$s  нарачка...</string>
   <string name="progress_paytool_installing">Инсталирање% мобилен додаток за безбедност 1 $ s...</string>
   <string name="progress_prepaid_creating">Генерирање нарачка...</string>
   <string name="progress_querying">Обработка...</string>
   <string name="progress_submit_hint">Надополнувањето ќе се одрази во вашиот баланс на сметката во рок од 3 минути.</string>
-  <string name="progress_submit_recharge_summary">Надополување:% 1 $ s Mi кредити.</string>
+  <string name="progress_submit_recharge_summary">Надополување: %1$s  Mi кредити.</string>
   <string name="progress_submit_title">Барањето испратено</string>
-  <string name="progress_success_pay_summary">% 1 $ s Mi кредити надополнети,% 2 $ s Mi кредити платени</string>
-  <string name="progress_success_pay_title">% 1 $ s Плаќањето на Mi кредити завршено</string>
-  <string name="progress_success_recharge_summary">Баланс на сметка:% 1 $ s Mi кредити.</string>
-  <string name="progress_success_recharge_title">% 1 $ s Mi кредити надополнување завршено</string>
+  <string name="progress_success_pay_summary"> %1$s  Mi кредити надополнети, %2$s  Mi кредити платени</string>
+  <string name="progress_success_pay_title"> %1$s  Плаќањето на Mi кредити завршено</string>
+  <string name="progress_success_recharge_summary">Баланс на сметка: %1$s  Mi кредити.</string>
+  <string name="progress_success_recharge_title"> %1$s  Mi кредити надополнување завршено</string>
   <string name="progress_voucher_creating">Надополнување на Mi Кредитна картичка...</string>
   <string name="progress_warning_check_with_contact">"Наплаќањето не достигна до вашиот профил сеуште
 Ние ќе провериме повторно во рок од два работни дена
@@ -264,9 +264,9 @@
   <string name="progress_warning_waiting">" Плаќање не достигна до вашиот профил сеуште ".</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_bankcall_title">Банка картичка</string>
-  <string name="recharge_grid_edit_limit">¥% 1 $ s ~% 2 $ s</string>
-  <string name="recharge_grid_edit_upper_limit">"Неможе да надмине ¥% 1 $ s"</string>
-  <string name="recharge_grid_error_denomination">Ве молиме внесете го точниот износ помеѓу ¥% 1 $ s ~% 2 $ s</string>
+  <string name="recharge_grid_edit_limit">¥ %1$s  ~ %2$s </string>
+  <string name="recharge_grid_edit_upper_limit">"Неможе да надмине ¥ %1$s "</string>
+  <string name="recharge_grid_error_denomination">Ве молиме внесете го точниот износ помеѓу ¥ %1$s  ~ %2$s </string>
   <string name="recharge_grid_picker_hint">Изберете износ</string>
   <string name="recharge_group_familiar">Заеднички методи</string>
   <string name="recharge_group_favorite">Користете го прехдониот метод на надополнување</string>
@@ -277,12 +277,12 @@
   <string name="recharge_other">Види други методи</string>
   <string name="recharge_pcpay_title">Компјутер</string>
   <string name="recharge_prepaid_title">Припејд картичка</string>
-  <string name="recharge_push_notification_prime_title"> %1$d  додадени% 2 $ s Mi Кредити на вашата сметка</string>
+  <string name="recharge_push_notification_prime_title"> %1$d  додадени %2$s  Mi Кредити на вашата сметка</string>
   <string name="recharge_push_notification_sub_title">Надополнување завршенo.</string>
   <string name="recharge_record_empty">Нема записи за надопонување.</string>
   <string name="recharge_tenpay_title">Tenpay</string>
   <string name="recharge_voucher_title">Mi Кредитна картичка</string>
-  <string name="scan_prompt_number">скенира% 1 $ s припејд број на картичката</string>
+  <string name="scan_prompt_number">скенира %1$s  припејд број на картичката</string>
   <string name="scan_prompt_password">скенира% 1 $ S лозинка на припејд картичката</string>
   <string name="scan_prompt_retry">Чувајте го кодот постојан</string>
   <string name="scan_prompt_voucher">Скенирај лозинка на Mi кредит</string>
@@ -291,7 +291,7 @@
   <string name="sms_code_hint">Верификационен код на Мобилниот телефон</string>
   <string name="summary_bind_phone">За да се осигура безбедноста на вашата сметка, ве молиме завршете го плаќање по обврзувачкиот мобилен телефонски број</string>
   <string name="summary_lockpattern">Потребена е уникатна шема за заклучување Mi кредити</string>
-  <string name="summary_sms_code">За да се осигури безбедноста на вашиот профил, ве молам внесете верификационен код добиен на телефон% 1 $ s, а потоа завршете го плаќањето</string>
+  <string name="summary_sms_code">За да се осигури безбедноста на вашиот профил, ве молам внесете верификационен код добиен на телефон %1$s , а потоа завршете го плаќањето</string>
   <string name="title_bind_phone">обврзувачки мобилен телефон бр</string>
   <string name="title_change_lockpattern">Конфигурирај шема за заклучување</string>
   <string name="title_discounts">Попусти</string>
@@ -302,7 +302,7 @@
   <string name="title_nopassword">"Не е препорачано за мали плаќања"</string>
   <string name="title_nopassword_dialog">Дневен лимит</string>
   <string name="title_password">Лозинка</string>
-  <string name="title_password_threshold">Дневен лимит = ¥% 1 $ s</string>
+  <string name="title_password_threshold">Дневен лимит = ¥ %1$s </string>
   <string name="title_pay_record">евиденцијата за плаќање</string>
   <string name="title_recharge">Дополни Mi кредити</string>
   <string name="title_recharge_record">Надополнување записи</string>
@@ -310,7 +310,7 @@
   <string name="title_transaction">Трансакции</string>
   <string name="title_visible_pattern">Направете шема видлива</string>
   <string name="unit">Mi кредити</string>
-  <string name="unit_value">% 1 $ s Ми кредитни</string>
+  <string name="unit_value"> %1$s  Ми кредитни</string>
   <string name="voucher_card_text">Ве молиме изгребете ја заштитата</string>
   <string name="voucher_edit_limit">бројки</string>
   <string name="voucher_error_password">Кодот е невалиден.</string>

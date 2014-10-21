@@ -194,8 +194,8 @@
   <string name="add_photo_attachment">Прикачи слика</string>
   <string name="add_star">Додај ѕвезда</string>
   <string name="add_video_attachment">Прикачи видео</string>
-  <string name="address_display_format"> %1$s  на |% 2 $ s</string>
-  <string name="address_display_format_with_via_domain">% 1 $ S% 2 $ s преку% 3 $ s</string>
+  <string name="address_display_format"> %1$s  на | %2$s </string>
+  <string name="address_display_format_with_via_domain">% 1 $ S %2$s  преку% 3 $ s</string>
   <string name="all_folders_heading">Сите папки</string>
   <string name="allread">Сите Прочитани</string>
   <string name="always_bcc_myself">Секогаш Bcc Мене</string>
@@ -251,11 +251,11 @@
   <string name="cannot_move_special_mailboxes_toast">"Пораки во Незавршени, За праќање, и Испратени неможе да се преместат"</string>
   <string name="cant_move_or_change_labels">"Неможе да премести бидејќи селекцијата содржи повеќе сметки"</string>
   <string name="cc">Cc</string>
-  <string name="cc_attribution">Cc:% 1 $ s 
+  <string name="cc_attribution">Cc: %1$s  
 </string>
   <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Cc: "</string>
-  <string name="change_account_confirm">Оваа сметка \ "% 1 $ s \" ќе биде отстранета од WPS пошта.</string>
+  <string name="change_account_confirm">Оваа сметка \ " %1$s  \" ќе биде отстранета од WPS пошта.</string>
   <string name="change_account_type">Промени вид на сметка</string>
   <string name="change_folders_selection_dialog_title">Промени папки</string>
   <string name="change_sync_settings">Промени нагодувања на синхронизација</string>
@@ -284,14 +284,14 @@
   <string name="confirm_send_message_with_no_subject">"Нема текст во полето за предмет"</string>
   <string name="confirm_send_title">Испрати порака?</string>
   <string name="contact_content_provider">Контакт Содржина провајдер</string>
-  <string name="contact_info_string">Прикажи информации на контакт за% 1 $ s</string>
+  <string name="contact_info_string">Прикажи информации на контакт за %1$s </string>
   <string name="contact_info_string_default">Прикажи информации за контакт</string>
   <string name="contact_list_add_btn">Додај</string>
   <string name="contact_list_search_hint">Барај контакти</string>
   <string name="contact_list_title">Контакти</string>
   <string name="contact_select">Изберете контакти</string>
-  <string name="content_description">% 1 $ s за% 2 $ s,% 3 $ s на% 4 $ s,% 5 $ s</string>
-  <string name="content_description_today">% 1 $ s за% 2 $ s,% 3 $ s на% 4 $ s,% 5 $ s</string>
+  <string name="content_description"> %1$s  за %2$s ,% 3 $ s на% 4 $ s,% 5 $ s</string>
+  <string name="content_description_today"> %1$s  за %2$s ,% 3 $ s на% 4 $ s,% 5 $ s</string>
   <string name="contextmenu_add_contact">Додади контакт</string>
   <string name="contextmenu_copy">Копирајте</string>
   <string name="contextmenu_copylink">Копирај URL линк</string>
@@ -303,7 +303,7 @@
   <string name="contextmenu_send_mail">Испрати е-маил</string>
   <string name="contextmenu_sharelink">Сподели линк</string>
   <string name="contextmenu_sms_dot">СМС...</string>
-  <string name="conversation_folder_moved">Преместен во% 1 $ s</string>
+  <string name="conversation_folder_moved">Преместен во %1$s </string>
   <string name="conversation_item_mark_read">Прочитај</string>
   <string name="conversation_item_mark_unread">Непрочитани</string>
   <string name="conversation_list_net_check">Неможе да се поврзе на мрежата, ве молиме проверете ги подесувањата на мрежата или обидете се подоцна</string>
@@ -315,9 +315,9 @@
   <string name="custom_from_account_label">Испрати е-пошта како:</string>
   <string name="date">2888/88/88</string>
   <string name="date_heading">"Датум:"</string>
-  <string name="date_message_received"> %1$s  s,% 2 $ s</string>
-  <string name="date_message_received_today">Денес,% 1 $ s</string>
-  <string name="date_message_received_yesterday">Вчера,% 1 $ s</string>
+  <string name="date_message_received"> %1$s  s, %2$s </string>
+  <string name="date_message_received_today">Денес, %1$s </string>
+  <string name="date_message_received_yesterday">Вчера, %1$s </string>
   <string name="debug_clear_webview_cache">Јасно WebView кеш</string>
   <string name="debug_disable_graphics_acceleration_label">Оневозможи забрзување на хардвер графика </string>
   <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
@@ -333,7 +333,7 @@
   <string name="default_setup">СТАНДАРДНИ ПОСТАВУВАЊА</string>
   <string name="default_signature">Испратено од мојот Xiaomi</string>
   <string name="delete">Избриши</string>
-  <string name="delete_conversation_hint_message"> %1$d % 2 $ s избришани</string>
+  <string name="delete_conversation_hint_message"> %1$d  %2$s  избришани</string>
   <string name="deleted">Избришани</string>
   <string name="device_activity_btn_str">Вратете се да Активирате</string>
   <string name="device_activity_lint_str">Овозможи е-пошта сервисот за целосно ажурирање и активирајте заштитна опрема</string>
@@ -359,7 +359,7 @@
   <string name="download_before_sharing">"Не е завршено превземањето сеуште"</string>
   <string name="download_cancel_confirm_title">Превземањето ќе биде откажано.</string>
   <string name="download_complete_not_cancel">Превземањето заврши</string>
-  <string name="download_confirm_message">Преземи% 1 $ s прикачок?</string>
+  <string name="download_confirm_message">Преземи %1$s  прикачок?</string>
   <string name="download_confirm_title">Превземи прикачок</string>
   <string name="download_failed">"Неможе да преземе. Допрете да се обидете повторно."</string>
   <string name="downloading_message_body">Превземање е-пошта, ве молиме почекајте...</string>
@@ -379,7 +379,7 @@
   <string name="empty_spam_dialog_title">Празен спам?</string>
   <string name="empty_trash">Испразни Ѓубре</string>
   <string name="empty_trash_dialog_title">Испразни Ѓубре?</string>
-  <string name="enable_sync_in_account_settings">Вклучете во% 1 $ s.</string>
+  <string name="enable_sync_in_account_settings">Вклучете во %1$s .</string>
   <string name="enumeration_comma">","</string>
   <string name="enumeration_delimiter">"|"</string>
   <string name="exception_cancel">Овој настан е откажан за: %s </string>
@@ -395,7 +395,7 @@
   <string name="file_not_found">"Неможе да пронајде датотека"</string>
   <string name="file_not_found_reDownload">"Неможе да пронајде датотека"</string>
   <string name="file_rar_not_support">"Неможе да отвори шифрирани rar датотеки"</string>
-  <string name="filtered_tag">[% 1 $ s]% 2 $ s</string>
+  <string name="filtered_tag">[ %1$s ] %2$s </string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_en0">Недовршени</string>
@@ -404,7 +404,7 @@
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_picker_title">Одбирач на датотеки</string>
-  <string name="folder_removed">Отстранет од% 1 $ s</string>
+  <string name="folder_removed">Отстранет од %1$s </string>
   <string name="folder_sent_name_cn0">已 发送</string>
   <string name="folder_sent_name_cn1">已 发 邮件</string>
   <string name="folder_sent_name_cn2">已 发送 邮件</string>
@@ -418,7 +418,7 @@
   <string name="folder_trash_name_en1">Избришани пораки</string>
   <string name="folder_trash_name_en2">Избришани порака</string>
   <string name="formatted_email_address">&lt; %1$s  s&gt;</string>
-  <string name="formatted_subject">% 1 $ S% 2 $ s</string>
+  <string name="formatted_subject">% 1 $ S %2$s </string>
   <string name="forward">Напред</string>
   <string name="forward_attachment">Напред</string>
   <string name="forward_attribution">---------- Препратена порака ----------&lt;br&gt;From: %1$s&lt;br&gt;Date: %2$s&lt;br&gt;Subject: %3$s&lt;br&gt;To: %4$s&lt;br&gt;</string>
@@ -447,7 +447,7 @@
   <string name="hide_elided">▼ Скриј цитиран текст</string>
   <string name="hide_folders">Сокриј папки</string>
   <string name="hierarchical_folder_parent_top"> %1$s  S /% 2 $ S /</string>
-  <string name="hierarchical_folder_parent_top_ellip">% 1 $ s /... /% 2 $ S /</string>
+  <string name="hierarchical_folder_parent_top_ellip"> %1$s  /... /% 2 $ S /</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Одговори на сите</string>
   <string name="ignore_spam_warning">Игнорирај, И верувам оваа порака</string>
@@ -556,10 +556,10 @@ CC: %4$s
   <string name="message_view_attachment_background_load">Една или повеќе приклучоци во вашата препратена порака ќе биде преемена пред испраќање.</string>
   <string name="more_atts_total"> %1$d  прилози</string>
   <string name="more_info_attachment">Информации</string>
-  <string name="more_string">+% 1 $ s</string>
+  <string name="more_string">+ %1$s </string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Преместено во друга папка</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;  %1$s  s &lt;/ b&gt; "% 2 $ s"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt;  %1$s  s &lt;/ b&gt; " %2$s "</string>
   <string name="mute">Замолчено</string>
   <string name="name_or_number_is_error">Грешка на корисничкото име или лозинка</string>
   <string name="network_error">Нема конекција</string>
@@ -695,8 +695,8 @@ CC: %4$s
   <string name="release_to_refresh">Пушти за да освежи</string>
   <string name="remote_folders_heading">Серверски Папки</string>
   <string name="remove_account">Отстрани сметка</string>
-  <string name="remove_account_confirm">Оваа сметка \ "% 1 $ s \" ќе биде отстранета од WPS пошта.</string>
-  <string name="remove_folder">Отстрани од% 1 $ s</string>
+  <string name="remove_account_confirm">Оваа сметка \ " %1$s  \" ќе биде отстранета од WPS пошта.</string>
+  <string name="remove_folder">Отстрани од %1$s </string>
   <string name="remove_star">Отстрани ѕвезда</string>
   <string name="reply">Одговори</string>
   <string name="reply_all">Одговори на сите</string>
@@ -752,7 +752,7 @@ CC: %4$s
   <string name="shortcut_name_title">име на кратенката на папка</string>
   <string name="show_elided">▶ Прикажи цитиран текст</string>
   <string name="show_images">Превземи и да покажи слики</string>
-  <string name="show_n_more_folders">Прикажи% 1 $ s повеќе папки</string>
+  <string name="show_n_more_folders">Прикажи %1$s  повеќе папки</string>
   <string name="signature">"
 
 
@@ -760,9 +760,9 @@ CC: %4$s
 % S "</string>
   <string name="signin">Најави се</string>
   <string name="silent_ringtone">Замолчено</string>
-  <string name="single_new_message_notification_big_text">"% 1 $ s
-% 2 $ s "</string>
-  <string name="single_new_message_notification_title">% 1 $ s:% 2 $ s</string>
+  <string name="single_new_message_notification_big_text">" %1$s 
+ %2$s  "</string>
+  <string name="single_new_message_notification_title"> %1$s : %2$s </string>
   <string name="sort_attachment">Сортирај по</string>
   <string name="spaceChar">" "</string>
   <string name="status_network_error">" Неможе да се поврзе на мрежата. Проверете ја вашата податочна конекција и обидете се повторно. "</string>
@@ -791,20 +791,20 @@ CC: %4$s
   <string name="to">До</string>
   <string name="to_heading">"До:"</string>
   <string name="too_large_to_attach_additional">Датотеката не е прикачена. %1$s лимитот достигнат.</string>
-  <string name="too_large_to_attach_multiple">Една или повеќе датотеки не се прикачени. Ограничи% 1 $ s.</string>
-  <string name="too_large_to_attach_single">"Неможе да прикачи датотека преку% 1 $ s".</string>
+  <string name="too_large_to_attach_multiple">Една или повеќе датотеки не се прикачени. Ограничи %1$s .</string>
+  <string name="too_large_to_attach_single">"Неможе да прикачи датотека преку %1$s ".</string>
   <string name="trash_folder_selection_title">Изберете сервер папка на ѓубре за %s </string>
   <string name="trigger_compose_char">в</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">а</string>
   <string name="trigger_y_char">y</string>
-  <string name="turn_auto_sync_on_dialog_body">Промените што ги правите на сите апликации и профили, не само на Gmail, ќе бидат синхронизирани помеѓу веб, вашите други уреди, и вашите% 1 $ s.</string>
+  <string name="turn_auto_sync_on_dialog_body">Промените што ги правите на сите апликации и профили, не само на Gmail, ќе бидат синхронизирани помеѓу веб, вашите други уреди, и вашите %1$s .</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Вклучете</string>
   <string name="turn_auto_sync_on_dialog_title">Вклучете авто-синхронизација?</string>
   <string name="undo">Врати</string>
   <string name="unread_string">Разговор непрочитан</string>
-  <string name="unsent_messages_in_outbox">% 1 $ s неиспратени во% 2 $ s</string>
-  <string name="updated_at">Последно ажурирани:% 1 $ s</string>
+  <string name="unsent_messages_in_outbox"> %1$s  неиспратени во %2$s </string>
+  <string name="updated_at">Последно ажурирани: %1$s </string>
   <string name="updated_just_now">Само што е освежено</string>
   <string name="validation_failed_prompt">Валидација неуспеа, ве молиме поставите го %s  серверот</string>
   <string name="veiled_address">
@@ -815,7 +815,7 @@ CC: %4$s
   </string>
   <string name="veiled_summary_unknown_person">
   </string>
-  <string name="via_domain">преку% 1 $ s</string>
+  <string name="via_domain">преку %1$s </string>
   <string name="view_more_conversations">View more conversations</string>
   <string name="wait_for_manual_sync_body">"Оваа сметка не е подесена да се синхронизира автоматски.Допрете "&lt;b&gt;Синхронизирај Сега&lt;/b&gt; да синхрониирате пошта еднаш, or &lt;b&gt;Променете Поставувања на Синхронизација&lt;/b&gt; Да ја подесите оваа сметка да ја синхронизира поштата автоматски.</string>
   <string name="wait_for_sync_body">Вашата e-поштаl ќе се појави наскоро.</string>
@@ -835,9 +835,9 @@ CC: %4$s
   <string name="xiaomi_external_storage_unavailable">Меморијата недостапна, ве молиме проверете ја SD картичка.</string>
   <string name="xiaomi_kilobytes_unit">% 1 $ СКБ</string>
   <string name="xiaomi_megabytes_unit">% 1 $ SMB</string>
-  <string name="xiaomi_update_dialog_message">"Воведување на верзијата% 1 $ sГолемина:% 2 $ s "</string>
-  <string name="xiaomi_update_dialog_message_diff">"Воведување на верзијата% 1 $ sДелта големина на ажурирање:% 2 $ s "</string>
-  <string name="xiaomi_update_dialog_title">% 1 $ s ажурирање!</string>
+  <string name="xiaomi_update_dialog_message">"Воведување на верзијата %1$s Големина: %2$s  "</string>
+  <string name="xiaomi_update_dialog_message_diff">"Воведување на верзијата %1$s Делта големина на ажурирање: %2$s  "</string>
+  <string name="xiaomi_update_dialog_title"> %1$s  ажурирање!</string>
   <string name="yes">Да</string>
   <string name="zip_viewer_no_file">Празно</string>
 </resources>

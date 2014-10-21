@@ -4,7 +4,7 @@
   <string name="configure">Конфигурирај</string>
   <string name="data_received">Примено:</string>
   <string name="data_transmitted">Испратено:</string>
-  <string name="data_value_format">% 1 $ s бајти /% 2 $ s пакети</string>
+  <string name="data_value_format"> %1$s  бајти / %2$s  пакети</string>
   <string name="disconnect">Дисконектирај</string>
   <string name="duration">Времетраење:</string>
   <string name="legacy_title">VPN е поврзан</string>

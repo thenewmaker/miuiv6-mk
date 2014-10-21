@@ -2,7 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Има проблем при анализирањето на пакетот.</string>
   <string name="Parse_error_dlg_title">Грешка при анализирање</string>
-  <string name="allow_source_dlg_text">"% 1 $ s сака да инсталира други апликации.
+  <string name="allow_source_dlg_text">" %1$s  сака да инсталира други апликации.
 
 Дозволи сега и во иднина?"</string>
   <string name="allow_source_dlg_title">Дозволете нов извор за апликации?</string>
@@ -10,10 +10,10 @@
   <string name="app_not_found_dlg_text">Апликацијата не беше пронајдена во листата на инсталирани апликации.</string>
   <string name="app_not_found_dlg_title">Апликацијата не е пронајдена</string>
   <string name="auto_startup_dialog_msg">Оваа апликација може да започне без ваша дозвола.</string>
-  <string name="caller_app">повикувач:% 1 $ s</string>
+  <string name="caller_app">повикувач: %1$s </string>
   <string name="cancel">Откажи</string>
   <string name="dlg_app_replacement_statement">"Апликацијата што ја инсталирате ќе замени друга апликација. Сите претходни податоци ќе бидат зачувани."</string>
-  <string name="dlg_app_replacement_statement_with_version">" %1$s  s (% 2 $ s) ќе ја замени моменталната инсталирана верзија (% 3 $ s). Содржината на корисникот ќе биде задржана.
+  <string name="dlg_app_replacement_statement_with_version">" %1$s  s ( %2$s ) ќе ја замени моменталната инсталирана верзија (% 3 $ s). Содржината на корисникот ќе биде задржана.
 Сигурно да инсталирате?"</string>
   <string name="dlg_app_replacement_title">Замени апликација</string>
   <string name="dlg_ok">OK</string>
@@ -66,7 +66,7 @@
   <string name="permission_group_title_settings_related">Нагодувања</string>
   <string name="permission_send_sms_descx">Апликацијата може да испрати СМС и ММС</string>
   <string name="privacy_relative">Приватни релативни дозволи</string>
-  <string name="safe_guard_support">Техничка поддршка обезбедена од% 1 $ s</string>
+  <string name="safe_guard_support">Техничка поддршка обезбедена од %1$s </string>
   <string name="safe_relative">Безбедни релативни дозволи</string>
   <string name="security_settings_desc">Дозволете оваа апликација да:</string>
   <string name="settings">Подесувања</string>

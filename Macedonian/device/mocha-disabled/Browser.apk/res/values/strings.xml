@@ -312,7 +312,7 @@
   <string name="miuichromium_save_password_remember">Запомни</string>
   <string name="month_picker_dialog_title">Намести месец</string>
   <string name="move_to_up_folder">Премести во претходната папка</string>
-  <string name="multi_select_title">Избрани се% 1 $ s проекти</string>
+  <string name="multi_select_title">Избрани се %1$s  проекти</string>
   <string name="name">Етикета</string>
   <string name="nav_screen_cancel_incognitotab">Откажи инкогнито</string>
   <string name="nav_screen_newincognitotab">Инкогнито</string>
@@ -460,7 +460,7 @@
   <string name="profiler_error_toast">Неуспеа да започне профили</string>
   <string name="profiler_no_storage_toast">"Неможе да започне профили поради тоа што надворешната меморија не е спремна"</string>
   <string name="profiler_started_toast">Профили започна</string>
-  <string name="profiler_stopped_toast">профили заврши. Резултатите се во% 1 $ s.</string>
+  <string name="profiler_stopped_toast">профили заврши. Резултатите се во %1$s .</string>
   <string name="progress_dialog_setting_wallpaper">Поставување позадина...</string>
   <string name="quicklink_have_deleted">Оваа страница е избришана</string>
   <string name="quicklink_have_modified">Оваа страница беше изменета</string>

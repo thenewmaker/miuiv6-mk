@@ -206,7 +206,7 @@
   <string name="navigation_search_positioning_failed">Изберете град</string>
   <string name="nearby_no_yellow_page">Нема резултати во близина</string>
   <string name="nearby_yellow_page_title">близина</string>
-  <string name="nearby_yellow_page_title_format">% 1 $ S-% 2 $ s</string>
+  <string name="nearby_yellow_page_title_format">% 1 $ S- %2$s </string>
   <string name="network_unavaliable">"Неможе да се конектира на мрежата"</string>
   <string name="no_brief">Нема вовед</string>
   <string name="no_evaluation">Нема преглед</string>
@@ -218,7 +218,7 @@
   <string name="order_empty_hint">Нема налози</string>
   <string name="order_id_label">ID нарачка: %s </string>
   <string name="order_merchant_title">Мој нарачки</string>
-  <string name="order_merchant_title_format">% 1 $ S-% 2 $ s</string>
+  <string name="order_merchant_title_format">% 1 $ S- %2$s </string>
   <string name="order_not_found">Нема поврзани нарачки</string>
   <string name="order_price_label">цена нарачка: %s </string>
   <string name="order_product_name_label">"Име на производот:"</string>
@@ -243,7 +243,7 @@
   <string name="quick_yellow_page_tab_call_log">Дневник на повици</string>
   <string name="quick_yellow_page_tab_phones">Телефон</string>
   <string name="recharge_actual_price">Цена:</string>
-  <string name="recharge_charge_range">Цена: RBM% 1 $ S-% 2 $ s</string>
+  <string name="recharge_charge_range">Цена: RBM% 1 $ S- %2$s </string>
   <string name="recharge_charge_value">Цена: RBM %s </string>
   <string name="recharge_history">Историја на надополнување сметка</string>
   <string name="recharge_history_empty">Празно</string>
@@ -268,7 +268,7 @@
   <string name="recharge_status_description">Статус:</string>
   <string name="recharge_title">Надополнување</string>
   <string name="recharge_unknown_number">Непознат</string>
-  <string name="recharge_user_confirm_summary">"Ќе се наплаќа RBM% 2 $ за% 1 $ s
+  <string name="recharge_user_confirm_summary">"Ќе се наплаќа RBM% 2 $ за %1$s 
 
 Вкупно:. Јени % 3 $ s "</string>
   <string name="recharge_user_confirm_title">Потврди</string>
@@ -280,7 +280,7 @@
   <string name="scan">Скенирајте</string>
   <string name="select">Изберете</string>
   <string name="select_package_before_buy">Изберете пакет</string>
-  <string name="selected_category_format">назнака на %2$d  луѓе како% 1 $ s.</string>
+  <string name="selected_category_format">назнака на %2$d  луѓе како %1$s .</string>
   <string name="send_shortcut_failed">"не можеше да се испрати"</string>
   <string name="send_shortcut_success">Ставено на почетниот екран</string>
   <string name="sending_shortcut">Испраќање...</string>
@@ -306,8 +306,8 @@
   <string name="upload_and_verify_fraud_num_on">Сподели блокиран telemarketer инфо</string>
   <string name="user_agreement2">"Договор со корисникот"</string>
   <string name="user_agreement4">Политика на приватност</string>
-  <string name="user_notice_identify_summary_format">"Вашиот телефон ќе го користи MIUI База на податоци за да блокира несакани повици кога уредот е поврзан со WLAN. Со допирање \" Се согласувам \ "вие се согласувате со Xiaomi % 1$ s и% 2 $ s."</string>
-  <string name="user_notice_identify_summary_format_cta">"Вашиот телефон ќе го користи MIUI. База на податоци за да блокира несакани повици кога уредот е поврзан со WLAN Со допирање \" Се согласувам \ "вие се согласувате со Xiaomi % 1$ s и% 2 $ s."</string>
+  <string name="user_notice_identify_summary_format">"Вашиот телефон ќе го користи MIUI База на податоци за да блокира несакани повици кога уредот е поврзан со WLAN. Со допирање \" Се согласувам \ "вие се согласувате со Xiaomi % 1$ s и %2$s ."</string>
+  <string name="user_notice_identify_summary_format_cta">"Вашиот телефон ќе го користи MIUI. База на податоци за да блокира несакани повици кога уредот е поврзан со WLAN Со допирање \" Се согласувам \ "вие се согласувате со Xiaomi % 1$ s и %2$s ."</string>
   <string name="user_notice_yp_detail_summary_format">".? Некои од вашите натписи директориум инфо е застарена Дали сакате да го ажурирате Со допирање \" Се согласувам \ "вие се согласувате со Xiaomi %1$s и%2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Некои од вашиот директориум инфо е застарена Дали сакате да го ажурирате Со допирање \.?" Се согласувам \ "вие се согласувате со Xiaomi %1$s и%2$s."</string>
   <string name="voicemail">Говорна пошта</string>

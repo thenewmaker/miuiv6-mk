@@ -5,7 +5,7 @@
   <string name="account_default">Таблет</string>
   <string name="account_phone">таблет-само unsynced</string>
   <string name="account_sim">SIM картичка</string>
-  <string name="account_type_format">% 1 $ s контакт</string>
+  <string name="account_type_format"> %1$s  контакт</string>
   <string name="actionIncomingCall">Дојдовни повици</string>
   <string name="action_menu_overflow_description">Повеќе опции</string>
   <string name="activity_title_confirm_add_detail">Додај во контакт</string>
@@ -69,7 +69,7 @@
   <string name="call_home">Повикај дома</string>
   <string name="call_isdn">Повикај ISDN</string>
   <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">( %1$d )% 2 $ s</string>
+  <string name="call_log_item_count_and_date">( %1$d ) %2$s </string>
   <string name="call_log_new_header">Ново</string>
   <string name="call_log_old_header">Постаро</string>
   <string name="call_main">Повикај главни</string>
@@ -83,7 +83,7 @@
   <string name="call_settings">Подесувања</string>
   <string name="call_telex">Повикај телекс</string>
   <string name="call_tty_tdd">Повикај TTY/TDD</string>
-  <string name="call_type_and_date">% 1 $ S% 2 $ s</string>
+  <string name="call_type_and_date">% 1 $ S %2$s </string>
   <string name="call_work">Повикај работа</string>
   <string name="call_work_mobile">Повикај мобилен од работа</string>
   <string name="call_work_pager">Повик пејџер од работа</string>
@@ -182,19 +182,19 @@
   <string name="contact_detail_calllog_call_note_tips">Забелешки</string>
   <string name="contact_detail_calllog_call_record_tips">Снимај повик</string>
   <string name="contact_detail_picture_description">Слика. Изберете да променте</string>
-  <string name="contact_directory_description">Директориум% 1 $ s</string>
+  <string name="contact_directory_description">Директориум %1$s </string>
   <string name="contact_edit_title_edit">Уреди контакт</string>
   <string name="contact_edit_title_insert">Додај %s  контакт</string>
   <string name="contact_edit_title_readonly">Само за читање контакт</string>
   <string name="contact_editor_prompt_multiple_accounts">Изберете контакт сметка за да се зачува во</string>
-  <string name="contact_editor_prompt_one_account">Вашиот нов контакт ќе биде синхронизиран со% 1 $ s.</string>
+  <string name="contact_editor_prompt_one_account">Вашиот нов контакт ќе биде синхронизиран со %1$s .</string>
   <string name="contact_editor_prompt_zero_accounts">Зачувај во мобилен или во нова онлајн сметка</string>
   <string name="contact_is_readOnly">"Неможе да се променат контакти само за читање."</string>
   <string name="contact_list_loading">Вчитување...</string>
   <string name="contact_pick_photo">Фото</string>
   <string name="contact_read_only">Неможе да се уредува од оваа апликација.</string>
   <string name="contact_status_update_attribution">преку %1$s</string>
-  <string name="contact_status_update_attribution_with_date"> %1$s  на преку% 2 $ s</string>
+  <string name="contact_status_update_attribution_with_date"> %1$s  на преку %2$s </string>
   <string name="contact_unfavorite_toast">Отстрането од омилени</string>
   <string name="contactsAllLabel">Контакти</string>
   <string name="contactsFavoritesLabel">Омилени</string>
@@ -224,7 +224,7 @@
   <string name="delete_dial_input">Избриши</string>
   <string name="delete_duplicate">Спој</string>
   <string name="delete_duplicate_message">"Спојување контакти..."</string>
-  <string name="delete_group_dialog_message">Избриши ја групата \ "% 1 $ s \"? (Самите контакти нема да бидат избришани.)</string>
+  <string name="delete_group_dialog_message">Избриши ја групата \ " %1$s  \"? (Самите контакти нема да бидат избришани.)</string>
   <string name="delete_group_dialog_title">Избриши група</string>
   <string name="delete_selected_sim_entry_miui">Избриши ги означените контакти</string>
   <string name="delete_sim_entries_finish">Бришењето на контакти од SIM картичката завршено</string>
@@ -232,7 +232,7 @@
   <string name="delete_unknown_contact_calllog_title">Избриши ги дневниците на повици?</string>
   <string name="deleting_sim_entry_miui">Бришење контакти на SIM картичката...</string>
   <string name="description_add_contact">Додади контакт</string>
-  <string name="description_call">Повикај% 1 $ s</string>
+  <string name="description_call">Повикај %1$s </string>
   <string name="description_call_log_incoming_call">Дојдовен повик</string>
   <string name="description_call_log_missed_call">Пропуштен повик</string>
   <string name="description_call_log_outgoing_call">Појдовен повик</string>
@@ -242,7 +242,7 @@
   <string name="description_contact_photo">контакт фотографија</string>
   <string name="description_delete_button">избриши</string>
   <string name="description_dial_button">бирај</string>
-  <string name="description_dial_phone_number">Бирај телефонски% 1 $ s</string>
+  <string name="description_dial_phone_number">Бирај телефонски %1$s </string>
   <string name="description_digits_edittext">број да бирате</string>
   <string name="description_image_button_eight">осум</string>
   <string name="description_image_button_five">пет</string>
@@ -258,10 +258,10 @@
   <string name="description_image_button_zero">Нула</string>
   <string name="description_minus_button">минус</string>
   <string name="description_plus_button">плус</string>
-  <string name="description_quick_contact_for">Брз контакт за% 1 $ s</string>
+  <string name="description_quick_contact_for">Брз контакт за %1$s </string>
   <string name="description_search_button">пребарај</string>
-  <string name="description_send_message">Испрати порака до% 1 $ s</string>
-  <string name="description_send_text_message">Испрати текстуална порака на% 1 $ s</string>
+  <string name="description_send_message">Испрати порака до %1$s </string>
+  <string name="description_send_text_message">Испрати текстуална порака на %1$s </string>
   <string name="description_star">омилен</string>
   <string name="description_view_contact_detail">Види контакт</string>
   <string name="description_voicemail_button">говорна пошта</string>
@@ -269,7 +269,7 @@
   <string name="device_bluetooth_title">Префрли контакти</string>
   <string name="device_brand_title">Изберете бренд</string>
   <string name="device_import_account_dialog_title">Изберете сметка</string>
-  <string name="device_import_account_dialog_title_suffix">"(пронајдени% 1 $ s контакти)"</string>
+  <string name="device_import_account_dialog_title_suffix">"(пронајдени %1$s  контакти)"</string>
   <string name="device_import_done_toast"> %1$d  контакти увезени</string>
   <string name="device_import_failed_message">Увозот не успеа</string>
   <string name="device_import_local_account">Локална сметка</string>
@@ -361,7 +361,7 @@
   <string name="exporting_contact_list_title">Извезување податоци за контакт</string>
   <string name="exporting_vcard_canceled_title">Извоз на %s  откажани.</string>
   <string name="exporting_vcard_finished_title">Завршен извоз на %s .</string>
-  <string name="external_profile_title">Мој % 1 $ s профил</string>
+  <string name="external_profile_title">Мој  %1$s  профил</string>
   <string name="fail_reason_could_not_initialize_exporter">"Не можеше да се започне извозникот: \" %s  \ "."</string>
   <string name="fail_reason_could_not_open_file" formatted="false">"Не можеше да се отвори  \" %s  \ ": %s ."</string>
   <string name="fail_reason_error_occurred_during_export">Се случи грешка при извоз: \ " %s  \".</string>
@@ -384,7 +384,7 @@
   <string name="frequency_three_days">Секои 3 дена</string>
   <string name="frequency_weekly">Секоја недела</string>
   <string name="frequentList">Чести</string>
-  <string name="from_account_format">% 1 $ s</string>
+  <string name="from_account_format"> %1$s </string>
   <string name="full_name">Име</string>
   <string name="generic_no_account_prompt">Чувајте ги вашите контакти безбедени, дури и ако го изгубите вашиот телефон: синхронизирајте со онлајн сервис.</string>
   <string name="generic_no_account_prompt_title">Додај сметка</string>
@@ -464,7 +464,7 @@
   <string name="import_weibo_error_user_cancel">Корисникот откажа.</string>
   <string name="import_weibo_fetch_followers">Примам контакти...</string>
   <string name="import_weibo_notification_title_done">Ажурирано  %s  контакти</string>
-  <string name="import_weibo_progress_name">Спарување на \ "% 1 $ s \"...</string>
+  <string name="import_weibo_progress_name">Спарување на \ " %1$s  \"...</string>
   <string name="import_weibo_progress_percent"> %1$d  %%</string>
   <string name="importing_sim_contacts_miui">Внесување контакти од SIM картичката...</string>
   <string name="importing_vcard_canceled_title">Внесување  %s   откажано</string>
@@ -708,7 +708,7 @@
   <string name="option_view_contact">Види</string>
   <string name="option_view_group">Види</string>
   <string name="organizationLabelsGroup">Организација</string>
-  <string name="organization_company_and_title">% 2 $ s,% 1 $ s</string>
+  <string name="organization_company_and_title"> %2$s , %1$s </string>
   <string name="other_contacts">Други контакти</string>
   <string name="other_phone">Други телефони</string>
   <string name="partys_day">建党 节</string>
@@ -1040,7 +1040,7 @@
   <string name="voicemail_status_voicemail_not_available">"Неможе да се повре со серверот на говорната пошта."</string>
   <string name="websiteLabelsGroup">Вебстрана</string>
   <string name="white_dews">白露</string>
-  <string name="widget_name_and_phonetic"> %1$s  s (% 2 $ s)</string>
+  <string name="widget_name_and_phonetic"> %1$s  s ( %2$s )</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
   <string name="wipe_data">Исчисти податоци</string>

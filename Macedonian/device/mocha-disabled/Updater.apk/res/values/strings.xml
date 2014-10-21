@@ -111,7 +111,7 @@
   <string name="share_update_content_unsign">"јас го надградив MIUI во %1$s! за детален дневник на промените, посетете %2$s"</string>
   <string name="sign_in_add_account">Активирајте ја вашата Xiaomi сметка сега.</string>
   <string name="sign_in_add_account_helper">Примање на кориснијки поени кога ќе креирате Xiaomi сметка.</string>
-  <string name="sign_in_info">"Статус на надградба:% 1 $ s% 2 $ s  корисници веќе се пријавија во MIUI% 3 $ s"</string>
+  <string name="sign_in_info">"Статус на надградба: %1$s  %2$s   корисници веќе се пријавија во MIUI% 3 $ s"</string>
   <string name="sign_in_info_rank_more">"Статус на надградба: %1$sПреку %2$s корисници веќе се пријавија во MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Статус на надградба: %1$sПреку %2$s корисници веќе се пријавија во MIUI %3$s"</string>
   <string name="stable_build">Стабилна верзија</string>

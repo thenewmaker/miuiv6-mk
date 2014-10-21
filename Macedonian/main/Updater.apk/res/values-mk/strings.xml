@@ -121,16 +121,16 @@
   <string name="share_qq">постирај на Tencent Weibo</string>
   <string name="share_sina">постирај на Сина Weibo</string>
   <string name="share_update">Сподели информации за надградбата</string>
-  <string name="share_update_content_sign">"Јас надградив MIUI% 1 $ јас бев% 2 $ s лице за надградување, За детални Промени, одете на% 3 $ s "</string>
-  <string name="share_update_content_unsign">" Јас надградив MIUI до% 1 $ s За детални Промени, одете на% 2 $ s "</string>
+  <string name="share_update_content_sign">"Јас надградив MIUI% 1 $ јас бев %2$s  лице за надградување, За детални Промени, одете на% 3 $ s "</string>
+  <string name="share_update_content_unsign">" Јас надградив MIUI до %1$s  За детални Промени, одете на %2$s  "</string>
   <string name="sign_in_add_account">активирате ја вашата Mi сметка</string>
   <string name="sign_in_add_account_helper">синхронизирате ги вашите контакти, слики, и многу повеќе на уредите</string>
-  <string name="sign_in_info">"Ажурирај статус:% 1 $ s
-% 2 $ s корисниците веќе се проверени во за MIUI% 3 $ s"</string>
-  <string name="sign_in_info_rank_more">"Ажурирај статус:% 1 $ s
-во текот% 2 $ s корисниците веќе проверени во за MIUI% 3 $ s "</string>
-  <string name="sign_in_info_total_more">" Ажурирај статус:% 1 $ s
-текот% 2 $ s корисниците веќе го проверени во MIUI% 3 $ s "</string>
+  <string name="sign_in_info">"Ажурирај статус: %1$s 
+ %2$s  корисниците веќе се проверени во за MIUI% 3 $ s"</string>
+  <string name="sign_in_info_rank_more">"Ажурирај статус: %1$s 
+во текот %2$s  корисниците веќе проверени во за MIUI% 3 $ s "</string>
+  <string name="sign_in_info_total_more">" Ажурирај статус: %1$s 
+текот %2$s  корисниците веќе го проверени во MIUI% 3 $ s "</string>
   <string name="sina_share_fail">Не успеа да испрати</string>
   <string name="sina_share_pendding">Испраќање...</string>
   <string name="sina_share_success">Испратено</string>

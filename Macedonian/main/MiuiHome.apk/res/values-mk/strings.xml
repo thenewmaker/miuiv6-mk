@@ -73,7 +73,7 @@
   <string name="gadget_search_label">Барај</string>
   <string name="gadget_weather_app_not_installed">"допрете за да ја преземете апликацијата за време на MIUI"</string>
   <string name="gadget_weather_aqi_title">"Квалитетот на воздухот:"</string>
-  <string name="gadget_weather_download_message">Вие треба да ја превземете содржината на апликацијата:% 1 $ s (% 2 $ s). Рестартирајте ја апликацијата кога превземањето ќе заврши.</string>
+  <string name="gadget_weather_download_message">Вие треба да ја превземете содржината на апликацијата: %1$s  ( %2$s ). Рестартирајте ја апликацијата кога превземањето ќе заврши.</string>
   <string name="gadget_weather_download_start">Превземи</string>
   <string name="gadget_weather_download_title">Превземи</string>
   <string name="gadget_weather_downloading">Превземање на содржината на апликацијата. Рестартирајте ја апликацијата кога превземањето ќе заврши.</string>

@@ -38,7 +38,7 @@
 За да ја овозможите оваа функција, оди во Подесувања&gt; Систем&gt; Копчиња"</string>
   <string name="fm_record_smaple_prefix_miui">FM снимање</string>
   <string name="fools_day">愚人节</string>
-  <string name="force_exit_message">Присилно исклучено% 1 $ s</string>
+  <string name="force_exit_message">Присилно исклучено %1$s </string>
   <string name="force_exit_skip_message">% 1 $ е клучна компонента на системот, не може да биде присилно исклучена.</string>
   <string name="global_actions_airplane_mode">Авионски режим</string>
   <string name="global_actions_reboot">Рестартирајте</string>
@@ -92,7 +92,7 @@
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
   <string name="memory_clear_nothing_result">Нема што да се исчисти во кеш</string>
-  <string name="memory_clear_result">% 1 $ s ослободена |% 2 $ на располагање</string>
+  <string name="memory_clear_result"> %1$s  ослободена |% 2 $ на располагање</string>
   <string name="miui_device_name">Андроид</string>
   <string name="national_day">国庆节</string>
   <string name="national_father_day">國父誕辰</string>
