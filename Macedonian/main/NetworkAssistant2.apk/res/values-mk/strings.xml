@@ -3,16 +3,16 @@
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Освежено пред повеќе од еден месец</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">освежено пред повеќе од една недела</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Освежено пред 1 недела</string>
-  <string name="adjust_traffic_carrier_summary_today">освежено денес на% s</string>
+  <string name="adjust_traffic_carrier_summary_today">освежено денес на %s </string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Освежено пред 2 дена</string>
-  <string name="adjust_traffic_carrier_summary_yesterday">Обновено вчера на% s</string>
+  <string name="adjust_traffic_carrier_summary_yesterday">Обновено вчера на %s </string>
   <string name="adjust_traffic_data">Постави користење на податоци</string>
   <string name="app_detail">Детали</string>
   <string name="app_mobile">Податоци</string>
   <string name="app_name">употреба на податоци</string>
   <string name="app_version">Верзија</string>
   <string name="app_wifi">WLAN</string>
-  <string name="background_traffic">Позадина% s</string>
+  <string name="background_traffic">Позадина %s </string>
   <string name="begin_date">Употреби циклус на ресетирање датум</string>
   <string name="cancel_button">Откажи</string>
   <string name="chat_number">10 часа</string>
@@ -30,7 +30,7 @@
   <string name="data_usage_mobile_limit_snoozed_title">Границата користење на податоци е надмината</string>
   <string name="data_usage_mobile_limit_title">Мобилните податоци се изгасени</string>
   <string name="data_usage_no_total_package_body">Допрете за да поставите лимит за користење на датата.</string>
-  <string name="data_usage_no_total_package_body_dual">Допрете за да поставите лимит за користење на датата за% s.</string>
+  <string name="data_usage_no_total_package_body_dual">Допрете за да поставите лимит за користење на датата за %s .</string>
   <string name="data_usage_no_total_package_title">Лимит на дата користење</string>
   <string name="data_usage_restricted_body">Допрете за да овозможите позадинска дата</string>
   <string name="data_usage_restricted_title">Позадински податоци забранети</string>
@@ -38,7 +38,7 @@
   <string name="data_usage_warning_title">Предупредување за користење на датата</string>
   <string name="datausage_ignore_app_list_count">"Игнорирање% d користење на датата од апликации"</string>
   <string name="datausage_purchase_backto_ns">Назад</string>
-  <string name="datausage_purchase_banner_title">% s Најдобра понуда (ексклузивно)</string>
+  <string name="datausage_purchase_banner_title"> %s  Најдобра понуда (ексклузивно)</string>
   <string name="datausage_purchase_buy">Купи</string>
   <string name="datausage_purchase_confirm_tip">Вашата нарачка:</string>
   <string name="datausage_purchase_get_captcha">Земете верификационен код (% d)</string>
@@ -53,12 +53,12 @@
   <string name="datausage_purchase_pay_captcha_hint">Внесете го кодот што го добивте тука</string>
   <string name="datausage_purchase_pay_captcha_tips">Откако ќе го добиете вашиот код за потврда, внесете го во полето погоре и допрете \ "Купи \" за да се заврши купувањето. Имајте на ум дека кодот ќе важи само 10 минути.</string>
   <string name="datausage_purchase_pay_confirm">Купи</string>
-  <string name="datausage_purchase_pay_hint">За да откажете, бирајте% s</string>
+  <string name="datausage_purchase_pay_hint">За да откажете, бирајте %s </string>
   <string name="datausage_purchase_pkglist_networkerror">"не можеше да се поврзе на мрежата Проверете ја вашата податочна врска и обидете се повторно.".</string>
   <string name="datausage_purchase_pkglist_nodata">"Има конфликт помеѓу вашиот моментален пакет на дата и пакетот што пробувате да го купите. Обратете се кај вашиот мобилен оператор за повеќе информации."</string>
   <string name="datausage_purchase_pkglist_servererror">Упс! Нешто не беше во ред со нашиот сервер.</string>
   <string name="datausage_purchase_result_failed">"не можеше да купи податоци. Обратете се кај вашиот мобилен оператор за повеќе информации за ова прашање.".</string>
-  <string name="datausage_purchase_result_ok">"Вие купивте% sЗа повеќе информации проверете ја пораката што ја добивте од вашиот мобилен оператор "</string>
+  <string name="datausage_purchase_result_ok">"Вие купивте %s За повеќе информации проверете ја пораката што ја добивте од вашиот мобилен оператор "</string>
   <string name="datausage_purchase_time_in">"за"</string>
   <string name="datausage_purchase_title_confirm">Детали на набавката</string>
   <string name="datausage_purchase_title_order">Набави додатна дата</string>
@@ -80,7 +80,7 @@
   <string name="firewall_service_network_blocked">% $ 1 s е забрането од користење на% 2 $ s мрежи</string>
   <string name="force_stop_dlg_text">"Ако ги забраните позадинските мобилни податоци, некои апликации и услуги нема да работат, освен ако не се поврзете со некоја WLAN мрежа"</string>
   <string name="force_stop_dlg_title">Забрани позадински податоци</string>
-  <string name="foreground_traffic">Преден план% s</string>
+  <string name="foreground_traffic">Преден план %s </string>
   <string name="free_time_traffic">Граница на ефтина тарифа на податоци</string>
   <string name="free_time_traffic_hint">Внесете лимит за евтина тарифа на податоци</string>
   <string name="free_time_traffic_settings">Подесувања на граница на ефтина дата тарифа</string>
@@ -116,17 +116,17 @@
 Тарифа:% 1 $ S% 2 $ s останати |% 3 $ s се користи"</string>
   <string name="main_secondary_message_traffic_over">над</string>
   <string name="main_secondary_message_traffic_remain">останати</string>
-  <string name="main_secondary_message_traffic_used_leisure">% s евтина тарифа на податоци</string>
-  <string name="main_secondary_message_traffic_used_noleisure">% s врвот на податоци се користи | нема останати дата податоци на евтина тарифа</string>
-  <string name="main_secondary_message_traffic_used_normal">% s врвот на податоци искористен</string>
+  <string name="main_secondary_message_traffic_used_leisure"> %s  евтина тарифа на податоци</string>
+  <string name="main_secondary_message_traffic_used_noleisure"> %s  врвот на податоци се користи | нема останати дата податоци на евтина тарифа</string>
+  <string name="main_secondary_message_traffic_used_normal"> %s  врвот на податоци искористен</string>
   <string name="main_toolbar_firewall">Ограничи ги апликациите од користење на датата</string>
   <string name="main_toolbar_purchase">Надополни</string>
   <string name="main_toolbar_saving">Заштедувач на датата</string>
   <string name="main_toolbar_statistic">Статистика за користењето на податоци</string>
   <string name="main_traffic_overlimit_text">над</string>
   <string name="main_traffic_remian_text">останато</string>
-  <string name="main_traffic_used">% s искористено</string>
-  <string name="main_traffic_used_only">% s искористено</string>
+  <string name="main_traffic_used"> %s  искористено</string>
+  <string name="main_traffic_used_only"> %s  искористено</string>
   <string name="main_traffic_used_text">искористено</string>
   <string name="manual_input_free_traffic">Постави евтина тарифа за користење на податоци</string>
   <string name="manual_input_traffic">Намести користење на датата</string>
@@ -193,7 +193,7 @@
   <string name="pref_new_installed_preconfig_title">Стандардни поставувања за нови апликации</string>
   <string name="pref_open_adjust_traffic">"Синхронизирај ги статистиките за користење на твојата дата со серверите на твојот оператор"</string>
   <string name="pref_package_traffic_leisure">% $ 1 s | Евтина тарифа:% 2 $ s</string>
-  <string name="pref_package_traffic_normal">Максимум:% s</string>
+  <string name="pref_package_traffic_normal">Максимум: %s </string>
   <string name="pref_package_traffic_overlay">% 1 $ s | Дополнителни:% 2 $ s</string>
   <string name="pref_package_traffic_settings">Ограничување на мобилната дата</string>
   <string name="pref_pkg_begin_date">Дата на ресетирање на циклусот за користење</string>
@@ -217,7 +217,7 @@
   <string name="pref_traffic_saving_title">Поставувања на заштедата на дата</string>
   <string name="pref_traffic_saving_whitelist">Исклучоци</string>
   <string name="pref_traffic_saving_whitelist_hint">Подигнитите дата ограничувањата за селектираната група на апликации</string>
-  <string name="pref_version">Верзија% s</string>
+  <string name="pref_version">Верзија %s </string>
   <string name="pref_warning_values">Предупредување за користење на датата</string>
   <string name="read_number">86 статии</string>
   <string name="read_unit">"статии"</string>
@@ -235,7 +235,7 @@
   </string>
   <string name="tips_dialog_title">"Не го знаете вашиот лимит?"</string>
   <string name="tips_message">"Ако ви е нејасно за деталите на вашиот безжичен план, можете да ги видите со бирање% 2 $ s (% 1 $ s)."</string>
-  <string name="traffic_config_alert_body">"Сметководството на вашиот оператор покажува дека имате искористено% sАжурирајте ги информациите за вашето користење на дата?"</string>
+  <string name="traffic_config_alert_body">"Сметководството на вашиот оператор покажува дека имате искористено %s Ажурирајте ги информациите за вашето користење на дата?"</string>
   <string name="traffic_config_alert_body_leisure">"Сметководството на вашиот оператор покажува дека имате искористено %1$s од вашата ефтина тарифа за овој месец, оваа е поинаква од %2$s таа што ја наместивте рачно."</string>
   <string name="traffic_config_alert_body_leisure_notset">""Сметководството на вашиот оператор покажува дека имате искористено %s од ефтината тарифа е преостанато. Вие немате наместено лимит за ефтината тарифа на датата."</string>
   <string name="traffic_config_alert_body_normal">"Сметководството на вашиот оператор покажува дека имате искористено %1$s од вашата ефтина тарифа за овој месец, оваа е поинаква од %2$s Што на наместивте рачно."</string>
@@ -243,7 +243,7 @@
   <string name="traffic_config_alert_nomore">"Не покажувај повторно повторно"</string>
   <string name="traffic_config_alert_ok">OK</string>
   <string name="traffic_config_alert_setted">Подесувања применуваат</string>
-  <string name="traffic_config_alert_title">корекција% s</string>
+  <string name="traffic_config_alert_title">корекција %s </string>
   <string name="traffic_correction_failed">"Неможе да ги добие информациите за користење на дата"</string>
   <string name="traffic_correction_start_correction">"Зборувајќи со серверите на операторот..."</string>
   <string name="traffic_correction_start_correction_failed">барањето не успеа, ве молиме проверете ги поставките на оператор</string>
@@ -253,7 +253,7 @@
   <string name="traffic_protection_label">Предупредување за користење на датата</string>
   <string name="traffic_protection_next">Следно</string>
   <string name="traffic_protection_summary">Поставете аларм кога вашето користење на датата ќе достигне одредено ниво</string>
-  <string name="traffic_protection_text_hint">Постави граница на користење на датата за% s</string>
+  <string name="traffic_protection_text_hint">Постави граница на користење на датата за %s </string>
   <string name="traffic_protection_unknown">&lt;u&gt; Подеси подоцна &lt;/ u&gt;</string>
   <string name="traffic_protection_use_data">Податоци овозможени</string>
   <string name="traffic_saving_button_sorted">Детали</string>
@@ -273,7 +273,7 @@
   <string name="traffic_saving_msg_month">Зачувано овој месец</string>
   <string name="traffic_saving_msg_not_started">Заштеда на податоци е исклучена</string>
   <string name="traffic_saving_msg_today">зачувано денес</string>
-  <string name="traffic_saving_notify_start_content">% s зачувано овој месец</string>
+  <string name="traffic_saving_notify_start_content"> %s  зачувано овој месец</string>
   <string name="traffic_saving_notify_start_title">Намалување го твоето користење на дата</string>
   <string name="traffic_saving_tecsupport">Подржано од Opera Max</string>
   <string name="traffic_saving_title">Заштеда на Дата</string>

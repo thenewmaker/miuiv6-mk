@@ -8,15 +8,15 @@
   <string name="alarm_alert_predismiss_title">Претстоен аларм</string>
   <string name="alarm_alert_snooze_set">Одложување за% d минути.</string>
   <string name="alarm_alert_snooze_text">Оддложи</string>
-  <string name="alarm_alert_snooze_until">Оддложување до% s</string>
+  <string name="alarm_alert_snooze_until">Оддложување до %s </string>
   <string name="alarm_button_description">Аларми</string>
   <string name="alarm_deleted">аларм избришан.</string>
   <string name="alarm_klaxon_service_desc">Службата за репродукција на звук за алармите поставен во часовник.</string>
   <string name="alarm_list_title">Аларми</string>
-  <string name="alarm_missed_text" formatted="false">% s -% s</string>
+  <string name="alarm_missed_text" formatted="false"> %s  - %s </string>
   <string name="alarm_missed_title">Пропуштен аларм</string>
-  <string name="alarm_notify_snooze_label">% s (оддложено)</string>
-  <string name="alarm_notify_snooze_text">аларм поставен за% s. Допрете за да откажете.</string>
+  <string name="alarm_notify_snooze_label"> %s  (оддложено)</string>
+  <string name="alarm_notify_snooze_text">аларм поставен за %s . Допрете за да откажете.</string>
   <string name="alarm_notify_text">Оддложи или откажи аларм.</string>
   <string name="alarm_repeat">Повтори</string>
   <string name="alarm_settings">АЛАРМИ</string>
@@ -50,13 +50,13 @@
   <string name="clock_style">Стил</string>
   <string name="collapse_alarm">Спушти аларм</string>
   <string name="control_set_alarm">Постави аларм</string>
-  <string name="control_set_alarm_with_existing">% s</string>
+  <string name="control_set_alarm_with_existing"> %s </string>
   <string name="current_zone">Моментална временска зона</string>
   <string name="day">1 ден</string>
   <string name="day_concat">","</string>
   <string name="day_of_week_label_typeface">Sans-Serif</string>
   <string name="day_picker_description">Месец мрежа на денови</string>
-  <string name="days">% s денови</string>
+  <string name="days"> %s  денови</string>
   <string name="default_clock_style">дигитално</string>
   <string name="default_label">Аларм</string>
   <string name="default_ringtone_setting_title">Поставете стандардна мелодија</string>
@@ -91,7 +91,7 @@
   <string name="home_time_zone_title">Домашна временска зона</string>
   <string name="hour">1 час</string>
   <string name="hour_picker_description">Часови кружен проклизувач</string>
-  <string name="hours">% s часови</string>
+  <string name="hours"> %s  часови</string>
   <string name="hours_label">h</string>
   <string name="hours_label_description">Часови</string>
   <string name="item_is_selected">% 1 $ s избрани</string>
@@ -116,14 +116,14 @@
   <string name="menu_timer">Тајмер</string>
   <string name="minute">1 минута</string>
   <string name="minute_picker_description">Минути кружен лизгач</string>
-  <string name="minutes">% s минути</string>
+  <string name="minutes"> %s  минути</string>
   <string name="minutes_label">m</string>
   <string name="minutes_label_description">минути</string>
   <string name="missed_alarm_has_been_deleted">Вашите пропуштен аларм е избришан</string>
   <string name="music_button_description">Музика</string>
   <string name="never">Никогаш</string>
-  <string name="next_alarm_description">Следен аларм :% s</string>
-  <string name="next_timer_notif">Следен тајмер:% s</string>
+  <string name="next_alarm_description">Следен аларм : %s </string>
+  <string name="next_timer_notif">Следен тајмер: %s </string>
   <string name="night_mode_summary">Многу слаб екран (за темни простории)</string>
   <string name="night_mode_title">Ноќен режим</string>
   <string name="nightmode_button_description">Слаб</string>
@@ -160,7 +160,7 @@
   <string name="sw_resume_button">Продолжи</string>
   <string name="sw_share_button">Сподели</string>
   <string name="sw_share_laps">Време на круг:</string>
-  <string name="sw_share_main">Моето време е% s</string>
+  <string name="sw_share_main">Моето време е %s </string>
   <string name="sw_start_button">Почеток</string>
   <string name="sw_stop_button">Стоп</string>
   <string name="swn_stopped">Стопирано</string>
@@ -200,7 +200,7 @@
   <string name="weather_fetch_failure">"Информацијата за времето не е достапна во моментов."</string>
   <string name="workday_alarm_clock">Работен ден аларм</string>
   <string name="world_clock_12_hours_format">h:mm &lt;font size="14" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
-  <string name="world_day_of_week_label">/ % s</string>
+  <string name="world_day_of_week_label">/  %s </string>
   <string name="worldclock_empty_text">Нема светски часовници</string>
   <string name="year_picker_description">Листа на година</string>
   <string name="zero">0</string>

@@ -38,7 +38,7 @@
   <string name="dialog_delete_descript">избришете% S?</string>
   <string name="dialog_hint_music_error">Не се пронајдени песни.</string>
   <string name="dialog_hint_network_error">"Неможе да се поврзе на мрежата. Проверете ја вашата податочна конекција и обидете се повторно.".</string>
-  <string name="dialog_remove_descript">Отстрани% s?</string>
+  <string name="dialog_remove_descript">Отстрани %s ?</string>
   <string name="dialog_title_add_playlist">Додај плејлиста</string>
   <string name="dialog_title_delete_tracks">Избриши</string>
   <string name="dialog_title_name_playlist">Име на плејлистата</string>
@@ -194,7 +194,7 @@
   <string name="sleep_mode_title">Стопирај го плеерот после одредено време</string>
   <string name="song_not_find">"Неможеше да пронајде песна. Проверете ја вашата податочна врска и пробајте повторно".</string>
   <string name="source_from">Извор:% 1 $ s</string>
-  <string name="streamloadingtext">Поврзување на% s</string>
+  <string name="streamloadingtext">Поврзување на %s </string>
   <string name="tab_album_list">Албум</string>
   <string name="tab_artist_list">Артист</string>
   <string name="tab_local_folder_list">Папка</string>

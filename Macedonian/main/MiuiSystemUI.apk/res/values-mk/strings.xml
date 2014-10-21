@@ -72,8 +72,8 @@
   <string name="data_usage_disabled_dialog_enable">Повторно овозможи дата</string>
   <string name="data_usage_disabled_dialog_mobile_title">Мобилни податоци за најава</string>
   <string name="data_usage_disabled_dialog_title">Датата оневозможена</string>
-  <string name="description_direction_left">Свртете лево за% s.</string>
-  <string name="description_direction_up">Лизнете нагоре за% s.</string>
+  <string name="description_direction_left">Свртете лево за %s .</string>
+  <string name="description_direction_up">Лизнете нагоре за %s .</string>
   <string name="description_target_search">Барај</string>
   <string name="dismount_storage">Не</string>
   <string name="dlg_confirm_kill_storage_users_text">Ако го вклучите USB уредот за складирање, некои апликации што ги користите ќе престанат и може да се недостапни додека не го исклучите USB уред за складирање.</string>
@@ -155,8 +155,8 @@
   <string name="status_bar_recent_guide_bottom">Лизгајте надолу за да заклучите</string>
   <string name="status_bar_recent_guide_top">Лизгајте нагоре за да затворите</string>
   <string name="status_bar_recent_inspect_item_title">Информации за апликацијата</string>
-  <string name="status_bar_recent_memory_info1">"% s"</string>
-  <string name="status_bar_recent_memory_info2">"% s се достапни"</string>
+  <string name="status_bar_recent_memory_info1">" %s "</string>
+  <string name="status_bar_recent_memory_info2">" %s  се достапни"</string>
   <string name="status_bar_recording_back">Врати се до Снимачот</string>
   <string name="status_bar_recording_pause">Снимачот паузиран</string>
   <string name="status_bar_settings_airplane">Авионски режим</string>

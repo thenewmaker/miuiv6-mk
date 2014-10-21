@@ -16,7 +16,7 @@
   <string name="add_account">Додај сметка</string>
   <string name="add_blacklist">Забрани</string>
   <string name="add_connection_button">Додај врска</string>
-  <string name="add_contact_dlg_message_fmt">Додај \ "% s \" во контакти?</string>
+  <string name="add_contact_dlg_message_fmt">Додај \ " %s  \" во контакти?</string>
   <string name="add_field">Додај друго поле</string>
   <string name="add_new_account">Додај нов профил</string>
   <string name="add_new_entry_for_section">Додај нов</string>
@@ -33,7 +33,7 @@
   <string name="anniversary_of_lifting_martial_law">解 嚴 紀念</string>
   <string name="anti_aggression_day">反侵略 日</string>
   <string name="antispam_mark_my_contribution">"Прикажи другите корисници дека јас го означив овој број."</string>
-  <string name="antispam_provider_format">Етикетирано како спам од страна на% s</string>
+  <string name="antispam_provider_format">Етикетирано како спам од страна на %s </string>
   <string name="arbor_day">植树节</string>
   <string name="armed_forces_day">軍人節</string>
   <string name="attach_photo_dialog_title">Контакт Фото</string>
@@ -45,7 +45,7 @@
   <string name="batch_delete">Избриши серија</string>
   <string name="batch_delete_msg">"Избриши% d контакти?Податоците на контактот се зачувани во вашата MiCloud сметката исто така ќе биде избришана."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth конекцијата е прекината</string>
-  <string name="blurbJoinContactDataWith">Изберете го контактот што сакате да го приклучите со% s:</string>
+  <string name="blurbJoinContactDataWith">Изберете го контактот што сакате да го приклучите со %s :</string>
   <string name="btn_delete_multi_contacts">Избриши% d</string>
   <string name="btn_delete_one_contact">Избриши контакт</string>
   <string name="btn_rotation">Ротација</string>
@@ -58,11 +58,11 @@
   <string name="callBack">Повик повторно</string>
   <string name="callDetailTitle">Детали на повикот</string>
   <string name="callShortcutActivityTitle">Изберете број за да повикате</string>
-  <string name="call_assistant">Повик% s</string>
+  <string name="call_assistant">Повик %s </string>
   <string name="call_callback">Повикај повратен повик</string>
   <string name="call_car">Повикај автомобил</string>
   <string name="call_company_main">Повикај главна компанија</string>
-  <string name="call_custom">Повик% s</string>
+  <string name="call_custom">Повик %s </string>
   <string name="call_disambig_title">Изберете број</string>
   <string name="call_fax_home">Повикај факс-дома</string>
   <string name="call_fax_work">Повикај факс-работа</string>
@@ -103,7 +103,7 @@
   <string name="callrecordview_menu_delete_accepted">Исчисти одговорени повици</string>
   <string name="callrecordview_menu_delete_all">Исчисти го дневникот на повици</string>
   <string name="callrecordview_menu_delete_called">Исчисти појдовни повици</string>
-  <string name="callrecordview_menu_delete_confirm">Потврди% s?</string>
+  <string name="callrecordview_menu_delete_confirm">Потврди %s ?</string>
   <string name="callrecordview_menu_delete_missed">Исчисти пропустени повици</string>
   <string name="callrecordview_menu_delete_new">Исчисти ги дневниците на новите контакти</string>
   <string name="callrecordview_menu_delete_one">Отстрани од дневникот на повици</string>
@@ -120,8 +120,8 @@
   <string name="callrecordview_menu_show_stranger">Повици од непознати броеви</string>
   <string name="callrecordview_menu_show_title">Прикажи дневник на повици </string>
   <string name="cancel_confirmation_dialog_message">Отфрли ги вашите промени?</string>
-  <string name="cancel_export_confirmation_message">Откажи извоз на% s?</string>
-  <string name="cancel_import_confirmation_message">Откажи увоз на% s?</string>
+  <string name="cancel_export_confirmation_message">Откажи извоз на %s ?</string>
+  <string name="cancel_import_confirmation_message">Откажи увоз на %s ?</string>
   <string name="cancel_import_dialog_message">Стопирај увозување на контакти?</string>
   <string name="cancel_import_dialog_title">Стоп</string>
   <string name="cancel_vcard_import_or_export_failed">"Неможеше да откаже увоз/извоз на визит картичка"</string>
@@ -168,7 +168,7 @@
   <string name="confirm_delete_contact_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_selected_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_sim_entry_miui">Избриши% d контакти на SIM картичката?</string>
-  <string name="confirm_export_message">Твојата контакт листа ќе биде извезена во датотеката:% s.</string>
+  <string name="confirm_export_message">Твојата контакт листа ќе биде извезена во датотеката: %s .</string>
   <string name="confirm_export_title">Извези контакти?</string>
   <string name="connections">Конекции</string>
   <string name="contactDetailAbout">За</string>
@@ -184,7 +184,7 @@
   <string name="contact_detail_picture_description">Слика. Изберете да променте</string>
   <string name="contact_directory_description">Директориум% 1 $ s</string>
   <string name="contact_edit_title_edit">Уреди контакт</string>
-  <string name="contact_edit_title_insert">Додај% s контакт</string>
+  <string name="contact_edit_title_insert">Додај %s  контакт</string>
   <string name="contact_edit_title_readonly">Само за читање контакт</string>
   <string name="contact_editor_prompt_multiple_accounts">Изберете контакт сметка за да се зачува во</string>
   <string name="contact_editor_prompt_one_account">Вашиот нов контакт ќе биде синхронизиран со% 1 $ s.</string>
@@ -217,7 +217,7 @@
   <string name="day_following_good_friday">耶穌 受難 節 翌日</string>
   <string name="default_ringtone">Стандарден рингтон</string>
   <string name="deleteConfirmation">Овој контакт ќе бидат избришан.</string>
-  <string name="deleteConfirmationDetail">Избриши \ "% s \"?</string>
+  <string name="deleteConfirmationDetail">Избриши \ " %s  \"?</string>
   <string name="deleteConfirmation_title">Избриши</string>
   <string name="delete_call_log_title">Изберете дневник на повик за да избришете</string>
   <string name="delete_contact_calllog_title">Избриши дневници на повици?</string>
@@ -322,7 +322,7 @@
   <string name="display_options_view_names_as">Прегледај ги имањата на контактите како</string>
   <string name="display_sim_contacts">Прикажи СИМ контакти</string>
   <string name="display_ungrouped">Сите други контакти</string>
-  <string name="display_warn_remove_ungrouped">Отстранувањето на \ "% s \" од синхронизирање, исто така, ќе ги отстрани било кои негрупирани контаки од синхронизација.</string>
+  <string name="display_warn_remove_ungrouped">Отстранувањето на \ " %s  \" од синхронизирање, исто така, ќе ги отстрани било кои негрупирани контаки од синхронизација.</string>
   <string name="dlg_add_blacklist">Блокирај го овој број?</string>
   <string name="dlg_remove_blacklist">Деблокирај го овој број?</string>
   <string name="double_seventh_day">七夕</string>
@@ -334,7 +334,7 @@
   <string name="edit_contact_card_title">Уреди ја картичката на контактот</string>
   <string name="email">Е-маил</string>
   <string name="emailLabelsGroup">Е-маил</string>
-  <string name="email_custom">E-маил % s</string>
+  <string name="email_custom">E-маил  %s </string>
   <string name="email_home">E-маил дома</string>
   <string name="email_mobile">Е-пошта мобилен</string>
   <string name="email_other">Е-маил</string>
@@ -356,22 +356,22 @@
   <string name="export_vcard_description">Извези визит карта во SD картичка</string>
   <string name="exporting_contact_failed_message">"Податоците од контактите не беше извезена.Причина:. \"% S \ ""</string>
   <string name="exporting_contact_failed_title">"Не можеше да се изнесе"</string>
-  <string name="exporting_contact_list_message">Вашите контакт податоци се извезуваат во:% s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">% s од % s контакти</string>
+  <string name="exporting_contact_list_message">Вашите контакт податоци се извезуваат во: %s .</string>
+  <string name="exporting_contact_list_progress" formatted="false"> %s  од  %s  контакти</string>
   <string name="exporting_contact_list_title">Извезување податоци за контакт</string>
-  <string name="exporting_vcard_canceled_title">Извоз на% s откажани.</string>
-  <string name="exporting_vcard_finished_title">Завршен извоз на% s.</string>
+  <string name="exporting_vcard_canceled_title">Извоз на %s  откажани.</string>
+  <string name="exporting_vcard_finished_title">Завршен извоз на %s .</string>
   <string name="external_profile_title">Мој % 1 $ s профил</string>
-  <string name="fail_reason_could_not_initialize_exporter">"Не можеше да се започне извозникот: \"% s \ "."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Не можеше да се отвори  \"% s \ ":% s."</string>
-  <string name="fail_reason_error_occurred_during_export">Се случи грешка при извоз: \ "% s \".</string>
+  <string name="fail_reason_could_not_initialize_exporter">"Не можеше да се започне извозникот: \" %s  \ "."</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Не можеше да се отвори  \" %s  \ ": %s ."</string>
+  <string name="fail_reason_error_occurred_during_export">Се случи грешка при извоз: \ " %s  \".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Не можеше да се соберат мета информации за дадената визит карта".</string>
-  <string name="fail_reason_failed_to_read_files">"Една или повеќе датотеки не можеше да бидат увезени (% s)".</string>
+  <string name="fail_reason_failed_to_read_files">"Една или повеќе датотеки не можеше да бидат увезени ( %s )".</string>
   <string name="fail_reason_io_error">I/O грешка</string>
   <string name="fail_reason_low_memory_during_import">Нема доволно меморија. Датотеката може да е премногу голема.</string>
   <string name="fail_reason_no_exportable_contact">Нема контакт за извезување.</string>
   <string name="fail_reason_not_supported">"Форматот не е подржан."</string>
-  <string name="fail_reason_too_long_filename">Потребното име на датотеката е предолго (\ "% s \").</string>
+  <string name="fail_reason_too_long_filename">Потребното име на датотеката е предолго (\ " %s  \").</string>
   <string name="fail_reason_too_many_vcard">Премногу визит карти има на SD картичката.</string>
   <string name="fail_reason_unknown">Непозната грешка.</string>
   <string name="fail_reason_vcard_parse_error">"Не можеше да се анализира визит картата поради неочекувана причина."</string>
@@ -463,13 +463,13 @@
   <string name="import_weibo_error_unknown">Непозната грешка.</string>
   <string name="import_weibo_error_user_cancel">Корисникот откажа.</string>
   <string name="import_weibo_fetch_followers">Примам контакти...</string>
-  <string name="import_weibo_notification_title_done">Ажурирано % s контакти</string>
+  <string name="import_weibo_notification_title_done">Ажурирано  %s  контакти</string>
   <string name="import_weibo_progress_name">Спарување на \ "% 1 $ s \"...</string>
   <string name="import_weibo_progress_percent">% 1 $ d %%</string>
   <string name="importing_sim_contacts_miui">Внесување контакти од SIM картичката...</string>
-  <string name="importing_vcard_canceled_title">Внесување % s  откажано</string>
-  <string name="importing_vcard_description">Внесување% s</string>
-  <string name="importing_vcard_finished_title">Завршен увоз на визит карта% s</string>
+  <string name="importing_vcard_canceled_title">Внесување  %s   откажано</string>
+  <string name="importing_vcard_description">Внесување %s </string>
+  <string name="importing_vcard_finished_title">Завршен увоз на визит карта %s </string>
   <string name="insects_awaken">惊蛰</string>
   <string name="insertContactDescription">Креирај контакт</string>
   <string name="insertGroupDescription">Креирај група</string>
@@ -486,13 +486,13 @@
   <string name="lantern_festival">元宵节</string>
   <string name="launcherDialer">Телефон</string>
   <string name="light_snow">小雪</string>
-  <string name="listAllContactsInAccount">Контакти во% s</string>
+  <string name="listAllContactsInAccount">Контакти во %s </string>
   <string name="listCustomView">Контакти во прилагоден поглед</string>
   <string name="listFoundAllContactsZero">Нема контакти</string>
   <string name="listSingleContact">Еден контакт</string>
   <string name="listTotalAllContactsZero">Нема контакти.</string>
   <string name="listTotalAllContactsZeroCustom">Нема видливи контакти.</string>
-  <string name="listTotalAllContactsZeroGroup">Нема контакти во% s</string>
+  <string name="listTotalAllContactsZeroGroup">Нема контакти во %s </string>
   <string name="listTotalAllContactsZeroStarred">Нема омилени.</string>
   <string name="listTotalPhoneContactsZero">Нема контакти со телефонски броеви</string>
   <string name="list_filter_all_accounts">Сите контакти</string>
@@ -535,7 +535,7 @@
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
   <string name="make_primary">Запомни овој избор</string>
-  <string name="map_custom">Види% s адреса</string>
+  <string name="map_custom">Види %s  адреса</string>
   <string name="map_home">Види домашна адреса</string>
   <string name="map_other">Види адреса</string>
   <string name="map_work">Видете работа адреса</string>
@@ -549,7 +549,7 @@
   <string name="menu_bar_group_ringtone_largeui">Мелодија</string>
   <string name="menu_bar_group_sms">Групна СМС</string>
   <string name="menu_call">Повикај контакт</string>
-  <string name="menu_call_ip_number">Барај IP повик (dial% s)</string>
+  <string name="menu_call_ip_number">Барај IP повик (dial %s )</string>
   <string name="menu_clear_frequents">Исчисти чести</string>
   <string name="menu_contacts_filter">Контакти за прикажување</string>
   <string name="menu_copy">Копирај</string>
@@ -594,7 +594,7 @@
   <string name="missing_name">(Нема име)</string>
   <string name="move_and_resize">Премести и смени големина</string>
   <string name="multipleContactDeleteConfirmation">Бришењето на овој контакт ќе ги избрише информациите од повеќе сметки.</string>
-  <string name="multipleContactDeleteConfirmationDetail">Бришење \ "% s \" ќе ги избрише информациите од повеќе сметки.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Бришење \ " %s  \" ќе ги избрише информациите од повеќе сметки.</string>
   <string name="my_phone_not_provider_bluetooth">"Мојот телефон нема Bluetooth"</string>
   <string name="my_phone_provider_bluetooth">Мојот телефон има Bluetooth</string>
   <string name="nameLabelsGroup">Име</string>
@@ -611,7 +611,7 @@
   <string name="national_father_day">國父 誕辰</string>
   <string name="new_years_day">元旦</string>
   <string name="next">Следно</string>
-  <string name="next_birthday">Следен роденден:% s</string>
+  <string name="next_birthday">Следен роденден: %s </string>
   <string name="nfc_vcard_file_name">Контакт примен преку NFC</string>
   <string name="nicknameLabelsGroup">Прекар</string>
   <string name="nickname_editor_title">Уреди прекар</string>
@@ -716,7 +716,7 @@
   <string name="peace_day">和平 紀念</string>
   <string name="people">Контакти</string>
   <string name="percent_sign">%</string>
-  <string name="percentage">% s %%</string>
+  <string name="percentage"> %s  %%</string>
   <string name="phoneLabelsGroup">Телефон</string>
   <string name="phone_info_divider">"|"</string>
   <string name="phone_primary">Основно</string>
@@ -735,7 +735,7 @@
   <string name="picker_email_title">Изберете е-пошта</string>
   <string name="picker_favorites_list_empty">Нема омилени</string>
   <string name="picker_groups_list_empty">Нема групи</string>
-  <string name="picker_join_title">Изберете контакт да споите со% s</string>
+  <string name="picker_join_title">Изберете контакт да споите со %s </string>
   <string name="picker_number_title">Изберете број</string>
   <string name="picker_postal_title">Изберете поштенски код</string>
   <string name="picker_recent_list_empty">Нема последни контакти</string>
@@ -759,7 +759,7 @@
   <string name="pref_title_account_import">Увези од сметка</string>
   <string name="pref_title_import_from_account">Увези од Xiaomi сметка</string>
   <string name="preference_auto_ip_summary_disable">Оневозможено</string>
-  <string name="preference_auto_ip_summary_on">Оператор IP префикс:% s</string>
+  <string name="preference_auto_ip_summary_on">Оператор IP префикс: %s </string>
   <string name="preference_auto_ip_title">Автоматско IP префикс</string>
   <string name="preference_contacts">Контакти</string>
   <string name="preference_contacts_display">Покажи параметри</string>
@@ -802,7 +802,7 @@
   <string name="profile_display_name">Постави го мојот профил</string>
   <string name="profile_name">Мој профил</string>
   <string name="profile_name_photo">јас</string>
-  <string name="progress_notifier_message" formatted="false">Внесување% s /% s:% s</string>
+  <string name="progress_notifier_message" formatted="false">Внесување %s  / %s : %s </string>
   <string name="quickcontact_missing_app">Не е пронајдена апликација за да се справи со оваа акција</string>
   <string name="quit_dialog_confirm_title">Вие не споивте ни еден контакт</string>
   <string name="readOnlyContactDeleteConfirmation">Овој контакт содржи информации од повеќе сметки. Информации од само за читање сметки ќе бидат скриени во вашите контактни листи, не е избришано.</string>
@@ -815,7 +815,7 @@
   <string name="recent">Последни</string>
   <string name="recentCallsIconLabel">Дневник на повици</string>
   <string name="recentCalls_addToContact">Додај во контакти</string>
-  <string name="recentCalls_callNumber">Повик% s</string>
+  <string name="recentCalls_callNumber">Повик %s </string>
   <string name="recentCalls_deleteAll">Исчисти дневник на повикот</string>
   <string name="recentCalls_editNumberBeforeCall">Уреди го бројот пред да повикаш</string>
   <string name="recentCalls_empty">Дневникот на повици е празен.</string>
@@ -919,11 +919,11 @@
   <string name="smart_group_location_label">Од локација</string>
   <string name="smart_group_location_unavailable">Нема адреса</string>
   <string name="sms">Текст порака</string>
-  <string name="sms_assistant">Текст% s</string>
+  <string name="sms_assistant">Текст %s </string>
   <string name="sms_callback">Текст повратен повик</string>
   <string name="sms_car">Текст автомобил</string>
   <string name="sms_company_main">Текст компанија главна</string>
-  <string name="sms_custom">Текст% s</string>
+  <string name="sms_custom">Текст %s </string>
   <string name="sms_disambig_title">Изберете број</string>
   <string name="sms_fax_home">Текст дома факс</string>
   <string name="sms_fax_work">Текст работа факс</string>
@@ -997,7 +997,7 @@
   <string name="unknown_caller">Непознат повикувач</string>
   <string name="unknown_contact_name">Непознат контакт</string>
   <string name="upgrade_in_progress">Листата со контакти се обновува.</string>
-  <string name="upgrade_out_of_memory">"Контакти се во процес на надградување. Процесот на надградба бара приближно% s MB внатрешна меморија. Изберете една од следниве опции..: "</string>
+  <string name="upgrade_out_of_memory">"Контакти се во процес на надградување. Процесот на надградба бара приближно %s  MB внатрешна меморија. Изберете една од следниве опции..: "</string>
   <string name="upgrade_out_of_memory_retry">Пробај повторно надградба</string>
   <string name="upgrade_out_of_memory_uninstall">Избриши некои апликации</string>
   <string name="use_photo_as_primary">Користете ја оваа слика</string>
@@ -1011,10 +1011,10 @@
   <string name="v5_time_picker_label_minute">分</string>
   <string name="valentines_day">情人节</string>
   <string name="vcard_export_request_rejected_message">Визит карта за извоз барањето е одбиено. Обидете се повторно подоцна.</string>
-  <string name="vcard_export_will_start_message">% s ќе бидат извезени наскоро.</string>
+  <string name="vcard_export_will_start_message"> %s  ќе бидат извезени наскоро.</string>
   <string name="vcard_import_failed">"Неможеше да увезе визит карта."</string>
   <string name="vcard_import_request_rejected_message">Барањето за внесување на визит картичка е одбиено. Обидете се повторно подоцна</string>
-  <string name="vcard_import_will_start_message">% s ќе биде увезено наскоро.</string>
+  <string name="vcard_import_will_start_message"> %s  ќе биде увезено наскоро.</string>
   <string name="vcard_import_will_start_message_with_default_name">Датотеката ќе биде увезена наскоро.</string>
   <string name="vcard_unknown_filename">контакт</string>
   <string name="vernal_equinox">春分</string>

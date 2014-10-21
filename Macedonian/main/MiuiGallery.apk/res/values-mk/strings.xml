@@ -22,7 +22,7 @@
   <string name="add_to_cloud_type_not_support_message">"Овој тип на датотека не е подржана"</string>
   <string name="add_to_cloud_unknow_reasons">Непозната грешка</string>
   <string name="adding_recipients">Додавање приматели...</string>
-  <string name="album_member">Членови на албумот% s</string>
+  <string name="album_member">Членови на албумот %s </string>
   <string name="album_name">Име на албумот</string>
   <string name="album_quota_fulfiled">Премногу албуми. Избришете некои албуми и обидете се повторно.</string>
   <string name="album_share_exit_confirm">Излезете од овој албум?</string>
@@ -62,7 +62,7 @@
   <string name="big_screen_alertdialog_title">Листа на уреди</string>
   <string name="bigscreen_slide_exit">Изгаси слајдшоу</string>
   <string name="bigscreen_slide_fail_cause_loading">Рестартирајте слајдшоу по вчитувањето на сликата</string>
-  <string name="bigscreen_slide_playing">Слајдшоу е пуштен на% s</string>
+  <string name="bigscreen_slide_playing">Слајдшоу е пуштен на %s </string>
   <string name="bigscreen_video_quit">Допрете за да излезете</string>
   <string name="browse_category">Покажи</string>
   <string name="by_email">-пошта</string>
@@ -76,11 +76,11 @@
   <string name="camera_view_none_message">Слики и видеа што ке ги земете со Камера апликацијата ќе бидат покажени тука.</string>
   <string name="cancel">Откажи</string>
   <string name="cancel_hint">Операцијата е откажана</string>
-  <string name="cannot_delete_sharer_photo">"Неможе да избришете% s предмети поставени од страна на другите членови."</string>
+  <string name="cannot_delete_sharer_photo">"Неможе да избришете %s  предмети поставени од страна на другите членови."</string>
   <string name="cannot_remove_creator">"Неможе да се отстрани креаторот"</string>
   <string name="cannot_send_message">"Неможе да испрати порака"</string>
   <string name="cannot_send_message_reason">Нема валидни примачи</string>
-  <string name="cant_delete_cloud_album">"Неможе да избришете% s, бидејќи е системски албум или е споделен од други корисници."</string>
+  <string name="cant_delete_cloud_album">"Неможе да избришете %s , бидејќи е системски албум или е споделен од други корисници."</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
   <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>
@@ -494,8 +494,8 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete">избришете% S слики?</string>
   <string name="confirm_delete_album" formatted="false">Избришете% S албуми (%s предмети тотално)?</string>
-  <string name="confirm_delete_has_cloud_image_video">Избриши% s предмети во &lt;b&gt; cloud &lt;/ b&gt;?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Избриши% s предмети во &lt;b&gt; локалните и cloud &lt;/ b&gt;?</string>
+  <string name="confirm_delete_has_cloud_image_video">Избриши %s  предмети во &lt;b&gt; cloud &lt;/ b&gt;?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Избриши %s  предмети во &lt;b&gt; локалните и cloud &lt;/ b&gt;?</string>
   <string name="confirm_delete_has_local_image_video">избришете% S предмети?</string>
   <string name="confirm_delete_home_merge_item">избришете% S слики на уредот и во Mi Cloud?</string>
   <string name="confirm_delete_init_message">Сликата ќе биде избришана од овој уред и од Mi Cloud. Ако само сакате да ги избришете од вашиот уред, обидете се оваа акција од рамките на \ "Локалните \" табот.</string>
@@ -505,7 +505,7 @@
   <string name="confirm_delete_this_picture">избришете ја оваа слика?</string>
   <string name="confirm_delete_this_video">Избриши го ова видео?</string>
   <string name="confirm_delete_videos">избришете% S видеа?</string>
-  <string name="confirm_download">Вие треба да ја преземете% s.</string>
+  <string name="confirm_download">Вие треба да ја преземете %s .</string>
   <string name="confirm_download_video_message">Вие треба да го завршите симнувањето ова видео пред да може да го гледате. Преземање ќе продолжи кога WLAN ќе биде достапен.</string>
   <string name="confirm_download_video_title">Преземете видео</string>
   <string name="contact_photo">Постави како контакт фотографија</string>
@@ -554,7 +554,7 @@
   <string name="doodle_tooltip">Допри ја сликата за лого</string>
   <string name="download">Превземи</string>
   <string name="download_fail">"Неможе да превземе"</string>
-  <string name="download_fail_confirm_continue">"не можеше да превземе% s."</string>
+  <string name="download_fail_confirm_continue">"не можеше да превземе %s ."</string>
   <string name="download_refocus_data">Превземи рефокусирање на податоци</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Времетраење</string>
@@ -589,7 +589,7 @@
   <string name="facetan">Тен на лице</string>
   <string name="fail_hint">Операција не успеа</string>
   <string name="fail_init_gallery_db_helper">"Неможе да го вчита центарот на податоци на Галеријата"</string>
-  <string name="fail_to_download_n_items">"не можеше да превземе% s предмети"</string>
+  <string name="fail_to_download_n_items">"не можеше да превземе %s  предмети"</string>
   <string name="fail_to_pick_email">Е-пошта невалидна</string>
   <string name="fail_to_sync_album">"Не можеше да синхронизира албум Проверете ја вашата дата конекција и обидете се повторно"</string>
   <string name="file_not_exist_message">"Предметот не постои"</string>
@@ -640,7 +640,7 @@
   <string name="how_many_sub_folders">% d папки</string>
   <string name="how_many_videos">% d видеа</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
-  <string name="image_download_item_title">Преземете слика (% s)</string>
+  <string name="image_download_item_title">Преземете слика ( %s )</string>
   <string name="image_quota_fulfiled">Премногу слики. Избришете некои слики и обидете се повторно.</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Увоз целосен</string>
@@ -692,7 +692,7 @@
   <string name="menu_item_sort_size_asc">Големина (растечка)</string>
   <string name="menu_item_sort_size_desc">Големина (опаѓачка)</string>
   <string name="menu_view_contact">Види контакт</string>
-  <string name="message_no_delete_access">"Вие немате дозола да избришете% s"</string>
+  <string name="message_no_delete_access">"Вие немате дозола да избришете %s "</string>
   <string name="message_no_delete_access_with_count">"Вие немате дозвола за овие% d датотеки"</string>
   <string name="messagelist_sender_self">Јас</string>
   <string name="miliao_folder_display_name">MiTalk</string>
@@ -758,7 +758,7 @@
   <string name="photo_page_save_uri_image_ok">Фотографијата е зачувана во Камера слики</string>
   <string name="photo_paint_adjust">Прилагоди</string>
   <string name="photo_paint_effect">ефект</string>
-  <string name="photo_saved">Фотографијата зачувано на% s</string>
+  <string name="photo_saved">Фотографијата зачувано на %s </string>
   <string name="photo_size">Големина</string>
   <string name="photoeditor_name">Mi Фото студио</string>
   <string name="photos">Слики</string>
@@ -782,7 +782,7 @@
   <string name="publishing">Објавување...</string>
   <string name="qqbrowser_img">QQ прелистувач</string>
   <string name="qsbk_save">QSBK</string>
-  <string name="quotation">\ "% s \"</string>
+  <string name="quotation">\ " %s  \"</string>
   <string name="recipient_editor_count_format">% d</string>
   <string name="recognizing_image">Препознавање слика...</string>
   <string name="redeye">црвени очи</string>
@@ -829,7 +829,7 @@
   <string name="select_too_much_to_send_tips">"Неможе да испрати толку многу предмети (максимум% d предмети)"</string>
   <string name="select_video">Изберете видео</string>
   <string name="send">Испрати</string>
-  <string name="send_multiple_files_hint_format">Испрати (% s)</string>
+  <string name="send_multiple_files_hint_format">Испрати ( %s )</string>
   <string name="send_public_url">Испрати албум линк</string>
   <string name="sepia">сепииа</string>
   <string name="set_hidden_album">Скриен албум</string>

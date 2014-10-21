@@ -9,12 +9,12 @@
   <string name="alarm_summary_12h">hh: mm a</string>
   <string name="alarm_summary_24h">kk: мм</string>
   <string name="alarm_time">Време на аларм</string>
-  <string name="alarm_value">аларм% s %%</string>
+  <string name="alarm_value">аларм %s  %%</string>
   <string name="app">Стартувајте апликација</string>
   <string name="app_center">App центар</string>
   <string name="app_name">PonPonTile</string>
   <string name="auto_brightness">Авто осветленост</string>
-  <string name="auto_brightness_on_off">Авто осветленост% s</string>
+  <string name="auto_brightness_on_off">Авто осветленост %s </string>
   <string name="available_networks">Достапни мрежи</string>
   <string name="avg_read_tag">Просечни читања на ден:</string>
   <string name="back_to_home">Назад</string>
@@ -30,14 +30,14 @@
   <string name="bump_write">" За да напишете таг,
 допрете со задниот дел на телефонот "</string>
   <string name="bump_write_alert">За да ги зачувате овие поставувања, допрете со задниот дел од вашиот телефон на плочката</string>
-  <string name="call_sb">Повик% s</string>
+  <string name="call_sb">Повик %s </string>
   <string name="call_to">Повик...;</string>
   <string name="car_mode">автомобилски режим</string>
   <string name="characters">%d/72</string>
   <string name="click_to_choose">допрете за да отворите</string>
   <string name="communication">Телефон</string>
   <string name="config_name_hint">Име</string>
-  <string name="connect_to">Поврзете се со% s</string>
+  <string name="connect_to">Поврзете се со %s </string>
   <string name="contact">Сподели контакт</string>
   <string name="contact_address">Адреса</string>
   <string name="contact_card">Име на картичката</string>
@@ -100,7 +100,7 @@
   <string name="input_password_gain">Ве молиме внесете ја лозинката повторно</string>
   <string name="input_password_warning">"Лозинката ќе биде напишана на тагот, не ја заборавајте!"</string>
   <string name="local_app">Преземени апликации</string>
-  <string name="media_value">Медиуми% s %%</string>
+  <string name="media_value">Медиуми %s  %%</string>
   <string name="meeting_mode">Режим на состанот</string>
   <string name="miui_ringer_mode">Режим на ѕвонење</string>
   <string name="mode">Режим</string>
@@ -112,7 +112,7 @@
   <string name="no_available_networks_summary">Обидете се повторно по поврзување со WLAN</string>
   <string name="no_available_xiaomi_shop">Не успеа да отвори Xiaomi пазар</string>
   <string name="not_save_btn">Не</string>
-  <string name="notification_value">Известувања% s %%</string>
+  <string name="notification_value">Известувања %s  %%</string>
   <string name="null_task">Нема задачи</string>
   <string name="off">Off</string>
   <string name="on">На</string>
@@ -139,13 +139,13 @@
   <string name="ringer_mode">Режим на ѕвонење</string>
   <string name="ringer_normal">Ѕвони</string>
   <string name="ringer_silent">Тивко</string>
-  <string name="ringer_value">Ѕвонење% s %%</string>
+  <string name="ringer_value">Ѕвонење %s  %%</string>
   <string name="running">работи</string>
   <string name="save_alert">Зачувај ја оваа задача?</string>
   <string name="save_btn">Зачувај</string>
   <string name="saving">Зачувување...</string>
   <string name="screen_timeout">Спиј</string>
-  <string name="screen_timeout_summary">По% s од неактивност</string>
+  <string name="screen_timeout_summary">По %s  од неактивност</string>
   <string name="select_all">Изберете ги сите</string>
   <string name="select_app">Изберете апликација</string>
   <string name="select_config">Нови задачи</string>
@@ -190,7 +190,7 @@
   <string name="vibrate_mode">Вибрирање</string>
   <string name="vibrate_off">Вибрирање изгасено</string>
   <string name="vibrate_on">Вибрирање уклучено</string>
-  <string name="voice_call_value">Јачина на повик% s %%</string>
+  <string name="voice_call_value">Јачина на повик %s  %%</string>
   <string name="volume">Звук</string>
   <string name="web_label">Веб етикета (опционално)</string>
   <string name="web_url">URL</string>

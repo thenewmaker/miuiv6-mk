@@ -11,9 +11,9 @@
   <string name="account_manager_type_legacy_imap">com.android.email</string>
   <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_password_spaces_error">"Оваа лозинка започнува или завршува со едно или повеќе празни места помеѓу карактерите. Многу сервери не поддржуваат лозинки со празен простор"</string>
-  <string name="account_security_dialog_content_fmt">% s бара да ги обновите вашите безбедносни поставувања.</string>
+  <string name="account_security_dialog_content_fmt"> %s  бара да ги обновите вашите безбедносни поставувања.</string>
   <string name="account_security_dialog_title">Безбедносна надградба</string>
-  <string name="account_security_policy_explanation_fmt">Серверот% s бара да му се овозможи далечинска контрола на некои безбедносни карактеристики на вашиот Андроид уред.</string>
+  <string name="account_security_policy_explanation_fmt">Серверот %s  бара да му се овозможи далечинска контрола на некои безбедносни карактеристики на вашиот Андроид уред.</string>
   <string name="account_security_title">Безбедност на уред</string>
   <string name="account_settings_action">Прилагодувања на сметка</string>
   <string name="account_settings_background_attachments_label">Преземи додатоци</string>
@@ -27,8 +27,8 @@
   <string name="account_settings_exit_server_settings">Отстранете незачувани измени?</string>
   <string name="account_settings_incoming_label">Дојдовни поставувања</string>
   <string name="account_settings_incoming_summary">Корисничко име, лозинка и други влезни серверски поставувања</string>
-  <string name="account_settings_login_dialog_content_fmt">Корисничкото име или лозинката за% s не е точно. Дали сакате да ги ажурирате сега?</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">Вашето најавување на% s не успеа; серерот кажа:% s Дали сакате да го обновите Вашето корисничко име и/или лозинка?</string>
+  <string name="account_settings_login_dialog_content_fmt">Корисничкото име или лозинката за %s  не е точно. Дали сакате да ги ажурирате сега?</string>
+  <string name="account_settings_login_dialog_reason_fmt" formatted="false">Вашето најавување на %s  не успеа; серерот кажа: %s  Дали сакате да го обновите Вашето корисничко име и/или лозинка?</string>
   <string name="account_settings_login_dialog_title">"Неможе да се најави"</string>
   <string name="account_settings_mail_check_frequency_label">Sync фреквенција</string>
   <string name="account_settings_name_label">Вашето име</string>
@@ -80,19 +80,19 @@
   <string name="account_setup_failed_check_credentials_message">Серверот одговори со грешка. Проверете го вашето корисничко име и лозинка, а потоа обидете се повторно.</string>
   <string name="account_setup_failed_dlg_auth_message">Корисничкото име или лозинката е неточна.</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Најавата не успеа
-(% s)".</string>
+( %s )".</string>
   <string name="account_setup_failed_dlg_certificate_message">"Неможе безбедно да се поврзе со серверот."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Неможе безбедно да се поврзе со серверот
-(% s)".</string>
+( %s )".</string>
   <string name="account_setup_failed_dlg_edit_details_action">Уреди детали</string>
   <string name="account_setup_failed_dlg_server_message">"Неможе да се поврзе со серверот."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Неможе да се поврзе со серверот
-(% s)"</string>
+( %s )"</string>
   <string name="account_setup_failed_dlg_title">"Неможе да заврши"</string>
   <string name="account_setup_failed_ioerror">"Неможеше да отвори конекција до серверот"</string>
   <string name="account_setup_failed_protocol_unsupported">"Внесовте погрешна адреса на серверот или серверот бара протокол верзија која E-поштата не ја поддржува"</string>
   <string name="account_setup_failed_security">"Неможеше да отвори конекција со серверот поради безбедносна грешка."</string>
-  <string name="account_setup_failed_security_policies_unsupported">"Овој сервер има потреба безбедносни карактеристики што вашиот Андроид уред не ги поддржува, вклучувајќи:% s"</string>
+  <string name="account_setup_failed_security_policies_unsupported">"Овој сервер има потреба безбедносни карактеристики што вашиот Андроид уред не ги поддржува, вклучувајќи: %s "</string>
   <string name="account_setup_failed_tls_required">TLS потребно, но не е поддржано од серверот.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Кога ќе избришете од сандачето</string>
   <string name="account_setup_incoming_delete_policy_label">Избриши е-пошта од серверот</string>
@@ -150,7 +150,7 @@
   <string name="account_setup_outgoing_smtp_server_label">SMTP сервер</string>
   <string name="account_setup_outgoing_title">Подесување сметка</string>
   <string name="account_setup_outgoing_username_label">Корисничко име</string>
-  <string name="account_setup_security_policies_required_fmt">Серверот% s бара да му се овозможи далечинска контрола на некои безбедносни карактеристики на вашиот Андроид уред. Дали сакате да завршите со поставување на оваа сметка?</string>
+  <string name="account_setup_security_policies_required_fmt">Серверот %s  бара да му се овозможи далечинска контрола на некои безбедносни карактеристики на вашиот Андроид уред. Дали сакате да завршите со поставување на оваа сметка?</string>
   <string name="account_setup_security_required_title">Далечинска безбедност администрација</string>
   <string name="account_setup_username_password_toast">Внесете валидна е-пошта адреса и лозинка.</string>
   <string name="account_setup_username_uneditable_error">"Вие неможете да го промените корисничкото име на сметката. Да додадете сметка со различно корисничко име, допрете Додај сметка.".</string>
@@ -188,7 +188,7 @@
   <string name="attachment_not_found">"Неможеше да го преземе приложеното."</string>
   <string name="attachment_text">Текст</string>
   <string name="attachment_type_blocked">"За жал, вие неможете да зачувате или отворите ваков вид на прилог."</string>
-  <string name="attachment_unknown">% s датотека</string>
+  <string name="attachment_unknown"> %s  датотека</string>
   <string name="attachment_video">Видео</string>
   <string name="attachments_header">Прикачени</string>
   <string name="authority_account_cache_provider">com.android.email.accountcache</string>
@@ -202,7 +202,7 @@
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="body_hint">Состави е-пошта</string>
-  <string name="bytes">% s Б</string>
+  <string name="bytes"> %s  Б</string>
   <string name="cancel">Откажи</string>
   <string name="cancel_action">Откажи</string>
   <string name="cancel_attachment">Откажи</string>
@@ -337,14 +337,14 @@
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
   <string name="intent_exchange_package">com.android.exchange</string>
-  <string name="invalid_recipient">Адресата% s не е валидна.</string>
-  <string name="kilobytes">% s KB</string>
-  <string name="label_notification_ticker" formatted="false">% s:% s</string>
+  <string name="invalid_recipient">Адресата %s  не е валидна.</string>
+  <string name="kilobytes"> %s  KB</string>
+  <string name="label_notification_ticker" formatted="false"> %s : %s </string>
   <string name="load_attachment">@стринг/load_more</string>
   <string name="load_more">Вчитај повеќе</string>
   <string name="loading_conversation">Се вчитува...</string>
   <string name="loading_conversations">Се вчитува...</string>
-  <string name="login_failed_ticker">% s најавувањето е неуспешно.</string>
+  <string name="login_failed_ticker"> %s  најавувањето е неуспешно.</string>
   <string name="login_failed_title">"Неможеше да се најави"</string>
   <string name="long_press_to_select_tip">Допрете &amp; и задржете за да означите еден разговор, потоа допрете да означите уште еден.</string>
   <string name="long_string">дооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооолго</string>
@@ -358,7 +358,7 @@
   <string name="mailbox_name_display_trash">Ѓубре</string>
   <string name="mailbox_name_display_unread">Непрочитани</string>
   <string name="mailbox_settings_activity_title">Синхронизација опции</string>
-  <string name="mailbox_settings_activity_title_with_mailbox">Синхронизација опции (% s)</string>
+  <string name="mailbox_settings_activity_title_with_mailbox">Синхронизација опции ( %s )</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Денови на поштата за да синхронизирате</string>
   <string name="mailbox_settings_sync_enabled_label">Синхронизирај ја оваа папка</string>
   <string name="mailbox_settings_sync_enabled_summary">Пораки ќе бидат преземени кога ќе биде поврзано</string>
@@ -371,7 +371,7 @@
   <string name="mark_unread">Означи како непрочитано</string>
   <string name="me_object_pronun">јас</string>
   <string name="me_subject_pronun">јас</string>
-  <string name="megabytes">% s MB</string>
+  <string name="megabytes"> %s  MB</string>
   <string name="menu_change_folders">Промени папки</string>
   <string name="menu_compose">Напиши нова</string>
   <string name="menu_folder_options">Опции на синхронизација</string>
@@ -407,7 +407,7 @@
   <string name="multiple_new_message_notification_item">&lt;b&gt;% 1 $ s &lt;/ b&gt; "% 2 $ s"</string>
   <string name="mute">Нечујно</string>
   <string name="network_error">Нема врска</string>
-  <string name="new_incoming_messages_one">Нова порака од% s. Прикажи.</string>
+  <string name="new_incoming_messages_one">Нова порака од %s . Прикажи.</string>
   <string name="new_messages">% $ 1 d нови пораки</string>
   <string name="next_action">Следно</string>
   <string name="no">Не</string>
@@ -427,11 +427,11 @@
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="password_expire_warning_content_title">Лозинката за заклучување екран истекува</string>
-  <string name="password_expire_warning_dialog_content_fmt">Вие треба да го промените вашиот PIN за заклучување на екранот или лозинка наскоро, или податоците% s ќе бидат избришани. Дали сакате да ја промените сега?</string>
+  <string name="password_expire_warning_dialog_content_fmt">Вие треба да го промените вашиот PIN за заклучување на екранот или лозинка наскоро, или податоците %s  ќе бидат избришани. Дали сакате да ја промените сега?</string>
   <string name="password_expire_warning_dialog_title">Лозинката за заклучување екран истекува</string>
-  <string name="password_expire_warning_ticker_fmt">\ "% s \" бара да го промените вашиот PIN за заклучување на екранот или лозинка.</string>
+  <string name="password_expire_warning_ticker_fmt">\ " %s  \" бара да го промените вашиот PIN за заклучување на екранот или лозинка.</string>
   <string name="password_expired_content_title">Лозинката за заклучување екран истече</string>
-  <string name="password_expired_dialog_content_fmt">Податоците за% s ќе бидат избришани од вашиот уред. Можете да ги вратите со променување на PIN кодот за заклучување на екранот или лозинка. Дали сакате да ја промените сега?</string>
+  <string name="password_expired_dialog_content_fmt">Податоците за %s  ќе бидат избришани од вашиот уред. Можете да ги вратите со променување на PIN кодот за заклучување на екранот или лозинка. Дали сакате да ја промените сега?</string>
   <string name="password_expired_dialog_title">Лозинката за заклучување екран истече</string>
   <string name="password_expired_ticker">Вашиот PIN за заклучување на екранот или лозинка истече.</string>
   <string name="permission_access_provider_desc">Дозволи апликации да пристапат до базата на податоци на е-поштата, вклучувајќи примени пораки, испратени пораки, кориснички имиња, и лозинки.</string>
@@ -502,7 +502,7 @@
   <string name="save_action">Зачувај</string>
   <string name="save_attachment">Зачувај</string>
   <string name="save_draft">Зачувај недовршена</string>
-  <string name="saved">Зачувана% s</string>
+  <string name="saved">Зачувана %s </string>
   <string name="saving">Зачувување...</string>
   <string name="search_hint">Барај е-пошта</string>
   <string name="search_results_header">Резултати</string>
@@ -510,12 +510,12 @@
   <string name="search_results_searching_header">Пребарување...</string>
   <string name="search_title">Унифицирана е-пошта</string>
   <string name="search_unsupported">Пребарување не е поддржано на оваа сметка.</string>
-  <string name="security_changed_ticker_fmt">Сметка \ "% s \" ги смени својте поставки за безбедност; акција на корисникот е потребно.</string>
-  <string name="security_needed_ticker_fmt">Сметка \ "% s \" бара ажурирање на безбедносните подесувања.</string>
+  <string name="security_changed_ticker_fmt">Сметка \ " %s  \" ги смени својте поставки за безбедност; акција на корисникот е потребно.</string>
+  <string name="security_needed_ticker_fmt">Сметка \ " %s  \" бара ажурирање на безбедносните подесувања.</string>
   <string name="security_notification_content_change_title">Безбедносни политики се променија</string>
   <string name="security_notification_content_unsupported_title">"Политиките за безбедност неможат да бидат пополнети"</string>
   <string name="security_notification_content_update_title">Потребна е безбедносна надградба</string>
-  <string name="security_unsupported_ticker_fmt">"Сметка \"% s \ "неможе да биде синхронизирана поради барањата на безбедноста ".</string>
+  <string name="security_unsupported_ticker_fmt">"Сметка \" %s  \ "неможе да биде синхронизирана поради барањата на безбедноста ".</string>
   <string name="select_attachment_type">Изберете тип на додаток</string>
   <string name="send">Испрати</string>
   <string name="send_failed">"порака не беше испратена"</string>
@@ -524,7 +524,7 @@
   <string name="senders_split_token">,</string>
   <string name="sending">Испраќање...</string>
   <string name="sending_message">Испраќање порака...</string>
-  <string name="sent_folder_selection_title">Изберете сервер пратени предмети за% s</string>
+  <string name="sent_folder_selection_title">Изберете сервер пратени предмети за %s </string>
   <string name="settings_activity_title">Подесувања</string>
   <string name="shortcut_name_title">Име на кратенката на папката</string>
   <string name="show_elided">▶ Прикажи цитиран текст</string>
@@ -532,7 +532,7 @@
   <string name="show_n_more_folders">Прикажи% 1 $ s повеќе папки</string>
   <string name="signature">"
 
-% s"</string>
+ %s "</string>
   <string name="signin">Најави се</string>
   <string name="silent_ringtone">Тивко</string>
   <string name="single_new_message_notification_big_text">"% $ 1 на
@@ -540,7 +540,7 @@
   <string name="single_new_message_notification_title">% 1 $ s:% 2 $ s</string>
   <string name="status_network_error">Проблем на конекција.</string>
   <string name="storage">Меморија</string>
-  <string name="subject_and_snippet" formatted="false">% s -% s</string>
+  <string name="subject_and_snippet" formatted="false"> %s  - %s </string>
   <string name="subject_hint">Предмет</string>
   <string name="suggestions_authority">com.android.email.suggestionsprovider</string>
   <string name="swipe_down_to_refresh">Проклизај надолу за да се освежи</string>
@@ -563,7 +563,7 @@
   <string name="too_large_to_attach_additional">Датотеката не е прикачена. %1$s лимитот достигнат.</string>
   <string name="too_large_to_attach_multiple">Една или повеќе датотеки не се прикачени. Лимит% 1 $ s.</string>
   <string name="too_large_to_attach_single">"Неможе да прикачите датотека преку% 1 $ s".</string>
-  <string name="trash_folder_selection_title">Изберете сервер ѓубре папка за% s</string>
+  <string name="trash_folder_selection_title">Изберете сервер ѓубре папка за %s </string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">U</string>
   <string name="trigger_save_char">а</string>

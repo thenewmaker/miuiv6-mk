@@ -227,7 +227,7 @@
   <string name="transformation_type_stack">Каскада</string>
   <string name="uninstall">Избриши</string>
   <string name="uninstall_dialog_message">Бришењето ке ги отстрани сите информации за апликацијата</string>
-  <string name="uninstall_dialog_title_format">Избриши% s</string>
+  <string name="uninstall_dialog_title_format">Избриши %s </string>
   <string name="unknown_artist_name">Непознат артист</string>
   <string name="unnamed_folder_name">Неименувана папка</string>
   <string name="wallpaper_scrolling">сите</string>

@@ -22,7 +22,7 @@
   <string name="button_last">Почеток</string>
   <string name="button_next">Следна</string>
   <string name="button_pre">Назад</string>
-  <string name="callNoAnswerTimeFormat">Ѕвони % s пати</string>
+  <string name="callNoAnswerTimeFormat">Ѕвони  %s  пати</string>
   <string name="call_record_or">Или</string>
   <string name="call_record_sample_prefix_miui">Снимање на повик</string>
   <string name="caller_info_name_delimiter">Или</string>
@@ -476,7 +476,7 @@
   <string name="error_not_selected">Не е селектирана датотеката или датотека не постои</string>
   <string name="error_peer_disconnected">Peer исклучен</string>
   <string name="error_select">грешка во датотеката</string>
-  <string name="error_title">Sync грешка за% s</string>
+  <string name="error_title">Sync грешка за %s </string>
   <string name="error_transmit">Грешка при трансфер</string>
   <string name="error_unauthorized">Премногу неуспеси на најавување. Синхронизацијата оневозможена.</string>
   <string name="error_upload">Прикачи грешка</string>
@@ -678,7 +678,7 @@
   <string name="retrocession_day">光復節</string>
   <string name="return_to_me_message">Ве молиме вратете ме ако сум изгубен</string>
   <string name="reverse_all">Избриши ги сите</string>
-  <string name="safetylegal_activity_unreachable">Вашиот телефон не е поврзан со дата услуга. Да ја погледнете оваа информација сега, одете на% s од било кој компјутер поврзан на интернет.</string>
+  <string name="safetylegal_activity_unreachable">Вашиот телефон не е поврзан со дата услуга. Да ја погледнете оваа информација сега, одете на %s  од било кој компјутер поврзан на интернет.</string>
   <string name="scan_2d_code">скенирање 2D код</string>
   <string name="scan_tip">"Бидете сигурни дека примачот ја вклучил врска
 може да прима датотеки."</string>
@@ -806,7 +806,7 @@
   <string name="volume_icon_description_ringer">Звук за ѕвонење</string>
   <string name="volume_ring_description">Звук за ѕвонење &amp; известуваање</string>
   <string name="waiting_receive">Чекајќи испраќач...</string>
-  <string name="wake_alarm_message">исклучениот аларм сеуште ѕвони на% s</string>
+  <string name="wake_alarm_message">исклучениот аларм сеуште ѕвони на %s </string>
   <string name="wanna_receive">Прими</string>
   <string name="welcome_tip1">"пренеси датотеки брзо, без користење на вашата дата конекција
 WLAN апликацијата ќе биде отворена при примање податоци "</string>

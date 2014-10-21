@@ -2,7 +2,7 @@
 <resources>
   <string name="Import">Увоз</string>
   <string name="access_sd_fail">"Неможе да пристапи USB складирање."</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Смени камера и видео (моментално користење на% s)</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Смени камера и видео (моментално користење на %s )</string>
   <string name="accessibility_camera_auto_flashmode">Авто-блиц</string>
   <string name="accessibility_camera_flash_closemode">Без флеш</string>
   <string name="accessibility_camera_flashmode">Секогаш флеш</string>
@@ -61,7 +61,7 @@
   <string name="contact_web">Веб</string>
   <string name="copy_text">Копирај текст</string>
   <string name="copy_text_success">Текстот копиран</string>
-  <string name="crop_saved">отсечената сликата зачувана на% s.</string>
+  <string name="crop_saved">отсечената сликата зачувана на %s .</string>
   <string name="delete">Избриши</string>
   <string name="deleted">Избришано</string>
   <string name="description">Опис</string>
@@ -442,7 +442,7 @@
   <string name="qr_code_details">Детали на QR код:</string>
   <string name="raw_data_exit_button_text">Излези од ГРУБ режим</string>
   <string name="record_back_pressed_hint">допрете повторно да го прекинете снимањето</string>
-  <string name="resume_playing_message">продолжи репродукција од% s?</string>
+  <string name="resume_playing_message">продолжи репродукција од %s ?</string>
   <string name="resume_playing_restart">Започни одново</string>
   <string name="resume_playing_resume">продолжи репродукцијата</string>
   <string name="resume_playing_title">Продолжи видео</string>

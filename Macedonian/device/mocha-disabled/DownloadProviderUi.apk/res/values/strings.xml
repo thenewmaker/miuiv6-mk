@@ -3,7 +3,7 @@
   <string name="all_downloads">Сите преземања</string>
   <string name="all_fileter">Сите</string>
   <string name="apk_filter">APK</string>
-  <string name="app_downloads">% s преземања</string>
+  <string name="app_downloads"> %s  преземања</string>
   <string name="app_label">Превземања</string>
   <string name="button_sort_by_date">Сортирај по датум</string>
   <string name="button_sort_by_size">Сортирај по големина</string>
@@ -30,7 +30,7 @@
   <string name="download_error">Неуспешно</string>
   <string name="download_error_insufficient_space">Недоволен простор</string>
   <string name="download_in_process">Превземање</string>
-  <string name="download_info_count_deleted_tasks">% s преземањата отстранети</string>
+  <string name="download_info_count_deleted_tasks"> %s  преземањата отстранети</string>
   <string name="download_info_start_deleted_tasks">Избриши преземања</string>
   <string name="download_no_application_title">Неможе да ја отвори датотеката</string>
   <string name="download_paused">Превземањето паузирано</string>
@@ -65,7 +65,7 @@
   <string name="pref_download_settings_title">Употреба на податоци</string>
   <string name="pref_summary_any_bytes_popup">Секогаш чекај да преземете преку WLAN</string>
   <string name="pref_summary_enable_max_bytes_popup">"Под мрежата на операторот, се појавува напомена ако датотеката го надмине лимитот"</string>
-  <string name="pref_summary_max_bytes_limit_format">Стави на ред за чекање WLAN мрежа ако датотеката надмине% s</string>
+  <string name="pref_summary_max_bytes_limit_format">Стави на ред за чекање WLAN мрежа ако датотеката надмине %s </string>
   <string name="pref_summary_no_limit_popup">Големината на преземање е неограничена</string>
   <string name="pref_title_enable_max_bytes_popup">Известување за преземање дата</string>
   <string name="preferences_title">Подесувања</string>

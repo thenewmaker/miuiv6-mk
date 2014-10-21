@@ -9,9 +9,9 @@
   <string name="accelerometer_summary_off">Префрли ориентација автоматски кога го ротирате таблетот</string>
   <string name="accelerometer_summary_on">Префрли ориентација автоматски кога го ротирате таблетот</string>
   <string name="accelerometer_title">авто-ротирање на екранот</string>
-  <string name="access_control_app_entry_multiple">Отвори% s</string>
+  <string name="access_control_app_entry_multiple">Отвори %s </string>
   <string name="access_control_app_entry_single">Отвори апликација</string>
-  <string name="access_control_need_password">"% s е заштитен"</string>
+  <string name="access_control_need_password">" %s  е заштитен"</string>
   <string name="access_control_need_to_unlock">Потребна е лозинка:</string>
   <string name="access_control_no_back_footer">Допрете [икона] за да излезете</string>
   <string name="access_control_password_title">Лозинка</string>
@@ -163,7 +163,7 @@
   <string name="app_special_disable_dlg_text">Ако исклучите вградена апликација, други апликации може да не работат. Вашите податоци, исто така ќе бидат избришани.</string>
   <string name="app_special_disable_dlg_title">Избришете ги податоците и оневозможете ја апликацијата?</string>
   <string name="app_switch_key">Последни</string>
-  <string name="application_forbid_auto_startup">Забрани % s да започне во позадина</string>
+  <string name="application_forbid_auto_startup">Забрани  %s  да започне во позадина</string>
   <string name="application_info_label">Информации за апликацијата</string>
   <string name="application_item_already_permission">Дозволено</string>
   <string name="application_item_disable">Одбиј</string>
@@ -198,7 +198,7 @@
   <string name="auto_startup_application_manage">Авто-старт</string>
   <string name="auto_startup_count">% d апликациите се моментално дозволени да стартуваат автоматски</string>
   <string name="automatic_brightness">Автоматска осветленост</string>
-  <string name="available_size">% s достапно</string>
+  <string name="available_size"> %s  достапно</string>
   <string name="awake">Време на будење на уредот</string>
   <string name="back_key">Назад</string>
   <string name="background_data">Позадински податоци</string>
@@ -466,7 +466,7 @@
   <string name="bt_trace_log_summary">Овозможи Bluetooth извештај на следење</string>
   <string name="bugreport_in_power">Извештај за грешки во струјата на менито</string>
   <string name="bugreport_in_power_summary">Вклучува опција на струјата на менито за преземање на извештај за грешката</string>
-  <string name="bugreport_tool_log_toast">Извештај зачуван во% s</string>
+  <string name="bugreport_tool_log_toast">Извештај зачуван во %s </string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Генерира извештај за грешка (трае околу 1 минута)</string>
   <string name="build_number">Број на верзија</string>
   <string name="builtin_keyboard_settings_summary">Подесувања на физичка тастатура</string>
@@ -1464,7 +1464,7 @@
   <string name="msd_pc_system_install_finish_summary_vista">"за Windows Vista и понови верзии на Windows, % 1 $ S ќе се појави како USB масивен уред за складирање кога е поврзан со компјутер ".</string>
   <string name="msd_pc_system_install_finish_summary_xp">"Откако ќе го инсталирате овој драјвер% 1 $ S ќе се појави како USB масовен уред за складирање кога е поврзан со компјутер."</string>
   <string name="msd_pc_system_install_summary_xp">1.Ве молиме стартувајте го програмот за да инсталирате</string>
-  <string name="msg_wlan_signal_found">WLAN АП% s е на располагање, се поврзете сега?</string>
+  <string name="msg_wlan_signal_found">WLAN АП %s  е на располагање, се поврзете сега?</string>
   <string name="mtp_ptp_mode_summary">МТР или PTP функцијата е активна</string>
   <string name="multi_touch_points_category_title">Мулти-допир точки</string>
   <string name="multi_touch_points_preference">Рестартирајте да овозможите</string>
@@ -1472,7 +1472,7 @@
   <string name="mvno_match_data">MVNO вредност</string>
   <string name="mvno_type">MVNO вид</string>
   <string name="nearby_wifi">достапни мрежи</string>
-  <string name="network_detail">% s детали на мрежа</string>
+  <string name="network_detail"> %s  детали на мрежа</string>
   <string name="network_error">Грешка во мрежата.</string>
   <string name="network_settings_title">Мобилни мрежи</string>
   <string name="network_state_label">Состоба на мрежата:</string>
@@ -1506,7 +1506,7 @@
   <string name="no_updates_warning">Не се пронајдени надградби за вашиот таблет.</string>
   <string name="no_updates_warning2">"Опушти се, ние ќе ве известиме ако има надградба."</string>
   <string name="noise_suppression">Загушување на околински звуци</string>
-  <string name="normal_date_format">Регионални (% s)</string>
+  <string name="normal_date_format">Регионални ( %s )</string>
   <string name="not_installed">Не е инсталирано</string>
   <string name="notification_breathing_light_color_title">Боја на светлото за известувања</string>
   <string name="notification_breathing_light_freq_title">Време помеѓу трепкање на светлото за известувања</string>
@@ -1546,7 +1546,7 @@
   <string name="permission_detail_info_summary">Дозволи: Безбедност% 1 $ d, приватност% 2 $ d, Други% 3 $ D</string>
   <string name="permission_manage">Управување со дозволи</string>
   <string name="permission_manage_summary">Авто стартување, приватност, безбедна дозвола за управување</string>
-  <string name="permission_manage_title">% s детали на дозвола</string>
+  <string name="permission_manage_title"> %s  детали на дозвола</string>
   <string name="permissions_label">Дозволи</string>
   <string name="personal_data_section_title">Лични податоци</string>
   <string name="phone_call_noise_suppression">Намали звуци додека траат повици</string>
@@ -1592,10 +1592,10 @@
   <string name="preferred_app_settings_default">Стандардно</string>
   <string name="preferred_app_settings_reset">Врати стандардни</string>
   <string name="preferred_app_settings_reset_message">Врати ги стандардните подесувања на апликацијата?</string>
-  <string name="preferred_application_title">Препорачан% s</string>
+  <string name="preferred_application_title">Препорачан %s </string>
   <string name="preferred_application_warning_message">Заменувањето вашиот стандарден% 1 $ s може да ја зголеми потрошувачката на енергија, намалување на брзината, и може да ги стави содржините на таблетот во ризик. Користите% 2 $ S наместо тоа.</string>
   <string name="preferred_application_warning_replace">Замени</string>
-  <string name="preferred_application_warning_title">Замени стандардни% s</string>
+  <string name="preferred_application_warning_title">Замени стандардни %s </string>
   <string name="preferred_application_warning_use_system">Користи %s</string>
   <string name="preferred_launcher_title">Препрачан стартувач</string>
   <string name="preferred_media_app_summary">Изберете музички плеер</string>
@@ -1759,7 +1759,7 @@
   <string name="remove_account_failed">Оваа сметка е препорачана од страна на некои апликации. Можете само да ја отстраните со ресетирање на таблетот на фабрички стандардни поставки (кој ги брише сите ваши лични податоци) во Подесувања&gt; Резервна копија и рестартирање.</string>
   <string name="remove_account_label">Отстрани сметка</string>
   <string name="remove_device_admin">Деактивирајте</string>
-  <string name="remove_from_frequently_fragment">Отстрани% s од Брзи подесувања?</string>
+  <string name="remove_from_frequently_fragment">Отстрани %s  од Брзи подесувања?</string>
   <string name="reset_app_preferences">Рестартирај преференции на апликација</string>
   <string name="reset_app_preferences_button">Рестартирај апликации</string>
   <string name="reset_app_preferences_desc">"Ова ќе ги рестартира сите прференции за:
@@ -2007,7 +2007,7 @@
   <string name="sms_application_title">Стандардна СМС апликација</string>
   <string name="sms_change_default_dialog_text" formatted="false">Користете %s наместо %s како ваша СМС апликација?</string>
   <string name="sms_change_default_dialog_title">Промени СМС апликација?</string>
-  <string name="sms_change_default_no_previous_dialog_text">Користете% s како ваша СМС апликација?</string>
+  <string name="sms_change_default_no_previous_dialog_text">Користете %s  како ваша СМС апликација?</string>
   <string name="sms_delivered_sound_dialog_title">Изберете звук за доставен текст</string>
   <string name="sms_delivered_sound_title">Пораката е доставена</string>
   <string name="sms_over_ims_off">Исклучете СМС преку ИМС</string>
@@ -2118,7 +2118,7 @@
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Синхронизирање сега...</string>
   <string name="sync_is_failing">Sync е во моментов се соочува со проблеми. Ќе се врати наскоро.</string>
-  <string name="sync_item_title">% s</string>
+  <string name="sync_item_title"> %s </string>
   <string name="sync_menu_sync_cancel">Откажи синхронизација</string>
   <string name="sync_menu_sync_now">Sync сега</string>
   <string name="sync_one_time_sync">"Допрете да синхронизирате сега% 1 $ s"</string>
@@ -2158,7 +2158,7 @@
   <string name="tnhwrevision_settings_list_item_summary">Mocha HW ревизија резиме</string>
   <string name="tnhwrevision_settings_list_item_title">Mocha HW ревизија </string>
   <string name="toast_need_login">Ве молиме најавете се со Xiaomi сметка</string>
-  <string name="total_size">% s вкупно</string>
+  <string name="total_size"> %s  вкупно</string>
   <string name="total_size_label">Вкупно</string>
   <string name="touch_sensitive_summary">"Направете го екранот екстра осетлив за да ја овозможите работење додека носите ракавици"</string>
   <string name="touch_sensitive_title">Ракавица режим</string>
@@ -2196,15 +2196,15 @@
   <string name="tts_engine_error">"Програмот што избравте неможе да стартува"</string>
   <string name="tts_engine_error_config">Конфигурирај</string>
   <string name="tts_engine_error_reselect">Изберете друга апликација</string>
-  <string name="tts_engine_name_is_disabled_summary">% s е исклучено</string>
-  <string name="tts_engine_name_is_enabled_summary">% s е вклучено</string>
-  <string name="tts_engine_name_settings">% s подесувања</string>
+  <string name="tts_engine_name_is_disabled_summary"> %s  е исклучено</string>
+  <string name="tts_engine_name_is_enabled_summary"> %s  е вклучено</string>
+  <string name="tts_engine_name_settings"> %s  подесувања</string>
   <string name="tts_engine_network_required">Овој јазик бара работна мрежна конекција за текст-во-говор излез.</string>
   <string name="tts_engine_preference_section_title">Препорачан програм</string>
-  <string name="tts_engine_security_warning">Овај програм за говорна синтеза може да биде во можност да го собере цел текст што ќе биде изговорен, вклучувајќи лични податоци како лозинки и броеви на кредитни картички. Тоа доаѓа од% s програмот. Овозможи употреба на ова говорна синтеза на програмот?</string>
+  <string name="tts_engine_security_warning">Овај програм за говорна синтеза може да биде во можност да го собере цел текст што ќе биде изговорен, вклучувајќи лични податоци како лозинки и броеви на кредитни картички. Тоа доаѓа од %s  програмот. Овозможи употреба на ова говорна синтеза на програмот?</string>
   <string name="tts_engine_settings_button">Подесувања за стартување на програмот</string>
   <string name="tts_engine_settings_section">Подесувања на програмот</string>
-  <string name="tts_engine_settings_title">Подесувања за% s</string>
+  <string name="tts_engine_settings_title">Подесувања за %s </string>
   <string name="tts_engines_section">Програми</string>
   <string name="tts_general_section_title">Генерално</string>
   <string name="tts_install_data_summary">Инсталирајте ги гласовните податоци потбребни за говорна синтеза</string>
@@ -2266,7 +2266,7 @@
   <string name="unlock_set_unlock_summary">Ве молиме поставете заклучување на екранот</string>
   <string name="unmount_inform_text">SD картичка ќе биде одмонтирана.</string>
   <string name="untitled_apn">Непознато</string>
-  <string name="update_progress_for_updates">Ажурирање (% s)</string>
+  <string name="update_progress_for_updates">Ажурирање ( %s )</string>
   <string name="upload_debug_log_summary">Помгнете на Xiaomi да ги подобри своите производи и услуги со испраќање на анонимни дијагностички и податоци за користење</string>
   <string name="upload_debug_log_title">Корисничка програма за искуство</string>
   <string name="usage_log">Статисктики за користење на апликации</string>
@@ -2380,7 +2380,7 @@
   <string name="user_summary_not_set_up">Не е поставено</string>
   <string name="user_summary_restricted_not_set_up">Не е псотавено - Ограничен профил</string>
   <string name="user_summary_restricted_profile">Ограничен профил</string>
-  <string name="user_you">Вие (% s)</string>
+  <string name="user_you">Вие ( %s )</string>
   <string name="verify_applications">Потврди апликации</string>
   <string name="verify_applications_summary">Забрани или предупреди пред инсталација на апликации кои можат да предизвикаат штета</string>
   <string name="verify_apps_over_usb_summary">Проверете апликации инсталирани преку ADB/ADT за штетно однесување.</string>
@@ -2412,8 +2412,8 @@
   <string name="virus_scanner_lib_already_latest">Вие веќе ги користите последните дефиниции :)</string>
   <string name="virus_scanner_lib_update_failed">Ажурирањето не успеа</string>
   <string name="virus_scanner_lib_updating">Ажурирање дефиниции...</string>
-  <string name="virus_scanner_manual_update">Ажурирани % s</string>
-  <string name="virus_scanner_provider">Дефиниции обезбедени од% s</string>
+  <string name="virus_scanner_manual_update">Ажурирани  %s </string>
+  <string name="virus_scanner_provider">Дефиниции обезбедени од %s </string>
   <string name="virus_scanner_scan">Допрете да скенирате</string>
   <string name="virus_scanner_scanning">Скенирање...</string>
   <string name="virus_scanner_select_Cancel">Откажи</string>
@@ -2445,7 +2445,7 @@
   <string name="vpn_cancel">Откажи</string>
   <string name="vpn_configure">Конфигурација</string>
   <string name="vpn_connect">Поврзи</string>
-  <string name="vpn_connect_to">Поврзете се со% s</string>
+  <string name="vpn_connect_to">Поврзете се со %s </string>
   <string name="vpn_create">Додај VPN</string>
   <string name="vpn_dns_servers">DNS сервери</string>
   <string name="vpn_dns_servers_hint">пример 8.8.8.8</string>
@@ -2625,7 +2625,7 @@
   <string name="wifi_password">Лозинка</string>
   <string name="wifi_poor_network_detection">Избегнувај лоши врски</string>
   <string name="wifi_poor_network_detection_summary">"Не користете WLAN мрежа ако нема добра Интернет конекција"</string>
-  <string name="wifi_priority_changed" formatted="false">Старо приоритетна вредност =% s, нова вредност =% s</string>
+  <string name="wifi_priority_changed" formatted="false">Старо приоритетна вредност = %s , нова вредност = %s </string>
   <string name="wifi_priority_label">Приоритет</string>
   <string name="wifi_priority_settings_label">Приоритет подесувања</string>
   <string name="wifi_priority_settings_summary">Допрете за да поставите приоритет за секоја пристапна точка</string>
@@ -2698,9 +2698,9 @@
   <string name="wifi_setup_status_unsecured_network">Поврзете се на небезбедна мрежа</string>
   <string name="wifi_setup_title">WLAN подесување</string>
   <string name="wifi_setup_title_add_network">Додај мрежа</string>
-  <string name="wifi_setup_title_connected_network">Поврзано на% s</string>
-  <string name="wifi_setup_title_connecting_network">Поврзување на% s...</string>
-  <string name="wifi_setup_title_editing_network">Поврзи на% s</string>
+  <string name="wifi_setup_title_connected_network">Поврзано на %s </string>
+  <string name="wifi_setup_title_connecting_network">Поврзување на %s ...</string>
+  <string name="wifi_setup_title_editing_network">Поврзи на %s </string>
   <string name="wifi_setup_wizard_title">Изберете WLAN мрежа</string>
   <string name="wifi_setup_wps">Автоматско подесување (WPS )</string>
   <string name="wifi_share">Сподели WLAN</string>
@@ -2788,7 +2788,7 @@
   <string name="wifi_wps_available_first_item">Достапен е WPS</string>
   <string name="wifi_wps_available_second_item">"(WPS достапен)"</string>
   <string name="wifi_wps_complete">WPS успеа. Поврзување на мрежа...</string>
-  <string name="wifi_wps_connected">Поврзано со WLAN мрежа% s</string>
+  <string name="wifi_wps_connected">Поврзано со WLAN мрежа %s </string>
   <string name="wifi_wps_failed_auth">Автентикацијата неуспеа. Ве молиме обидете се повторно.</string>
   <string name="wifi_wps_failed_generic">WPS не успеа. Ве молиме обидете се повторно за неколку минути.</string>
   <string name="wifi_wps_failed_overlap">Друга WPS сесија е откриена. Ве молиме обидете се повторно за неколку минути.</string>

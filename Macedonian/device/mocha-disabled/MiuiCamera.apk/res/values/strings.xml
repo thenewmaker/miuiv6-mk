@@ -2,7 +2,7 @@
 <resources>
   <string name="Import">Увоз</string>
   <string name="access_sd_fail">"Неможеше да пристапи SD картичка."</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Смени камера и видео (моментално користи % s)</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Смени камера и видео (моментално користи  %s )</string>
   <string name="accessibility_camera_auto_flashmode">Авто-блиц</string>
   <string name="accessibility_camera_flash_closemode">Без блиц</string>
   <string name="accessibility_camera_flashmode">Секогаш блиц</string>
@@ -60,7 +60,7 @@
   <string name="contact_web">Веб</string>
   <string name="copy_text">Копирај текст</string>
   <string name="copy_text_success">Текст копиран</string>
-  <string name="crop_saved">Отсечената слика зачувана во% s.</string>
+  <string name="crop_saved">Отсечената слика зачувана во %s .</string>
   <string name="delete">Избриши</string>
   <string name="deleted">Избришано</string>
   <string name="description">Опис</string>
@@ -445,7 +445,7 @@
   <string name="qr_code_details">QR код детали:</string>
   <string name="raw_data_exit_button_text">Излез RAW режим</string>
   <string name="record_back_pressed_hint">Допрете повторно да го стопирате снимањето</string>
-  <string name="resume_playing_message">продолжи емитување од% s?</string>
+  <string name="resume_playing_message">продолжи емитување од %s ?</string>
   <string name="resume_playing_restart">Започни веќе</string>
   <string name="resume_playing_resume">Продолжи емитување</string>
   <string name="resume_playing_title">Продолжи видео</string>
@@ -462,7 +462,7 @@
   <string name="select_item">Изберете предмет</string>
   <string name="select_video">Изберете видео</string>
   <string name="send">Испрати</string>
-  <string name="send_multiple_files_hint_format">Испрати повеќе датотеки (% s)</string>
+  <string name="send_multiple_files_hint_format">Испрати повеќе датотеки ( %s )</string>
   <string name="set_as">Постави како</string>
   <string name="set_image">Постави ја сликата како</string>
   <string name="set_label_all_albums">Сите албуми</string>

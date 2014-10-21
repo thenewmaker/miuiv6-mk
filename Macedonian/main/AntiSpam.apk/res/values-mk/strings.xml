@@ -41,14 +41,14 @@
   <string name="ad_relative_setting">Поврзани поставувања</string>
   <string name="ad_single_block_hint">Блокиран</string>
   <string name="ad_update_setting">Ажурирање</string>
-  <string name="ad_update_time">Последна промена:% s</string>
+  <string name="ad_update_time">Последна промена: %s </string>
   <string name="ad_update_time_unKnown">Последна промена: непознат</string>
   <string name="ad_update_title">Ажурира автоматски</string>
   <string name="address_choose_hint" formatted="false">%1$sA €%2$s s и% 3 $ d локации</string>
   <string name="addwhitelist">Додадете исклучоци</string>
   <string name="all_address_choose_hint">Сите локации</string>
   <string name="app_name">Блоклиста</string>
-  <string name="backsound_set_hint">Поставите ваш backsound на% s?</string>
+  <string name="backsound_set_hint">Поставите ваш backsound на %s ?</string>
   <string name="baidu_thanks">Поддржано од Baidu</string>
   <string name="bl_block_info">блокиран:% d | SMS порака:% d</string>
   <string name="bl_no_blacklist">не блокирани броеви</string>

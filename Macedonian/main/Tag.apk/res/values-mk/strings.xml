@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="action_call">Повик% s</string>
-  <string name="action_text">Текст% s</string>
+  <string name="action_call">Повик %s </string>
+  <string name="action_text">Текст %s </string>
   <string name="app_name">Тагови</string>
   <string name="button_done">Завршено</string>
   <string name="empty_tag_prompt">Овој таг е празен.</string>

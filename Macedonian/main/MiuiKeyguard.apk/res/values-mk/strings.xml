@@ -58,8 +58,8 @@
   <string name="miui_unlockscreen_password_wrong">Обидете се повторно:</string>
   <string name="open_wifi_settings">Отвори мрежна конекција</string>
   <string name="phone_locked_string">телефонот е заклучен</string>
-  <string name="phone_locked_timeout_minutes_string">Обидете се повторно во % s минути</string>
-  <string name="phone_locked_timeout_seconds_string">Обидете се повторно за % s секунди</string>
+  <string name="phone_locked_timeout_minutes_string">Обидете се повторно во  %s  минути</string>
+  <string name="phone_locked_timeout_seconds_string">Обидете се повторно за  %s  секунди</string>
   <string name="pin_operation_failed">ПИН операцијата не успеа.</string>
   <string name="pincode_set_to_default_msg">PIN код е поставен на 1234, можете да го промените тука:</string>
   <string name="puk_operation_failed">PUK операцијата не успеа.</string>

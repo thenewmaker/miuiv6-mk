@@ -82,7 +82,7 @@
   <string name="cit_headset_button_check_summary">Кога се поврзани слушалки, притиснете го копчето на слушалките (често се наоѓа на кабелот). Соодветниот текст на екранот треба да се претвори зелен.</string>
   <string name="cit_headset_button_check_title">Копчиња на слушалки</string>
   <string name="cit_headset_button_click">Притиснете ги копчињата на слушалките</string>
-  <string name="cit_headset_button_current">Моментално копче:% s</string>
+  <string name="cit_headset_button_current">Моментално копче: %s </string>
   <string name="cit_headset_button_fast_forward">Брзо нанапред</string>
   <string name="cit_headset_button_next">Следно</string>
   <string name="cit_headset_button_pass">Лозинка</string>
@@ -105,7 +105,7 @@
   <string name="cit_kayboard_volume_down">Копче: НАМАЛИ</string>
   <string name="cit_kayboard_volume_up">Копче: ПОПУШТИ</string>
   <string name="cit_keyboard_back">Копче: НАЗАД</string>
-  <string name="cit_keyboard_current">Моментална тастатура:% s</string>
+  <string name="cit_keyboard_current">Моментална тастатура: %s </string>
   <string name="cit_keyboard_menu">Копче: МЕНИ</string>
   <string name="cit_keyboard_test_summary">Кога ќе го притиснете копчето, соодветниот текст на екранот треба да се претвори зелен (забелешка: Дома и копчето за исклучување не се вклучени во тестот) .</string>
   <string name="cit_keyboard_test_title">Копчиња</string>
@@ -192,14 +192,14 @@
   <string name="cit_tool_log">Земете дневници</string>
   <string name="cit_tool_log_bugreport">Пријавување на проблеми</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
-  <string name="cit_tool_log_file_not_exist">% s не постои</string>
+  <string name="cit_tool_log_file_not_exist"> %s  не постои</string>
   <string name="cit_tool_log_generate_bugreport">Креирање извештај за грешка...</string>
   <string name="cit_tool_log_kmsg">Последен дневник за кернелот</string>
   <string name="cit_tool_log_logcat">АДБ дневник</string>
   <string name="cit_tool_log_modem">Модем дневник</string>
   <string name="cit_tool_log_no_sdcard">Вметнете SD картичка сега</string>
   <string name="cit_tool_log_ril">RIL дневник</string>
-  <string name="cit_tool_log_toast">Дневникот зачуван на% s</string>
+  <string name="cit_tool_log_toast">Дневникот зачуван на %s </string>
   <string name="cit_tool_log_toast_generate_bugreport">Креирање извештај за грешка... (ова трае околу 1 минута)</string>
   <string name="cit_tool_modem">МОДЕМ алакти за тест</string>
   <string name="cit_tool_modem_bugreport">Присили модем coredump</string>
@@ -257,7 +257,7 @@
   <string name="cit_tool_wifi_rx_exit">Rx: излез</string>
   <string name="cit_tool_wifi_rx_run">Започни</string>
   <string name="cit_tool_wifi_rx_stop">Стоп</string>
-  <string name="cit_tool_wifi_rx_total_format">Вкупно пренесено% s</string>
+  <string name="cit_tool_wifi_rx_total_format">Вкупно пренесено %s </string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">канал:</string>
   <string name="cit_tool_wifi_rxbg_test_datarate">стапка:</string>

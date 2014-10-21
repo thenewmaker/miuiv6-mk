@@ -15,9 +15,9 @@
   <string name="apply_update_fail">"Неможе да се инсталира надградбата"</string>
   <string name="apply_update_timer">уредот ќе се рестартира за% d секунди</string>
   <string name="apply_upload_info_message">За да ја инсталирате надградбата, допрете Ажурирај. Вашиот телефон ќе се рестартира кога процесот е завршен.</string>
-  <string name="apply_upload_info_message_manually">По рестартирање, можете влезете во обновувачки режим и да ја инсталирате надградбата (% s) рачно. Ако сакате да ги заштите вашите податоци, треба да го сторите тоа пред да ја инсталирате надградбата.</string>
+  <string name="apply_upload_info_message_manually">По рестартирање, можете влезете во обновувачки режим и да ја инсталирате надградбата ( %s ) рачно. Ако сакате да ги заштите вашите податоци, треба да го сторите тоа пред да ја инсталирате надградбата.</string>
   <string name="applying_rom_message">Инсталирање на надградба...</string>
-  <string name="applying_update">Надградување% s</string>
+  <string name="applying_update">Надградување %s </string>
   <string name="best_update">Најдобра надградба до сега</string>
   <string name="boot_recovery">Рестартирајте во обновувачки режим</string>
   <string name="cancel_download_buton_text">Откажи</string>
@@ -42,8 +42,8 @@
   <string name="dialog_ok">OK</string>
   <string name="dialog_yes">Да</string>
   <string name="download_current_rom">Прегледај достапни надградби</string>
-  <string name="download_ota_rom">надградување (% s)</string>
-  <string name="download_whole_rom">Надградување (% s)</string>
+  <string name="download_ota_rom">надградување ( %s )</string>
+  <string name="download_whole_rom">Надградување ( %s )</string>
   <string name="downloading_description">Превземање...</string>
   <string name="edit_comment">Додадете коментар</string>
   <string name="edit_comment_title">Уреди коментар</string>
@@ -89,8 +89,8 @@
   <string name="new_update_content_notification_shade">
   </string>
   <string name="new_update_content_title">"Достапно е MIUI надградување"</string>
-  <string name="new_update_download_complete_body">Нова верзија% s</string>
-  <string name="new_update_downloading_body">Превземање верзија:% s</string>
+  <string name="new_update_download_complete_body">Нова верзија %s </string>
+  <string name="new_update_downloading_body">Превземање верзија: %s </string>
   <string name="new_updates_found_notification_title">Достапна надградба</string>
   <string name="new_updates_found_title">Достапна надградба</string>
   <string name="next">Следна</string>

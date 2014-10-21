@@ -416,7 +416,7 @@
   <string name="heavenly_stems_yi">乙</string>
   <string name="im">Im</string>
   <string name="label">MIUI SDK</string>
-  <string name="license_host_unreachable">"Неможе да се поврзе со мрежата. За да ја погледнете оваа информација сега, одете на% s.".</string>
+  <string name="license_host_unreachable">"Неможе да се поврзе со мрежата. За да ја погледнете оваа информација сега, одете на %s .".</string>
   <string name="loading">Се вчитува...</string>
   <string name="mibi_license">MiCredit пристап договор</string>
   <string name="midnight">AM</string>

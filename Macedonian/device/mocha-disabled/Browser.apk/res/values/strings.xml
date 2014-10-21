@@ -174,16 +174,16 @@
   <string name="defaultBookmarksUpButton">Означени страници</string>
   <string name="delete">Избриши</string>
   <string name="delete_bookmark">Избриши ознака</string>
-  <string name="delete_bookmark_warning">Избриши ознака \ "% s \"?</string>
+  <string name="delete_bookmark_warning">Избриши ознака \ " %s  \"?</string>
   <string name="delete_folder">Избриши папка</string>
   <string name="delete_multi_bookmarks_alert_title">Потврдете да ги избришете% 1 $ S проекти?</string>
-  <string name="delete_quicklink_warning">Избриши \ "% s \" од кратенка?</string>
+  <string name="delete_quicklink_warning">Избриши \ " %s  \" од кратенка?</string>
   <string name="disable_autofill">Оневозможи авто-пополни</string>
   <string name="do_not_save">Откажи</string>
   <string name="done">Завршено</string>
   <string name="download_complete">Преземањето на датотеката завршено</string>
   <string name="download_failed">Превземањето не успеа</string>
-  <string name="download_no_sdcard_dlg_msg">SD картичка е потребна за да преземе% s.</string>
+  <string name="download_no_sdcard_dlg_msg">SD картичка е потребна за да преземе %s .</string>
   <string name="download_no_sdcard_dlg_title">Нема SD картичка</string>
   <string name="download_pending">Стартува преземањето...</string>
   <string name="download_sdcard_busy_dlg_msg">SD картичката е зафатена. За да се овозможат преземања, допрете Исклучи USB меморија во нотификацијата.</string>
@@ -217,7 +217,7 @@
   <string name="geolocation_permissions_prompt_share">Дозволи</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Овој сајт може да пристапи до вашата локација. Сменете го ова во Прилагодување&gt; Податоци на вебстрана&gt; Вебстрана екран за складирање на податоци.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Овој сајт неможе да пристапи до вашата локација. Сменете го ова во Прилагодување&gt; Податоци на вебстрана&gt; Вебстрана екран за складирање на податоци.</string>
-  <string name="geolocation_permissions_prompt_url">\ "% s \"</string>
+  <string name="geolocation_permissions_prompt_url">\ " %s  \"</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Откажи</string>
   <string name="geolocation_settings_page_dialog_message">Исчисти пристап на локација за овој веб-сајт?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -236,8 +236,8 @@
   <string name="homepage_set">Почетна страна поставена.</string>
   <string name="http">Http: //</string>
   <string name="import_bookmarks_dialog_add">Додадете ознаки на Google сметка</string>
-  <string name="import_bookmarks_dialog_confirm_add">Додај обележувачи моментално на овој уред и започнете со синхронизирање на обележувачите со% s?</string>
-  <string name="import_bookmarks_dialog_confirm_delete">Избриши обележувачи моментално на овој уред и започнете синхронизирање обележувачите со% s?</string>
+  <string name="import_bookmarks_dialog_confirm_add">Додај обележувачи моментално на овој уред и започнете со синхронизирање на обележувачите со %s ?</string>
+  <string name="import_bookmarks_dialog_confirm_delete">Избриши обележувачи моментално на овој уред и започнете синхронизирање обележувачите со %s ?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Избриши ги обележувачите моментално на овој уред и започнете синхронизирање со Google сметка</string>
   <string name="import_bookmarks_dialog_description">"Ознаките на овој уред сеуште не се поврзани со Google сметка. Зачувај ги овие ознаки со додавање на сметката. Избриши ги овие ознаки ако не сакате да ги синхронизирате. "</string>
   <string name="import_bookmarks_dialog_import">Додади ги ознаките на вашиот Андроид за да означите за %s</string>
@@ -342,7 +342,7 @@
   <string name="pref_autofill_enabled_summary">Пополнете веб форми со едно допирање</string>
   <string name="pref_autofill_profile_editor">авто-пополни текст</string>
   <string name="pref_autofill_profile_editor_summary">Постави текст за авто-пополнување веб форми</string>
-  <string name="pref_autologin_progress">Најавување во Google страници со користење на% s</string>
+  <string name="pref_autologin_progress">Најавување во Google страници со користење на %s </string>
   <string name="pref_autologin_title">Автоматско Google најавување</string>
   <string name="pref_content_auto_light_mode">Авто осветленост</string>
   <string name="pref_content_autofit">Авто-подеси страници</string>
@@ -601,7 +601,7 @@
   <string name="webview_js_dialog_before_unload_negative_button">Останете на оваа страница</string>
   <string name="webview_js_dialog_before_unload_positive_button">Остави ја страната</string>
   <string name="webview_js_dialog_before_unload_title">Потврди Навигација</string>
-  <string name="webview_js_dialog_title">Страницата на \ "% s \" вели:</string>
+  <string name="webview_js_dialog_title">Страницата на \ " %s  \" вели:</string>
   <string name="webview_js_dialog_title_default">JavaScript</string>
   <string name="webview_last_month">Минатиот месец</string>
   <string name="webview_no_matches">Нема пронајдени</string>

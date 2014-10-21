@@ -8,7 +8,7 @@
   <string name="disconnect">Исклучете</string>
   <string name="duration">Времетраење:</string>
   <string name="legacy_title">VPN е поврзан</string>
-  <string name="prompt">% s обиди да се создаде VPN конекција.</string>
+  <string name="prompt"> %s  обиди да се создаде VPN конекција.</string>
   <string name="session">сесија:</string>
   <string name="warning">Со продолжување, и се дава дозвола на апликацијата да го пресретне цел мрежен сообракај. &lt;B&gt; не прифаќајте, освен ако не и верувате на апликацијата. &lt;/ B&gt; "Во спротивно, ризикувате вашите податоци да бидат компромитирани од малициозен софтвер."</string>
 </resources>

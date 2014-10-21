@@ -11,7 +11,7 @@
   <string name="add_music">Додај музика</string>
   <string name="add_nickname">Прекар</string>
   <string name="add_nickname_title">Уреди прекар</string>
-  <string name="add_number_to_sender">Додај број на% s</string>
+  <string name="add_number_to_sender">Додај број на %s </string>
   <string name="add_picture">Додај слика</string>
   <string name="add_private_contact">Додај приватен контакт</string>
   <string name="add_slide">Додај слајд (по)</string>
@@ -99,7 +99,7 @@
   <string name="copy_message_text_success">Копирање на текст завршено</string>
   <string name="copy_to_sdcard">Зачувај прикачок</string>
   <string name="copy_to_sdcard_fail">"не може да го зачува прикачокот "</string>
-  <string name="copy_to_sdcard_success">Прикачот зачуван како% s</string>
+  <string name="copy_to_sdcard_success">Прикачот зачуван како %s </string>
   <string name="database_corruption">Поправање...</string>
   <string name="delete">Избриши</string>
   <string name="delete_bookmark">Отстрани од означени</string>
@@ -107,7 +107,7 @@
   <string name="delete_phrase">Избриши одговор</string>
   <string name="delete_unlocked">Избриши заклучени пораки</string>
   <string name="delivery_report_activity">извештај испорака</string>
-  <string name="delivery_toast_body">Порака добиена од% s</string>
+  <string name="delivery_toast_body">Порака добиена од %s </string>
   <string name="disable_notifications_dialog_message">Стопирај известувања од дуплирани текст пораки од стандардната апликација за пораки?</string>
   <string name="discard">Отфрли</string>
   <string name="discard_message">Отфрли</string>
@@ -119,7 +119,7 @@
   <string name="download_later">"Неможе да превземе во моментов. Обидете се повторно подоцна.".</string>
   <string name="downloading">Превземање</string>
   <string name="duration_not_a_number">Времетраење мора да биде број</string>
-  <string name="duration_sec">Времетраење (% s сек)</string>
+  <string name="duration_sec">Времетраење ( %s  сек)</string>
   <string name="duration_selector_title">"Време за слајд"</string>
   <string name="duration_zero">Времетраење мора да биде поголемо од 0 секунди</string>
   <string name="edit">Уреди</string>
@@ -139,7 +139,7 @@
   <string name="ex_type_mx">Cloud порака</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Ограничувањето на големината пораката е достигнат.</string>
-  <string name="expire_on">Истекува:% s</string>
+  <string name="expire_on">Истекува: %s </string>
   <string name="exporting_progress_private_message">Извезување пораки...</string>
   <string name="failed_to_add_media">"Неможете да го додадете ова% 1 $ s на вашата порака."</string>
   <string name="failed_to_resize_image">Сликата не е променета.</string>
@@ -147,7 +147,7 @@
   <string name="feedback_description_hint">Напишете ја вашата порака тука</string>
   <string name="feedback_submit">Испрати повратни информации</string>
   <string name="festival">Брзи одговори</string>
-  <string name="festival_sms_category_count_format">% s</string>
+  <string name="festival_sms_category_count_format"> %s </string>
   <string name="festival_sms_loading">Се вчитува...</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Креирано време:</string>
@@ -273,7 +273,7 @@
   <string name="no_subject_view">(Нема предмет)</string>
   <string name="non_english_subject_limit">Граница 13 карактери</string>
   <string name="nosend_message">"Не испраќај"</string>
-  <string name="notification_failed_multiple">"% s пораките не можеше да бидат испратени"</string>
+  <string name="notification_failed_multiple">" %s  пораките не можеше да бидат испратени"</string>
   <string name="notification_failed_multiple_title">пораката не е испратена</string>
   <string name="notification_multiple">% S непрочитани пораки</string>
   <string name="notification_multiple_title">Нови пораки</string>
@@ -421,7 +421,7 @@
   <string name="show_all_messages">Прикажи ги сите пораки</string>
   <string name="sim_card1">SIM картичка 1</string>
   <string name="sim_card2">SIM картичка 2</string>
-  <string name="sim_card_cloud">% s (Облак порака)</string>
+  <string name="sim_card_cloud"> %s  (Облак порака)</string>
   <string name="sim_copy_to_phone_memory">Копирајте во меморијата на телефонот</string>
   <string name="sim_delete">Избриши</string>
   <string name="sim_empty">Нема пораки на SIM картичка</string>
@@ -429,7 +429,7 @@
   <string name="sim_full_title">SIM картичката е целосна</string>
   <string name="sim_manage_messages_title">Текстуалните пораки на SIM картичка</string>
   <string name="sim_view">Види</string>
-  <string name="slide_number">Слајд% s</string>
+  <string name="slide_number">Слајд %s </string>
   <string name="slide_show_part">Дел% 1 $ s /% 2 $ s</string>
   <string name="slideshow_activity">Слајдшоу</string>
   <string name="sms_content">Содржина:</string>
@@ -439,7 +439,7 @@
   <string name="sms_rejected_title">Текст порака одбиена</string>
   <string name="sp_category_all">Сите услужни пораки</string>
   <string name="sp_category_bank">Услужни банкарски пораки</string>
-  <string name="sp_category_title_prefix">% s</string>
+  <string name="sp_category_title_prefix"> %s </string>
   <string name="sp_conversation_title">Известувања</string>
   <string name="sp_mark_as_read">Означи ги сите пораки како прочитани?</string>
   <string name="sp_mark_as_read_progress">Обележување како прочитани...</string>
@@ -472,7 +472,7 @@
   <string name="to_address_label">"До:"</string>
   <string name="to_count">% d корисници</string>
   <string name="to_label">"До"</string>
-  <string name="to_send_wrapper">Ќе испрати на% s</string>
+  <string name="to_send_wrapper">Ќе испрати на %s </string>
   <string name="toast_description_required">"Опишувањето неможе да биде празно"</string>
   <string name="toast_feedback_finish">"Вашиот извештај ќе биде испратен кога ќе бидете поврзани со WLAN"</string>
   <string name="toast_feedback_max">"Неможете да поднесете повеќе од 3 извештаи дневно"</string>
@@ -488,7 +488,7 @@
   <string name="type_to_compose_text_or_leave_blank">Напишете порака, или оставете го полето празно</string>
   <string name="type_vcard">визит карта</string>
   <string name="type_video">видео</string>
-  <string name="undelivered_msg_dialog_body">"не можеше да ја пратите оваа порака. Направен обид:% s.".</string>
+  <string name="undelivered_msg_dialog_body">"не можеше да ја пратите оваа порака. Направен обид: %s .".</string>
   <string name="undelivered_msg_dialog_title">Недоставена порака</string>
   <string name="undelivered_sms_dialog_body">"не можеше &amp;apos, t испрати оваа порака."</string>
   <string name="unknown_num">Непознат број</string>

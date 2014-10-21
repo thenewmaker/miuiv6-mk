@@ -50,7 +50,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">само слушалки</string>
   <string name="auto_answer_scenario_title">Авто-одговор услови</string>
   <string name="auto_answer_setting_title">Авто-одговор подесувања</string>
-  <string name="auto_answer_summary_delay">"(одложување:% s секунди)"</string>
+  <string name="auto_answer_summary_delay">"(одложување: %s  секунди)"</string>
   <string name="auto_answer_summary_not_enabled">Оневозможени</string>
   <string name="auto_record_yellowpage">Директориум</string>
   <string name="auto_redial_pref_summary">Бирај повторно автоматски ако линијата е зафатена</string>
@@ -62,7 +62,7 @@
   <string name="autoip_areacode_required">Потребен е префикс</string>
   <string name="autoip_areacode_required_accept">OK</string>
   <string name="autoip_areacode_required_for_emergency_number">Потребен е локален префикс за итни повици</string>
-  <string name="autoip_autoip_current_areacode_summary">код на тековна област: % s</string>
+  <string name="autoip_autoip_current_areacode_summary">код на тековна област:  %s </string>
   <string name="autoip_current_areacode">Код на тековна област</string>
   <string name="autoip_current_areacode_summary">Префикс на вашата моментна локација</string>
   <string name="autoip_exception">"Броеви на кои не им треба IP префикс"</string>
@@ -70,7 +70,7 @@
   <string name="autoip_exception_summary_more">...% d вкупно</string>
   <string name="autoip_no_exceptions">"Додај броеви кои не бараат IP префикс"</string>
   <string name="autoip_prefix">IP префикс</string>
-  <string name="autoip_prefix_summary">"IP префикс на превозникот:% s"</string>
+  <string name="autoip_prefix_summary">"IP префикс на превозникот: %s "</string>
   <string name="autoip_setting">Автоматско IP подесување</string>
   <string name="autoip_summary">Додај IP префикс за странски број</string>
   <string name="autoip_support_local_numbers">Секогаш користи IP префикс</string>
@@ -95,7 +95,7 @@
   <string name="call_record_auto_whitelist_summary">% d броеви</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 број</string>
   <string name="call_record_whitelist_custom">Прилагодена листа</string>
-  <string name="call_recording_notification_message">допри за да видиш% s.</string>
+  <string name="call_recording_notification_message">допри за да видиш %s .</string>
   <string name="call_recording_notification_message_low_storage">снимањето престана: Нема доволно простор.</string>
   <string name="call_recording_notification_message_sd_unmounted">снимањето престана: SD картичката е извадена.</string>
   <string name="call_recording_notification_summary">Прикажи известување во статусната лента кога повикот е снимен</string>

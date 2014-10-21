@@ -149,7 +149,7 @@
   <string name="login_tip_title">Најавете се</string>
   <string name="manage">Управувај</string>
   <string name="manage_offline_media">Управувај превземања</string>
-  <string name="media_name_comment">% s коментар</string>
+  <string name="media_name_comment"> %s  коментар</string>
   <string name="menu_item_about_label">За</string>
   <string name="menu_item_disable_3d_mode">Оневозможи 3D</string>
   <string name="menu_item_disable_audio_enhance">Исклучи аудио подобрувач</string>
@@ -213,7 +213,7 @@
   <string name="search_recommend_media_hint">Препорачано за вас</string>
   <string name="search_recommend_word_hint">Во мода</string>
   <string name="search_result_empty_text">"Неуспеа да најде ништо"</string>
-  <string name="search_result_hint">% s резултати</string>
+  <string name="search_result_hint"> %s  резултати</string>
   <string name="search_result_input_hint">Барај</string>
   <string name="see_all">Видете ги сите</string>
   <string name="see_all_count_comment">% г повеќе коментари</string>
