@@ -1593,7 +1593,7 @@
   <string name="preferred_app_settings_reset">Врати стандардни</string>
   <string name="preferred_app_settings_reset_message">Врати ги стандардните подесувања на апликацијата?</string>
   <string name="preferred_application_title">Препорачан %s </string>
-  <string name="preferred_application_warning_message">Заменувањето вашиот стандарден %1$s  може да ја зголеми потрошувачката на енергија, намалување на брзината, и може да ги стави содржините на таблетот во ризик. Користите% 2 $ S наместо тоа.</string>
+  <string name="preferred_application_warning_message">Заменувањето вашиот стандарден %1$s  може да ја зголеми потрошувачката на енергија, намалување на брзината, и може да ги стави содржините на таблетот во ризик. Користите %2$s  наместо тоа.</string>
   <string name="preferred_application_warning_replace">Замени</string>
   <string name="preferred_application_warning_title">Замени стандардни %s </string>
   <string name="preferred_application_warning_use_system">Користи %s</string>

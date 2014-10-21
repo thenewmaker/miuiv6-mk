@@ -60,7 +60,7 @@
 
 Можете да се префрлате на оваа поставка во Подесувања&gt; Безбедност&gt; Непознати извори. "</string>
   <string name="update_log_default">无 应用 更新 信息</string>
-  <string name="update_time"> %1$s  年 %2$s  月 %3$s  日 发布% 4 $ на 版</string>
+  <string name="update_time"> %1$s  年 %2$s  月 %3$s  日 发布 %4$s на 版</string>
   <string name="update_title"> %1$s  已经 有 新 版本</string>
   <string name="virus_scan_clear">Отстрани</string>
   <string name="virus_scan_install">&lt;u&gt; Инсталирај ипак&lt;/ u&gt;</string>
