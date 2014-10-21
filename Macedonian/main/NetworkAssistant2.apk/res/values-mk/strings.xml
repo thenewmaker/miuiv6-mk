@@ -113,7 +113,7 @@
   <string name="main_secondary_message_traffic_detail_leisure">"
 Евтина тарифа: %1$s  останати | %2$s  искористени"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Тарифа:% 1 $ S %2$s  останати |% 3 $ s се користи"</string>
+Тарифа: %1$s  %2$s  останати | %3$s  се користи"</string>
   <string name="main_secondary_message_traffic_over">над</string>
   <string name="main_secondary_message_traffic_remain">останати</string>
   <string name="main_secondary_message_traffic_used_leisure"> %s  евтина тарифа на податоци</string>
@@ -139,7 +139,7 @@
   <string name="network_control">Видете ги подесувањата на апликацијата</string>
   <string name="none_mi_service_app_detail">Празно</string>
   <string name="notification_content_title">Искористено %1$s , додека е заклучен</string>
-  <string name="notification_title">% 1 $ S- %2$s : за% 3 $ s искористени</string>
+  <string name="notification_title"> %1$s - %2$s : за %3$s  искористени</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Разговор</string>
   <string name="online_read">читање</string>
@@ -228,7 +228,7 @@
   <string name="songs_unit">"песни"</string>
   <string name="sorted_button">Сортирај по</string>
   <string name="sorted_dialog_title">Сортирај по</string>
-  <string name="spinner_title">% 1 $ S - Мобилни податоци: %2$s </string>
+  <string name="spinner_title"> %1$s  - Мобилни податоци: %2$s </string>
   <string name="stop_app_button">Стоп</string>
   <string name="system_app">Системски апликации</string>
   <string name="text_day">

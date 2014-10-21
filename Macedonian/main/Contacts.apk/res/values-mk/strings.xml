@@ -878,7 +878,7 @@
   <string name="resource_exchange_has_used">Кодот што во внесове веќе е употребен.</string>
   <string name="resource_exchange_hint">Внесете го вашиот подарок код</string>
   <string name="resource_exchange_purchase_unkown_error">Упс! Се случи непозната грешка. Најавете се на http://market.xiaomi.com да го видите вашиот статус на исплата.</string>
-  <string name="resource_exchange_share_code_content">"Вие и добивте подарок код ( %2$s ) за темата% 1 $ во MIUI Процавницата за Теми. Допрете% 3 $ s за да го користите сега.".</string>
+  <string name="resource_exchange_share_code_content">"Вие и добивте подарок код ( %2$s ) за темата% 1 $ во MIUI Процавницата за Теми. Допрете %3$s  за да го користите сега.".</string>
   <string name="resource_exchange_share_code_dlg_content">Подарок код за %1$s : %2$s . Кога ќе го испратите на друг корисник на MIUI, тие можат да го користат за да ја преземат оваа тема.</string>
   <string name="resource_exchange_share_code_dlg_title">Испраќање</string>
   <string name="resource_exchange_success">Уживајте! :)</string>
@@ -1024,7 +1024,7 @@
   <string name="sim_no_contact">Нема контакти на СИМ картичката</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Нема членови на групата</string>
-  <string name="smart_group_action_bar_title"> %1$s : %2$s  (% 3 $ s)</string>
+  <string name="smart_group_action_bar_title"> %1$s : %2$s  ( %3$s )</string>
   <string name="smart_group_company_label">Од компанијата</string>
   <string name="smart_group_company_unavailable">Нема компанија</string>
   <string name="smart_group_frequency_1">Во изминатиот месец</string>
@@ -1104,7 +1104,7 @@
   <string name="upgrade_out_of_memory_retry">Пробај повторно надградба</string>
   <string name="upgrade_out_of_memory_uninstall">Избриши некои апликации</string>
   <string name="use_photo_as_primary">Користете ја оваа слика</string>
-  <string name="use_photo_as_primary2">"Користи% 1 $ S 'и контакт фотографија"</string>
+  <string name="use_photo_as_primary2">"Користи %1$s  'и контакт фотографија"</string>
   <string name="user_profile_contacts_list_header">Јас</string>
   <string name="vcard_export_request_rejected_message">барањето за исвоз на визит карта  е одбиено. Обидете се повторно подоцна.</string>
   <string name="vcard_export_will_start_message"> %s  ќе бидат извезени наскоро.</string>

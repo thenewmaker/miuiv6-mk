@@ -13,7 +13,7 @@
   <string name="caller_app">повикувач: %1$s </string>
   <string name="cancel">Откажи</string>
   <string name="dlg_app_replacement_statement">"Апликацијата што ја инсталирате ќе замени друга апликација. Сите претходни податоци ќе бидат зачувани."</string>
-  <string name="dlg_app_replacement_statement_with_version">" %1$s  s ( %2$s ) ќе ја замени моменталната инсталирана верзија (% 3 $ s). Содржината на корисникот ќе биде задржана.
+  <string name="dlg_app_replacement_statement_with_version">" %1$s  s ( %2$s ) ќе ја замени моменталната инсталирана верзија ( %3$s ). Содржината на корисникот ќе биде задржана.
 Сигурно да инсталирате?"</string>
   <string name="dlg_app_replacement_title">Замени апликација</string>
   <string name="dlg_ok">OK</string>

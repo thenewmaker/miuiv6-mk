@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="act_aqi_src_port">"% 1 $ S %2$s % 3 $ s"</string>
+  <string name="act_aqi_src_port">" %1$s  %2$s  %3$s "</string>
   <string name="act_find_city_hint">Внесете локација</string>
   <string name="act_find_city_hot_title">Додај</string>
   <string name="act_set_city_find_side">Лоцирање...</string>

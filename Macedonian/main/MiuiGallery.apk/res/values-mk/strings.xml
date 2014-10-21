@@ -42,7 +42,7 @@
   <string name="alert_init_merged_message">"Сега, слики на вашиот уред и фотографии што ги складиравте во Mi Cloud ќе бидат прикажани заедно."</string>
   <string name="alert_init_merged_title">Сите ваши фотографии. Конечно заедно.</string>
   <string name="alert_message_open_sync">Потребно е да овозможите синхронизација прво.</string>
-  <string name="already_apply_album">Отвори% 1 $ S?</string>
+  <string name="already_apply_album">Отвори %1$s ?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Андроид позадини</string>
   <string name="aperture">Отвор</string>

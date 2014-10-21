@@ -20,7 +20,7 @@
   <string name="mipay_bank_card_safe_info">Оваа услуга е кодирана и овластена од страна на Xiaomi и Банката</string>
   <string name="mipay_bank_card_support_list">Поддржани банки</string>
   <string name="mipay_bank_card_tail_number">картичка бр.  %1$s </string>
-  <string name="mipay_bank_card_type">% 1 $ S- %2$s </string>
+  <string name="mipay_bank_card_type"> %1$s - %2$s </string>
   <string name="mipay_bank_card_type_credit">Кредитна картичка</string>
   <string name="mipay_bank_card_type_debit">Дебитна картичка</string>
   <string name="mipay_bank_card_valid_date">Датум на истекување</string>

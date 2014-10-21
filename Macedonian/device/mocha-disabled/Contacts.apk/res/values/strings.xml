@@ -83,7 +83,7 @@
   <string name="call_settings">Подесувања</string>
   <string name="call_telex">Повикај телекс</string>
   <string name="call_tty_tdd">Повикај TTY/TDD</string>
-  <string name="call_type_and_date">% 1 $ S %2$s </string>
+  <string name="call_type_and_date"> %1$s  %2$s </string>
   <string name="call_work">Повикај работа</string>
   <string name="call_work_mobile">Повикај мобилен од работа</string>
   <string name="call_work_pager">Повик пејџер од работа</string>

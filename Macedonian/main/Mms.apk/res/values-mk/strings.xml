@@ -37,7 +37,7 @@
   <string name="attach_video">Видео</string>
   <string name="back_to_message_list">Вратете се на листата со пораки</string>
   <string name="batch_adding_progress_message">Додавање...</string>
-  <string name="batch_delete_confirm_dialog_message">Избриши% 1 $ S пораки?</string>
+  <string name="batch_delete_confirm_dialog_message">Избриши %1$s  пораки?</string>
   <string name="batch_deleting_message_progress_message">Бришење...</string>
   <string name="batch_deleting_progress_message">Бришење...</string>
   <string name="bcc_label">"Bcc:"</string>
@@ -300,7 +300,7 @@
   <string name="pref_other_title">Останато</string>
   <string name="pref_sms_theme_title">Покажи</string>
   <string name="pref_summary_allow_si_sl_push">Дозволете WAP push пораки (SI/SL)</string>
-  <string name="pref_summary_delete_limit">% 1 $ S пораки од разговор</string>
+  <string name="pref_summary_delete_limit"> %1$s  пораки од разговор</string>
   <string name="pref_summary_delivery_reports">Прикажи статус на испорака за секоја порака што ја испраќаш</string>
   <string name="pref_summary_hide_festival">скриј \ "Препорачани \" јазичето за не-кинески јазици</string>
   <string name="pref_summary_manage_sim_messages">Управувај со пораките зачувани на вашата SIM картичка</string>
@@ -409,7 +409,7 @@
   <string name="send_signature_confirm_dialog_title">Испрати порака</string>
   <string name="send_sms">Испрати порака</string>
   <string name="send_to">До:</string>
-  <string name="send_to_count">Испратени% 1 $ S пораки</string>
+  <string name="send_to_count">Испратени %1$s  пораки</string>
   <string name="send_to_index_contact"> %1$s  S / %2$s </string>
   <string name="sent_label">"Испрати"</string>
   <string name="service_message_not_found">Порака истече или е недостапна</string>

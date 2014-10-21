@@ -20,7 +20,7 @@
   <string name="device_settings_category_title">Исчисти кратенки</string>
   <string name="google_app_label">Google Пребарување</string>
   <string name="google_search_base">http://www.google.com/ ? m hl = %1$s </string>
-  <string name="google_search_base_pattern">Http:? //% 1 $ S/M hl = %2$s </string>
+  <string name="google_search_base_pattern">Http:? // %1$s /M hl = %2$s </string>
   <string name="google_search_description">Google предлози за Пребарување</string>
   <string name="google_search_hint">Google Барај</string>
   <string name="google_search_label">Google</string>

@@ -173,7 +173,7 @@
   <string name="order_process_fail">"Неможеше да овласти вашиот профил. Почекајте неколку минути и обидете се повторно.".</string>
   <string name="payment_fail">плаќањето не успеа</string>
   <string name="payment_success">Плаќањето целосно</string>
-  <string name="period_format">% 1 $ S- %2$s </string>
+  <string name="period_format"> %1$s - %2$s </string>
   <string name="playback_failed_no_title_by_bad_file">"Песната неможе да биде емитувана. Формат не е поддржан или датотеката не постои."</string>
   <string name="playlist_deleted_message">Плејлистата избришана</string>
   <string name="playlist_renamed_message">Плејлистата преименувана</string>

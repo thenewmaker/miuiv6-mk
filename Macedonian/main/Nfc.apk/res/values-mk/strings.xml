@@ -12,7 +12,7 @@
   <string name="beam_try_again">Допри ги уредте повторно заедно</string>
   <string name="cancel">Откажи</string>
   <string name="complete_with">Целосно со</string>
-  <string name="confirm_pairing">Дали сте сигурни дека сакате да го спарите Bluetooth уредот% 1 $ S?</string>
+  <string name="confirm_pairing">Дали сте сигурни дека сакате да го спарите Bluetooth уредот %1$s ?</string>
   <string name="connect_headset_failed">Не може да се поврзае</string>
   <string name="connected_headset">Поврзано</string>
   <string name="connecting_headset">Поврзување</string>

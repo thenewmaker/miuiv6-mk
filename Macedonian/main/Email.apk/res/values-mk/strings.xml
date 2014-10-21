@@ -195,7 +195,7 @@
   <string name="add_star">Додај ѕвезда</string>
   <string name="add_video_attachment">Прикачи видео</string>
   <string name="address_display_format"> %1$s  на | %2$s </string>
-  <string name="address_display_format_with_via_domain">% 1 $ S %2$s  преку% 3 $ s</string>
+  <string name="address_display_format_with_via_domain"> %1$s  %2$s  преку %3$s </string>
   <string name="all_folders_heading">Сите папки</string>
   <string name="allread">Сите Прочитани</string>
   <string name="always_bcc_myself">Секогаш Bcc Мене</string>
@@ -290,8 +290,8 @@
   <string name="contact_list_search_hint">Барај контакти</string>
   <string name="contact_list_title">Контакти</string>
   <string name="contact_select">Изберете контакти</string>
-  <string name="content_description"> %1$s  за %2$s ,% 3 $ s на% 4 $ s,% 5 $ s</string>
-  <string name="content_description_today"> %1$s  за %2$s ,% 3 $ s на% 4 $ s,% 5 $ s</string>
+  <string name="content_description"> %1$s  за %2$s , %3$s  на% 4 $ s,% 5 $ s</string>
+  <string name="content_description_today"> %1$s  за %2$s , %3$s  на% 4 $ s,% 5 $ s</string>
   <string name="contextmenu_add_contact">Додади контакт</string>
   <string name="contextmenu_copy">Копирајте</string>
   <string name="contextmenu_copylink">Копирај URL линк</string>
@@ -418,7 +418,7 @@
   <string name="folder_trash_name_en1">Избришани пораки</string>
   <string name="folder_trash_name_en2">Избришани порака</string>
   <string name="formatted_email_address">&lt; %1$s  s&gt;</string>
-  <string name="formatted_subject">% 1 $ S %2$s </string>
+  <string name="formatted_subject"> %1$s  %2$s </string>
   <string name="forward">Напред</string>
   <string name="forward_attachment">Напред</string>
   <string name="forward_attribution">---------- Препратена порака ----------&lt;br&gt;From: %1$s&lt;br&gt;Date: %2$s&lt;br&gt;Subject: %3$s&lt;br&gt;To: %4$s&lt;br&gt;</string>
@@ -834,7 +834,7 @@ CC: %4$s
   <string name="xiaomi_bytes_unit">% 1 $ СБ</string>
   <string name="xiaomi_external_storage_unavailable">Меморијата недостапна, ве молиме проверете ја SD картичка.</string>
   <string name="xiaomi_kilobytes_unit">% 1 $ СКБ</string>
-  <string name="xiaomi_megabytes_unit">% 1 $ SMB</string>
+  <string name="xiaomi_megabytes_unit"> %1$s MB</string>
   <string name="xiaomi_update_dialog_message">"Воведување на верзијата %1$s Големина: %2$s  "</string>
   <string name="xiaomi_update_dialog_message_diff">"Воведување на верзијата %1$s Делта големина на ажурирање: %2$s  "</string>
   <string name="xiaomi_update_dialog_title"> %1$s  ажурирање!</string>

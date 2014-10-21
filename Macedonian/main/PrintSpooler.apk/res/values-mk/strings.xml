@@ -41,7 +41,7 @@
   <string name="print_search_box_shown_utterance">Полето за пребарување прикажано</string>
   <string name="print_searching_for_printers">Пребарување за принтери</string>
   <string name="print_select_printer">Изберете Печатач</string>
-  <string name="printer_unavailable">% 1 $ S - недостапен</string>
+  <string name="printer_unavailable"> %1$s  - недостапен</string>
   <string name="printing_app_crashed">Печатење на апликацијата неуспеа</string>
   <string name="printing_notification_title_template">Печатење %1$s </string>
   <string name="reason_unknown">Непознат</string>

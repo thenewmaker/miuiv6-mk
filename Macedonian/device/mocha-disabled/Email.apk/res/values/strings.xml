@@ -170,7 +170,7 @@
   <string name="add_star">Додај ѕвезда</string>
   <string name="add_video_attachment">Прикачи видео</string>
   <string name="address_display_format"> %1$s  %2$s </string>
-  <string name="address_display_format_with_via_domain">% 1 $ S %2$s  преку% 3 $ s</string>
+  <string name="address_display_format_with_via_domain"> %1$s  %2$s  преку %3$s </string>
   <string name="all_folders_heading">Сите папки</string>
   <string name="always_show_images">Секогаш прикажувај слики од овој испраќач</string>
   <string name="always_show_images_toast">Слики од овој испраќач ќе бидат прикажани автоматски.</string>
@@ -232,8 +232,8 @@
   <string name="confirm_send_title">Испрати порака?</string>
   <string name="contact_info_string">Прикажи информации на контакт за %1$s </string>
   <string name="contact_info_string_default">Прикажи информации за контактот</string>
-  <string name="content_description"> %1$s  за %2$s ,% 3 $ s на% 4 $ s,% 5 $ s</string>
-  <string name="content_description_today"> %1$s  за %2$s ,% 3 $ s на% 4 $ s ,% 5 $ s</string>
+  <string name="content_description"> %1$s  за %2$s , %3$s  на% 4 $ s,% 5 $ s</string>
+  <string name="content_description_today"> %1$s  за %2$s , %3$s  на% 4 $ s ,% 5 $ s</string>
   <string name="contextmenu_add_contact">Додади контакт</string>
   <string name="contextmenu_copy">Копирај</string>
   <string name="contextmenu_copylink">Копирај URL линк</string>
@@ -303,7 +303,7 @@
   <string name="folder_removed">Отстранет од %1$s </string>
   <string name="folder_shortcut_widget_label">Е-пошта папка</string>
   <string name="formatted_email_address">&lt; %1$s &gt;</string>
-  <string name="formatted_subject">% 1 $ S %2$s </string>
+  <string name="formatted_subject"> %1$s  %2$s </string>
   <string name="forward">Напред</string>
   <string name="forward_attribution">---------- Препратена порака ----------&lt;br&gt;Од: %1$s&lt;br&gt;Дата: %2$s&lt;br&gt;Предмет: %3$s&lt;br&gt;До: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Препратена порака ----------</string>
@@ -328,8 +328,8 @@
   <string name="hide_elided">▼ Сокриј цитиран текст</string>
   <string name="hide_folders">Сокриј папки</string>
   <string name="hierarchical_folder_parent_top"> %1$s  S /% 2 $ S /</string>
-  <string name="hierarchical_folder_parent_top_ellip">% 1 $ S /... /% 2 $ S /</string>
-  <string name="hierarchical_folder_top">% 1 $ S /</string>
+  <string name="hierarchical_folder_parent_top_ellip"> %1$s  /... /% 2 $ S /</string>
+  <string name="hierarchical_folder_top"> %1$s  /</string>
   <string name="ignore_spam_warning">Игнорирај, И верувам оваа порака</string>
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Inbox</string>
