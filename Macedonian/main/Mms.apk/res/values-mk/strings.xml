@@ -410,7 +410,7 @@
   <string name="send_sms">Испрати порака</string>
   <string name="send_to">До:</string>
   <string name="send_to_count">Испратени %1$s  пораки</string>
-  <string name="send_to_index_contact"> %1$s  S / %2$s </string>
+  <string name="send_to_index_contact">  %1$s  / %2$s </string>
   <string name="sent_label">"Испрати"</string>
   <string name="service_message_not_found">Порака истече или е недостапна</string>
   <string name="service_network_problem">"не можеше да испрати поради проблем со мрежата"</string>
