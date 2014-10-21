@@ -3,8 +3,8 @@
   <string name="calendar_default_name">Стандардно</string>
   <string name="calendar_info">Календар информации</string>
   <string name="calendar_info_error">Грешка</string>
-  <string name="calendar_info_events">Настани:% 1 $ d</string>
-  <string name="calendar_info_events_dirty">Настани:% 1 $ d, Незачувани:% 2 $ d</string>
+  <string name="calendar_info_events">Настани: %1$d </string>
+  <string name="calendar_info_events_dirty">Настани: %1$d , Незачувани: %2$d </string>
   <string name="calendar_info_no_calendars">Нема календари</string>
   <string name="calendar_storage">Меморија на календар</string>
   <string name="debug_tool_delete_button">Избриши сега</string>

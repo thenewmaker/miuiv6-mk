@@ -158,7 +158,7 @@
   <string name="account_waiting_for_folders_msg">Вчитување листа на папки...</string>
   <string name="accounts_heading">Сметки</string>
   <string name="accounts_welcome">Можете да го поставите вашиот профил во само неколку чекори</string>
-  <string name="actionbar_large_unread_count">% 1 $ d + непрочитани</string>
+  <string name="actionbar_large_unread_count"> %1$d  + непрочитани</string>
   <string name="activity_folder_selection">Изберете папка</string>
   <string name="activity_mailbox_selection">Изберете сметка</string>
   <string name="add_account">Додај сметка</string>
@@ -327,7 +327,7 @@
   <string name="help_and_info">Помош</string>
   <string name="hide_elided">▼ Сокриј цитиран текст</string>
   <string name="hide_folders">Сокриј папки</string>
-  <string name="hierarchical_folder_parent_top">% $ 1 S /% 2 $ S /</string>
+  <string name="hierarchical_folder_parent_top"> %1$s  S /% 2 $ S /</string>
   <string name="hierarchical_folder_parent_top_ellip">% 1 $ S /... /% 2 $ S /</string>
   <string name="hierarchical_folder_top">% 1 $ S /</string>
   <string name="ignore_spam_warning">Игнорирај, И верувам оваа порака</string>
@@ -408,7 +408,7 @@
   <string name="mute">Нечујно</string>
   <string name="network_error">Нема врска</string>
   <string name="new_incoming_messages_one">Нова порака од %s . Прикажи.</string>
-  <string name="new_messages">% $ 1 d нови пораки</string>
+  <string name="new_messages"> %1$s  d нови пораки</string>
   <string name="next_action">Следно</string>
   <string name="no">Не</string>
   <string name="no_application_found">Ни една апликација неможе да го отвори овој прилог за прегледување.</string>
@@ -506,7 +506,7 @@
   <string name="saving">Зачувување...</string>
   <string name="search_hint">Барај е-пошта</string>
   <string name="search_results_header">Резултати</string>
-  <string name="search_results_loaded">% 1 $ d</string>
+  <string name="search_results_loaded"> %1$d </string>
   <string name="search_results_searching_header">Пребарување...</string>
   <string name="search_title">Унифицирана е-пошта</string>
   <string name="search_unsupported">Пребарување не е поддржано на оваа сметка.</string>
@@ -535,7 +535,7 @@
  %s "</string>
   <string name="signin">Најави се</string>
   <string name="silent_ringtone">Тивко</string>
-  <string name="single_new_message_notification_big_text">"% $ 1 на
+  <string name="single_new_message_notification_big_text">" %1$s  на
 % 2 $ s"</string>
   <string name="single_new_message_notification_title">% 1 $ s:% 2 $ s</string>
   <string name="status_network_error">Проблем на конекција.</string>

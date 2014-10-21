@@ -150,7 +150,7 @@
   <string name="screen_button_disabled_message">копчиња за навигација се изгасени. Да ги вклучите повторно, допрете Дома и копчето за палење во исто време.</string>
   <string name="screen_button_enabled_message">Копчињата за навигација уклучени.</string>
   <string name="screen_rotation_freeze_message">автомацко ротирање оневозможено.</string>
-  <string name="scroll_tip_format_when_announce_accessibility">страница% 1 $ d,% 2 $ d апликации</string>
+  <string name="scroll_tip_format_when_announce_accessibility">страница %1$d , %2$d  апликации</string>
   <string name="select_frame">Рамка</string>
   <string name="select_photo">Фото</string>
   <string name="settings_shortcut">Подесувања</string>

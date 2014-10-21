@@ -92,9 +92,9 @@
   <string name="alert_show_screensaver_when_not_charging_title">Употреба на батеријата</string>
   <string name="all_volume_title">Јачина на звуци</string>
   <string name="allow">Дозволи</string>
-  <string name="allow_bind_app_widget_activity_allow_bind">Откако вие ќе го креирате додатокот на екранот,% $ 1 може да ги пристапи сите податоци што ги прикажува.</string>
+  <string name="allow_bind_app_widget_activity_allow_bind">Откако вие ќе го креирате додатокот на екранот, %1$s  може да ги пристапи сите податоци што ги прикажува.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Креирај додаток на екранот и овозможи пристап?</string>
-  <string name="allow_bind_app_widget_activity_always_allow_bind">Секогаш дозволи% $ 1 да креира додатоци на екранот и да ги пристапи неговите податоци</string>
+  <string name="allow_bind_app_widget_activity_always_allow_bind">Секогаш дозволи %1$s  да креира додатоци на екранот и да ги пристапи неговите податоци</string>
   <string name="allow_mock_location">Дозволете потсмеваат локации</string>
   <string name="allow_mock_location_summary">Дозволете потсмеваат локации</string>
   <string name="always_allow_bind_appwidgets_text">"Вие и apos; одбрале за да се овозможи овој стан да се создаде графички контроли и пристап до своите податоци. "</string>
@@ -314,7 +314,7 @@
   <string name="bluetooth_advanced_titlebar">Напреден Bluetooth</string>
   <string name="bluetooth_ask_discovery">Апликација сака да го направи вашиот таблет видлив на други Bluetooth уреди за %1$d секунди.</string>
   <string name="bluetooth_ask_enablement">Апликација сака да го вклучите Bluetooth.</string>
-  <string name="bluetooth_ask_enablement_and_discovery">Апликација сака да го вклучите Bluetooth и бидете сигурни дека вашиот таблет е видлив на други уреди за % 1 $ d секунди.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">Апликација сака да го вклучите Bluetooth и бидете сигурни дека вашиот таблет е видлив на други уреди за  %1$d  секунди.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Апликација сака да вклучите Bluetooth и бидете сигурни дека вашиот таблет е видлив на другите уреди. Вие можете подоцна да го промените ова во Bluetooth подесувања.</string>
   <string name="bluetooth_ask_lasting_discovery">Апликација сака да го направи вашиот таблет видлив на други Bluetooth уреди. Можете да го промените ова подоцна во Bluetooth подесувања.</string>
   <string name="bluetooth_auto_connect">Авто-поврзи</string>
@@ -349,12 +349,12 @@
   <string name="bluetooth_devices">Bluetooth уреди</string>
   <string name="bluetooth_disable_profile_message">Ова ќе оневозможи: IDIVIDI: &lt;b&gt;% 1 $ s &lt;/ b&gt; Од: &lt;br &gt; &lt;b&gt;% 2 $ s &lt;/ b&gt;</string>
   <string name="bluetooth_disable_profile_title">Оневозможи профил?</string>
-  <string name="bluetooth_disconnect_a2dp_profile">% $ 1 s ќе биде исклучено од медиа аудио.</string>
+  <string name="bluetooth_disconnect_a2dp_profile"> %1$s  s ќе биде исклучено од медиа аудио.</string>
   <string name="bluetooth_disconnect_all_profiles">Ова ќе ја заврши вашата врска со: IDIVIDI: &lt;b&gt;% 1 $ s &lt;/ b&gt;</string>
-  <string name="bluetooth_disconnect_headset_profile">% $ 1 s ќе биде исклучен од интерфон аудио.</string>
-  <string name="bluetooth_disconnect_hid_profile">% $ 1 s ќе биде исклучен од влезен уред.</string>
+  <string name="bluetooth_disconnect_headset_profile"> %1$s  s ќе биде исклучен од интерфон аудио.</string>
+  <string name="bluetooth_disconnect_hid_profile"> %1$s  s ќе биде исклучен од влезен уред.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">"% 1 $ S ќе биде исклучен од споделување на интернет конекцијата на овој таблет"</string>
-  <string name="bluetooth_disconnect_pan_user_profile">Интернет пристап преку% $ 1 s ќе биде исклучен.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Интернет пристап преку %1$s  s ќе биде исклучен.</string>
   <string name="bluetooth_disconnect_title">Исклучете?</string>
   <string name="bluetooth_disconnected">Исклучено</string>
   <string name="bluetooth_disconnecting">Исклучување...</string>
@@ -382,7 +382,7 @@
   <string name="bluetooth_is_discoverable_always">Видлив за сите Bluetooth уреди во близина</string>
   <string name="bluetooth_lock_voice_dialing">Заклучи гласовно бирање</string>
   <string name="bluetooth_lock_voice_dialing_summary">Спречи користењето на Bluetooth бирачот кога екранот е заклучен</string>
-  <string name="bluetooth_map_acceptance_dialog_text">% $ 1 s сака да пристапи до вашите пораки. Дади пристап на% 2 $ s?</string>
+  <string name="bluetooth_map_acceptance_dialog_text"> %1$s  s сака да пристапи до вашите пораки. Дади пристап на% 2 $ s?</string>
   <string name="bluetooth_map_profile_summary_connected">Поврзано на мапа</string>
   <string name="bluetooth_map_profile_summary_use_for">Користи за мапа</string>
   <string name="bluetooth_map_request">Барање за пристап на порака</string>
@@ -441,7 +441,7 @@
   <string name="bluetooth_tether_checkbox_text">Bluetooth врзување</string>
   <string name="bluetooth_tethering_available_subtext">"Споделување на интернет конекцијата на овој таблет на 1 уред"</string>
   <string name="bluetooth_tethering_device_connected_subtext">"Споделување на оваа таблета и apos; и интернет конекција за 1 уред"</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">"Споделување интернет конекцијата на овој таблет на% 1 $ d уреди"</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">"Споделување интернет конекцијата на овој таблет на %1$d  уреди"</string>
   <string name="bluetooth_tethering_errored_subtext">Не е врзано</string>
   <string name="bluetooth_tethering_off_subtext">"Не се споделува интернет конекцијата на овој таблет"</string>
   <string name="bluetooth_tethering_overflow_error">"Неможе да врзе повеќе од %1$d уреди."</string>
@@ -449,7 +449,7 @@
   <string name="bluetooth_turning_on">Вклучување на Bluetooth…</string>
   <string name="bluetooth_unknown">
   </string>
-  <string name="bluetooth_untether_blank">% $ 1 на ќе биде одврзано.</string>
+  <string name="bluetooth_untether_blank"> %1$s  на ќе биде одврзано.</string>
   <string name="bluetooth_visibility_timeout">Истече времето на видливост</string>
   <string name="breathing_light_color_menu_title">Боја на светло</string>
   <string name="breathing_light_color_summary">Боја на LED светлото кога има нова нотификација</string>
@@ -583,7 +583,7 @@
   <string name="credentials_reset_hint">Отстрани ги сите содржини?</string>
   <string name="credentials_reset_summary">Отстрани ги сите сертификати</string>
   <string name="credentials_reset_warning">Неправилна лозинка. Имате уште една шанса пред акредитивната меморија да биде избришани.</string>
-  <string name="credentials_reset_warning_plural">Неправилна лозинка. Имате уште % $ 1 д  шанси пред акредитивната меморија да биде избришана.</string>
+  <string name="credentials_reset_warning_plural">Неправилна лозинка. Имате уште  %1$s  д  шанси пред акредитивната меморија да биде избришана.</string>
   <string name="credentials_title">Акредитивна меморија</string>
   <string name="credentials_unlock">
   </string>
@@ -1119,9 +1119,9 @@
   <string name="invalid_location">"Локацијата на инсталирање не е валидна."</string>
   <string name="invalid_size_value">"Неможеше да ја израчуна големината на пакетот."</string>
   <string name="ipaddr_label">IPaddr:</string>
-  <string name="join_many_items_first">% $ 1 s,% 2 $ s</string>
+  <string name="join_many_items_first"> %1$s  s,% 2 $ s</string>
   <string name="join_many_items_last">% 1 $ s и% 2 $ s</string>
-  <string name="join_many_items_middle">% $ 1 s,% 2 $ s</string>
+  <string name="join_many_items_middle"> %1$s  s,% 2 $ s</string>
   <string name="join_two_items">% 1 $ s и% 2 $ s</string>
   <string name="keep_screen_on">Остани буден</string>
   <string name="keep_screen_on_summary">Екранот никогаш нема да спие додека полните</string>
@@ -1412,7 +1412,7 @@
   <string name="miracast_wps_onstart_pbc">Притиснете го копчето за WLAN копчето за Заштитено Подесување на екранот или адаптерот. Тоа може да се нарече \ "WPS \" или го содржи овој симбол:</string>
   <string name="miracast_wps_setup_msg">Стартување WPS...</string>
   <string name="misc_files">Разни датотеки</string>
-  <string name="misc_files_selected_count">избрани% 1 $ d од% 2 $ d</string>
+  <string name="misc_files_selected_count">избрани %1$d  од %2$d </string>
   <string name="misc_files_selected_count_bytes">%1$s од %2$s</string>
   <string name="miui_screensaver_show_time">Времетраење</string>
   <string name="miui_screensaver_show_time_select_title">Намести времетраење на слајдшоу</string>
@@ -1424,7 +1424,7 @@
   <string name="mms_breathing_light_freq_title">Време помеѓу трепкање на светлото за пораки</string>
   <string name="mobile_connect_to_internet">Ве молиме да се поврзете на интернет</string>
   <string name="mobile_insert_sim_card">Ве молиме вметнете ја SIM картичката и рестартирајте</string>
-  <string name="mobile_no_provisioning_url">% $ 1 s нема познати обезбедувања на веб-сајтот</string>
+  <string name="mobile_no_provisioning_url"> %1$s  s нема познати обезбедувања на веб-сајтот</string>
   <string name="mobile_unknown_sim_operator">Непознат SIM оператор</string>
   <string name="model_number">Број на модел</string>
   <string name="move_app">Премести</string>
@@ -1485,8 +1485,8 @@
   <string name="nfc_payment_learn_more">Дознај повеќе</string>
   <string name="nfc_payment_menu_item_add_service">Пронајди апликации</string>
   <string name="nfc_payment_no_apps">Платете само со допир</string>
-  <string name="nfc_payment_set_default">Секогаш користете% $ 1 кога ќе допрете &amp; платите?</string>
-  <string name="nfc_payment_set_default_instead_of">Секогаш користете% $ 1наместо% 2 $ s кога ќе допрете &amp; платите?</string>
+  <string name="nfc_payment_set_default">Секогаш користете %1$s  кога ќе допрете &amp; платите?</string>
+  <string name="nfc_payment_set_default_instead_of">Секогаш користете %1$s наместо% 2 $ s кога ќе допрете &amp; платите?</string>
   <string name="nfc_payment_set_default_label">Постави како ваш избор?</string>
   <string name="nfc_payment_settings_title">Допрете &amp; платите</string>
   <string name="nfc_quick_toggle_summary">Дозволете размена на податоци кога таблетот ќе допре друг уред</string>
@@ -1510,7 +1510,7 @@
   <string name="not_installed">Не е инсталирано</string>
   <string name="notification_breathing_light_color_title">Боја на светлото за известувања</string>
   <string name="notification_breathing_light_freq_title">Време помеѓу трепкање на светлото за известувања</string>
-  <string name="notification_listener_security_warning_summary">% $ 1 s ќе биде во можност да ги прочитате сите известувања испратени од страна на системот или било која инсталирана апликација, која може да вклучи лични информации како што се име на контакт и текстуални пораки испратени до вас. Таа, исто така ќе биде во можност да ги отфрли овие известувања или дејството на копчињата за акција.</string>
+  <string name="notification_listener_security_warning_summary"> %1$s  s ќе биде во можност да ги прочитате сите известувања испратени од страна на системот или било која инсталирана апликација, која може да вклучи лични информации како што се име на контакт и текстуални пораки испратени до вас. Таа, исто така ќе биде во можност да ги отфрли овие известувања или дејството на копчињата за акција.</string>
   <string name="notification_listener_security_warning_title">Овозможи% 1 $ S?</string>
   <string name="notification_pulse_title">Светло за известување на пулс</string>
   <string name="notification_sound_dialog_title">Стандарден звук за известувања</string>
@@ -1543,7 +1543,7 @@
   <string name="password_guard">Лозинка</string>
   <string name="percentage"> %d  %%</string>
   <string name="permission_detail_info">Детали на дозвола</string>
-  <string name="permission_detail_info_summary">Дозволи: Безбедност% 1 $ d, приватност% 2 $ d, Други% 3 $ D</string>
+  <string name="permission_detail_info_summary">Дозволи: Безбедност %1$d , приватност %2$d , Други% 3 $ D</string>
   <string name="permission_manage">Управување со дозволи</string>
   <string name="permission_manage_summary">Авто стартување, приватност, безбедна дозвола за управување</string>
   <string name="permission_manage_title"> %s  детали на дозвола</string>
@@ -1804,10 +1804,10 @@
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Отстранет корисник</string>
   <string name="running_process_item_user_label">Корисник:% 1 $ s</string>
-  <string name="running_processes_item_description_p_p">% 1 $ d процеси и% 2 $ d услуги</string>
-  <string name="running_processes_item_description_p_s">% 1 $ d процеси и% 2 $ г услуга</string>
-  <string name="running_processes_item_description_s_p">% 1 $ D процес и% 2 $ d услуги</string>
-  <string name="running_processes_item_description_s_s">% 1 $ d процес и% 2 $ г услуга</string>
+  <string name="running_processes_item_description_p_p"> %1$d  процеси и %2$d  услуги</string>
+  <string name="running_processes_item_description_p_s"> %1$d  процеси и% 2 $ г услуга</string>
+  <string name="running_processes_item_description_s_p">% 1 $ D процес и %2$d  услуги</string>
+  <string name="running_processes_item_description_s_s"> %1$d  процес и% 2 $ г услуга</string>
   <string name="runningservicedetails_processes_title">Процеси</string>
   <string name="runningservicedetails_services_title">Услуги</string>
   <string name="runningservicedetails_settings_title">Апликации што работат</string>
@@ -2492,7 +2492,7 @@
   <string name="wallpaper_settings_title">Позадина</string>
   <string name="welcome">Добредојдовте</string>
   <string name="wfd_available_devices">Достапни уреди</string>
-  <string name="wfd_disconnect_diag_msg">Ако ја стопорате WLAN сесијата на екранот, вашата врска% $ 1 s ќе биде прекината.</string>
+  <string name="wfd_disconnect_diag_msg">Ако ја стопорате WLAN сесијата на екранот, вашата врска %1$s  s ќе биде прекината.</string>
   <string name="wfd_disconnect_diag_title">Симнете доле сесија?</string>
   <string name="wfd_disconnect_multiple_diag_message">Ако ја стопирате WLAN сесијата на екранот, вашата врска до% 1 $ s и% 2 $ s други уреди ќе биде прекината.</string>
   <string name="wfd_enable_wifi_diag_title">Можете само да користите WLAN екран кога WLAN е овозможено. Овозможи сега?</string>

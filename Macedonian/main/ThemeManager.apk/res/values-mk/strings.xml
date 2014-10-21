@@ -103,11 +103,11 @@
   <string name="resource_default">Стандардна мелодија</string>
   <string name="resource_default_name">Ресурси</string>
   <string name="resource_delete">Избриши</string>
-  <string name="resource_delete_all">Избриши% 1 $ d избраните ресурси?</string>
+  <string name="resource_delete_all">Избриши %1$d  избраните ресурси?</string>
   <string name="resource_delete_confirm">избришете овие ресурси?</string>
   <string name="resource_delta_update_failed">Ажурирањето не успеа: Превземање тема повторно...</string>
   <string name="resource_delta_update_successful">Ажурирање успешно</string>
-  <string name="resource_delta_update_total">% 1 $ d делта надградби зачувани% 2 $ s</string>
+  <string name="resource_delta_update_total"> %1$d  делта надградби зачувани% 2 $ s</string>
   <string name="resource_detail">Детали</string>
   <string name="resource_detail_comment_title">Коментари</string>
   <string name="resource_detail_jump_to_online_title">Онлајн</string>
@@ -158,7 +158,7 @@
   <string name="resource_notification_default">Известувања</string>
   <string name="resource_on_trial">Обидувајќи :% 1 $ s</string>
   <string name="resource_online">Онлајн% 1 $ s</string>
-  <string name="resource_pack_confirm">"И покрај тоа што веќе сте купиле% 1 $ d компоненти во оваа тема, Е сеуште поевтино ако купите целосен пакет. "</string>
+  <string name="resource_pack_confirm">"И покрај тоа што веќе сте купиле %1$d  компоненти во оваа тема, Е сеуште поевтино ако купите целосен пакет. "</string>
   <string name="resource_pack_discount_info">% 1 $ s зачувано</string>
   <string name="resource_pack_price_info">% 1 $ s Оригинал</string>
   <string name="resource_pack_warning">"Вие веќе купивте %1$d компоненти во оваа тема. Поевтино е ако ги купите преостанатите компоненти посебно."</string>
@@ -197,7 +197,7 @@
   <string name="resource_trial_fail_go_settings">Подесувања</string>
   <string name="resource_trial_fail_message">Осигурајте се дека вашиот системскиот часовник е поставен на точно време.</string>
   <string name="resource_trial_fail_title">"не можеше да ја постави пробната сесија"</string>
-  <string name="resource_trial_time">(тест сесија:% 1 $ d минути)</string>
+  <string name="resource_trial_time">(тест сесија: %1$d  минути)</string>
   <string name="resource_unable_to_access">"За жал,
 содржината што ја барате не е достапна во вашиот регион."</string>
   <string name="resource_unknow_error">Се случи непозната грешка</string>
@@ -211,12 +211,12 @@
   <string name="selected_resource_file_invalid">"Неможе да се употреби избраната ресурс датотека"</string>
   <string name="settings">Подесувања</string>
   <string name="short_ringtone_resource">Кратко</string>
-  <string name="theme_batch_has_update_text">Достапни надградби за% 1 $ d теми.</string>
+  <string name="theme_batch_has_update_text">Достапни надградби за %1$d  теми.</string>
   <string name="theme_batch_update_all">Ажурирај сите</string>
-  <string name="theme_batch_update_dlg_content">Ажурирај% $ 1 s и% 2 $ d други теми сега?</string>
-  <string name="theme_batch_update_dlg_content_single">Ажурирај% $ 1 сега?</string>
+  <string name="theme_batch_update_dlg_content">Ажурирај %1$s  s и %2$d  други теми сега?</string>
+  <string name="theme_batch_update_dlg_content_single">Ажурирај %1$s  сега?</string>
   <string name="theme_batch_update_dlg_title">Ажурирај тема</string>
-  <string name="theme_batch_updating_text">Ажурирање (% 1 $ d)...</string>
+  <string name="theme_batch_updating_text">Ажурирање ( %1$d )...</string>
   <string name="theme_changed_failed_message">"Неможе да нанесе темата"</string>
   <string name="theme_changed_message">Тема нанесена</string>
   <string name="theme_changing_dialog_title">Нанесување...</string>

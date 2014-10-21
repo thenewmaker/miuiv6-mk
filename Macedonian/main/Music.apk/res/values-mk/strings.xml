@@ -188,7 +188,7 @@
   <string name="search_title_song">Песна</string>
   <string name="select_device">Изберете уред</string>
   <string name="send_to">Испрати на</string>
-  <string name="send_to_title">Испрати на (% $ 1 и)</string>
+  <string name="send_to_title">Испрати на ( %1$s  и)</string>
   <string name="sleep_mode">Тајмер за спиење</string>
   <string name="sleep_mode_summary">Користете го лизгачот за да го поставите време</string>
   <string name="sleep_mode_title">Стопирај го плеерот после одредено време</string>

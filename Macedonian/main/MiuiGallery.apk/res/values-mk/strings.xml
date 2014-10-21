@@ -2,7 +2,7 @@
 <resources>
   <string name="Import">Увези</string>
   <string name="accept">Прифати</string>
-  <string name="accept_or_deny">% $ 1 сподели албумот% 2 $ со вас.</string>
+  <string name="accept_or_deny"> %1$s  сподели албумот% 2 $ со вас.</string>
   <string name="action_fail_unknown_error">Се случи непозната грешка</string>
   <string name="activity_not_found">Не е пронајдена апликација справи со оваа акција</string>
   <string name="add_account">Додај сметка</string>
@@ -531,9 +531,9 @@
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Мобилен</string>
   <string name="delete">Избриши</string>
-  <string name="delete_file">Избриши% 1 $ d датотеки?</string>
-  <string name="delete_files_and_folders">Избриши% 1 $ d датотеки и% 2 $ d папки?</string>
-  <string name="delete_folder">Избриши% 1 $ d папки?</string>
+  <string name="delete_file">Избриши %1$d  датотеки?</string>
+  <string name="delete_files_and_folders">Избриши %1$d  датотеки и %2$d  папки?</string>
+  <string name="delete_folder">Избриши %1$d  папки?</string>
   <string name="delete_smb_file_fail">"не можеше да избрише SMB датотека"</string>
   <string name="deleting_files">Бришење датотеки...</string>
   <string name="demo_video_folder_display_name">Демо видео</string>
@@ -544,7 +544,7 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">% 1 $ 02d:% 2 $ 02d</string>
   <string name="details_sharer">Споделено од</string>
-  <string name="details_title">% 1 $ d од% 2 $ d предмети</string>
+  <string name="details_title"> %1$d  од %2$d  предмети</string>
   <string name="device_model">Уред</string>
   <string name="directory_info_divider">"|"</string>
   <string name="documentary">Документарен</string>
@@ -580,7 +580,7 @@
   <string name="exit_share">Излезете од албум</string>
   <string name="exit_share_failed">"Не можеше да излезе % 1 $ s"</string>
   <string name="exit_share_in_process">излегување...</string>
-  <string name="exit_share_successfully">излезено% $ 1 на</string>
+  <string name="exit_share_successfully">излезено %1$s  на</string>
   <string name="exposure_time">Време на експозиција</string>
   <string name="external_sd_card">SD картичка</string>
   <string name="external_usb_device">USB меморија</string>
@@ -853,7 +853,7 @@
   <string name="share_album_owner">Сопственик</string>
   <string name="share_album_space_full">Нема доволно простор во овој албум</string>
   <string name="share_by_email_start">Сподели% 1 $ во позадина</string>
-  <string name="share_by_email_successfully">Споделено% $ 1 на</string>
+  <string name="share_by_email_successfully">Споделено %1$s  на</string>
   <string name="share_current_album">Сподели го моменталниот албум</string>
   <string name="share_public_url_text">"Јас го споделив албумот% 1 $ s со вас. Погледнете го на% 2 $ s"</string>
   <string name="sharer_quota_fulfiled">"Вие веќе го споделивте овој албум со максималниот број на корисници."</string>
@@ -866,7 +866,7 @@
   <string name="show_on_map">Покажи на мапа</string>
   <string name="show_videos_only">Само видеа</string>
   <string name="sina_weibo_save">Weibo</string>
-  <string name="size_above">% $ 1 или над</string>
+  <string name="size_above"> %1$s  или над</string>
   <string name="size_below">% 1 $ s или под</string>
   <string name="size_between">% 1 $ s на% 2 $ s</string>
   <string name="skip_hide_special_album">"Неможе да ги сокрие системските албуми (на пример, . камера, слики од екранот) "</string>

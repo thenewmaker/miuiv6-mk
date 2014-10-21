@@ -81,7 +81,7 @@
   <string name="autologin_bar_text">Најави се како</string>
   <string name="back">Назад</string>
   <string name="block">Забрани</string>
-  <string name="bookmark_add_group_text_header">Додај избрани% 1 $ d во групата</string>
+  <string name="bookmark_add_group_text_header">Додај избрани %1$d  во групата</string>
   <string name="bookmark_add_to">Додај во</string>
   <string name="bookmark_cannot_save_url">"Овој ЛИНК неможе да биде зачуван."</string>
   <string name="bookmark_folder_needs_title">Папката мора има наслов</string>

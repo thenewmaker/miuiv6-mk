@@ -79,7 +79,7 @@
   <string name="move_data_to_sdcard_not_enough_space_message">Нема доволно простор за SD картичка да се премести% DMB</string>
   <string name="move_data_to_sdcard_title">Префрли податоци на SD картичка</string>
   <string name="moving_data_to_sdcard_message">"Податоците се префрлени на SD картичка, ве молиме не овозможувајте USB режим или да ја отстраните SD картичката. "</string>
-  <string name="moving_data_to_sdcard_progress_format">Префрлено% 1 $ ddKb на% 2 $ dKb</string>
+  <string name="moving_data_to_sdcard_progress_format">Префрлено %1$d dKb на %2$d Kb</string>
   <string name="my_best_update">Најдобро надградување</string>
   <string name="my_expect_update">Очекувањата</string>
   <string name="my_rank">Статус на надградување:</string>

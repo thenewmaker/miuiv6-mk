@@ -44,7 +44,7 @@
   <string name="ad_update_time">Последна промена: %s </string>
   <string name="ad_update_time_unKnown">Последна промена: непознат</string>
   <string name="ad_update_title">Ажурира автоматски</string>
-  <string name="address_choose_hint" formatted="false">%1$sA €%2$s s и% 3 $ d локации</string>
+  <string name="address_choose_hint" formatted="false">%1$sA €%2$s s и %3$d  локации</string>
   <string name="addwhitelist">Додадете исклучоци</string>
   <string name="all_address_choose_hint">Сите локации</string>
   <string name="app_name">Блоклиста</string>

@@ -13,7 +13,7 @@
   <string name="caller_app">повикувач:% 1 $ s</string>
   <string name="cancel">Откажи</string>
   <string name="dlg_app_replacement_statement">"Апликацијата што ја инсталирате ќе замени друга апликација. Сите претходни податоци ќе бидат зачувани."</string>
-  <string name="dlg_app_replacement_statement_with_version">"% $ 1 s (% 2 $ s) ќе ја замени моменталната инсталирана верзија (% 3 $ s). Содржината на корисникот ќе биде задржана.
+  <string name="dlg_app_replacement_statement_with_version">" %1$s  s (% 2 $ s) ќе ја замени моменталната инсталирана верзија (% 3 $ s). Содржината на корисникот ќе биде задржана.
 Сигурно да инсталирате?"</string>
   <string name="dlg_app_replacement_title">Замени апликација</string>
   <string name="dlg_ok">OK</string>
@@ -30,7 +30,7 @@
   <string name="install_failed_file_not_found">Одредениот пакет беше избришан пред инсталацијата да биде завршена.</string>
   <string name="install_failed_inconsistent_certificates">Постоечки пакет со истото име со збунувачки потпис е веќе инсталиран.</string>
   <string name="install_failed_invalid_apk">Пакетот се чини дека е корумпиран.</string>
-  <string name="install_failed_msg">% $ 1 s не може да се инсталира на овој телефон.</string>
+  <string name="install_failed_msg"> %1$s  s не може да се инсталира на овој телефон.</string>
   <string name="install_failed_older_sdk">Пакетот работи само на поновите верзии од Андроид.</string>
   <string name="install_failed_system_incompatible">"Оваа апликација не е компатибилна со MIUI"</string>
   <string name="install_failed_verify_failed">Овој пакет не го помина потврдувањето  и неможе да биде инсталирана.</string>
@@ -43,7 +43,7 @@
   <string name="manage_device_administrators">Управување со администраторите на уредот</string>
   <string name="ok">OK</string>
   <string name="other_relative">Други дозволи</string>
-  <string name="out_of_space_dlg_text">% $ 1 s не може да се инсталира.Ослободи простор и обидете се повторно.</string>
+  <string name="out_of_space_dlg_text"> %1$s  s не може да се инсталира.Ослободи простор и обидете се повторно.</string>
   <string name="out_of_space_dlg_title">Нема достапен простор</string>
   <string name="perm_action_accept">Дозволи</string>
   <string name="perm_action_prompt">Прашај</string>
@@ -71,14 +71,14 @@
   <string name="security_settings_desc">Дозволете оваа апликација да:</string>
   <string name="settings">Подесувања</string>
   <string name="trust_switch_dialog_msg">"Нема да ве прашува кога оваа апликација ќе пристапи вашите контакти, пораки, лозинки или други делови од системот"</string>
-  <string name="uninstall_activity_text">% $ 1 е дел од следниве апликации:</string>
+  <string name="uninstall_activity_text"> %1$s  е дел од следниве апликации:</string>
   <string name="uninstall_application_text">Оваа апликација ќе биде избришана.</string>
   <string name="uninstall_application_title">Избриши Апликација</string>
   <string name="uninstall_confirm_question">Дали сакате да избришете оваа апликацијата?</string>
   <string name="uninstall_done">Бришењето е завршено</string>
   <string name="uninstall_failed">Бришењето не е успешно</string>
   <string name="uninstall_failed_device_policy_manager">не може да избришете: овој пакет е активен администратор на уредот.</string>
-  <string name="uninstall_failed_msg">% $ 1 s не може да биде избришано</string>
+  <string name="uninstall_failed_msg"> %1$s  s не може да биде избришано</string>
   <string name="uninstall_failed_retained_app_msg">"Оваа апликација е изменета и неможе да биде избришана во сегашната форма"</string>
   <string name="uninstall_update_text">Барањето ќе биде заменето со фабриката верзија.</string>
   <string name="uninstall_update_title">Избриши ажурирање</string>

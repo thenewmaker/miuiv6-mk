@@ -25,7 +25,7 @@
   <string name="call">Повик</string>
   <string name="callNoAnswerTimeFormat">Заѕвони %s  пати</string>
   <string name="callrecordview_item_newcontact">Нов контакт</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">% 1 $ d мин% 2 $ d сек</string>
+  <string name="callrecordview_item_op_time_minutes_seconds"> %1$d  мин %2$d  сек</string>
   <string name="callrecordview_item_op_time_missed">Не сум поврзан</string>
   <string name="callrecordview_item_op_time_only_minutes"> %d  мин</string>
   <string name="callrecordview_item_op_time_only_seconds"> %d  сек</string>
@@ -280,7 +280,7 @@
   <string name="scan">Скенирајте</string>
   <string name="select">Изберете</string>
   <string name="select_package_before_buy">Изберете пакет</string>
-  <string name="selected_category_format">назнака на% 2 $ d луѓе како% 1 $ s.</string>
+  <string name="selected_category_format">назнака на %2$d  луѓе како% 1 $ s.</string>
   <string name="send_shortcut_failed">"не можеше да се испрати"</string>
   <string name="send_shortcut_success">Ставено на почетниот екран</string>
   <string name="sending_shortcut">Испраќање...</string>

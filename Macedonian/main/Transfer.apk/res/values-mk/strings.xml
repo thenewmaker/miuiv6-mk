@@ -47,7 +47,7 @@
   </string>
   <string name="common_name_suffixes">
   </string>
-  <string name="connect_confirm">% $ 1 побарува врска</string>
+  <string name="connect_confirm"> %1$s  побарува врска</string>
   <string name="connecting">Се поврзува...</string>
   <string name="contact_carrier_message">Ве молиме контактирајте ја подршката за ако било какви прашања</string>
   <string name="continue_to_send">Продолжи трансфер</string>
@@ -623,9 +623,9 @@
   <string name="no_selected">Не е избран ни една датотека</string>
   <string name="no_sim">Нема SIM, мрежата е недостапна</string>
   <string name="no_transfer_history">Нема трансфер историја</string>
-  <string name="noti_completed">Завршено: пренесени% 1 $ d /% 2 $ d датотека (и)</string>
-  <string name="noti_receiving">% $ 1 Примање на% 2 $ d /% 3 $ d датотека(и)</string>
-  <string name="noti_sending">% 1 $ s: Испраќање на% 2 $ d /% 3 $ d датотека(и)</string>
+  <string name="noti_completed">Завршено: пренесени %1$d  / %2$d  датотека (и)</string>
+  <string name="noti_receiving"> %1$s  Примање на %2$d  / %3$d  датотека(и)</string>
+  <string name="noti_sending">% 1 $ s: Испраќање на %2$d  / %3$d  датотека(и)</string>
   <string name="noti_wait_receive">Чекање испраќач...</string>
   <string name="noti_wait_send">Чека за превземање: Осигурајте се дека испраќачот има овозможено поврзување и може да испраќа датотеки</string>
   <string name="ok">Потврди</string>
@@ -661,7 +661,7 @@
   <string name="reboot_progress">Рестартирање...</string>
   <string name="receive">Примање</string>
   <string name="receive_cancel_tip">Трансферот некомплетен. Стопирајте го трансферот и излезете?</string>
-  <string name="receive_cancel_tip2">Трансферот е откажан: Прими% 1 $ d /% 2 $ d датотека(и)</string>
+  <string name="receive_cancel_tip2">Трансферот е откажан: Прими %1$d  / %2$d  датотека(и)</string>
   <string name="receive_canceled">Откажано</string>
   <string name="receive_cannot_created_file">Не успеа да креира датотека</string>
   <string name="receive_files">Примање</string>
@@ -699,10 +699,10 @@
   <string name="send">Испрати</string>
   <string name="send_2d_code">Испрати со 2D код</string>
   <string name="send_cancel_tip">Трансферот е се уште во тек. Стопирајте го трансферот и излезете?</string>
-  <string name="send_cancel_tip2">Трансферот е откажан: испратено% 1 $ d /% 2 $ d датотека(и)</string>
-  <string name="send_files">Испраќање% 1 $ d датотеки</string>
+  <string name="send_cancel_tip2">Трансферот е откажан: испратено %1$d  / %2$d  датотека(и)</string>
+  <string name="send_files">Испраќање %1$d  датотеки</string>
   <string name="send_finish">датотеката испратена!</string>
-  <string name="send_finish_tip">Испратени% 1 $ d датотека(и) на:</string>
+  <string name="send_finish_tip">Испратени %1$d  датотека(и) на:</string>
   <string name="send_nfc">Испрати со NFC</string>
   <string name="send_sms_for_sync_notice">Активациона порака треба да биде испратена, продолжете?</string>
   <string name="send_sms_for_sync_title">Sync услугата не е активирана</string>
@@ -745,7 +745,7 @@
   <string name="summer_begins">立夏</string>
   <string name="summer_solstice">夏至</string>
   <string name="support_tip">Поддршка обезбедена од страна AnyShare</string>
-  <string name="sync_one_time_sync">допри за да синхронизирате (% $ 1 и)</string>
+  <string name="sync_one_time_sync">допри за да синхронизирате ( %1$s  и)</string>
   <string name="teachers_day">教师节</string>
   <string name="text_copied">Текстот е копиран на таблата со исечоци.</string>
   <string name="text_pastelist">клипбордот</string>

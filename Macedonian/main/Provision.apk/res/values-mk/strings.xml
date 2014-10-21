@@ -23,6 +23,6 @@
   <string name="sim_dectection_next">Продолжи</string>
   <string name="sim_redetection">Провери за SIM картичка повторно</string>
   <string name="summary_not_set">Не е поставено</string>
-  <string name="summary_sim_card">Картичка% 1 $ d% 2 $ s</string>
+  <string name="summary_sim_card">Картичка %1$d % 2 $ s</string>
   <string name="welcome">Добредојдовте во</string>
 </resources>

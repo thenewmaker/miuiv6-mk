@@ -15,7 +15,7 @@
   <string name="menu_settings">Подесувања</string>
   <string name="menu_share">Сподели</string>
   <string name="menu_sort">Сортирај по</string>
-  <string name="mode_selected_count">% $ 1 d избрани</string>
+  <string name="mode_selected_count"> %1$s  d избрани</string>
   <string name="pref_advanced_devices">Прикажи напредни уреди</string>
   <string name="pref_device_size">Прикажи големина на уред</string>
   <string name="pref_file_size">големина Покажи датотека</string>

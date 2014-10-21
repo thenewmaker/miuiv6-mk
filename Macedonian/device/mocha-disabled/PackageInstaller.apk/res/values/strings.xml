@@ -14,7 +14,7 @@
   <string name="cancel">Откажи</string>
   <string name="dlg_app_replacement_statement">"Апликацијата што ја инсталирате ќе ја замени постоечката.
 Сите податоци на корисникот ќе бидат избришани."</string>
-  <string name="dlg_app_replacement_statement_with_version">"% $ 1 s (% 2 $ s) ќе ја замени моментално инсталираната верзија (% 3 $ s). Вашите кориснички податоци ќе бидат зачувани. Инсталирај нова верзија?"</string>
+  <string name="dlg_app_replacement_statement_with_version">" %1$s  s (% 2 $ s) ќе ја замени моментално инсталираната верзија (% 3 $ s). Вашите кориснички податоци ќе бидат зачувани. Инсталирај нова верзија?"</string>
   <string name="dlg_sys_app_replacement_statement">"Ова е системска апликација.Сите кориснички податоци ќе бидат зачувани."</string>
   <string name="done">Завршено</string>
   <string name="install">Инсталирај</string>
@@ -24,7 +24,7 @@
   <string name="install_failed_cpu_abi_incompatible">"Оваа апликација не е достапна со процесорот на таблетот"</string>
   <string name="install_failed_inconsistent_certificates">Постоечки пакет со истото име со проблематичен потпис е веќе инсталиран.</string>
   <string name="install_failed_invalid_apk">Пакетот се чини дека е корумпиран.</string>
-  <string name="install_failed_msg">% $ 1 s не може да биде инсталирано на овој таблет.</string>
+  <string name="install_failed_msg"> %1$s  s не може да биде инсталирано на овој таблет.</string>
   <string name="install_failed_older_sdk">Овој пакет работи само на поновите верзии на MIUI.</string>
   <string name="installer_name">来源:% 1 $ s</string>
   <string name="installing">Инсталирање...</string>
@@ -44,7 +44,7 @@
   <string name="progress_verifying">正在进行安全检查…</string>
   <string name="safe_relative">Безбедносни дозволи</string>
   <string name="settings">Подесувања</string>
-  <string name="uninstall_activity_text">% $ 1 е дел од следнава апликација:</string>
+  <string name="uninstall_activity_text"> %1$s  е дел од следнава апликација:</string>
   <string name="uninstall_application_text">Оваа апликација ќе биде избришана.</string>
   <string name="uninstall_application_title">Избриши апликација</string>
   <string name="uninstall_confirm_question">Избриши ја оваа апликација?</string>

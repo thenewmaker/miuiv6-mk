@@ -65,7 +65,7 @@
   <string name="delete_alarm">Избриши аларм</string>
   <string name="delete_alarm_confirm">Избриши го алармот?</string>
   <string name="delete_timezone_title">Избриши временска зона</string>
-  <string name="deleted_key">% $ 1 на избришани</string>
+  <string name="deleted_key"> %1$s  на избришани</string>
   <string name="deleted_message">Избришано</string>
   <string name="description_direction_down">Проклизајте надолу за да оддложите</string>
   <string name="description_direction_left">Проклизајте на лево за да оддложите</string>
@@ -204,8 +204,8 @@
   <string name="worldclock_empty_text">Нема светски часовници</string>
   <string name="year_picker_description">Листа на година</string>
   <string name="zero">0</string>
-  <string name="zone_time_offset_ahead">% 1 $ d часа,% 2 $ D min пред</string>
+  <string name="zone_time_offset_ahead"> %1$d  часа,% 2 $ D min пред</string>
   <string name="zone_time_offset_ahead_only_hour"> %d  часа пред</string>
-  <string name="zone_time_offset_behind">% 1 $ d часа,% 2 $ d мин зад</string>
+  <string name="zone_time_offset_behind"> %1$d  часа, %2$d  мин зад</string>
   <string name="zone_time_offset_behind_only_hour"> %d  часа зад</string>
 </resources>

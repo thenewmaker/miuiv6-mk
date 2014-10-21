@@ -143,7 +143,7 @@
   <string name="settings_custom_notification">Управувај со известувањата</string>
   <string name="settings_toggle_position">Управувај со додатоците на екранот</string>
   <string name="settings_toggle_position_divider_list">Додатоците над оваа цртка се актицни</string>
-  <string name="settings_toggle_position_divider_page">% 1 $ d додатоците над оваа цртка се активни</string>
+  <string name="settings_toggle_position_divider_page"> %1$d  додатоците над оваа цртка се активни</string>
   <string name="settings_toggle_position_reset">Ресетирај ги додатоците на екранот</string>
   <string name="share">Сподели</string>
   <string name="status_bar_date_format">M/d E</string>

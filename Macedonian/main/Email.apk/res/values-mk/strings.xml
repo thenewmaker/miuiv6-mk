@@ -181,7 +181,7 @@
   <string name="account_type_pop3">POP3</string>
   <string name="account_waiting_for_folders_msg">Вчитување листа на папки...</string>
   <string name="accounts_welcome">Можете да го поставите вашиот профил во само неколку чекори.</string>
-  <string name="actionbar_large_unread_count">% $ 1 d + непрочитани</string>
+  <string name="actionbar_large_unread_count"> %1$s  d + непрочитани</string>
   <string name="actionbar_title_mail_aggregation">Е-пошта агрегација:</string>
   <string name="activity_folder_selection">Изберете папка</string>
   <string name="activity_mailbox_selection">Изберете сметка</string>
@@ -194,7 +194,7 @@
   <string name="add_photo_attachment">Прикачи слика</string>
   <string name="add_star">Додај ѕвезда</string>
   <string name="add_video_attachment">Прикачи видео</string>
-  <string name="address_display_format">% $ 1 на |% 2 $ s</string>
+  <string name="address_display_format"> %1$s  на |% 2 $ s</string>
   <string name="address_display_format_with_via_domain">% 1 $ S% 2 $ s преку% 3 $ s</string>
   <string name="all_folders_heading">Сите папки</string>
   <string name="allread">Сите Прочитани</string>
@@ -315,7 +315,7 @@
   <string name="custom_from_account_label">Испрати е-пошта како:</string>
   <string name="date">2888/88/88</string>
   <string name="date_heading">"Датум:"</string>
-  <string name="date_message_received">% $ 1 s,% 2 $ s</string>
+  <string name="date_message_received"> %1$s  s,% 2 $ s</string>
   <string name="date_message_received_today">Денес,% 1 $ s</string>
   <string name="date_message_received_yesterday">Вчера,% 1 $ s</string>
   <string name="debug_clear_webview_cache">Јасно WebView кеш</string>
@@ -333,7 +333,7 @@
   <string name="default_setup">СТАНДАРДНИ ПОСТАВУВАЊА</string>
   <string name="default_signature">Испратено од мојот Xiaomi</string>
   <string name="delete">Избриши</string>
-  <string name="delete_conversation_hint_message">% 1 $ d% 2 $ s избришани</string>
+  <string name="delete_conversation_hint_message"> %1$d % 2 $ s избришани</string>
   <string name="deleted">Избришани</string>
   <string name="device_activity_btn_str">Вратете се да Активирате</string>
   <string name="device_activity_lint_str">Овозможи е-пошта сервисот за целосно ажурирање и активирајте заштитна опрема</string>
@@ -363,7 +363,7 @@
   <string name="download_confirm_title">Превземи прикачок</string>
   <string name="download_failed">"Неможе да преземе. Допрете да се обидете повторно."</string>
   <string name="downloading_message_body">Превземање е-пошта, ве молиме почекајте...</string>
-  <string name="draft_count_format">(% $ 1 и)</string>
+  <string name="draft_count_format">( %1$s  и)</string>
   <string name="drawer_close">Затвори навигационен цртач</string>
   <string name="drawer_open">Отвори навигационен цртач</string>
   <string name="eas_template">домен \\ корисник</string>
@@ -417,7 +417,7 @@
   <string name="folder_trash_name_en0">Ѓубре</string>
   <string name="folder_trash_name_en1">Избришани пораки</string>
   <string name="folder_trash_name_en2">Избришани порака</string>
-  <string name="formatted_email_address">&lt;% $ 1 s&gt;</string>
+  <string name="formatted_email_address">&lt; %1$s  s&gt;</string>
   <string name="formatted_subject">% 1 $ S% 2 $ s</string>
   <string name="forward">Напред</string>
   <string name="forward_attachment">Напред</string>
@@ -446,7 +446,7 @@
   <string name="help_and_info">Помош</string>
   <string name="hide_elided">▼ Скриј цитиран текст</string>
   <string name="hide_folders">Сокриј папки</string>
-  <string name="hierarchical_folder_parent_top">% $ 1 S /% 2 $ S /</string>
+  <string name="hierarchical_folder_parent_top"> %1$s  S /% 2 $ S /</string>
   <string name="hierarchical_folder_parent_top_ellip">% 1 $ s /... /% 2 $ S /</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Одговори на сите</string>
@@ -554,18 +554,18 @@ CC: %4$s
   <string name="message_saved">Пораката зачувана како недовршена.</string>
   <string name="message_type_name">Е-пошта</string>
   <string name="message_view_attachment_background_load">Една или повеќе приклучоци во вашата препратена порака ќе биде преемена пред испраќање.</string>
-  <string name="more_atts_total">% 1 $ d прилози</string>
+  <string name="more_atts_total"> %1$d  прилози</string>
   <string name="more_info_attachment">Информации</string>
   <string name="more_string">+% 1 $ s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Преместено во друга папка</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt; % $ 1 s &lt;/ b&gt; "% 2 $ s"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt;  %1$s  s &lt;/ b&gt; "% 2 $ s"</string>
   <string name="mute">Замолчено</string>
   <string name="name_or_number_is_error">Грешка на корисничкото име или лозинка</string>
   <string name="network_error">Нема конекција</string>
   <string name="network_not_available">Мрежна конекција не е на располагање, ве молиме обидете се повторно подоцна</string>
   <string name="new_incoming_messages_one">Нова порака од %s . Покажи.</string>
-  <string name="new_messages">% $ 1 d нови пораки</string>
+  <string name="new_messages"> %1$s  d нови пораки</string>
   <string name="next_action">Следна</string>
   <string name="no">Не</string>
   <string name="no_address_email">noaddressemail@123.com</string>
@@ -719,7 +719,7 @@ CC: %4$s
   <string name="search_hint">Барај пошта</string>
   <string name="search_result">Резултати</string>
   <string name="search_results_header">Резултати</string>
-  <string name="search_results_loaded">% 1 $ d</string>
+  <string name="search_results_loaded"> %1$d </string>
   <string name="search_results_searching_header">пребарување...</string>
   <string name="search_title">Споена-пошта</string>
   <string name="search_txt_size_limit_prompt">Низата за пребарување мора да биде поголема од 3.</string>

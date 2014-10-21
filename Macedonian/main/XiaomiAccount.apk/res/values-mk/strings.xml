@@ -123,7 +123,7 @@
   <string name="dirty_mms_count"> %d  пораки</string>
   <string name="dirty_note_count"> %d  белешки</string>
   <string name="email_already_be_used">Оваа email адреса е веќе поврзана со друга сметка.</string>
-  <string name="email_reg_success_summary">% $ 1 s е врзан со вашиот профил. Можете да го користите да се регистрирате или да ја ресетирате вашата лозинка.</string>
+  <string name="email_reg_success_summary"> %1$s  s е врзан со вашиот профил. Можете да го користите да се регистрирате или да ја ресетирате вашата лозинка.</string>
   <string name="enable_sync">Вклучете</string>
   <string name="enable_sync_dspt">Sync е исклучен</string>
   <string name="error_device_id">"Неможе да се добие IMEI"</string>
@@ -248,7 +248,7 @@
   <string name="reg_failed">"Неможе да се подеси сметката"</string>
   <string name="reg_sms_send_prompt">Испрати верификационен код во %s </string>
   <string name="reg_success">сметка создадена</string>
-  <string name="reg_success_summary">% $ 1 s е врзан со вашиот профил. Можете да го користите да се регистрирате или да ја ресетирате вашата лозинка.</string>
+  <string name="reg_success_summary"> %1$s  s е врзан со вашиот профил. Можете да го користите да се регистрирате или да ја ресетирате вашата лозинка.</string>
   <string name="reg_type_email">Креирај сметка користејќи email</string>
   <string name="reg_type_other_ways">&lt;u&gt; Креирај сметка користејќи други начини &lt;/ u&gt;</string>
   <string name="reg_type_other_ways_title">Креирај сметка користејќи други начини</string>

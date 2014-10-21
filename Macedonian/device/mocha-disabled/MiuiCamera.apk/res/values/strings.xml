@@ -65,9 +65,9 @@
   <string name="deleted">Избришано</string>
   <string name="description">Опис</string>
   <string name="details">Детали</string>
-  <string name="details_hms">% 1 $ d:% 2 $ 02d:% 3 $ 02d</string>
+  <string name="details_hms"> %1$d :% 2 $ 02d:% 3 $ 02d</string>
   <string name="details_ms">% 1 $ 02d:% 2 $ 02d</string>
-  <string name="details_title">% 1 $ d од% 2 $ d ставки:</string>
+  <string name="details_title"> %1$d  од %2$d  ставки:</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Видео слика е исклучено кога специјалните ефекти се вклучени.</string>
   <string name="download_by_browser">Преземи со Прелистувачот</string>

@@ -69,7 +69,7 @@
   <string name="call_home">Повикај дома</string>
   <string name="call_isdn">Повикај ISDN</string>
   <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">(% 1 $ d)% 2 $ s</string>
+  <string name="call_log_item_count_and_date">( %1$d )% 2 $ s</string>
   <string name="call_log_new_header">Ново</string>
   <string name="call_log_old_header">Постаро</string>
   <string name="call_main">Повикај главни</string>
@@ -91,7 +91,7 @@
   <string name="calllog_menu_edit_before_call">Уреди</string>
   <string name="calllog_menu_send_sms">Испрати порака</string>
   <string name="callrecordview_item_newcontact">Нов Контакт</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">% 1 $ d мин% 2 $ d сек</string>
+  <string name="callrecordview_item_op_time_minutes_seconds"> %1$d  мин %2$d  сек</string>
   <string name="callrecordview_item_op_time_missed">Не е поврзано</string>
   <string name="callrecordview_item_op_time_only_minutes"> %d  мин</string>
   <string name="callrecordview_item_op_time_only_seconds"> %d  сек</string>
@@ -194,7 +194,7 @@
   <string name="contact_pick_photo">Фото</string>
   <string name="contact_read_only">Неможе да се уредува од оваа апликација.</string>
   <string name="contact_status_update_attribution">преку %1$s</string>
-  <string name="contact_status_update_attribution_with_date">% $ 1 на преку% 2 $ s</string>
+  <string name="contact_status_update_attribution_with_date"> %1$s  на преку% 2 $ s</string>
   <string name="contact_unfavorite_toast">Отстрането од омилени</string>
   <string name="contactsAllLabel">Контакти</string>
   <string name="contactsFavoritesLabel">Омилени</string>
@@ -270,14 +270,14 @@
   <string name="device_brand_title">Изберете бренд</string>
   <string name="device_import_account_dialog_title">Изберете сметка</string>
   <string name="device_import_account_dialog_title_suffix">"(пронајдени% 1 $ s контакти)"</string>
-  <string name="device_import_done_toast">% 1 $ d контакти увезени</string>
+  <string name="device_import_done_toast"> %1$d  контакти увезени</string>
   <string name="device_import_failed_message">Увозот не успеа</string>
   <string name="device_import_local_account">Локална сметка</string>
   <string name="device_import_message">Внесување</string>
   <string name="device_import_progress_begin_message">Внесување...</string>
   <string name="device_import_progress_end_message">Увозот целосен</string>
   <string name="device_import_progress_message">Внесување...</string>
-  <string name="device_import_progress_toast">% 1 $ d контакти увезени</string>
+  <string name="device_import_progress_toast"> %1$d  контакти увезени</string>
   <string name="device_import_title">Увоз</string>
   <string name="device_list_title">Изберете телефон</string>
   <string name="device_other_guide">"Ако вашиот телефон не е на листата, следете ги чекорите подолу"</string>
@@ -347,7 +347,7 @@
   <string name="event_edit_field_hint_text">Датум</string>
   <string name="expand_collapse_name_fields_description">Отвори или затвори ги полињата за име</string>
   <string name="export_sim_contact_finish">Извоз целосен</string>
-  <string name="export_sim_contact_finish_failure">Префрлени: % 1 $ d Останати:% 2 $ d</string>
+  <string name="export_sim_contact_finish_failure">Префрлени:  %1$d  Останати: %2$d </string>
   <string name="export_sim_contact_finish_success">Копирани %d  контакт(и)</string>
   <string name="export_sim_contacts_dialog_message">Вашата SIM картичка може да зачува  %d  контакти</string>
   <string name="export_to_sdcard">Извези во меморија</string>
@@ -465,7 +465,7 @@
   <string name="import_weibo_fetch_followers">Примам контакти...</string>
   <string name="import_weibo_notification_title_done">Ажурирано  %s  контакти</string>
   <string name="import_weibo_progress_name">Спарување на \ "% 1 $ s \"...</string>
-  <string name="import_weibo_progress_percent">% 1 $ d %%</string>
+  <string name="import_weibo_progress_percent"> %1$d  %%</string>
   <string name="importing_sim_contacts_miui">Внесување контакти од SIM картичката...</string>
   <string name="importing_vcard_canceled_title">Внесување  %s   откажано</string>
   <string name="importing_vcard_description">Внесување %s </string>
@@ -478,7 +478,7 @@
   <string name="keep_local">Чувај локално</string>
   <string name="keep_local_btn">"Користи ја внатрешната меморија на таблетот."</string>
   <string name="label_custom_type">Прилагодено</string>
-  <string name="label_duplicate_count">(% 1 $ d)</string>
+  <string name="label_duplicate_count">( %1$d )</string>
   <string name="label_no_duplicate_contacts">Не се пронајдени дупликати</string>
   <string name="label_notes">Забелешки</string>
   <string name="label_sip_address">интернет повик</string>
@@ -589,7 +589,7 @@
   <string name="menu_splitAggregate">Оддели</string>
   <string name="menu_sync_remove">Отстрани синхронизирана група</string>
   <string name="menu_viewContact">Види контакт</string>
-  <string name="merge_contact_message">% 1 $ d контакти со делумно идентични информации</string>
+  <string name="merge_contact_message"> %1$d  контакти со делумно идентични информации</string>
   <string name="messageShortcutActivityTitle">Изберете број на пораката</string>
   <string name="missing_name">(Нема име)</string>
   <string name="move_and_resize">Премести и смени големина</string>
@@ -722,12 +722,12 @@
   <string name="phone_primary">Основно</string>
   <string name="photoPickerNotFoundText">Не се достапни слики на таблетот.</string>
   <string name="photo_package_activity_title">Пребарај папки</string>
-  <string name="pick_favorites_contacts_list_title">% 1 $ d Омилени</string>
-  <string name="pick_favorites_list_title">% 1 $ d омилени</string>
+  <string name="pick_favorites_contacts_list_title"> %1$d  Омилени</string>
+  <string name="pick_favorites_list_title"> %1$d  омилени</string>
   <string name="pick_new_photo">Изберете нова слика од Галерија</string>
   <string name="pick_photo">Изберете слика од Галерија</string>
-  <string name="pick_recent_contacts_list_title">% $ 1 г последни контакти</string>
-  <string name="pick_recent_list_title">% $ 1 г последни контакти</string>
+  <string name="pick_recent_contacts_list_title"> %1$s  г последни контакти</string>
+  <string name="pick_recent_list_title"> %1$s  г последни контакти</string>
   <string name="pickerNewContactHeader">Креирај нов контакт</string>
   <string name="pickerNewContactText">Креирај нов контакт</string>
   <string name="picker_all_list_empty">Нема контакти</string>
@@ -844,7 +844,7 @@
   <string name="savingContact">Зачувување контакт...</string>
   <string name="savingDisplayGroups">Зачувување на опциите за екранот...</string>
   <string name="scan">Скенирај</string>
-  <string name="scan_duplicate_message">% 1 $ d контакти со идентични информации</string>
+  <string name="scan_duplicate_message"> %1$d  контакти со идентични информации</string>
   <string name="scan_merge">Пребарување на дупликат контакти...</string>
   <string name="scanning">Скенирање...</string>
   <string name="scanning_sdcard_failed_message">"SD картичката неможе да биде скенирана (Причина: \."% S \ ")"</string>
@@ -900,7 +900,7 @@
   <string name="sim_error_storage_full">Меморијата е полна</string>
   <string name="sim_error_text_too_long">Името е предолго</string>
   <string name="sim_export_loading">Читање на SIM картичката...</string>
-  <string name="sim_indexed_contact_not_exist">Позиција% 1 $ d на SIM картичката е неважечка: мора да биде помеѓу% 2 $ d и% 3 $ г.</string>
+  <string name="sim_indexed_contact_not_exist">Позиција %1$d  на SIM картичката е неважечка: мора да биде помеѓу %2$d  и% 3 $ г.</string>
   <string name="sim_no_contact">Нема контакти на SIM картичката</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Нема членови на групата</string>
@@ -1040,7 +1040,7 @@
   <string name="voicemail_status_voicemail_not_available">"Неможе да се повре со серверот на говорната пошта."</string>
   <string name="websiteLabelsGroup">Вебстрана</string>
   <string name="white_dews">白露</string>
-  <string name="widget_name_and_phonetic">% $ 1 s (% 2 $ s)</string>
+  <string name="widget_name_and_phonetic"> %1$s  s (% 2 $ s)</string>
   <string name="winter_begins">立冬</string>
   <string name="winter_solstice">冬至</string>
   <string name="wipe_data">Исчисти податоци</string>

@@ -155,7 +155,7 @@
   <string name="file_size">Големина:</string>
   <string name="file_title">Име:</string>
   <string name="file_width_height">Големина:</string>
-  <string name="flatshow_page_no">% 1 $ d</string>
+  <string name="flatshow_page_no"> %1$d </string>
   <string name="forward_from">Препрати од:</string>
   <string name="forward_prefix">"Fwd:"</string>
   <string name="found_old_messages">Внеси пораки од% 1 $ s на% 2 $ s?</string>
@@ -247,7 +247,7 @@
   <string name="mx_auto_resend_sms_summary">"Испрати како MMS порака преку мобилна конекција за податоци кога не сте поврзани со WLAN (регуларни трошкови за мобилната конекција ќе бидат нанесени)"</string>
   <string name="mx_btn_enable">Активирај</string>
   <string name="mx_btn_enable_now">Овозможи</string>
-  <string name="mx_count_dspt">"Вие испративте% 1 $ d SMS и% 2 $ d MMS"</string>
+  <string name="mx_count_dspt">"Вие испративте %1$d  SMS и %2$d  MMS"</string>
   <string name="mx_current_status">Статус: онлајн</string>
   <string name="mx_dspt">Mi порака ти овозможува да испратиш пораки и примаш со некој друг што користи MIUI</string>
   <string name="mx_enable">Mi порака</string>
@@ -410,7 +410,7 @@
   <string name="send_sms">Испрати порака</string>
   <string name="send_to">До:</string>
   <string name="send_to_count">Испратени% 1 $ S пораки</string>
-  <string name="send_to_index_contact">% $ 1 S /% 2 $ s</string>
+  <string name="send_to_index_contact"> %1$s  S /% 2 $ s</string>
   <string name="sent_label">"Испрати"</string>
   <string name="service_message_not_found">Порака истече или е недостапна</string>
   <string name="service_network_problem">"не можеше да испрати поради проблем со мрежата"</string>

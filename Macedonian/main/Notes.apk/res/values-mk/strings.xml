@@ -22,7 +22,7 @@
   <string name="dlg_desc_confirm_alarm_silent">активни аларми нема да се слушнат кога ѕвонењето е замолчено.</string>
   <string name="dlg_title_confirm_alarm_silent">Замолчи аларми</string>
   <string name="enable_sync">Синхронизирај</string>
-  <string name="enable_sync_desc">Синхронизирате ги вашите белешки со вашиот Mi профил (% $ 1 а)?</string>
+  <string name="enable_sync_desc">Синхронизирате ги вашите белешки со вашиот Mi профил ( %1$s  а)?</string>
   <string name="error_contact_not_exist">"Контактот не постои"</string>
   <string name="error_note_empty_for_clock">"Неможе да се намести време на потсетникот за празна белешка"</string>
   <string name="error_note_empty_for_send_to_desktop">"Празните белешки неможат да бидат ставени на Почетниот екран"</string>
@@ -30,7 +30,7 @@
   <string name="error_unsupport_content">Оваа забелешка содржи неподдржана содржина, допрете тука за да ја ажурирање потребната апликација</string>
   <string name="error_widget_exist_for_send_to_desktop">Оваа забелешка е веќе на вашиот Почетен екран</string>
   <string name="folder_exist">Папка со исто име веќе постои</string>
-  <string name="format_move_notes_to_folder">Преместени% 1 $ d белешки на% 2 $ s</string>
+  <string name="format_move_notes_to_folder">Преместени %1$d  белешки на% 2 $ s</string>
   <string name="hint_foler_name">Име</string>
   <string name="info_note_enter_desktop">Додадено на Почетниот екран</string>
   <string name="login_sync">Пријавете се &amp; синхронизирајте</string>

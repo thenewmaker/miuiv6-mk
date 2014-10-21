@@ -522,7 +522,7 @@
   <string name="sunday">Недела</string>
   <string name="sunday_short">Сонце</string>
   <string name="sunday_shortest">С</string>
-  <string name="sync_one_time_sync">Допрете за да синхронизирате (% $ 1 и)</string>
+  <string name="sync_one_time_sync">Допрете за да синхронизирате ( %1$s  и)</string>
   <string name="the_anniversary_of_lifting_martial_law">Годишнина од кревањето Законот за Автомобилизам</string>
   <string name="the_anti_aggression_day">Ден против агресијата</string>
   <string name="the_arbor_day">Арбор Ден</string>

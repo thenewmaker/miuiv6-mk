@@ -111,11 +111,11 @@
   <string name="giftcard_denom_available">Mi кредит на располагање</string>
   <string name="giftcard_denom_frozen">Mi кредит замрзнат</string>
   <string name="giftcard_empty">Нема подарок картички.</string>
-  <string name="giftcard_expire">% $ 1 истеченно</string>
+  <string name="giftcard_expire"> %1$s  истеченно</string>
   <string name="giftcard_hint">Mi кредити додадени преку подарок картичката ќе бидат потрошени најпрвин автоматски.</string>
   <string name="giftcard_payment">% 1 $ s Mi Кредити</string>
   <string name="giftcard_push_notification_prime_title">"Вие примивте подарок сертификат"</string>
-  <string name="giftcard_push_notification_sub_title">% $ 1 s:% 2 $ s Mi кредити раздавање.</string>
+  <string name="giftcard_push_notification_sub_title"> %1$s  s:% 2 $ s Mi кредити раздавање.</string>
   <string name="giftcard_record">Мој подарок картички</string>
   <string name="giftcard_title">Mi кредит подарок картичка</string>
   <string name="giftcard_value">Вклучи% 1 $ S-Mi кредит подарок картичка</string>
@@ -182,7 +182,7 @@
   <string name="msg_order_hint_1_1">Откако ќе допрете Потврди купување, Вашиот телефон ќе</string>
   <string name="msg_order_hint_1_2">Автоматски контактирајте го вашиот мобилен провајдер.</string>
   <string name="msg_picker_hint_1_1">1</string>
-  <string name="msg_picker_hint_1_2">Надополување преку текст можеби е поскапо: &lt;боја на фонт = црвени&gt; ¥% 1 $ d =% 2 $ d Mi кредити &lt;/ font&gt;</string>
+  <string name="msg_picker_hint_1_2">Надополување преку текст можеби е поскапо: &lt;боја на фонт = црвени&gt; ¥ %1$d  = %2$d  Mi кредити &lt;/ font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">операторите наплаќаат ¥% 1 $ s членарина за надополнување</string>
   <string name="msg_picker_hint_3_1">3</string>
@@ -277,7 +277,7 @@
   <string name="recharge_other">Види други методи</string>
   <string name="recharge_pcpay_title">Компјутер</string>
   <string name="recharge_prepaid_title">Припејд картичка</string>
-  <string name="recharge_push_notification_prime_title">% 1 $ d додадени% 2 $ s Mi Кредити на вашата сметка</string>
+  <string name="recharge_push_notification_prime_title"> %1$d  додадени% 2 $ s Mi Кредити на вашата сметка</string>
   <string name="recharge_push_notification_sub_title">Надополнување завршенo.</string>
   <string name="recharge_record_empty">Нема записи за надопонување.</string>
   <string name="recharge_tenpay_title">Tenpay</string>

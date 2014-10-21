@@ -57,7 +57,7 @@
   <string name="cloud_app_remove_error">Не може да се избрише</string>
   <string name="cloud_app_remove_pending">Waiting…</string>
   <string name="cloud_app_remove_progress">Deleting…</string>
-  <string name="cloud_app_remove_prompt">% $ 1 на податоци ќе бидат избришани.</string>
+  <string name="cloud_app_remove_prompt"> %1$s  на податоци ќе бидат избришани.</string>
   <string name="cloud_app_remove_success">Апликации избришани</string>
   <string name="cloud_app_restore_action_bar_title">% 1 $ s на вашите податоци е зачувана</string>
   <string name="cloud_app_restore_app_and_data">Врати апликации и кориснички податоци</string>
