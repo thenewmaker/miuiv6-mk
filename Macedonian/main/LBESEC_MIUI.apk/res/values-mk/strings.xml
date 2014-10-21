@@ -200,7 +200,7 @@
   <string name="HIPS_Perm_Wakelock">Wakelock</string>
   <string name="HIPS_Perm_Wakelock_Desc">Задржи го системот активен</string>
   <string name="HIPS_Perm_Wakelock_Hint">на %1$s апликација и е дозволено да го задржи системот активен</string>
-  <string name="HIPS_SecurityPrompt_Accept">Дозволете (% d)</string>
+  <string name="HIPS_SecurityPrompt_Accept">Дозволете ( %d )</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Дозволете</string>
   <string name="HIPS_SecurityPrompt_Caption">Бзбедносно Предупредување</string>
   <string name="HIPS_SecurityPrompt_Next">Следно</string>

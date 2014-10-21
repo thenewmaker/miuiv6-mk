@@ -36,12 +36,12 @@
   <string name="data_usage_restricted_title">Позадински податоци забранети</string>
   <string name="data_usage_warning_body">Допрете за да видите детали за користењето на датата.</string>
   <string name="data_usage_warning_title">Предупредување за користење на датата</string>
-  <string name="datausage_ignore_app_list_count">"Игнорирање% d користење на датата од апликации"</string>
+  <string name="datausage_ignore_app_list_count">"Игнорирање %d  користење на датата од апликации"</string>
   <string name="datausage_purchase_backto_ns">Назад</string>
   <string name="datausage_purchase_banner_title"> %s  Најдобра понуда (ексклузивно)</string>
   <string name="datausage_purchase_buy">Купи</string>
   <string name="datausage_purchase_confirm_tip">Вашата нарачка:</string>
-  <string name="datausage_purchase_get_captcha">Земете верификационен код (% d)</string>
+  <string name="datausage_purchase_get_captcha">Земете верификационен код ( %d )</string>
   <string name="datausage_purchase_get_captcha_again">Испрати нов код</string>
   <string name="datausage_purchase_get_captcha_failed">"не можеше да добие верификационен код. Проверете ја вашата податочна врска и пробајте повторно.. "</string>
   <string name="datausage_purchase_goto_monthsetting">Уреди информации на пакетот</string>

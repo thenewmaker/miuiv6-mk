@@ -636,9 +636,9 @@
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Локални</string>
   <string name="home_page_tab_photo">Слики</string>
-  <string name="how_many_pics">% d слики</string>
-  <string name="how_many_sub_folders">% d папки</string>
-  <string name="how_many_videos">% d видеа</string>
+  <string name="how_many_pics"> %d  слики</string>
+  <string name="how_many_sub_folders"> %d  папки</string>
+  <string name="how_many_videos"> %d  видеа</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_download_item_title">Преземете слика ( %s )</string>
   <string name="image_quota_fulfiled">Премногу слики. Избришете некои слики и обидете се повторно.</string>
@@ -693,7 +693,7 @@
   <string name="menu_item_sort_size_desc">Големина (опаѓачка)</string>
   <string name="menu_view_contact">Види контакт</string>
   <string name="message_no_delete_access">"Вие немате дозола да избришете %s "</string>
-  <string name="message_no_delete_access_with_count">"Вие немате дозвола за овие% d датотеки"</string>
+  <string name="message_no_delete_access_with_count">"Вие немате дозвола за овие %d  датотеки"</string>
   <string name="messagelist_sender_self">Јас</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk логоа</string>
@@ -763,7 +763,7 @@
   <string name="photoeditor_name">Mi Фото студио</string>
   <string name="photos">Слики</string>
   <string name="pick_too_many_recipients">Премногу примачи</string>
-  <string name="pick_too_much_tips">"Неможе да собере толку многу предмети (максимум% d предмети)."</string>
+  <string name="pick_too_much_tips">"Неможе да собере толку многу предмети (максимум %d  предмети)."</string>
   <string name="picker_no_album_selected">Не е избран албум</string>
   <string name="picker_no_items_selected">Нема избрани предмети</string>
   <string name="picker_select_album_title_empty">Одбери албум</string>
@@ -783,7 +783,7 @@
   <string name="qqbrowser_img">QQ прелистувач</string>
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\ " %s  \"</string>
-  <string name="recipient_editor_count_format">% d</string>
+  <string name="recipient_editor_count_format"> %d </string>
   <string name="recognizing_image">Препознавање слика...</string>
   <string name="redeye">црвени очи</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
@@ -826,7 +826,7 @@
   <string name="select_all">Изберете ги сите</string>
   <string name="select_image">Изберете слика</string>
   <string name="select_item">Режим на уредување</string>
-  <string name="select_too_much_to_send_tips">"Неможе да испрати толку многу предмети (максимум% d предмети)"</string>
+  <string name="select_too_much_to_send_tips">"Неможе да испрати толку многу предмети (максимум %d  предмети)"</string>
   <string name="select_video">Изберете видео</string>
   <string name="send">Испрати</string>
   <string name="send_multiple_files_hint_format">Испрати ( %s )</string>
@@ -912,7 +912,7 @@
   <string name="times">Пати</string>
   <string name="tint">Нијанса</string>
   <string name="title">Име на датотеката</string>
-  <string name="to_count">% d вкупно</string>
+  <string name="to_count"> %d  вкупно</string>
   <string name="too_many_recipients">"Вие неможете да додадете повеќе од% 2 $ s примачи (Вие моментално додадовте% 1 $ s) ".</string>
   <string name="try_to_send">Испрати</string>
   <string name="ubifocus_data_missing">Некои од податоците за оваа слика недостасуваат</string>

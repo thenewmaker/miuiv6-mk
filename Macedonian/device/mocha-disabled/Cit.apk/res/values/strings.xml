@@ -19,7 +19,7 @@
   <string name="cit_audio_loopback_next">Следно</string>
   <string name="cit_audio_loopback_previous">Претходно</string>
   <string name="cit_audio_loopback_summary_dualmic">"Тест за намалување на шумот во околината Свртете го уредот со влезот за слушалки надолу. Зборувајте накај микрофонот. Би требало да го слушнете вашиот глас преку звучникот со намален шум во позадината."</string>
-  <string name="cit_battery_temp_fail">Температурата на батеријата не е нормална (вредност =% d)</string>
+  <string name="cit_battery_temp_fail">Температурата на батеријата не е нормална (вредност = %d )</string>
   <string name="cit_battery_temp_pass">Температурата на батеријата е нормална</string>
   <string name="cit_batterylight_blue">Сина</string>
   <string name="cit_batterylight_green">Зелена</string>
@@ -74,7 +74,7 @@
   <string name="cit_gps_check_summary">Соодветните GPS информации треба да бидат прикажани подолу.</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"GPS не започна Допрете го екранот за да започне GPS…"</string>
-  <string name="cit_gps_satellite_count">Сателит брои:% d</string>
+  <string name="cit_gps_satellite_count">Сателит брои: %d </string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">вредности за X, Y, Z, координати треба да се појават подолу</string>

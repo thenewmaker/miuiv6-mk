@@ -19,9 +19,9 @@
 Ве молиме исклучете го режимот на лет."</string>
   <string name="forget_password_string">Заборавена лозинка</string>
   <string name="incorrect_pincode">Неправилен PIN код</string>
-  <string name="incorrect_pincode_remaining_attempts">внесовте погрешен PIN код,% d обиди останати</string>
+  <string name="incorrect_pincode_remaining_attempts">внесовте погрешен PIN код, %d  обиди останати</string>
   <string name="incorrect_pukcode">Неправилен PUK код</string>
-  <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код,% d обиди останати</string>
+  <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код, %d  обиди останати</string>
   <string name="input_password_hint_text">Внесете лозинка</string>
   <string name="input_pin_code">Внесете PIN</string>
   <string name="input_pin_code_to_unlock">Внесете PIN код за да го отклучите уредот</string>
@@ -34,11 +34,11 @@
   <string name="lockscreen_access_pattern_start">Шемата започна</string>
   <string name="lockscreen_charging_msg">Полнење</string>
   <string name="lockscreen_emergency_call">Итен повик</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Погрешно пробавте да го отклучите телефонот% d пати. По% d повеќе неуспешни обиди, телефонот ке биде рестартиран во фабричките стандардни поставки и сите податоци на корисникот ќе бидат избришани.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вие погрешно ја внесовте вашата лозинка% d пати. По% d повеќе неуспешни обиди, Вие ќе бидете прашани да го отклучите телефонот користејќи ја вашата сметка.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Погрешно пробавте да го отклучите телефонот %d  пати. По %d  повеќе неуспешни обиди, телефонот ке биде рестартиран во фабричките стандардни поставки и сите податоци на корисникот ќе бидат избришани.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вие погрешно ја внесовте вашата лозинка %d  пати. По %d  повеќе неуспешни обиди, Вие ќе бидете прашани да го отклучите телефонот користејќи ја вашата сметка.
 
-Обидете се повторно во % d секунди. "</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Вие пробавте погрешно да го отклучите телефонот% d пати.Телефонот сега ќе биде рестартиран во фабричките подесувања.</string>
+Обидете се повторно во  %d  секунди. "</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Вие пробавте погрешно да го отклучите телефонот %d  пати.Телефонот сега ќе биде рестартиран во фабричките подесувања.</string>
   <string name="lockscreen_forgot_pattern_button_text">Заборави</string>
   <string name="lockscreen_glogin_checking_password">Проверување...</string>
   <string name="lockscreen_glogin_forgot_pattern">Отклучување сметка</string>
@@ -49,7 +49,7 @@
   <string name="lockscreen_glogin_too_many_attempts">Премногу шематки обиди</string>
   <string name="lockscreen_pattern_instructions">Нацртајте шема за да отклучите</string>
   <string name="lockscreen_pattern_wrong">Обидете се повторно:</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">Обидете се повторно за% d секунди.</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Обидете се повторно за %d  секунди.</string>
   <string name="lockscreen_transport_next_description">Следно</string>
   <string name="lockscreen_transport_play_description">Копче за изведба</string>
   <string name="lockscreen_transport_prev_description">Претходна</string>
@@ -75,5 +75,5 @@
   <string name="unlocking_sim_card">Одбокирање СИМ картичка</string>
   <string name="unlockscreen_low_battery">Поврзете го вашиот полнач.</string>
   <string name="unlockscreen_recharge_completed">батеријата е целосна</string>
-  <string name="unlockscreen_recharging_message">Полнење% d %%</string>
+  <string name="unlockscreen_recharging_message">Полнење %d  %%</string>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_airplane_mode">Авионски режим.</string>
   <string name="accessibility_back">Назад</string>
-  <string name="accessibility_battery_level">батерија% d проценти.</string>
+  <string name="accessibility_battery_level">батерија %d  проценти.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth поврзан.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth исклучен.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth врзување.</string>
@@ -47,7 +47,7 @@
   <string name="always_use_accessory">Користи стандардно за овој USB додаток</string>
   <string name="always_use_device">Користете стандардно за овој USB уред</string>
   <string name="app_label">системски интерфејс</string>
-  <string name="battery_low_percent_format">% d %% останати</string>
+  <string name="battery_low_percent_format"> %d  %% останати</string>
   <string name="battery_low_subtitle">Батеријата е при крај.</string>
   <string name="battery_low_title">Поврзи полнач</string>
   <string name="battery_low_why">Заштеда на батерија</string>
@@ -160,7 +160,7 @@
   <string name="status_bar_recording_back">Врати се до Снимачот</string>
   <string name="status_bar_recording_pause">Снимачот паузиран</string>
   <string name="status_bar_settings_airplane">Авионски режим</string>
-  <string name="status_bar_settings_battery_meter_format">% d %%</string>
+  <string name="status_bar_settings_battery_meter_format"> %d  %%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Нема интернет конекција</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN поврзан</string>
   <string name="status_bar_style_settings">Известувања</string>

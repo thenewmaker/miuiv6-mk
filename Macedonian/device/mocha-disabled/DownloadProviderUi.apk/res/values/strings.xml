@@ -8,7 +8,7 @@
   <string name="button_sort_by_date">Сортирај по датум</string>
   <string name="button_sort_by_size">Сортирај по големина</string>
   <string name="cancel_running_download">Откажи</string>
-  <string name="confirm_delete_downloads_message">% d означените преземања ќе бидат отстранети!</string>
+  <string name="confirm_delete_downloads_message"> %d  означените преземања ќе бидат отстранети!</string>
   <string name="confirm_delete_the_download_item_message">Потврди отстранување на преземањето!</string>
   <string name="delete_download">Избриши</string>
   <string name="delete_downloads_records">Избриши преземања</string>

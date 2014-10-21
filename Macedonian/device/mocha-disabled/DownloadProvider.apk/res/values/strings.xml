@@ -9,11 +9,11 @@
   <string name="dialog_insufficient_space_on_external">Нема доволно простор на надворешната меморија</string>
   <string name="download_error">Неуспешно</string>
   <string name="download_no_application_title">"Неможе да ја отвори датотеката"</string>
-  <string name="download_percent">% d %%</string>
+  <string name="download_percent"> %d  %%</string>
   <string name="download_queued">Ставено на ред</string>
   <string name="download_remaining">% S останато</string>
   <string name="download_running">Во тек</string>
-  <string name="download_running_percent">Во тек% d %%</string>
+  <string name="download_running_percent">Во тек %d  %%</string>
   <string name="download_unknown_title">&lt;Непознато&gt;</string>
   <string name="notification_download_complete">Превземањето заврши.</string>
   <string name="notification_download_failed">Превземањето неуспешно.</string>

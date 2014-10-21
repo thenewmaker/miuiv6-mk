@@ -19,7 +19,7 @@
   <string name="avg_read_tag">Просечни читања на ден:</string>
   <string name="back_to_home">Назад</string>
   <string name="bluetooth">Bluetooth</string>
-  <string name="body_characters">% d/650</string>
+  <string name="body_characters"> %d /650</string>
   <string name="brightness">Осветленост</string>
   <string name="btn_install">Инсталирај</string>
   <string name="btn_start">Започни</string>

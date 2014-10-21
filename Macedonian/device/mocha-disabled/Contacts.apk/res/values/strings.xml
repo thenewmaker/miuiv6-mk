@@ -43,10 +43,10 @@
   <string name="autumn_begins">立秋</string>
   <string name="autumn_equinox">秋分</string>
   <string name="batch_delete">Избриши серија</string>
-  <string name="batch_delete_msg">"Избриши% d контакти?Податоците на контактот се зачувани во вашата MiCloud сметката исто така ќе биде избришана."</string>
+  <string name="batch_delete_msg">"Избриши %d  контакти?Податоците на контактот се зачувани во вашата MiCloud сметката исто така ќе биде избришана."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth конекцијата е прекината</string>
   <string name="blurbJoinContactDataWith">Изберете го контактот што сакате да го приклучите со %s :</string>
-  <string name="btn_delete_multi_contacts">Избриши% d</string>
+  <string name="btn_delete_multi_contacts">Избриши %d </string>
   <string name="btn_delete_one_contact">Избриши контакт</string>
   <string name="btn_rotation">Ротација</string>
   <string name="btn_split_contact">Оддели</string>
@@ -93,8 +93,8 @@
   <string name="callrecordview_item_newcontact">Нов Контакт</string>
   <string name="callrecordview_item_op_time_minutes_seconds">% 1 $ d мин% 2 $ d сек</string>
   <string name="callrecordview_item_op_time_missed">Не е поврзано</string>
-  <string name="callrecordview_item_op_time_only_minutes">% d мин</string>
-  <string name="callrecordview_item_op_time_only_seconds">% d сек</string>
+  <string name="callrecordview_item_op_time_only_minutes"> %d  мин</string>
+  <string name="callrecordview_item_op_time_only_seconds"> %d  сек</string>
   <string name="callrecordview_item_op_time_rejected">Одбиено</string>
   <string name="callrecordview_item_op_time_short_incoming">"Дојдовни:"</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Појдовни:"</string>
@@ -167,7 +167,7 @@
   <string name="config_import_vcard_type">стандардно</string>
   <string name="confirm_delete_contact_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_selected_all_call_logs">Избриши ги дневниците на повици?</string>
-  <string name="confirm_delete_sim_entry_miui">Избриши% d контакти на SIM картичката?</string>
+  <string name="confirm_delete_sim_entry_miui">Избриши %d  контакти на SIM картичката?</string>
   <string name="confirm_export_message">Твојата контакт листа ќе биде извезена во датотеката: %s .</string>
   <string name="confirm_export_title">Извези контакти?</string>
   <string name="connections">Конекции</string>
@@ -308,7 +308,7 @@
   <string name="dialog_voicemail_airplane_mode_message">За да повикате говорна пошта, прво исклучете го Авионскиот режим.</string>
   <string name="dialog_voicemail_not_ready_message">За да го поставите говорна пошта, одете на Мени&gt; Подесувања.</string>
   <string name="directory_search_label">Директориум</string>
-  <string name="dirty_contacts_notification_description">% d промени не се синхронизирани со вашата Xiaomi сметка.</string>
+  <string name="dirty_contacts_notification_description"> %d  промени не се синхронизирани со вашата Xiaomi сметка.</string>
   <string name="dirty_contacts_notification_message">(Можете да го исклучите овој потсетник во поставувањата за Контактите)</string>
   <string name="dirty_contacts_notification_title">Синхронизирај контакти?</string>
   <string name="display_all_contacts">Сите контакти</string>
@@ -348,8 +348,8 @@
   <string name="expand_collapse_name_fields_description">Отвори или затвори ги полињата за име</string>
   <string name="export_sim_contact_finish">Извоз целосен</string>
   <string name="export_sim_contact_finish_failure">Префрлени: % 1 $ d Останати:% 2 $ d</string>
-  <string name="export_sim_contact_finish_success">Копирани% d контакт(и)</string>
-  <string name="export_sim_contacts_dialog_message">Вашата SIM картичка може да зачува % d контакти</string>
+  <string name="export_sim_contact_finish_success">Копирани %d  контакт(и)</string>
+  <string name="export_sim_contacts_dialog_message">Вашата SIM картичка може да зачува  %d  контакти</string>
   <string name="export_to_sdcard">Извези во меморија</string>
   <string name="export_to_sim">Извези во СИМ-картичка</string>
   <string name="export_to_sim_title">Извезување во СИМ картичка...</string>
@@ -379,7 +379,7 @@
   <string name="favoritesFrequentContacted">Често контактирани</string>
   <string name="favorites_list_empty">Нема омилени</string>
   <string name="fools_day">愚人节</string>
-  <string name="foundTooManyContacts">Повеќе од % d пронајдени.</string>
+  <string name="foundTooManyContacts">Повеќе од  %d  пронајдени.</string>
   <string name="frequency_none">Никогаш</string>
   <string name="frequency_three_days">Секои 3 дена</string>
   <string name="frequency_weekly">Секоја недела</string>
@@ -427,9 +427,9 @@
   </string>
   <string name="hint_findContacts">Најди контакти</string>
   <string name="hint_more_contact">Спои дупликат контакти</string>
-  <string name="hint_search_contacts">% d контакти</string>
-  <string name="hint_search_emails">% d контакт е-маил</string>
-  <string name="hint_search_phone_numbers">броеви за контакт% d</string>
+  <string name="hint_search_contacts"> %d  контакти</string>
+  <string name="hint_search_emails"> %d  контакт е-маил</string>
+  <string name="hint_search_phone_numbers">броеви за контакт %d </string>
   <string name="hksar_establishment_day">行政區 成立</string>
   <string name="hoar_frost_falls">霜降</string>
   <string name="ic_menu_back">Назад</string>

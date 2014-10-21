@@ -16,7 +16,7 @@
   <string name="artist_view">Артист</string>
   <string name="audio_picker_title">Изберете песна</string>
   <string name="auto_download_in_wifi">Не е откриена конекција</string>
-  <string name="available_playlist_name_format">нова плејлиста% d</string>
+  <string name="available_playlist_name_format">нова плејлиста %d </string>
   <string name="avoid_to_use_traffic_summary">Прикажи предупредување за користење на дата конекција</string>
   <string name="avoid_to_use_traffic_title">Користете само WLAN за да емитувате музика</string>
   <string name="baidu_music">Baidu Музика</string>
@@ -87,7 +87,7 @@
   <string name="eq_metal">Metal</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Креирај</string>
-  <string name="eq_preset_format">Дефиниција на корисникот% d</string>
+  <string name="eq_preset_format">Дефиниција на корисникот %d </string>
   <string name="eq_preset_hint">Дефинирај име</string>
   <string name="eq_preset_rename">Преименувај</string>
   <string name="eq_preset_select">Изберете дефиниција</string>
@@ -179,7 +179,7 @@
   <string name="playlist_renamed_message">Плејлистата преименувана</string>
   <string name="presonal_center">Подесувања на профилот</string>
   <string name="project_device">Mi Телефон</string>
-  <string name="quit_warining">Плеер ќе престане во% d минути</string>
+  <string name="quit_warining">Плеер ќе престане во %d  минути</string>
   <string name="retry">Обидете се повторно</string>
   <string name="search_hint">Внесете изведувач, албум или песна</string>
   <string name="search_title">Барај</string>

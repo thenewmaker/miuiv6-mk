@@ -6,7 +6,7 @@
   <string name="alarm_alert_dismiss_now_text">Откажи Сега</string>
   <string name="alarm_alert_dismiss_text">Откажи</string>
   <string name="alarm_alert_predismiss_title">Претстоен аларм</string>
-  <string name="alarm_alert_snooze_set">Одложување за% d минути.</string>
+  <string name="alarm_alert_snooze_set">Одложување за %d  минути.</string>
   <string name="alarm_alert_snooze_text">Оддложи</string>
   <string name="alarm_alert_snooze_until">Оддложување до %s </string>
   <string name="alarm_button_description">Аларми</string>
@@ -32,11 +32,11 @@
   <string name="analog_gadget">Аналоген часовник</string>
   <string name="app_label">Часовник</string>
   <string name="auto_silence_never">Никогаш</string>
-  <string name="auto_silence_summary">% d минути</string>
+  <string name="auto_silence_summary"> %d  минути</string>
   <string name="auto_silence_title">Замолчи по</string>
   <string name="automatic_home_clock">Автоматски домашен часовник</string>
   <string name="automatic_home_clock_summary">Додека патувате во област каде што е друго време , додадете часовник од дома</string>
-  <string name="battery_charging_level">% d %%</string>
+  <string name="battery_charging_level"> %d  %%</string>
   <string name="button_alarms">Аларми</string>
   <string name="button_cities">Градови</string>
   <string name="button_menu">Повеќе опции</string>
@@ -155,7 +155,7 @@
   <string name="snooze_duration_title">Траење на одложување</string>
   <string name="stopwatch_service_desc">Услуга на штоперицата за да го прикаже известувањето.</string>
   <string name="sw_lap_button">Круг</string>
-  <string name="sw_notification_lap_number">Круг% d</string>
+  <string name="sw_notification_lap_number">Круг %d </string>
   <string name="sw_reset_button">Ресетирај</string>
   <string name="sw_resume_button">Продолжи</string>
   <string name="sw_share_button">Сподели</string>
@@ -191,8 +191,8 @@
   <string name="timer_stop">Стоп</string>
   <string name="timer_stopped">Тајмер стопиран</string>
   <string name="timer_times_up">"Времето истече"</string>
-  <string name="timers_in_use">% d тајмери</string>
-  <string name="timers_stopped">% d тајмери ​​стопирани</string>
+  <string name="timers_in_use"> %d  тајмери</string>
+  <string name="timers_stopped"> %d  тајмери ​​стопирани</string>
   <string name="timezone_exist_error_message">Временската зона веќе постои.</string>
   <string name="volume_button_dialog_title">Ефект на копчето</string>
   <string name="volume_button_setting_title">Волумен копчиња</string>
@@ -205,7 +205,7 @@
   <string name="year_picker_description">Листа на година</string>
   <string name="zero">0</string>
   <string name="zone_time_offset_ahead">% 1 $ d часа,% 2 $ D min пред</string>
-  <string name="zone_time_offset_ahead_only_hour">% d часа пред</string>
+  <string name="zone_time_offset_ahead_only_hour"> %d  часа пред</string>
   <string name="zone_time_offset_behind">% 1 $ d часа,% 2 $ d мин зад</string>
-  <string name="zone_time_offset_behind_only_hour">% d часа зад</string>
+  <string name="zone_time_offset_behind_only_hour"> %d  часа зад</string>
 </resources>

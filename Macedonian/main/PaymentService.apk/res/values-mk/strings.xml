@@ -154,17 +154,17 @@
   <string name="lockpattern_need_to_confirm_wrong">"Шемите не се совпаѓаат. Обидете се повторно:"</string>
   <string name="lockpattern_need_to_unlock_footer">
   </string>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;бојата на фонтот = црвени&gt; Лозинка погрешна, можете да внесете% d пати повеќе &lt;/фонт&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;бојата на фонтот = црвени&gt; Лозинка погрешна, можете да внесете %d  пати повеќе &lt;/фонт&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer">
   </string>
   <string name="lockpattern_pattern_confirmed_header">Вашата прва шема за отклучување:</string>
   <string name="lockpattern_pattern_entered_header">Шемата евидентирана.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Поврзете најмалку% d точки. Обидете се повторно:</string>
+  <string name="lockpattern_recording_incorrect_too_short">Поврзете најмалку %d  точки. Обидете се повторно:</string>
   <string name="lockpattern_recording_inprogress">Отпуштете го прстот кога ќе завршите.</string>
   <string name="lockpattern_recording_intro_header">Нацртајте шема на отклучување:</string>
   <string name="lockpattern_retry_text">&lt;u&gt; Рестартирајте ја шематската лозинката &lt;/ u&gt;</string>
   <string name="lockpattern_settings_help_how_to_record">Како да нацртате шема за отклучување</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Обидете се повторно за% d секунди.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Обидете се повторно за %d  секунди.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;бојата на фонтот = црвени&gt; Премногу погрешни обиди! &lt;/ фонт&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Откажи</string>
   <string name="lockpattern_tutorial_continue_label">Следно</string>

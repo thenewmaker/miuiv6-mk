@@ -119,9 +119,9 @@
   <string name="data_keep_in_device">Зачувај на овој уред</string>
   <string name="data_wipe_from_device">Избриши од овој уред</string>
   <string name="dirty_contacts_count">% D контакти</string>
-  <string name="dirty_image_count">% d слики</string>
-  <string name="dirty_mms_count">% d пораки</string>
-  <string name="dirty_note_count">% d белешки</string>
+  <string name="dirty_image_count"> %d  слики</string>
+  <string name="dirty_mms_count"> %d  пораки</string>
+  <string name="dirty_note_count"> %d  белешки</string>
   <string name="email_already_be_used">Оваа email адреса е веќе поврзана со друга сметка.</string>
   <string name="email_reg_success_summary">% $ 1 s е врзан со вашиот профил. Можете да го користите да се регистрирате или да ја ресетирате вашата лозинка.</string>
   <string name="enable_sync">Вклучете</string>
@@ -213,7 +213,7 @@
   <string name="micloud_reg_new">Креирај сметка</string>
   <string name="micloud_resend_active_email">Препраќање активационен email</string>
   <string name="micloud_space_info"> %s  останати</string>
-  <string name="micloud_sync_info">"% d датотеките не беа синхронизирани"</string>
+  <string name="micloud_sync_info">" %d  датотеките не беа синхронизирани"</string>
   <string name="micloud_sync_info_synced">"Се е надградено до овој датум "</string>
   <string name="micloud_user_base_info">Кориснички информации</string>
   <string name="micloud_user_email">Email</string>

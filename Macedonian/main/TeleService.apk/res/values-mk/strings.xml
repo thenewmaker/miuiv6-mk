@@ -66,8 +66,8 @@
   <string name="autoip_current_areacode">Код на тековна област</string>
   <string name="autoip_current_areacode_summary">Префикс на вашата моментна локација</string>
   <string name="autoip_exception">"Броеви на кои не им треба IP префикс"</string>
-  <string name="autoip_exception_summary">% d вкупно</string>
-  <string name="autoip_exception_summary_more">...% d вкупно</string>
+  <string name="autoip_exception_summary"> %d  вкупно</string>
+  <string name="autoip_exception_summary_more">... %d  вкупно</string>
   <string name="autoip_no_exceptions">"Додај броеви кои не бараат IP префикс"</string>
   <string name="autoip_prefix">IP префикс</string>
   <string name="autoip_prefix_summary">"IP префикс на превозникот: %s "</string>
@@ -92,7 +92,7 @@
   <string name="call_record_auto_unknown_number">Непознати броеви</string>
   <string name="call_record_auto_whitelist">Листа на корисници</string>
   <string name="call_record_auto_whitelist_no_item">Додај број со допирање на add + button</string>
-  <string name="call_record_auto_whitelist_summary">% d броеви</string>
+  <string name="call_record_auto_whitelist_summary"> %d  броеви</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 број</string>
   <string name="call_record_whitelist_custom">Прилагодена листа</string>
   <string name="call_recording_notification_message">допри за да видиш %s .</string>
@@ -102,7 +102,7 @@
   <string name="call_recording_notification_title">Снимање на повик</string>
   <string name="call_recording_notification_title_error">Снимањето на повикот не успеа</string>
   <string name="call_recording_setting">Снимај повици</string>
-  <string name="call_remove_exception_numbers_confirm">% d броевите ќе бидат избришани.</string>
+  <string name="call_remove_exception_numbers_confirm"> %d  броевите ќе бидат избришани.</string>
   <string name="call_settings">Нагодување на повици</string>
   <string name="call_settings_category">Повик</string>
   <string name="call_type">Вид на повик</string>
@@ -293,7 +293,7 @@
   <string name="enterName">Внесете име:</string>
   <string name="enterNumber">Внесете го телефонскиот број:</string>
   <string name="enter_callbarring_password">Внесете лозинка за забрана на повик (4 цифри)</string>
-  <string name="enter_input" formatted="false">USSD порака мора да биде помеѓу% d и% d карактери. Ве молиме обидете се повторно.</string>
+  <string name="enter_input" formatted="false">USSD порака мора да биде помеѓу %d  и %d  карактери. Ве молиме обидете се повторно.</string>
   <string name="enter_pin2_text">ПИН2</string>
   <string name="enter_pin_text">СИМ ПИН:</string>
   <string name="entertainment_news_settings">Вести за забава</string>

@@ -5,7 +5,7 @@
   <string name="account_default">Телефон</string>
   <string name="account_phone">телефон само, несинхронизиран</string>
   <string name="account_sim">СИМ картичка</string>
-  <string name="account_sim2">СИМ картичка % d</string>
+  <string name="account_sim2">СИМ картичка  %d </string>
   <string name="account_type_format">% 1 $ s контакт</string>
   <string name="account_unactivated">Сметката не е активирана</string>
   <string name="actionIncomingCall">Дојдовни повици</string>
@@ -43,7 +43,7 @@
   <string name="batch_delete_msg">"Избриши %d контакти? Соодветните податоци што ги имате складирано во Mi Cloud истотака ќе бидат избришани."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth конекцијата е прекината</string>
   <string name="blurbJoinContactDataWith">Изберете го контактот што сакате да го споите со %s :</string>
-  <string name="btn_delete_multi_contacts">избришете% d контакти</string>
+  <string name="btn_delete_multi_contacts">избришете %d  контакти</string>
   <string name="btn_delete_one_contact">Избриши контакт</string>
   <string name="btn_rotation">Ротирај</string>
   <string name="btn_split_contact">Оддели</string>
@@ -92,8 +92,8 @@
   <string name="callrecordview_item_newcontact">Нов контакт</string>
   <string name="callrecordview_item_op_time_minutes_seconds">% 1 $ d мин% 2 $ d сек</string>
   <string name="callrecordview_item_op_time_missed">"Не се поврза"</string>
-  <string name="callrecordview_item_op_time_only_minutes">% d мин</string>
-  <string name="callrecordview_item_op_time_only_seconds">% d сек</string>
+  <string name="callrecordview_item_op_time_only_minutes"> %d  мин</string>
+  <string name="callrecordview_item_op_time_only_seconds"> %d  сек</string>
   <string name="callrecordview_item_op_time_rejected">Отфрлено</string>
   <string name="callrecordview_item_op_time_short_incoming">"Дојдовни:"</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Појдовни:"</string>
@@ -167,7 +167,7 @@
   </string>
   <string name="confirm_delete_contact_all_call_logs">Избриши ги дневниците на повици?</string>
   <string name="confirm_delete_selected_all_call_logs">Избриши ги дневниците на повици?</string>
-  <string name="confirm_delete_sim_entry_miui">Избришете% d контакти од СИМ картичката?</string>
+  <string name="confirm_delete_sim_entry_miui">Избришете %d  контакти од СИМ картичката?</string>
   <string name="confirm_export_message">Твојата контакт листа ќе се извезуваат во датотеката: %s .</string>
   <string name="confirm_export_title">извези контакти?</string>
   <string name="connections">Врски</string>
@@ -355,8 +355,8 @@
   <string name="event_edit_field_hint_text">Датум</string>
   <string name="export_sim_contact_finish">Контакт извезен</string>
   <string name="export_sim_contact_finish_failure">% 1 $ d префрлен |% 2 $ d останати</string>
-  <string name="export_sim_contact_finish_success">Копирано% d контакти</string>
-  <string name="export_sim_contacts_dialog_message">Вашата СИМ картичка може да смести% d контакти</string>
+  <string name="export_sim_contact_finish_success">Копирано %d  контакти</string>
+  <string name="export_sim_contacts_dialog_message">Вашата СИМ картичка може да смести %d  контакти</string>
   <string name="export_to_sdcard">Додај во меморија</string>
   <string name="export_to_sim">Додај на СИМ-картичката</string>
   <string name="export_to_sim2">Додај на СИМ-картичка 2</string>
@@ -388,7 +388,7 @@
   <string name="favoritesFrequentContacted">Често контактирани</string>
   <string name="favorites_list_empty">Нема омилени</string>
   <string name="firewall_setting">Листа на блокирани</string>
-  <string name="foundTooManyContacts">Повеќе од% d пронајдени.</string>
+  <string name="foundTooManyContacts">Повеќе од %d  пронајдени.</string>
   <string name="frequentList">Чести</string>
   <string name="from_account_format">% 1 $ s</string>
   <string name="full_name">Име</string>
@@ -1001,7 +1001,7 @@
   <string name="simContacts_title">контактите од СИМ картичката</string>
   <string name="sim_account_name">СИМ</string>
   <string name="sim_capacity">Види капацитет на СИМ картичката</string>
-  <string name="sim_capacity_content" formatted="false">Вкупен капацитет% d |% d искористен</string>
+  <string name="sim_capacity_content" formatted="false">Вкупен капацитет %d  | %d  искористен</string>
   <string name="sim_card_no_free_space_message">Нема доволно простор</string>
   <string name="sim_card_no_free_space_title">СИМ картичката е полна</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Деселектирај ги сите</string>

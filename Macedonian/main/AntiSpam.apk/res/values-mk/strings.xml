@@ -50,13 +50,13 @@
   <string name="app_name">Блоклиста</string>
   <string name="backsound_set_hint">Поставите ваш backsound на %s ?</string>
   <string name="baidu_thanks">Поддржано од Baidu</string>
-  <string name="bl_block_info">блокиран:% d | SMS порака:% d</string>
+  <string name="bl_block_info">блокиран: %d  | SMS порака: %d </string>
   <string name="bl_no_blacklist">не блокирани броеви</string>
   <string name="bl_no_block_call">не блокирани повици</string>
   <string name="bl_no_block_sms">не блокирани пораки</string>
   <string name="blacklist_prefix_add_hint">Блокирај ги сите броеви што почнуваат со овој префикс</string>
-  <string name="block_message_number">Пораки:% d</string>
-  <string name="block_phone_number">Повици:% d</string>
+  <string name="block_message_number">Пораки: %d </string>
+  <string name="block_phone_number">Повици: %d </string>
   <string name="call_delete_hint">Избришете ги сите блокирани повици од избраниот број?</string>
   <string name="cancle">Откажи</string>
   <string name="close_callwait">Исклучено</string>
@@ -101,7 +101,7 @@
   <string name="fw_blocked">Блоклиста</string>
   <string name="fw_blocked_count">Блокирано</string>
   <string name="fw_blocked_count_call">%d повици</string>
-  <string name="fw_blocked_count_sms">и% d пораки</string>
+  <string name="fw_blocked_count_sms">и %d  пораки</string>
   <string name="hint_antispam_mode_edit">Прилагоден режим</string>
   <string name="info_antispam_phone">Блок на повици</string>
   <string name="info_antispam_phone_sms">Блок на пораки и повици</string>

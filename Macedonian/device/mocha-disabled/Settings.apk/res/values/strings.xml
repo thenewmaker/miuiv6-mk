@@ -196,7 +196,7 @@
   <string name="auto_restore_summary">Кога реинсталирате апликација, вратете ги резервните копии на подесувањата и податоците</string>
   <string name="auto_restore_title">Автоматско враќање</string>
   <string name="auto_startup_application_manage">Авто-старт</string>
-  <string name="auto_startup_count">% d апликациите се моментално дозволени да стартуваат автоматски</string>
+  <string name="auto_startup_count"> %d  апликациите се моментално дозволени да стартуваат автоматски</string>
   <string name="automatic_brightness">Автоматска осветленост</string>
   <string name="available_size"> %s  достапно</string>
   <string name="awake">Време на будење на уредот</string>
@@ -818,7 +818,7 @@
   <string name="dndm_vip_call_button_title">Дозволете повици од исклучоци</string>
   <string name="dndm_vip_call_setting_title">Подесувања на исклучоци</string>
   <string name="dndm_vip_call_summary_contact">Сите контакти</string>
-  <string name="dndm_vip_call_summary_custom">% d исклучоци</string>
+  <string name="dndm_vip_call_summary_custom"> %d  исклучоци</string>
   <string name="dndm_vip_call_summary_none">Допрете за да конфигурирате</string>
   <string name="dndm_vip_list_contact">Сите Контакти</string>
   <string name="dndm_vip_list_custom">Исклучоци</string>
@@ -1216,15 +1216,15 @@
   <string name="lockpassword_password_requires_digit">Лозинката мора да содржи најмалку една цифра.</string>
   <string name="lockpassword_password_requires_symbol">Лозинката мора да содржи барем еден симбол.</string>
   <string name="lockpassword_password_set_toast">Лозинката е поставена</string>
-  <string name="lockpassword_password_too_long">Лозинката мора да биде помалку од% d карактери.</string>
-  <string name="lockpassword_password_too_short">Лозинката мора да биде најмалку% d карактери</string>
+  <string name="lockpassword_password_too_long">Лозинката мора да биде помалку од %d  карактери.</string>
+  <string name="lockpassword_password_too_short">Лозинката мора да биде најмалку %d  карактери</string>
   <string name="lockpassword_pattern_set_toast">Шемата е поставена</string>
   <string name="lockpassword_pin_contains_non_digits">ПИН може да содржи само бројки</string>
-  <string name="lockpassword_pin_fixed_length">PIN мора да биде% d бројки</string>
+  <string name="lockpassword_pin_fixed_length">PIN мора да биде %d  бројки</string>
   <string name="lockpassword_pin_recently_used">"Администраторот на уредот не дозволува PIN"</string>
   <string name="lockpassword_pin_set_toast">PIN постави</string>
-  <string name="lockpassword_pin_too_long">PIN мора да биде помалку од% d бројки</string>
-  <string name="lockpassword_pin_too_short">PIN мора да биде најмалку% d бројки</string>
+  <string name="lockpassword_pin_too_long">PIN мора да биде помалку од %d  бројки</string>
+  <string name="lockpassword_pin_too_short">PIN мора да биде најмалку %d  бројки</string>
   <string name="lockpassword_press_continue">Допрете Продолжи, кога ќе завршите</string>
   <string name="lockpattern_change_lock_pattern_label">Променете ја шемата на отклучување</string>
   <string name="lockpattern_change_lock_pin_label">Промена на PIN</string>
@@ -1239,7 +1239,7 @@
   </string>
   <string name="lockpattern_pattern_confirmed_header">Вашата нова шема на отклучување:</string>
   <string name="lockpattern_pattern_entered_header">Шемата снимена</string>
-  <string name="lockpattern_recording_incorrect_too_short">Поврзете најмалку% d точки. Обидете се повторно.</string>
+  <string name="lockpattern_recording_incorrect_too_short">Поврзете најмалку %d  точки. Обидете се повторно.</string>
   <string name="lockpattern_recording_inprogress">Отпуштете го прстот кога ќе завршите</string>
   <string name="lockpattern_recording_intro_footer">Притиснете Мени за помош.</string>
   <string name="lockpattern_recording_intro_header">Нацртајте шема на отклучување:</string>
@@ -1254,7 +1254,7 @@
   <string name="lockpattern_settings_enable_visible_pattern_title">Направете шема видлива</string>
   <string name="lockpattern_settings_help_how_to_record">Како да се нацрта шема на отклучување</string>
   <string name="lockpattern_settings_title">Шема на отклучување</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Обидете се повторно за% d секунди.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Обидете се повторно за %d  секунди.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Премногу погрешни обиди!</string>
   <string name="lockpattern_tutorial_cancel_label">Откажи</string>
   <string name="lockpattern_tutorial_continue_label">Следно</string>
@@ -1541,7 +1541,7 @@
   <string name="owner_info_settings_title">Информации на сопственикот</string>
   <string name="packages_subtitle">Вклучени пакети</string>
   <string name="password_guard">Лозинка</string>
-  <string name="percentage">% d %%</string>
+  <string name="percentage"> %d  %%</string>
   <string name="permission_detail_info">Детали на дозвола</string>
   <string name="permission_detail_info_summary">Дозволи: Безбедност% 1 $ d, приватност% 2 $ d, Други% 3 $ D</string>
   <string name="permission_manage">Управување со дозволи</string>
@@ -2393,7 +2393,7 @@
   <string name="vibrate_input_devices_summary">Пренасочени вибрации до контролорот за играње кога е поврзан.</string>
   <string name="vibrate_when_ringing_title">Вибрирај кога ѕвони</string>
   <string name="virus_scan_app_continue">Продолжи скенирање</string>
-  <string name="virus_scan_app_find_risk">% d ризици пронајдени</string>
+  <string name="virus_scan_app_find_risk"> %d  ризици пронајдени</string>
   <string name="virus_scan_app_finish">Скенирањето е целосно</string>
   <string name="virus_scan_app_force_stop">Скенирањето е паузирано</string>
   <string name="virus_scan_app_is_stop_scan">Стопирај скенирање?</string>
@@ -2405,7 +2405,7 @@
   <string name="virus_scan_app_scan_finish">Скенирањето заврши</string>
   <string name="virus_scan_app_scanning">Скенирање...</string>
   <string name="virus_scan_app_stop_scan">Стопирај скенирање</string>
-  <string name="virus_scan_app_uninstall">Отстрани (% d)</string>
+  <string name="virus_scan_app_uninstall">Отстрани ( %d )</string>
   <string name="virus_scan_app_waiting">Чекање...</string>
   <string name="virus_scanner_auto_update">Надгради автоматски</string>
   <string name="virus_scanner_date_formater">дд настан. гггг</string>
@@ -2712,7 +2712,7 @@
   <string name="wifi_share_connect">Поврзи</string>
   <string name="wifi_share_connected_summary">"Вие сте поврзани на јавна WLAN мрежа која е споделена од друг корисник"</string>
   <string name="wifi_share_connected_title">MIUI споделен WLAN</string>
-  <string name="wifi_share_count">Вие споделивте % d мрежи</string>
+  <string name="wifi_share_count">Вие споделивте  %d  мрежи</string>
   <string name="wifi_share_current_network">Моментална мрежа</string>
   <string name="wifi_share_know">ОК</string>
   <string name="wifi_share_list_empty">Нема споделени мрежи.</string>

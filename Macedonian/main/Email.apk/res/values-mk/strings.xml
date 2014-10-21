@@ -616,7 +616,7 @@ CC: %4$s
   <string name="permission_read_attachment_label">Прочитај прикачувања</string>
   <string name="phone">телефон</string>
   <string name="photo_load_failed">"Неможе да вчита слика"</string>
-  <string name="photo_view_count" formatted="false">% d од% d</string>
+  <string name="photo_view_count" formatted="false"> %d  од %d </string>
   <string name="please_fill_in_your_mailbox_information">Ве молиме пополнете во вашето %s  сандаче информации поврзани со:</string>
   <string name="please_fill_in_your_mailbox_information2">Ве молиме пополнете во вашето сандаче информации во врска со:</string>
   <string name="please_wait">Ве молиме почекајте...</string>
@@ -828,7 +828,7 @@ CC: %4$s
   <string name="wait_for_sync_note">Допрете го известувањето за да се заврши поставувањето.</string>
   <string name="wait_for_sync_title">Чекаја да синхронизира</string>
   <string name="widget_all_mail">Цела пошта</string>
-  <string name="widget_large_unread_count">% d +</string>
+  <string name="widget_large_unread_count"> %d  +</string>
   <string name="widget_other_views">Други</string>
   <string name="wrong_password">Внесената лозинка е неточна</string>
   <string name="xiaomi_bytes_unit">% 1 $ СБ</string>

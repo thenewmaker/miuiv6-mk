@@ -283,7 +283,7 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_following_good_friday">耶穌受難節翌日</string>
   <string name="day_of_month">"% Д"</string>
-  <string name="days">% d дена</string>
+  <string name="days"> %d  дена</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
   <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
@@ -532,11 +532,11 @@
   <string name="history_send">Испрати историја</string>
   <string name="hksar_establishment_day">行政區 成立</string>
   <string name="hoar_frost_falls">霜降</string>
-  <string name="hours">% d часа</string>
+  <string name="hours"> %d  часа</string>
   <string name="incorrect_pincode">Погрешен PIN код</string>
-  <string name="incorrect_pincode_remaining_attempts">Погрешен PIN код, Останати обиди % d</string>
+  <string name="incorrect_pincode_remaining_attempts">Погрешен PIN код, Останати обиди  %d </string>
   <string name="incorrect_pukcode">Неправилен PUK код</string>
-  <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код, Останати обиди % d</string>
+  <string name="incorrect_pukcode_remaining_attempts">Неправилен PUK код, Останати обиди  %d </string>
   <string name="input_device_name">Внесете име на уред</string>
   <string name="input_device_name_tip">Ова име ќе биде видливо за другите Bluetooth уреди во вашата област.</string>
   <string name="input_pin_code">Внеси ПИН</string>
@@ -556,12 +556,12 @@
   <string name="lockscreen_access_pattern_detected">Комбинацијата завршена</string>
   <string name="lockscreen_access_pattern_start">Комбинацијата е започната</string>
   <string name="lockscreen_emergency_call">Итен повик</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Погрешно ја внесовте лозинката % d пати. По% d повеќе неуспешни обиди, ќе биде побарано да го отклучите вашиот телефон преку вашата корисничка сметка.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Погрешно ја внесовте лозинката  %d  пати. По %d  повеќе неуспешни обиди, ќе биде побарано да го отклучите вашиот телефон преку вашата корисничка сметка.
 Обидете се за %d секунди. "</string>
   <string name="lockscreen_forgot_pattern_button_text">Ја заборавите комбинацијата?</string>
   <string name="lockscreen_pattern_instructions">Нацртајте комбинација за да го отклучите</string>
   <string name="lockscreen_pattern_wrong">Try again</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">Обидете се повторно за% d секунди.</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Обидете се повторно за %d  секунди.</string>
   <string name="lockscreen_transport_next_description">Копче за следна песна</string>
   <string name="lockscreen_transport_play_description">копче за изведба</string>
   <string name="lockscreen_transport_prev_description">Копче за претходната песна</string>
@@ -593,7 +593,7 @@
   <string name="memory_clear_nothing_result">Нема меморија која би можела да биде ослободена во моментов</string>
   <string name="memory_clear_result">"Успешно ослободена% 1 $ s меморија,
 Моменталната достапна меморија е% 2 $ s"</string>
-  <string name="minutes">% d минути</string>
+  <string name="minutes"> %d  минути</string>
   <string name="miui_copyright_title">Авторски права</string>
   <string name="miui_device_default_name">Андроид</string>
   <string name="miui_device_name">Андроид</string>
@@ -666,7 +666,7 @@
   <string name="receive_cannot_created_file">Не успеа да креира датотека</string>
   <string name="receive_files">Примање</string>
   <string name="receive_finish">Примање завршено</string>
-  <string name="receive_finish_tip">Примено $ 1% d датотека(и):</string>
+  <string name="receive_finish_tip">Примено $ 1 %d  датотека(и):</string>
   <string name="receive_from">Примање од:</string>
   <string name="receive_store">Зачувај датотека во:</string>
   <string name="receive_tip">
@@ -774,7 +774,7 @@
   <string name="unlocking_sim_card">Отклучување SIM картичка</string>
   <string name="unlockscreen_low_battery">Поврзете го вашиот полнач</string>
   <string name="unlockscreen_recharge_completed">Полнењето е завршено</string>
-  <string name="unlockscreen_recharging_message">Полнење% d %%</string>
+  <string name="unlockscreen_recharging_message">Полнење %d  %%</string>
   <string name="use_start">Започнете</string>
   <string name="user_agreement1">Ќе го користите системот и онлајн услугите обезбедени од страна Xiaomi, ве молиме прочитајте</string>
   <string name="user_agreement2">"Кориснички договор"</string>

@@ -423,7 +423,7 @@
   <string name="notification_action_undo_archive">Архивирано</string>
   <string name="notification_action_undo_delete">Избришано</string>
   <string name="notification_action_undo_remove_label">Етикета Отстранета</string>
-  <string name="num_selected">% d</string>
+  <string name="num_selected"> %d </string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="password_expire_warning_content_title">Лозинката за заклучување екран истекува</string>
@@ -440,7 +440,7 @@
   <string name="permission_read_attachment_label">Прочитај е-пошта прикачувања</string>
   <string name="phone">телефон</string>
   <string name="photo_load_failed">"Неможеше да ја вчита сликата"</string>
-  <string name="photo_view_count" formatted="false">% d од% d</string>
+  <string name="photo_view_count" formatted="false"> %d  од %d </string>
   <string name="please_wait">Ве молиме почекајте...</string>
   <string name="policy_calendar_age">Ограничете го бројот на календарски настани синхронизирани</string>
   <string name="policy_dont_allow_camera">"Забрани употреба на камерата на уредот"</string>
@@ -587,6 +587,6 @@
   <string name="wait_for_manual_sync_body">"Оваа сметка не е подесена за да се синхронизира автоматски.Допрете "&lt;b&gt;Синхронизирај сега&lt;/b&gt; да ја синхронизирате е-поштата еднаш, or &lt;b&gt;Променете Поставувања на Синхронизација&lt;/b&gt;Да ја подесите оваа сметка да ја синхронизира е-поштата автоматски.</string>
   <string name="wait_for_sync_body">Вашата e-пошта ќе се појави наскоро.</string>
   <string name="wait_for_sync_title">Чекајќи синхронизација</string>
-  <string name="widget_large_unread_count">(% d +)</string>
+  <string name="widget_large_unread_count">( %d  +)</string>
   <string name="yes">Да</string>
 </resources>

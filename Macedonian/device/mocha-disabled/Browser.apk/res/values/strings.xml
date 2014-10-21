@@ -144,7 +144,7 @@
   <string name="color_picker_saturation">Сатурација</string>
   <string name="color_picker_value">Вредност</string>
   <string name="containing_folder">Додај во</string>
-  <string name="contextheader_folder_bookmarkcount">% d обележани страници</string>
+  <string name="contextheader_folder_bookmarkcount"> %d  обележани страници</string>
   <string name="contextheader_folder_empty">Празна папка</string>
   <string name="contextmenu_add_contact">Додади контакт</string>
   <string name="contextmenu_copy">Копирај</string>

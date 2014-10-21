@@ -52,11 +52,11 @@
   <string name="Generic_ShowSystemApp">Прикажи системски апликации</string>
   <string name="Generic_Summary_Disabled">Исклучено</string>
   <string name="Generic_Summary_Enabled">Вклучено</string>
-  <string name="Generic_SystemApp">Системски апликации (% d)</string>
+  <string name="Generic_SystemApp">Системски апликации ( %d )</string>
   <string name="Generic_SystemApp_Label">[Системска]</string>
   <string name="Generic_TrustedApp">Доверливи Апликации (%1$d)</string>
   <string name="Generic_Update">Надградба за софтверот</string>
-  <string name="Generic_UserApp">Преземени Апликации (% d)</string>
+  <string name="Generic_UserApp">Преземени Апликации ( %d )</string>
   <string name="Generic_Version">Верзија: %1$s</string>
   <string name="HIPS_Action_Accept">Овозможи</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Овозможи&lt;/font&gt;</string>

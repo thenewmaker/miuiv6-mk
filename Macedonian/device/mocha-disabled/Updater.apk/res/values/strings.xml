@@ -13,7 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Откажи</string>
   <string name="apply_update_dialog_update_button">Надгради</string>
   <string name="apply_update_fail">Надградувањето на системот неуспеа.</string>
-  <string name="apply_update_timer">уредот ќе се рестартира за% d секунди</string>
+  <string name="apply_update_timer">уредот ќе се рестартира за %d  секунди</string>
   <string name="apply_upload_info_message">Допрете надгради за да го потврдите ажурирањето и рестартирајте го вашиот телефон.</string>
   <string name="apply_upload_info_message_manually">По рестартирање, можете да внесете режим на закрепнување рачно за рачно надградување на %s . Ако сакате да ги заштите вашите податоци, треба да го направите тоа пред да го нанесете надградувањето.</string>
   <string name="applying_rom_message">Примена на ажурирање...</string>

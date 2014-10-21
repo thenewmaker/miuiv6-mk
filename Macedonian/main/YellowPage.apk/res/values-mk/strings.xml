@@ -16,7 +16,7 @@
   <string name="all_services">Сите</string>
   <string name="app_label">директориум</string>
   <string name="app_recommendation_install">Инсталирајте</string>
-  <string name="average_price">Просечна% d јени</string>
+  <string name="average_price">Просечна %d  јени</string>
   <string name="back">Назад</string>
   <string name="balance_inquiry_send_sms_fail_hint">"Неможе да се прати SMS"</string>
   <string name="balance_inquiry_send_sms_hint">Една SMS ќе биде испратена до вашиот оператор за да ја проверите вашиот статус .</string>
@@ -27,8 +27,8 @@
   <string name="callrecordview_item_newcontact">Нов контакт</string>
   <string name="callrecordview_item_op_time_minutes_seconds">% 1 $ d мин% 2 $ d сек</string>
   <string name="callrecordview_item_op_time_missed">Не сум поврзан</string>
-  <string name="callrecordview_item_op_time_only_minutes">% d мин</string>
-  <string name="callrecordview_item_op_time_only_seconds">% d сек</string>
+  <string name="callrecordview_item_op_time_only_minutes"> %d  мин</string>
+  <string name="callrecordview_item_op_time_only_seconds"> %d  сек</string>
   <string name="callrecordview_item_op_time_rejected">Одбиени</string>
   <string name="callrecordview_item_op_time_short_incoming">"Дојдовни:"</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Појдовни:"</string>
@@ -42,7 +42,7 @@
   <string name="contact_detail_calllog_call_note_tips">забелешките за повиците</string>
   <string name="contact_detail_calllog_call_record_tips">повик за снимање</string>
   <string name="content_desc_send_sms">Испрати СМС</string>
-  <string name="coupon_bought_count">% d купи</string>
+  <string name="coupon_bought_count"> %d  купи</string>
   <string name="currency_character">RBM</string>
   <string name="custom_mark_category">Прилагодено</string>
   <string name="data_error">Се случи грешка</string>
@@ -97,7 +97,7 @@
   <string name="express_inquiry_data_owner_prefix">"Следење на информации обезбедени од страна на"</string>
   <string name="express_inquiry_data_owner_suffix">
   </string>
-  <string name="express_inquiry_delete_warning_multiple">избришете% d записи?</string>
+  <string name="express_inquiry_delete_warning_multiple">избришете %d  записи?</string>
   <string name="express_inquiry_delete_warning_single">Избриши го овој запис?</string>
   <string name="express_inquiry_delivered">Доставено</string>
   <string name="express_inquiry_history">Историја</string>
@@ -194,7 +194,7 @@
   <string name="menu_delete_one">Отстрани од дневник на повици</string>
   <string name="menu_remove_black_list">Отстрани од блокирани</string>
   <string name="menu_remove_from_favorite">Отстрани од омилени</string>
-  <string name="minimum_price">Од% d RBM</string>
+  <string name="minimum_price">Од %d  RBM</string>
   <string name="mishop_web_payment_title">Mi Продавница плаќање</string>
   <string name="more_coupons">Сите купони</string>
   <string name="navigation_search_all_cities">Сите градови</string>
@@ -239,7 +239,7 @@
   <string name="payment_unknown_status_summary">Проверете ја вашата мрежна конекција и пробајте повторно.</string>
   <string name="payment_unknown_status_title">"не може да го потврди статусот на плаќање"</string>
   <string name="phone_info_divider">"|"</string>
-  <string name="photo_count">% d вкупно</string>
+  <string name="photo_count"> %d  вкупно</string>
   <string name="quick_yellow_page_tab_call_log">Дневник на повици</string>
   <string name="quick_yellow_page_tab_phones">Телефон</string>
   <string name="recharge_actual_price">Цена:</string>

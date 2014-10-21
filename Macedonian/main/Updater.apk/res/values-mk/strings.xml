@@ -13,7 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Откажи</string>
   <string name="apply_update_dialog_update_button">Ажурирање</string>
   <string name="apply_update_fail">"Неможе да се инсталира надградбата"</string>
-  <string name="apply_update_timer">уредот ќе се рестартира за% d секунди</string>
+  <string name="apply_update_timer">уредот ќе се рестартира за %d  секунди</string>
   <string name="apply_upload_info_message">За да ја инсталирате надградбата, допрете Ажурирај. Вашиот телефон ќе се рестартира кога процесот е завршен.</string>
   <string name="apply_upload_info_message_manually">По рестартирање, можете влезете во обновувачки режим и да ја инсталирате надградбата ( %s ) рачно. Ако сакате да ги заштите вашите податоци, треба да го сторите тоа пред да ја инсталирате надградбата.</string>
   <string name="applying_rom_message">Инсталирање на надградба...</string>
