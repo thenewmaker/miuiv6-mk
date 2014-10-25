@@ -679,12 +679,6 @@
         <item>On screen as lines</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>visual_lines</item>
-        <item>true</item>
-    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Show overdraw areas</item>
