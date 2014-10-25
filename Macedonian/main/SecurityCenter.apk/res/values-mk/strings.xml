@@ -109,8 +109,6 @@
   <string name="cache_title_empty_folder2">Empty folder</string>
   <string name="cache_title_system_cache">System cache</string>
   <string name="cancel">Cancel</string>
-  <string name="category_key_power_usage_details">key_power_usage_details</string>
-  <string name="category_key_power_usage_packages">key_power_usage_packages</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancel</string>
   <string name="cta_checkbox_title">"Don't show again"</string>
