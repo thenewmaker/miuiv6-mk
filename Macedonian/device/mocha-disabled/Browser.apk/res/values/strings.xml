@@ -81,7 +81,7 @@
   <string name="autologin_bar_text">Најави се како</string>
   <string name="back">Назад</string>
   <string name="block">Забрани</string>
-  <string name="bookmark_add_group_text_header">Додај избрани %1$d  во групата</string>
+  <string name="bookmark_add_group_text_header">Додај избрани %1$d во групата</string>
   <string name="bookmark_add_to">Додај во</string>
   <string name="bookmark_cannot_save_url">"Овој ЛИНК неможе да биде зачуван."</string>
   <string name="bookmark_folder_needs_title">Папката мора има наслов</string>
@@ -144,7 +144,7 @@
   <string name="color_picker_saturation">Сатурација</string>
   <string name="color_picker_value">Вредност</string>
   <string name="containing_folder">Додај во</string>
-  <string name="contextheader_folder_bookmarkcount"> %d  обележани страници</string>
+  <string name="contextheader_folder_bookmarkcount">%d обележани страници</string>
   <string name="contextheader_folder_empty">Празна папка</string>
   <string name="contextmenu_add_contact">Додади контакт</string>
   <string name="contextmenu_copy">Копирај</string>
@@ -599,7 +599,7 @@
   <string name="webview_js_dialog_before_unload_negative_button">Останете на оваа страница</string>
   <string name="webview_js_dialog_before_unload_positive_button">Остави ја страната</string>
   <string name="webview_js_dialog_before_unload_title">Потврди Навигација</string>
-  <string name="webview_js_dialog_title">Страницата на \ " %s  \" вели:</string>
+  <string name="webview_js_dialog_title">Страницата на \"%s \" вели:</string>
   <string name="webview_js_dialog_title_default">JavaScript</string>
   <string name="webview_last_month">Минатиот месец</string>
   <string name="webview_no_matches">Нема пронајдени</string>

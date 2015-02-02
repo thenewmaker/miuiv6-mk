@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_settings">About phone</string>
-  <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_title">Permissions</string>
-  <string name="ac_privacy_mode_sum">Require a password to disable Guest mode</string>
-  <string name="ac_privacy_mode_title">Password</string>
-  <string name="ac_set_apps_title">Lock apps</string>
-  <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
-  <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
-  <string name="accelerometer_title">Auto-rotate screen</string>
-  <string name="access_control_app_entry_multiple">Open %s</string>
-  <string name="access_control_app_entry_single">Open app</string>
-  <string name="access_control_need_password">"%s has been protected
+  <string name="about_settings">За телефонот</string>
+  <string name="about_settings_summary">Види правни информации, статус, верзија на софтвер</string>
+  <string name="ac_enable_title">Дозволи</string>
+  <string name="ac_privacy_mode_sum">Побарај лозинка за исклучување на Режимот за гостин</string>
+  <string name="ac_privacy_mode_title">Лозинка</string>
+  <string name="ac_set_apps_title">Заклучи апликации</string>
+  <string name="accelerometer_summary_off">Автоматски промени ја ориентацијата при вртење на телефонот</string>
+  <string name="accelerometer_summary_on">Автоматски промени ја ориентацијата при вртење на телефонот</string>
+  <string name="accelerometer_title">Авто-ротација на екран</string>
+  <string name="access_control_app_entry_multiple">Отвори %s</string>
+  <string name="access_control_app_entry_single">Отвори апликација</string>
+  <string name="access_control_need_password">"%s е заштитена
 "</string>
-  <string name="access_control_need_to_unlock">Password required:</string>
-  <string name="access_control_no_back_footer">Touch [icon] to exit</string>
-  <string name="access_control_password_title">Password</string>
-  <string name="access_control_recording_intro_header">Draw an unlock pattern:</string>
-  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset password</string>
+  <string name="access_control_need_to_unlock">Потребна е лозинка:</string>
+  <string name="access_control_no_back_footer">Допри [icon] за излез</string>
+  <string name="access_control_password_title">Лозинка</string>
+  <string name="access_control_recording_intro_header">Внеси шема за отклучување:</string>
+  <string name="access_control_reset_by_account">Логирај се во твојот Mi Account за да ја ресетираш лозинката</string>
   <string name="accessibility_captioning_title">Captions</string>
   <string name="accessibility_enable">Accessibility</string>
-  <string name="accessibility_feature_state_off">Off</string>
-  <string name="accessibility_feature_state_on">On</string>
+  <string name="accessibility_feature_state_off">Исклучено</string>
+  <string name="accessibility_feature_state_on">Вклучено</string>
   <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
 
 Step 1: Press and hold the power button until you hear a sound or feel a vibration.

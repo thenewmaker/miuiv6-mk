@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ErrorTooManyRequests">премногу барања беа проследени. авае молиме обидете се повторно.</string>
+  <string name="ErrorTooManyRequests">Во моментов се процесираат многу барања. Oбидете се подоцна.</string>
   <string name="ack_record">Ack запис</string>
   <string name="airplane_error_msg">"Неможете да користите Bluetooth во Авионски режим."</string>
   <string name="airplane_error_title">Авионски режим</string>
   <string name="app_name">Сподели Bluetooth</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
   <string name="auth_notif_message">Искуцај клучна сесија за %1$s</string>
-  <string name="auth_notif_ticker">OBEX побарана автентичност</string>
+  <string name="auth_notif_ticker">OBEX барање за проверка</string>
   <string name="auth_notif_title">Побарана клучна сесија за PBAP</string>
   <string name="bpp_authentication_timeout_message">Клучната сесија ќе задоцни за %1$s</string>
   <string name="bpp_cancel">Откажи</string>
@@ -23,7 +23,7 @@
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
-  <string name="bt_sm_2_1">"Нема доволно место во USB за да се зачува фајлот од \"%1$s\""</string>
+  <string name="bt_sm_2_1">"Нема доволно место на USB дискот за да се зачува фајлот од \"%1$s\""</string>
   <string name="bt_sm_2_2">Потребно место: %1$s</string>
   <string name="bt_toast_1">Фајлот се прима. Провери ја работата во Панелот со известувања.</string>
   <string name="bt_toast_2">"Фајлот неможе да се прими."</string>
@@ -32,7 +32,7 @@
   <string name="bt_toast_5">Прати %1$s фајл за \"%2$s\"</string>
   <string name="bt_toast_6">Стопирано испраќање на фајлот за \"%1$s\"</string>
   <string name="btopp_live_folder">Bluetooth примен</string>
-  <string name="defaultname">Кола</string>
+  <string name="defaultname">Автомобил</string>
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Избриши ги сите снимања</string>
   <string name="delete_record">Избришани снимања</string>
@@ -52,31 +52,31 @@
   <string name="download_success">%1$s симнато</string>
   <string name="download_title">Пренос на фајлот</string>
   <string name="empty_file_notification_sent">Bluetooth: Премотај и исфрли нула должина на фајлот %1$s</string>
-  <string name="enabling_progress_content">Вклучи Bluetooth...</string>
+  <string name="enabling_progress_content">Вклучувам Bluetooth...</string>
   <string name="enabling_progress_title">Ве молиме почекајте...</string>
   <string name="format_progress_text">%1$d%%</string>
   <string name="hello">Здраво Свету, Тест Активност</string>
-  <string name="inbound_history_title">"Влезни: "</string>
-  <string name="inbound_noti_title">Примени фајлови во Bluetooth</string>
-  <string name="incoming_file_confirm_Notification_caption">Ги примивте дојдовните фајлови?</string>
+  <string name="inbound_history_title">"Влезни транфери"</string>
+  <string name="inbound_noti_title">Примени фајлови преку Bluetooth</string>
+  <string name="incoming_file_confirm_Notification_caption">Дали сакате да го примите овој фајл?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: фајл кој доаѓа</string>
   <string name="incoming_file_confirm_cancel">Откажи</string>
   <string name="incoming_file_confirm_content">"\"%1$s\" сака да ви испрати %2$s (%3$s). 
 
  Accept the file?"</string>
   <string name="incoming_file_confirm_ok">Прифати</string>
-  <string name="incoming_file_confirm_timeout_content">Времето истече додека се прифати доаѓачкиот фајл од \"%1$s\"</string>
+  <string name="incoming_file_confirm_timeout_content">Помина времето за да се прифати фајлот од \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Трансфер на фајлот</string>
   <string name="incoming_file_toast_msg">Добиен фајл од друг уред.</string>
-  <string name="insert_record">Внесете смимано</string>
+  <string name="insert_record">Внесете запис</string>
   <string name="localPhoneName">Мое Име</string>
-  <string name="miui_transfer_history_title">Пренос на историја во Bluetooth</string>
+  <string name="miui_transfer_history_title">Bluetooth трансфери</string>
   <string name="miui_transfer_inbound_title">Дојдовни</string>
   <string name="miui_transfer_outbound_title">Појдовни</string>
   <string name="no_transfers">Пренос на историја празен.</string>
   <string name="not_exist_file">Нема фајл</string>
-  <string name="not_exist_file_desc">"Фајлот не постои. "</string>
+  <string name="not_exist_file_desc">"Фајлот не постои."</string>
   <string name="noti_caption">%1$s успешно, %2$s неуспешно.</string>
   <string name="notification_received">Bluetooth: Примено %1$s</string>
   <string name="notification_received_fail">Bluetooth: Фајлот %1$s не е примен</string>
@@ -104,7 +104,7 @@
   <string name="start_server">Започни TCP сервер</string>
   <string name="status_canceled">Откажано од корисникот.</string>
   <string name="status_connection_error">Неуспешна конекција.</string>
-  <string name="status_file_error">Складирање на грешки.</string>
+  <string name="status_file_error">Проблем со записот на податоци.</string>
   <string name="status_forbidden">Забранет трансфер од страна на уредот.</string>
   <string name="status_no_sd_card">Не е достапно складирање.</string>
   <string name="status_not_accept">"Содржината не е подржана."</string>

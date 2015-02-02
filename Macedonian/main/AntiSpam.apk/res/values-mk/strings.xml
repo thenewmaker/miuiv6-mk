@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ACaddnumcontent">Внесете повикувачки код</string>
-  <string name="ACaddnumtitle">Додадете телефонски број префикс на исклучоци</string>
+  <string name="ACaddnumtitle">Додади префиксот на телефонски број во исклучоци</string>
   <string name="AD_ALLOW">Овозможи реклами</string>
   <string name="AD_APPInfo">Инфо за апликацијата</string>
   <string name="AD_AntiSpam">Spam Blocker</string>
@@ -42,18 +42,18 @@
   <string name="ad_single_block_hint">Блокиран</string>
   <string name="ad_update_setting">Ажурирање</string>
   <string name="ad_update_time">Последна промена: %s </string>
-  <string name="ad_update_time_unKnown">Последна промена: непознат</string>
-  <string name="ad_update_title">Ажурира автоматски</string>
+  <string name="ad_update_time_unKnown">Последна промена: непознато</string>
+  <string name="ad_update_title">Ажурирај автоматски</string>
   <string name="address_choose_hint" formatted="false">%1$sA €%2$s s и %3$d  локации</string>
   <string name="addwhitelist">Додадете исклучоци</string>
   <string name="all_address_choose_hint">Сите локации</string>
   <string name="app_name">Блоклиста</string>
-  <string name="backsound_set_hint">Поставите ваш backsound на %s ?</string>
+  <string name="backsound_set_hint">Поставете ваш backsound на %s ?</string>
   <string name="baidu_thanks">Поддржано од Baidu</string>
   <string name="bl_block_info">блокиран: %d  | SMS порака: %d </string>
-  <string name="bl_no_blacklist">не блокирани броеви</string>
-  <string name="bl_no_block_call">не блокирани повици</string>
-  <string name="bl_no_block_sms">не блокирани пораки</string>
+  <string name="bl_no_blacklist">нема блокирани броеви</string>
+  <string name="bl_no_block_call">нема блокирани повици</string>
+  <string name="bl_no_block_sms">нема блокирани пораки</string>
   <string name="blacklist_prefix_add_hint">Блокирај ги сите броеви што почнуваат со овој префикс</string>
   <string name="block_message_number">Пораки: %d </string>
   <string name="block_phone_number">Повици: %d </string>
@@ -62,16 +62,16 @@
   <string name="close_callwait">Исклучено</string>
   <string name="customizer_mode_user_define_name">Моите правила</string>
   <string name="dlg_add_blacklist">Блокирај го бројов?</string>
-  <string name="dlg_add_blacklist_warn_conflict_content" formatted="false">%1$sи %2$sдруги контакти се веќе во листата на исклучоци</string>
+  <string name="dlg_add_blacklist_warn_conflict_content" formatted="false">%1$sи %2$sдругите контакти се веќе во листатата на исклучоци</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Внимателно</string>
   <string name="dlg_add_keyword">Додадете клучни зборови</string>
   <string name="dlg_add_manual_hint">Внесете го телефонскиот број</string>
   <string name="dlg_add_manual_ok">Додадете</string>
   <string name="dlg_bl_add_manual">Додај број на блоклиста</string>
-  <string name="dlg_black_address_antispam_message">Додади ја локацијава на блоклиста?</string>
+  <string name="dlg_black_address_antispam_message">Додади го овој број на блоклиста?</string>
   <string name="dlg_black_antispam_hint">Блоклиста</string>
   <string name="dlg_black_antispam_message">Додадете го бројов во блоклиста?</string>
-  <string name="dlg_clear_all_call">Бриши блокирани повици?</string>
+  <string name="dlg_clear_all_call">Изриши блокирани повици?</string>
   <string name="dlg_clear_all_ok">Бриши ги сите</string>
   <string name="dlg_clear_all_sms">Избришете блокирани пораки?</string>
   <string name="dlg_clear_blacklist">Исчисти блоклиста?</string>
@@ -97,7 +97,7 @@
   <string name="dlg_retore_ok">Врати</string>
   <string name="dlg_white_address_antispam_message">Додади ја оваа локација во исклучок?</string>
   <string name="dlg_white_antispam_hint">Исклучоци</string>
-  <string name="dlg_white_antispam_message">Додадете овој број во исклучоци?</string>
+  <string name="dlg_white_antispam_message">Додади го овој број во исклучоци?</string>
   <string name="fw_blocked">Блоклиста</string>
   <string name="fw_blocked_count">Блокирано</string>
   <string name="fw_blocked_count_call">%d повици</string>
@@ -183,8 +183,8 @@
   <string name="st_block_setting_group">Подесувања на блоклиста</string>
   <string name="st_block_setting_title">Повици и пораки</string>
   <string name="st_block_title">Пренасочување кон логот на блокирање</string>
-  <string name="st_block_unknown_call">Блокира Непознат повикувачи</string>
-  <string name="st_block_unknown_sms">Блокира непозната пораки</string>
+  <string name="st_block_unknown_call">Блокира непознати повикувачи</string>
+  <string name="st_block_unknown_sms">Блокира непознати пораки</string>
   <string name="st_call_group">Повици</string>
   <string name="st_common_setting_group">Подесувањата на филтерот</string>
   <string name="st_filter_keywords_setting_summary1">Пораки од непознати броеви кои ги содржи зборовите во оваа листа ќе биде блокиран.</string>
@@ -246,13 +246,13 @@
   <string name="sure">Потврди</string>
   <string name="tab_blacklist">Блоклиста</string>
   <string name="tab_block_log">Историја</string>
-  <string name="tab_block_log_unKnowNumber">Приватен број</string>
+  <string name="tab_block_log_unKnowNumber">Скриен број</string>
   <string name="tab_call">Повици</string>
   <string name="tab_sms">Пораки</string>
   <string name="tab_title">Блоклиста</string>
   <string name="toast_keyword_blank">Треба да внесете клучен збор</string>
   <string name="toast_keyword_exist">Клучни зборови додадени во филтер</string>
-  <string name="toast_keyword_invalid">Невалиден клучни зборови</string>
+  <string name="toast_keyword_invalid">Невалиден клучен збор</string>
   <string name="two_address_choose_hint"> %1$s ,%2$s s2 локации</string>
   <string name="user_define_title">Додадете правила</string>
   <string name="whitelist_prefix_add_hint">Додадете ги сите броеви со префикс на исклучоци</string>

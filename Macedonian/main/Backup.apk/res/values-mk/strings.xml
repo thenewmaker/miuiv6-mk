@@ -20,7 +20,7 @@
   <string name="auto_backup_system_data">Систем</string>
   <string name="auto_backup_time">Распоред backup</string>
   <string name="auto_backup_user_data">Апликации</string>
-  <string name="backup">Backup сега</string>
+  <string name="backup">Направи Backup сега</string>
   <string name="backup_data">Backup податоци</string>
   <string name="backup_delete">Избриши:</string>
   <string name="backup_empty">Не се најдени backup фајлови</string>
@@ -50,7 +50,7 @@
   <string name="call_title">Логирај повик</string>
   <string name="cancel">Откажи</string>
   <string name="cancel_backup">Откажи Backup</string>
-  <string name="cancel_restore">Откажи Враќање</string>
+  <string name="cancel_restore">Откажи враќање</string>
   <string name="cloud_app_backup_cancel">Откажи backup</string>
   <string name="cloud_backup_hint">За да пристапите на вашите бекапи, логирајте се</string>
   <string name="cloud_backup_login">Логирај се со твојот Mi Account</string>
@@ -70,7 +70,7 @@
   <string name="current_sim">Сегашна SIM картичка</string>
   <string name="data_no_enough_space">Нема доволно простор</string>
   <string name="data_no_enough_space_message">"Нема доволно простор во внатрешната меморија."</string>
-  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="date_format">год-мес-ден час:мин:сек</string>
   <string name="delete">Избриши</string>
   <string name="delete_backup_process">Бришење на backup(s)...</string>
   <string name="delete_failed_backup_confirm">Грешка во backup, неможе да се вратиш од овој backup</string>

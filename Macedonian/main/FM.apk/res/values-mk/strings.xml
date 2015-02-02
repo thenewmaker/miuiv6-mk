@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="FMRecording_reach_storage_threshold">Снимањето престана: вашата SD картичка снемува празно место</string>
+  <string name="FMRecording_reach_storage_threshold">Снимањето е прекинато: вашата SD картичка снемува празно место</string>
   <string name="access_sd_fail">Не може да се пристапи на SD картичката.</string>
   <string name="alert_dialog_cancel">Откажи</string>
   <string name="alert_dialog_ok">Ред</string>

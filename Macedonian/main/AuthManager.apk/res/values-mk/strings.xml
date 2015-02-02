@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Апликации</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Оневозможувањеto ќе направи MIUI да преапликацијае да ги мониторира апликациите и да не ја заштитува вашата безбедност и приватност.
+  <string name="Dashboard_HIPS_Disable_Content">"Оневозможувањеo ќе направи MIUI да прекине со мониторирање на побарувањата од апликациите и нема повеќе да ја заштитува вашата безбедност и приватност.
 Дали сте сигурни дека сакате да го исклучите?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Дозволи</string>
-  <string name="Dashboard_Log">Логови</string>
-  <string name="Dashboard_Log_Clear_Content">Сите логови ќе бидат избришани.</string>
+  <string name="Dashboard_Log">Записи</string>
+  <string name="Dashboard_Log_Clear_Content">Сите записи ќе бидат избришани.</string>
   <string name="Dashboard_Log_Clear_Title">Избриши ја историјата</string>
   <string name="Dashboard_Perm">Дозволи</string>
   <string name="Dashboard_Perm_AutoStart">Дозволи за автоматско стартување</string>
@@ -22,7 +22,7 @@
   <string name="Dashboard_Perm_SU">Управување со админ пристап</string>
   <string name="Dashboard_Perm_SU_Desc">Следење на %1$d апликации за админ пристап</string>
   <string name="Dashboard_Perm_SU_Disabled">Оневозможен админ пристап</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable">Админ пристап не е достапен во стабилната верзија на MIUI</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">Админ пристап не е достапен во стабилните верзии на MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Доделување админ пристап на трети апликации може да предизвика нестабилност на системот, загуба на податоци, па дури и хардверска штета.
 
 Треба да се флешува развојна верзија на MIUI за да се дозволи админ пристап."</string>
@@ -36,16 +36,16 @@
   <string name="Generic_Check">Проверка</string>
   <string name="Generic_Clean">Чисти</string>
   <string name="Generic_Configuration">Подесувања</string>
-  <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
+  <string name="Generic_Copyright">Овозможено од LBE Privacy Guard</string>
   <string name="Generic_Disable">Оневозможи</string>
   <string name="Generic_Enable">Овозможи</string>
   <string name="Generic_Good">Добро</string>
   <string name="Generic_HideSystemApp">Скриј ги системските апликации</string>
   <string name="Generic_InvalidInput">Невалиден внес</string>
-  <string name="Generic_Loading">Loading…</string>
+  <string name="Generic_Loading">Се вчитува…</string>
   <string name="Generic_MonitoredApp">Следени Апликации (%1$d)</string>
   <string name="Generic_Operating">Работи…</string>
-  <string name="Generic_Optimize">Оптимизирате</string>
+  <string name="Generic_Optimize">Оптимизирај</string>
   <string name="Generic_Service_Disabled">Исклучено</string>
   <string name="Generic_Service_Enabled">Вклучено</string>
   <string name="Generic_Shortcut">Контекстуалното мени</string>
@@ -86,12 +86,12 @@
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s апликации може вклучат Bluetooth</string>
   <string name="HIPS_Perm_Calendar">Календар</string>
   <string name="HIPS_Perm_Calendar_Desc">апликацијата може да го види вашиот календар</string>
-  <string name="HIPS_Perm_Calendar_Hint">%1$s апликации може да го гледаат вашиот календар</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s апликации кои можат да го видат вашиот календар</string>
   <string name="HIPS_Perm_Call">Повици</string>
   <string name="HIPS_Perm_CallLog">Историја на повици</string>
   <string name="HIPS_Perm_CallLog_Access">апликацијата може да пристапи до историјата на вашите повици</string>
   <string name="HIPS_Perm_CallLog_Desc">апликацијата може да ја види историјата на вашите повици</string>
-  <string name="HIPS_Perm_CallLog_Hint">%1$s апликации може да ја видат историјата на вашите повици</string>
+  <string name="HIPS_Perm_CallLog_Hint">%1$s апликациите можат да ја видат историјата на вашите повици</string>
   <string name="HIPS_Perm_CallMonitor">Слушање Повици</string>
   <string name="HIPS_Perm_CallMonitor_Desc">Овозможи апликација да слуша при вашите повици и да го контролира волуменот на звукот</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s апликации може слушаат при вашите повици и да го контролираат волуменот на звукот</string>
@@ -105,10 +105,10 @@
   <string name="HIPS_Perm_Contact">Контакти</string>
   <string name="HIPS_Perm_Contact_Access">апликацијата може да пристапи кон инфо за твоите контакти</string>
   <string name="HIPS_Perm_Contact_Desc">апликацијата може да ги види твоите контакти</string>
-  <string name="HIPS_Perm_Contact_Hint">"%1$s апликации може да ги видат твоите контакти
+  <string name="HIPS_Perm_Contact_Hint">"%1$s апликациите можат да ги видат твоите контакти
 "</string>
   <string name="HIPS_Perm_DisableKeyguard">Заклучување на екранот</string>
-  <string name="HIPS_Perm_DisableKeyguard_Desc">апликација може да оневозможи заклучување на екранот</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">апликацијата може да оневозможи заклучување на екранот</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s апликации може да оневозможат заклучување на екранот</string>
   <string name="HIPS_Perm_EndCall">апликацијата може да заврши повици</string>
   <string name="HIPS_Perm_GetCallState">апликацијата може да се здобие со вашиот статус на повици (пр. дојдовни, зафатен)</string>
@@ -117,7 +117,7 @@
   <string name="HIPS_Perm_Location_Access">апликацијата може да пристапи до вашата локација</string>
   <string name="HIPS_Perm_Location_CellInfo">апликација може да добие инфо за мобилната базна станица</string>
   <string name="HIPS_Perm_Location_CellLocation">апликација може да добие инфо локацијата на мобилната базна станица</string>
-  <string name="HIPS_Perm_Location_Desc">апликацијата може да користи мрежа и GPS за да ја најде вашата локација</string>
+  <string name="HIPS_Perm_Location_Desc">апликацијата може да користи мрежа и GPS за да ја пронајде вашата локација</string>
   <string name="HIPS_Perm_Location_Hint">%1$s апликации може да користат мрежа и GPS за да ја најдат вашата локација</string>
   <string name="HIPS_Perm_Location_Monitor">апликација може да ги следи вашите движења</string>
   <string name="HIPS_Perm_Location_Source_Cellular">Податоци од мобилната базна станица</string>
@@ -146,11 +146,11 @@
   <string name="HIPS_Perm_Notification_Hint">"%1$s апликации може да користат пушти известувања
 "</string>
   <string name="HIPS_Perm_PhoneID">Уред</string>
-  <string name="HIPS_Perm_PhoneID_Desc">апликацијата може да го добие IMEI и IMSI на Вашиот уред</string>
-  <string name="HIPS_Perm_PhoneID_Hint">%1$s апликации може да го добијат IMEI и IMSI на Вашиот уред</string>
+  <string name="HIPS_Perm_PhoneID_Desc">апликацијата има пристап до IMEI и IMSI на Вашиот уред</string>
+  <string name="HIPS_Perm_PhoneID_Hint">%1$s апликациите имаат пристап до IMEI и IMSI на Вашиот уред</string>
   <string name="HIPS_Perm_PhoneID_ICCID">апликацијата може да добие</string>
-  <string name="HIPS_Perm_PhoneID_IMEI">апликацијата може да добие IMEI број на уредот</string>
-  <string name="HIPS_Perm_PhoneID_IMEISN">апликацијата може да добие IMEI SN на уредот</string>
+  <string name="HIPS_Perm_PhoneID_IMEI">апликацијата има пристап до IMEI бројот на вашиот уред</string>
+  <string name="HIPS_Perm_PhoneID_IMEISN">апликацијата има пристап до IMEI SN на уредот</string>
   <string name="HIPS_Perm_PhoneID_IMSI">апликацијата може да добие IMSI број на уредот</string>
   <string name="HIPS_Perm_PhoneID_Number">апликацијата може да го добие идентификувачкиот број на уредот</string>
   <string name="HIPS_Perm_PromptAll">Прашај за сите</string>
@@ -164,7 +164,7 @@
   <string name="HIPS_Perm_Recorder_Camera">апликацијата може да слика слики</string>
   <string name="HIPS_Perm_Recorder_Video">апликацијата може да снима аудио и видео</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">апликацијата може да ги снима вашите повици</string>
-  <string name="HIPS_Perm_RejectAll">Одби ги сите</string>
+  <string name="HIPS_Perm_RejectAll">Одбиј ги сите</string>
   <string name="HIPS_Perm_SMS">СМС</string>
   <string name="HIPS_Perm_SMS_Access">апликацијата може да пристапи до Вашите СМС податоци</string>
   <string name="HIPS_Perm_SMS_Desc">апликацијата може да ги види вашите СМС разговори</string>
@@ -222,7 +222,7 @@
   <string name="Privacy_App_Finish">Заврши</string>
   <string name="Privacy_App_Installed">апликацијата е инсталирана</string>
   <string name="Privacy_App_Launch">Стартување</string>
-  <string name="Privacy_App_Log">Логови</string>
+  <string name="Privacy_App_Log">Записи</string>
   <string name="Privacy_App_Manage">Детали</string>
   <string name="Privacy_App_Trust">Прашување за дозвола</string>
   <string name="Privacy_App_TrustDialog_Content">Вие нема да бидете прашани за дозвола кога оваа апликација ќе пристапи во други делови на системот.</string>

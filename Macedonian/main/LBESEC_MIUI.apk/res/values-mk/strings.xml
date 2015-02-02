@@ -212,7 +212,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Употребете со претпазливост!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Дали вашите сигурни да се овозможи на %$1 да добие Root пермисии?</string>
   <string name="HIPS_SecurityPrompt_Reject">Одбиј (%d)</string>
-  <string name="HIPS_SecurityPrompt_Remember">Запамти го мојот избор</string>
+  <string name="HIPS_SecurityPrompt_Remember">Запамети го избраното</string>
   <string name="HIPS_SecurityPrompt_Title">%$1 се обидува да %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d пермисии</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d пермисии - &lt;font color=#478800&gt;Доверливи&lt;/ font&gt;</string>
@@ -230,7 +230,7 @@
   <string name="Privacy_Perm_Count">Дозволени: %1$d Одбиени: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s се обидува да добие Root пермисија  што е автоматски забрането поради безбедноста на системот. Ако треба да промени одете во подесувањата на Менаџерот за Пермисии</string>
   <string name="Su_Unavailable">Root пермисии се исклучени во MIUI стабилната верзија. Ве молиме инсталирајте MIUI развојна верзија за да ги активирате Root пермисиите.</string>
-  <string name="SysOpt_Boost_AutoStart">Ддозвола за автоматски старт</string>
+  <string name="SysOpt_Boost_AutoStart">Дозвола за автоматски старт</string>
   <string name="SysOpt_Boost_AutoStart_Group">Автоматски старт</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Позадина</string>

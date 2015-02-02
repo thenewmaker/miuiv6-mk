@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Иди до дома</string>
+  <string name="abc_action_bar_home_description">Оди до дома</string>
   <string name="abc_action_bar_up_description">Отиди до</string>
   <string name="action_mode_deselect_all">Деселектирај се</string>
   <string name="action_mode_select_all">Изберете ги сите</string>
