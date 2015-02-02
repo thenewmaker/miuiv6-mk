@@ -103,7 +103,7 @@
   <string name="clip_dialog_title">Отвори ја ископираната адреса?</string>
   <string name="close_all_tab_alert_message">Затвори ги сите картички?</string>
   <string name="close_all_tab_alert_title">Затвори ги сите картички</string>
-  <string name="close_cloud_tab_tip">Затвори ги сите картички во 'облак' на %s?</string>
+  <string name="close_cloud_tab_tip">Затвори ги сите картички во облак на %s?</string>
   <string name="cloud_loading_tips">Повлечи надолу за синхронизација</string>
   <string name="cloud_no_new_data_toast">"Се е ажурирано"</string>
   <string name="cloud_sync_closed_toast">"Не може да се ажурира, бидејќи синхронизацијата е исклучена"</string>

@@ -184,9 +184,6 @@
   <string name="pref_advanced_settings">Напредно</string>
   <string name="pref_audio_indicator_entry_off">Аудио исклучено</string>
   <string name="pref_audio_indicator_entry_on">Аудио вклучено</string>
-  <string name="pref_audio_indicator_entryvalue_default">Исклучено</string>
-  <string name="pref_audio_indicator_entryvalue_off">Исклучено</string>
-  <string name="pref_audio_indicator_entryvalue_on">Вклучено</string>
   <string name="pref_camcorder_settings_category">Прилагодувања на камерата</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Исклучено</string>
@@ -355,7 +352,6 @@
   <string name="pref_camera_scenemode_title">Начин на сцена</string>
   <string name="pref_camera_settings_category">Подесувања на камерата</string>
   <string name="pref_camera_settings_title">Подесувања</string>
-  <string name="pref_camera_shader_coloreffect_default">-1</string>
   <string name="pref_camera_sharpness_title">Острина</string>
   <string name="pref_camera_show_gender_age_entry_alias">Прикажи возраст</string>
   <string name="pref_camera_show_gender_age_entry_off">Исклучено</string>
@@ -419,7 +415,6 @@
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
-  <string name="pref_video_quality_pad_default">6</string>
   <string name="pref_video_quality_title">Видео квалитет</string>
   <string name="pref_video_slow_speed_title_simple_mode">Брзо движење</string>
   <string name="pref_video_speed_entry_fast">Брзо</string>
