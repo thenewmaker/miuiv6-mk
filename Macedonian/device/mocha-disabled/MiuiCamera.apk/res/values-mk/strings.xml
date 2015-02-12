@@ -2,7 +2,7 @@
 <resources>
   <string name="Import">Увоз</string>
   <string name="access_sd_fail">"Неможеше да пристапи SD картичка."</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Смени камера и видео (моментално користи  %s )</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Смени камера и видео (моментално користи %s)</string>
   <string name="accessibility_camera_auto_flashmode">Авто-блиц</string>
   <string name="accessibility_camera_flash_closemode">Без блиц</string>
   <string name="accessibility_camera_flashmode">Секогаш блиц</string>
