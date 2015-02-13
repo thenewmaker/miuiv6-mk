@@ -197,7 +197,6 @@
   <string name="deactivate_all">Откажи ги сите</string>
   <string name="default_call_type">CSГлас</string>
   <string name="default_preference_summary">&lt;Не е поставено&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Избриши</string>
   <string name="deleteAllSimEntries">Избришете ги сите СИМ контакти</string>
   <string name="deleteSimContacts">Бришење на СИМ контактите</string>
@@ -561,7 +560,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="place_a_call3">Subscription 3</string>
   <string name="pocket_mode_summary">Phone will lock automatically when placed in a pocket</string>
   <string name="pocket_mode_title">Prevent pocket dials</string>
-  <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
   <string name="preferred_network_mode_dialogtitle">Preferred network type</string>
