@@ -2,7 +2,7 @@
 <resources>
   <string name="Import">Увези</string>
   <string name="accept">Прифати</string>
-  <string name="accept_or_deny"> %1$s  сподели албумот% 2 $ со вас.</string>
+  <string name="accept_or_deny"> %1$s  сподели албумот %2$ со вас.</string>
   <string name="action_fail_unknown_error">Се случи непозната грешка</string>
   <string name="activity_not_found">Не е пронајдена апликација справи со оваа акција</string>
   <string name="add_account">Додај сметка</string>

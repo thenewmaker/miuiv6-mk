@@ -68,7 +68,7 @@
   <string name="call_home">Повикај дома</string>
   <string name="call_isdn">Повикај ISDN</string>
   <string name="call_log_empty_gecode">-</string>
-  <string name="call_log_item_count_and_date">(% 1 $ г) %2$s </string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Ново</string>
   <string name="call_log_old_header">Постари</string>
   <string name="call_main">Повикај главно</string>

@@ -50,7 +50,7 @@
   <string name="app_name">Блоклиста</string>
   <string name="backsound_set_hint">Поставете ваш backsound на %s ?</string>
   <string name="baidu_thanks">Поддржано од Baidu</string>
-  <string name="bl_block_info">блокиран: %d  | SMS порака: %d </string>
+  <string name="bl_block_info" formatted="false">блокиран: %d | SMS порака: %d</string>
   <string name="bl_no_blacklist">нема блокирани броеви</string>
   <string name="bl_no_block_call">нема блокирани повици</string>
   <string name="bl_no_block_sms">нема блокирани пораки</string>

@@ -440,7 +440,6 @@
   <string name="general_preference_text_zoom_tiny">Ситна</string>
   <string name="generic_attachment_problem">"Неможе да прикачи датотека."</string>
   <string name="header_category_account">Прилагодувања на сметка</string>
-  <string name="header_category_general">@стринг/header_label_general_preferences</string>
   <string name="header_category_other">Други</string>
   <string name="header_label_general_preferences">Општи подесувања</string>
   <string name="help_and_info">Помош</string>

@@ -121,7 +121,7 @@
   <string name="share_qq">постирај на Tencent Weibo</string>
   <string name="share_sina">постирај на Сина Weibo</string>
   <string name="share_update">Сподели информации за надградбата</string>
-  <string name="share_update_content_sign">"Јас надградив MIUI% 1 $ јас бев %2$s  лице за надградување, За детални Промени, одете на %3$s  "</string>
+  <string name="share_update_content_sign">"Јас надградив MIUI %1$ јас бев %2$s  лице за надградување, За детални Промени, одете на %3$s  "</string>
   <string name="share_update_content_unsign">" Јас надградив MIUI до %1$s  За детални Промени, одете на %2$s  "</string>
   <string name="sign_in_add_account">активирате ја вашата Mi сметка</string>
   <string name="sign_in_add_account_helper">синхронизирате ги вашите контакти, слики, и многу повеќе на уредите</string>

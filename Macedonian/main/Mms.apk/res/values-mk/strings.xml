@@ -472,13 +472,13 @@
   <string name="to_address_label">"До:"</string>
   <string name="to_count"> %d  корисници</string>
   <string name="to_label">"До"</string>
-  <string name="to_send_wrapper">Ќе испрати на %s </string>
+  <string name="to_send_wrapper">Ќе испрати на %s</string>
   <string name="toast_description_required">"Опишувањето неможе да биде празно"</string>
   <string name="toast_feedback_finish">"Вашиот извештај ќе биде испратен кога ќе бидете поврзани со WLAN"</string>
   <string name="toast_feedback_max">"Неможете да поднесете повеќе од 3 извештаи дневно"</string>
   <string name="toast_feedback_start">Собирање на податоци за дневниците...</string>
-  <string name="too_many_attachments">Постои ограничување на% 1 прикачувања $ s. Само првите %2$s  ќе бидат додадени.</string>
-  <string name="too_many_recipients">"Пораката има премногу примачи ( %1$s ) Неможете да имате повеќе од %2$s  примачи."</string>
+  <string name="too_many_attachments">Постои ограничување на прикачувања %1$s. Само првите %2$s ќе бидат додадени.</string>
+  <string name="too_many_recipients">"Пораката има премногу примачи (%1$s) Неможете да имате повеќе од %2$s  примачи."</string>
   <string name="too_many_unsent_mms">"Неможете да пратите порака во моментов. Премногу неиспратени мултимедијални пораки.".</string>
   <string name="try_to_send">Обидете се да се испратите</string>
   <string name="type_attachment">прикачи</string>

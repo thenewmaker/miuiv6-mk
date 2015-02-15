@@ -92,7 +92,7 @@
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
   <string name="memory_clear_nothing_result">Нема што да се исчисти во кеш</string>
-  <string name="memory_clear_result"> %1$s  ослободена |% 2 $ на располагање</string>
+  <string name="memory_clear_result"> %1$s ослободена |%2$ на располагање</string>
   <string name="miui_device_name">Андроид</string>
   <string name="national_day">国庆节</string>
   <string name="national_father_day">國父誕辰</string>
