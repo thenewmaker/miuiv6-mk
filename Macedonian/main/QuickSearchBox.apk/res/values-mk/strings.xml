@@ -19,7 +19,7 @@
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Избриши кратенки</string>
   <string name="google_app_label">Пребарај на Google</string>
-  <string name="google_search_base">http://www.google.com/m?hl=%1 $ s</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">Http:? // %1$s /M hl = %2$s </string>
   <string name="google_search_description">Предлози на Google пребарувањето</string>
   <string name="google_search_hint">Пребарај Google</string>

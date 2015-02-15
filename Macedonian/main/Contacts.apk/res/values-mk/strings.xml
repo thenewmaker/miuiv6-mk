@@ -815,7 +815,7 @@
   <string name="resource_comment_average_score">Оценки</string>
   <string name="resource_comment_bad_comments">Негативни</string>
   <string name="resource_comment_current_version">Тековна верзија</string>
-  <string name="resource_comment_date">% 1 $ 02d-% 2 $ 02d</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Додадете коментар</string>
   <string name="resource_comment_edit_comment_waiting">Проверка на историјата на корисникот...</string>
   <string name="resource_comment_edit_text_default">Напиши коментар</string>

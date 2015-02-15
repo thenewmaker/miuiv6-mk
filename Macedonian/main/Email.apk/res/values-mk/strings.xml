@@ -459,8 +459,7 @@
   <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">Адресата %s  не е валидна.</string>
   <string name="kilobytes"> %s  KB</string>
-  <string name="label_notification_ticker" formatted="false">% S: %s </string>
-  <string name="load_attachment">@стринг/load_more</string>
+  <string name="label_notification_ticker" formatted="false">%S: %s </string>
   <string name="load_more">Вчитај повеќе</string>
   <string name="loading_conversation">Се вчитува...</string>
   <string name="loading_conversations">Се вчитува...</string>

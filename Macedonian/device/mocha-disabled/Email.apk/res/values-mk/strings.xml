@@ -158,7 +158,7 @@
   <string name="account_waiting_for_folders_msg">Вчитување листа на папки...</string>
   <string name="accounts_heading">Сметки</string>
   <string name="accounts_welcome">Можете да го поставите вашиот профил во само неколку чекори</string>
-  <string name="actionbar_large_unread_count"> %1$d  + непрочитани</string>
+  <string name="actionbar_large_unread_count">%1$d + непрочитани</string>
   <string name="activity_folder_selection">Изберете папка</string>
   <string name="activity_mailbox_selection">Изберете сметка</string>
   <string name="add_account">Додај сметка</string>

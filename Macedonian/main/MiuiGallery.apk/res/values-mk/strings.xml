@@ -542,7 +542,7 @@
   <string name="deselect_all">Деселектирај ги сите</string>
   <string name="details">Детали</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-  <string name="details_ms">% 1 $ 02d:% 2 $ 02d</string>
+  <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_sharer">Споделено од</string>
   <string name="details_title"> %1$d  од %2$d  предмети</string>
   <string name="device_model">Уред</string>
@@ -550,7 +550,6 @@
   <string name="documentary">Документарен</string>
   <string name="done">Завршено</string>
   <string name="doodle">Лого</string>
-  <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
   <string name="doodle_tooltip">Допри ја сликата за лого</string>
   <string name="download">Превземи</string>
   <string name="download_fail">"Неможе да превземе"</string>
@@ -852,7 +851,7 @@
   <string name="share_album">Сподели албум</string>
   <string name="share_album_owner">Сопственик</string>
   <string name="share_album_space_full">Нема доволно простор во овој албум</string>
-  <string name="share_by_email_start">Сподели% 1 $ во позадина</string>
+  <string name="share_by_email_start">Сподели %1$ во позадина</string>
   <string name="share_by_email_successfully">Споделено %1$s  на</string>
   <string name="share_current_album">Сподели го моменталниот албум</string>
   <string name="share_public_url_text">"Јас го споделив албумот %1$s  со вас. Погледнете го на %2$s "</string>
