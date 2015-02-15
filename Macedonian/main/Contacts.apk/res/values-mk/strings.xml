@@ -869,7 +869,7 @@
   <string name="resource_exchange_has_used">Кодот што во внесове веќе е употребен.</string>
   <string name="resource_exchange_hint">Внесете го вашиот подарок код</string>
   <string name="resource_exchange_purchase_unkown_error">Упс! Се случи непозната грешка. Најавете се на http://market.xiaomi.com да го видите вашиот статус на исплата.</string>
-  <string name="resource_exchange_share_code_content">"Вие и добивте подарок код ( %2$s ) за темата% 1 $ во MIUI Процавницата за Теми. Допрете %3$s  за да го користите сега.".</string>
+  <string name="resource_exchange_share_code_content">"Вие и добивте подарок код ( %2$s ) за темата %1$s во MIUI Процавницата за Теми. Допрете %3$s  за да го користите сега.".</string>
   <string name="resource_exchange_share_code_dlg_content">Подарок код за %1$s : %2$s . Кога ќе го испратите на друг корисник на MIUI, тие можат да го користат за да ја преземат оваа тема.</string>
   <string name="resource_exchange_share_code_dlg_title">Испраќање</string>
   <string name="resource_exchange_success">Уживајте! :)</string>
@@ -955,7 +955,7 @@
   <string name="scan_duplicate_message"> %1$d  контакти со идентични информации</string>
   <string name="scan_merge">Пребарување за дуплирани контакти...</string>
   <string name="scanning">Скенирање...</string>
-  <string name="scanning_sdcard_failed_message">Причина: \ " %s  \".</string>
+  <string name="scanning_sdcard_failed_message">Причина: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"Меморијата неможеше да биде скенирана"</string>
   <string name="sdcard_not_mounted_dialog_message">"Вметнете SD картичка сега."</string>
   <string name="sdcard_not_mounted_dialog_title">Не е пронајдена SD картичка</string>
