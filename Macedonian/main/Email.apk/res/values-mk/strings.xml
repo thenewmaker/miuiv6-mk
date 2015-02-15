@@ -678,7 +678,6 @@ CC: %4$s
   <string name="quick_reply_dialog_title">Ве молиме изберете</string>
   <string name="quick_responses_empty_view">Без брзи одговори</string>
   <string name="quoted_text">Вклучи цитиран текст</string>
-  <string name="quoted_text_background_color_string">android: боја/бело</string>
   <string name="quoted_text_label">Цитат текст</string>
   <string name="read_string">читај конверзација</string>
   <string name="recent_folders_heading">Последни папки</string>
