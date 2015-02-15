@@ -39,7 +39,7 @@
   <string name="fm_record_smaple_prefix_miui">FM снимање</string>
   <string name="fools_day">愚人节</string>
   <string name="force_exit_message">Присилно исклучено \"%1$s\"</string>
-  <string name="force_exit_skip_message">"%1$ е клучна компонента на системот, не може да биде присилно исклучена."</string>
+  <string name="force_exit_skip_message">"%1$s е клучна компонента на системот, не може да биде присилно исклучена."</string>
   <string name="global_actions_airplane_mode">Авионски режим</string>
   <string name="global_actions_reboot">Рестартирајте</string>
   <string name="global_actions_shutdown">Исклучи</string>
