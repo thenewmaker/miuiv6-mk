@@ -22,11 +22,11 @@
   <string name="accessibility_enable">Accessibility</string>
   <string name="accessibility_feature_state_off">Исклучено</string>
   <string name="accessibility_feature_state_on">Вклучено</string>
-  <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+  <string name="accessibility_global_gesture_preference_description">"Кога е вклучена оваа опција, можете во два чекора да ги вклучите опциите за достапност, :
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Чекор 1: Притиснете и држете го Power копчето додека не слушнете звук и осетите вибрација.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Чекор 1: Притиснете и држете со два прста се додека не добиете звучна потврда.
 
 If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Off</string>
