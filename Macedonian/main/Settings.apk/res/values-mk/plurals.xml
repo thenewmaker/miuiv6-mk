@@ -28,10 +28,6 @@
         <item quantity="other">Лозинката мора да содржи најмалку %d знаци што не се букви.</item>
         <item quantity="one">Лозинката мора да содржи најмалку 1 знак што не е буква.</item>
     </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">Апликациите %d даваат состојби</item>
-        <item quantity="one">Апликацијата %d дава состојби</item>
-    </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Неточен ПИН за СИМ картичката, ви преостануваат %d обиди.</item>
         <item quantity="one">Неточен ПИН за СИМ картичката, ви преостанува уште %d обид пред да мора да контактирате со вашиот оператор за да го отклучи вашиот уред.</item>

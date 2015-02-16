@@ -29,7 +29,6 @@
   <string name="accessibility_menu_item_settings">Подесувања</string>
   <string name="accessibility_no_services_installed">Нема инсталирано услуги</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Копче за прекин на телефонски повик</string>
-=======
   <string name="accessibility_global_gesture_preference_description">"Кога е вклучена оваа опција, можете во два чекора да ги вклучите опциите за достапност, :
 
 Чекор 1: Притиснете и држете го Power копчето додека не слушнете звук и осетите вибрација.
@@ -1024,7 +1023,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="global_locale_change_title">Промени јазик</string>
   <string name="google_backup_section_title">Google backup &amp; restore</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
-  <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_enable_title">Вибрира на допир</string>
   <string name="hardkeyboard_category">Подесувања на физичка тастатура</string>
   <string name="hdcp_checking_dialog_title">Постави однесување на проверка на HDCP</string>
@@ -1235,7 +1233,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_confirm_button_text">Потврди</string>
   <string name="lockpattern_continue_button_text">Продолжи</string>
   <string name="lockpattern_need_to_confirm">Употреби ја шемата повторно за потврда</string>
-  <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock">Потврди зачувана шема</string>
   <string name="lockpattern_need_to_unlock_wrong">Обиди се повторно:</string>
@@ -1279,10 +1276,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="manageapplications_settings_summary">Manage and remove installed apps</string>
   <string name="manageapplications_settings_title">Управувај со апликации</string>
   <string name="manually_add_network">Add network</string>
-  <string name="master_clear_accounts">"
-
-Моментално сте најавени на следниве сметки:
-"</string>
   <string name="master_clear_all">"Erase all data from your phone's internal storage? You can't reverse this action!"</string>
   <string name="master_clear_button_text">Ресетирај телефон</string>
   <string name="master_clear_confirm_title">Ресетирај?</string>
@@ -1739,7 +1732,6 @@ Select your operating system:"</string>
   <string name="radio_info_current_network_label">Тековна мрежа:</string>
   <string name="radio_info_data_attempts_label">Обиди за податоци:</string>
   <string name="radio_info_data_successes_label">Успеси на податоци:</string>
-  <string name="radio_info_data_successes_label">Data successes:</string>
   <string name="radio_info_gprs_service_label">GPRS услуга:</string>
   <string name="radio_info_gsm_disconnects_label">Исклучувања од GSM:</string>
   <string name="radio_info_gsm_service_label">GSM услуга:</string>
@@ -2465,8 +2457,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="voice_input_output_settings">Voice input &amp; output</string>
   <string name="voice_input_output_settings_title">Voice input &amp; output settings</string>
   <string name="voice_search_settings_title">Voice search</string>
-  <string name="volume_alarm_description">Alarm</string>
-  <string name="volume_alarm_mute">Mute alarms</string>
+  <string name="volume_alarm_description">Аларми</string>
+  <string name="volume_alarm_mute">Исклучи звук на предупредувања</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_media_description">Music, video, games, and other media</string>
@@ -2484,8 +2476,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_connect">Поврзи се</string>
   <string name="vpn_connect_to">Поврзи се со %s</string>
   <string name="vpn_create">Додај VPN профил</string>
-  <string name="vpn_dns_servers">DNS servers</string>
-  <string name="vpn_dns_servers">DNS сервери (на пр., 8.8.8.8)</string>
   <string name="vpn_edit">Уреди VPN профил</string>
   <string name="vpn_ipsec_ca_cert">IPSec CA сертификат</string>
   <string name="vpn_ipsec_identifier">IPSec идентификатор</string>
@@ -2634,7 +2624,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_menu_wps_pbc">Копче WPS Push</string>
   <string name="wifi_menu_wps_pin">Запис на ПИН за WPS</string>
   <string name="wifi_more">Повеќе</string>
-  <string name="wifi_network_prefix_length">Prefix length</string>
   <string name="wifi_network_prefix_length">Долж. на префикс на мрежа</string>
   <string name="wifi_not_in_range">Надвор од опсег</string>
   <string name="wifi_notify_open_networks">Известување за мрежа</string>
@@ -2716,6 +2705,8 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_cancel">Откажи</string>
   <string name="wifi_setup_connect">Поврзи се</string>
   <string name="wifi_setup_description_connected">Допрете <b>Следно</b>" за да продолжи со подесувањето.
+
+Допрете"<b>Назад</b> за да се поврзете со друга Wi-Fi мрежа.</string>
   <string name="wifi_setup_description_connecting">Поврзувањето може да трае неколку минути...</string>
   <string name="wifi_setup_detail">Детали за мрежа</string>
   <string name="wifi_setup_eap_not_supported">Не може да конфигурирате EAP поврзување за Wi-Fi за време на подесување. По подесувањето, може тоа да го направите во Поставки > Безжични мрежи.</string>
@@ -2860,10 +2851,10 @@ Phone setup can require significant network activity."</string>
   <string name="xiaomi_router_available_notif_title">Mi Router available</string>
   <string name="xiaomi_router_notif_summary">Notify me when a Mi Router is available</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
-  <string name="yes">Yes</string>
-  <string name="zone_auto">Automatic time zone</string>
-  <string name="zone_auto_summaryOff">Use network-provided time zone</string>
-  <string name="zone_auto_summaryOn">Use network-provided time zone</string>
+  <string name="yes">Дa</string>
+  <string name="zone_auto">Автоматска временска зона</string>
+  <string name="zone_auto_summaryOn">Користи временска зона обезбедена од мрежа</string>
+  <string name="zone_auto_summaryOff">Користи временска зона обезбедена од мрежа</string>
   <string name="zone_list_menu_sort_alphabetically">Подреди по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Подреди по временска зона</string>
 </resources>
