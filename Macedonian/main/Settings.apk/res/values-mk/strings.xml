@@ -988,12 +988,12 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
-  <string name="free_wifi_connect_dialog_title">WLAN available</string>
+  <string name="free_wifi_connect_dialog_title">Wi-Fi available</string>
   <string name="free_wifi_connect_fail">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="free_wifi_connect_fail2">"Can't sign in. Wait a minute or two and try again."</string>
   <string name="free_wifi_connect_summary">Tap to connect to %1$s.</string>
-  <string name="free_wifi_connect_title">WLAN available</string>
-  <string name="free_wifi_connected">Connected to free WLAN</string>
+  <string name="free_wifi_connect_title">Wi-Fi available</string>
+  <string name="free_wifi_connected">Connected to free Wi-Fi</string>
   <string name="free_wifi_connected_count">%1$s users connected</string>
   <string name="free_wifi_connected_time">Duration: %1$s</string>
   <string name="free_wifi_connecting">Connecting…</string>
@@ -1029,7 +1029,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="global_font_change_title">Промени големина на фонт</string>
   <string name="global_locale_change_title">Промени јазик</string>
   <string name="google_backup_section_title">Google backup &amp; restore</string>
-  <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
+  <string name="gsm_to_wifi_connect_type_title">GSM to Wi-Fi</string>
   <string name="haptic_feedback_enable_title">Вибрира на допир</string>
   <string name="hardkeyboard_category">Подесувања на физичка тастатура</string>
   <string name="hdcp_checking_dialog_title">Постави однесување на проверка на HDCP</string>
@@ -1379,7 +1379,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="miracast_nickname">Please set a new name:</string>
   <string name="miracast_no_sinks_found">No nearby wireless display is available</string>
   <string name="miracast_search_for_displays">Searching for wireless displays...</string>
-  <string name="miracast_settings_category">WLAN display settings</string>
+  <string name="miracast_settings_category">Wi-Fi display settings</string>
   <string name="miracast_setup_cancel">Cancel</string>
   <string name="miracast_setup_save">Save</string>
   <string name="miracast_sink_busy">Busy</string>
@@ -1387,7 +1387,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="miracast_sink_connecting">Connecting…</string>
   <string name="miracast_sink_not_available">Not available</string>
   <string name="miracast_sink_ready_to_connect">Ready to connect</string>
-  <string name="miracast_wifi_off">To use Miracast, turn WLAN on</string>
+  <string name="miracast_wifi_off">To use Miracast, turn Wi-Fi on</string>
   <string name="misc_files">Разни датотеки</string>
   <string name="misc_files_selected_count">избрани %1$d од %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s од %2$s</string>
@@ -1589,7 +1589,7 @@ Select your operating system:"</string>
   <string name="power_usage_not_available">Подат. за батерија се недост.</string>
   <string name="power_usage_summary">Што ја користеше батеријата</string>
   <string name="power_usage_summary_title">Батерија</string>
-  <string name="power_wifi">WLAN</string>
+  <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Button light</string>
   <string name="pref_button_light_summary">Menu, Home and Back key indicator</string>
   <string name="pref_operational_key">Operational key</string>
@@ -2079,7 +2079,7 @@ Possibly incorrect PIN."</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
   <string name="status_bar_settings_custom_notification">Manage notifications</string>
-  <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
+  <string name="status_bar_settings_custom_wifi_name">Edit Wi-Fi name</string>
   <string name="status_bar_settings_expandable_under_keyguard">Enable on lock screen</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
@@ -2090,7 +2090,7 @@ Possibly incorrect PIN."</string>
   <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
   <string name="status_bar_settings_show_statusBar_notification">Show in keyguard</string>
-  <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
+  <string name="status_bar_settings_show_wifi_name">Show Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
   <string name="status_bar_settings_toggle_layout_style">Toggle layout style</string>
@@ -2157,8 +2157,8 @@ Possibly incorrect PIN."</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Добредојдовте на Google Sync!</font>"
 Дозволен е пристап кон Google за синхронизирање на податоците за да се овозможи пристап кон вашите контакти, состаноци и повеќе, од каде и да сте."</string>
   <string name="sync_settings">Sync</string>
-  <string name="sync_wifi_label">WLAN</string>
-  <string name="sync_wifi_only">WLAN only</string>
+  <string name="sync_wifi_label">Wi-Fi</string>
+  <string name="sync_wifi_only">Wi-Fi only</string>
   <string name="system">System</string>
   <string name="system_app_settings">System apps</string>
   <string name="system_backup_section_title">Backup</string>
@@ -2172,7 +2172,7 @@ Possibly incorrect PIN."</string>
   <string name="testing_phone_info">Информации за телефонот</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Статистика на користење</string>
-  <string name="testing_wifi_info">WLAN information</string>
+  <string name="testing_wifi_info">Wi-Fi information</string>
   <string name="tether_settings_title_all">Поврзување и пренослива точка на пристап</string>
   <string name="tether_settings_title_bluetooth">Поврзување со Bluetooth</string>
   <string name="tether_settings_title_usb">Поврзување со УСБ</string>
@@ -2204,7 +2204,6 @@ Possibly incorrect PIN."</string>
   <string name="transition_animation_scale_title">Опсег на преодна анимац.</string>
   <string name="translation_contributors_title">Contributors</string>
   <string name="trusted_credentials_disable_confirmation">Оневозможи го системскиот CA сертификат?</string>
-  <string name="trusted_credentials_disable_confirmation">Disable the system CA certificate?</string>
   <string name="trusted_credentials_disable_label">Оневозможи</string>
   <string name="trusted_credentials_enable_confirmation">Овозможи го системскиот CA сертификат?</string>
   <string name="trusted_credentials_enable_label">Овозможи</string>
@@ -2524,16 +2523,16 @@ Possibly incorrect PIN."</string>
   <string name="wallpaper_settings_title">Позадина</string>
   <string name="welcome">Welcome</string>
   <string name="wfd_available_devices">Available devices</string>
-  <string name="wfd_disconnect_diag_msg">If you stop the WLAN display session, your connection to %1$s will be terminated.</string>
+  <string name="wfd_disconnect_diag_msg">If you stop the Wi-Fi display session, your connection to %1$s will be terminated.</string>
   <string name="wfd_disconnect_diag_title">Tear down session?</string>
-  <string name="wfd_disconnect_multiple_diag_message">If you stop the WLAN display session, your connection to %1$s and %2$s other devices will be terminated.</string>
-  <string name="wfd_enable_wifi_diag_title">You can only use WLAN Display when WLAN is enabled. Enable it now?</string>
-  <string name="wfd_enabler_title">Enable WLAN display</string>
+  <string name="wfd_disconnect_multiple_diag_message">If you stop the Wi-Fi display session, your connection to %1$s and %2$s other devices will be terminated.</string>
+  <string name="wfd_enable_wifi_diag_title">You can only use Wi-Fi Display when Wi-Fi is enabled. Enable it now?</string>
+  <string name="wfd_enabler_title">Enable Wi-Fi display</string>
   <string name="wfd_menu_search">Search for devices</string>
   <string name="wfd_menu_searching">Searching…</string>
   <string name="wfd_menu_teardown">Stop</string>
-  <string name="wfd_settings_description">Connect to display via WLAN</string>
-  <string name="wfd_settings_title">WLAN display</string>
+  <string name="wfd_settings_description">Connect to display via Wi-Fi</string>
+  <string name="wfd_settings_title">Wi-Fi display</string>
   <string name="wfd_wps_keypad">Push button preferred</string>
   <string name="wfd_wps_pbc">Prefer to input PIN</string>
   <string name="widget_picker_title">Избери виџет</string>
@@ -2544,12 +2543,12 @@ Possibly incorrect PIN."</string>
   <string name="wifi_advanced_settings_label">Подесувања на ИП</string>
   <string name="wifi_advanced_titlebar">Напредна Wi-Fi</string>
   <string name="wifi_and_mobile_skipped_message">"ПРЕДУПРЕДУВАЊЕ: Ако прескокнете Wi‑Fi, телефонот нема да биде поврзан на интернет за какви било првични преземања или ажурирања."</string>
-  <string name="wifi_api_test">WLAN API</string>
+  <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Auto connect</string>
-  <string name="wifi_available_title">Connect to WLAN</string>
+  <string name="wifi_available_title">Connect to Wi-Fi</string>
   <string name="wifi_cancel">Откажи</string>
   <string name="wifi_certificate">Certificate</string>
-  <string name="wifi_config_info">WLAN config</string>
+  <string name="wifi_config_info">Wi-Fi config</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_connect">Поврзи се</string>
   <string name="wifi_connect_failed_message">Телефонот не можеше да се поврзе со оваа Wi-Fi мрежа.</string>
@@ -2558,7 +2557,7 @@ Possibly incorrect PIN."</string>
   <string name="wifi_context_menu_connect">Connect</string>
   <string name="wifi_context_menu_forget">Forget</string>
   <string name="wifi_disabled_generic">Оневозможено</string>
-  <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
+  <string name="wifi_disabled_help">Wi-Fi was disconnected due to poor connection</string>
   <string name="wifi_disabled_network_failure">Избегнува слаба конекција на интернет</string>
   <string name="wifi_disabled_password_failure">Проблем со автентикација</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
@@ -2578,7 +2577,7 @@ Possibly incorrect PIN."</string>
   <string name="wifi_display_pause">Pause</string>
   <string name="wifi_display_resume">Resume</string>
   <string name="wifi_display_session_info">Session info</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is off</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because Wi-Fi is off</string>
   <string name="wifi_display_settings_title">Префрли екран</string>
   <string name="wifi_display_status_connected">Поврзана</string>
   <string name="wifi_display_status_connecting">Се поврзува</string>
@@ -2598,7 +2597,7 @@ Possibly incorrect PIN."</string>
   <string name="wifi_empty_list_user_restricted">Немате дозвола за промена на Wi-Fi мрежата.</string>
   <string name="wifi_empty_list_wifi_off">За да ги видите достапните мрежи, вклучете Wi-Fi.</string>
   <string name="wifi_empty_list_wifi_on">Се пребарува за Wi-Fi мрежи...</string>
-  <string name="wifi_enable">WLAN</string>
+  <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Грешка</string>
   <string name="wifi_fail_to_scan">"Не може да скенира за мрежи"</string>
@@ -2624,7 +2623,7 @@ Possibly incorrect PIN."</string>
   <string name="wifi_menu_more_options">Повеќе опции</string>
   <string name="wifi_menu_p2p">Wi‑Fi Direct</string>
   <string name="wifi_menu_scan">Скенирај</string>
-  <string name="wifi_menu_wfd">WLAN display</string>
+  <string name="wifi_menu_wfd">Wi-Fi display</string>
   <string name="wifi_menu_wps_pbc">Копче WPS Push</string>
   <string name="wifi_menu_wps_pin">Запис на ПИН за WPS</string>
   <string name="wifi_more">Повеќе</string>
@@ -2736,31 +2735,31 @@ Possibly incorrect PIN."</string>
   <string name="wifi_setup_title_editing_network">Поврзете се на Wi-Fi мрежата %s</string>
   <string name="wifi_setup_wizard_title">Избери Wi-Fi</string>
   <string name="wifi_setup_wps">Автоматско подесување (WPS)</string>
-  <string name="wifi_share">Share WLAN</string>
+  <string name="wifi_share">Share Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Stop sharing networks</string>
-  <string name="wifi_share_action_turn_on">Share WLAN</string>
+  <string name="wifi_share_action_turn_on">Share Wi-Fi</string>
   <string name="wifi_share_action_turn_on_summary">To share, sign in to your Mi Account</string>
   <string name="wifi_share_add">Share my public networks</string>
   <string name="wifi_share_add_summary">"When you share your public networks,
  you can use other users' networks too"</string>
   <string name="wifi_share_connect">Connect</string>
-  <string name="wifi_share_connected_summary">"You're connected to a public WLAN network that has been shared by another user"</string>
-  <string name="wifi_share_connected_title">MIUI shared WLAN</string>
+  <string name="wifi_share_connected_summary">"You're connected to a public Wi-Fi network that has been shared by another user"</string>
+  <string name="wifi_share_connected_title">MIUI shared Wi-Fi</string>
   <string name="wifi_share_count">You have shared %d networks</string>
   <string name="wifi_share_current_network">Current network</string>
   <string name="wifi_show_advanced">Напредни опции</string>
   <string name="wifi_share_list_empty">No shared networks found.</string>
-  <string name="wifi_share_login">Share WLAN network</string>
+  <string name="wifi_share_login">Share Wi-Fi network</string>
   <string name="wifi_share_login_summary">If this is a public network, you can share it with other MIUI users.</string>
-  <string name="wifi_share_notification_summary">MIUI has connected you to a public WLAN network.</string>
+  <string name="wifi_share_notification_summary">MIUI has connected you to a public Wi-Fi network.</string>
   <string name="wifi_share_other_network">Other networks</string>
   <string name="wifi_share_qrcode_finish">Finish</string>
   <string name="wifi_share_qrcode_summary">Use Camera to scan QR Code</string>
-  <string name="wifi_share_qrcode_title">Share WLAN</string>
+  <string name="wifi_share_qrcode_title">Share Wi-Fi</string>
   <string name="wifi_share_show_network">Show networks</string>
-  <string name="wifi_share_summary1">MIUI users can share public WLAN networks (cafes, restaurants, hotels, etc.) with one another.</string>
+  <string name="wifi_share_summary1">MIUI users can share public Wi-Fi networks (cafes, restaurants, hotels, etc.) with one another.</string>
   <string name="wifi_share_summary2">When another MIUI user shares a network, you can connect directly without using a password.</string>
-  <string name="wifi_share_summary3">Give back by sharing your public WLAN networks with other MIUI users.</string>
+  <string name="wifi_share_summary3">Give back by sharing your public Wi-Fi networks with other MIUI users.</string>
   <string name="wifi_share_turn_off">Off</string>
   <string name="wifi_share_turn_on">On</string>
   <string name="wifi_share_upload">Share</string>
@@ -2768,7 +2767,7 @@ Possibly incorrect PIN."</string>
   <string name="wifi_share_uploading">Sharing…</string>
   <string name="wifi_show_password">Прикажи лозинка</string>
   <string name="wifi_signal">Јачина на сигнал</string>
-  <string name="wifi_signal_found_msg">Connect to WLAN AP?</string>
+  <string name="wifi_signal_found_msg">Connect to Wi-Fi AP?</string>
   <string name="wifi_skip_anyway">Сепак прескокни</string>
   <string name="wifi_skipped_message">"ПРЕДУПРЕДУВАЊЕ: Ако прескокнете Wi‑Fi, телефонот ќе користи само мобилни податоци за првични преземања или ажурирања.
   
@@ -2781,10 +2780,10 @@ Possibly incorrect PIN."</string>
   <string name="wifi_state_disabling">Disabling</string>
   <string name="wifi_state_enabled">Enabled</string>
   <string name="wifi_state_enabling">Enabling</string>
-  <string name="wifi_state_label">WLAN state:</string>
+  <string name="wifi_state_label">Wi-Fi state:</string>
   <string name="wifi_state_unknown">Unknown</string>
   <string name="wifi_status">Статус</string>
-  <string name="wifi_status_test">WLAN status</string>
+  <string name="wifi_status_test">Wi-Fi Статус</string>
   <string name="wifi_stopping">Исклучување на Wi-Fi...</string>
   <string name="wifi_suspend_optimizations">Оптимизација на Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Минимизирај употреба на батерија кога е вклучена Wi-Fi</string>
@@ -2797,7 +2796,6 @@ Possibly incorrect PIN."</string>
   <string name="wifi_tether_setting_title">Basic settings</string>
   <string name="wifi_tether_starting">Вклучување точка на пристап...</string>
   <string name="wifi_tether_stopping">Исклучување точка на пристап...</string>
-  <string name="wifi_tether_stopping">Turning off hotspot…</string>
   <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_title">Type Approval</string>
   <string name="wifi_unchanged">(непроменети)</string>
@@ -2835,7 +2833,7 @@ Possibly incorrect PIN."</string>
   <string name="wifi_wps_in_progress">WPS е веќе во тек и може да потрае и до две минути за да се заврши</string>
   <string name="wifi_wps_onstart_pbc">Притиснете го копчето „Заштитено подесување на Wi-Fi“ на вашиот рутер. Тоа може да се нарекува „WPS“ или да го содржи овој симбол:</string>
   <string name="wifi_wps_onstart_pin">Внесете ПИН %1$s на вашиот Wi-Fi насочувач. Подесувањето може да трае и до две минути за да се заврши.</string>
-  <string name="wifi_wps_overlap_error">Another WLAN session was detected. Wait a minute or two and try again.</string>
+  <string name="wifi_wps_overlap_error">Another Wi-Fi session was detected. Wait a minute or two and try again.</string>
   <string name="wifi_wps_setup_msg">Се вклучува WPS…</string>
   <string name="wifi_wps_setup_title">Заштитено подесување на Wi-Fi</string>
   <string name="wimax_settings">4G</string>
