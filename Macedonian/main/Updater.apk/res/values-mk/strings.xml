@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">За телефонот</string>
   <string name="active_xiaomi_account">Активен</string>
-  <string name="active_xiaomi_account_msg">За да ја активирате Mi сметката, одете на https://account.xiaomi.com/pass/serviceLogin.</string>
+  <string name="active_xiaomi_account_msg">За да ја активирате Mi сметката, одете на https://i.mi.com/?_locale=en</string>
   <string name="active_xiaomi_account_title">Активирај Mi сметка</string>
   <string name="app_name">Надоградувач</string>
   <string name="apply_buddy_update_info_message">Откако ќе допрете ажурирање, Вашиот телефон ќе започне со инсталирањето веднаш.</string>

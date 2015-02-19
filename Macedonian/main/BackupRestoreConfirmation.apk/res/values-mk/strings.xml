@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="allow_backup_button_label">Направете резервна копија од моите податоци</string>
+  <string name="allow_backup_button_label">Направи резервна копија од моите податоци</string>
   <string name="allow_restore_button_label">Врати ги моите податоци</string>
   <string name="backup_confirm_text">"Побарана е целосна копија на сите податоци од телефон на поврзан десктоп компјутер. Дали дозволувате тоа да се случи?
 
@@ -16,11 +16,11 @@
   <string name="restore_confirm_text">"Целосно враќање на податоци од поврзан десктоп компјутер е побарано. Дали сакате да дозволиме тоа да се случи?
 
 Ако не го баравте тоа вие, не дозволувајте работата да продолжи. Ова ќе ги замени сите сегашни податоци на уредот!"</string>
-  <string name="restore_confirm_title">Целосен враќање на податоци</string>
+  <string name="restore_confirm_title">Целосno враќање на податоци</string>
   <string name="restore_enc_password_text">Ако податоците за враќање се енкриптирани, ве молиме внесете ја лозинката подолу:</string>
   <string name="toast_backup_ended">Бекапот заврши</string>
   <string name="toast_backup_started">Бекапот започнува...</string>
-  <string name="toast_restore_ended">Вражањето на податоци заврши</string>
+  <string name="toast_restore_ended">Враѓањето на податоци заврши</string>
   <string name="toast_restore_started">Враќањето податоци започнува...</string>
   <string name="toast_timeout">Истече времето за извршување на операцијата</string>
 </resources>

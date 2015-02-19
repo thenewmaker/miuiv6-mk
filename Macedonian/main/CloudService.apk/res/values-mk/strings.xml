@@ -112,5 +112,5 @@
   <string name="verify">Потврди</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_cloud_service">Mi Облак</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
 </resources>

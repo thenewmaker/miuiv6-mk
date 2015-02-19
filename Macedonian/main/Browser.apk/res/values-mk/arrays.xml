@@ -13,14 +13,14 @@
         <item>Прилагодување</item>
     </string-array>
     <string-array name="pref_homepage_values">
-        <item>miui_дома</item>
+        <item>MIUI.MK дома</item>
         <item>останато</item>
     </string-array>
     <string-array name="bookmarks_cm_customization">
-        <item>ММ интегриран портал</item>
-        <item>http://mm.10086.cn/a/j/2743/</item>
-        <item>Читална</item>
-        <item>http://wap.cmread.com</item>
+        <item>MIUI.mk Почетна страна</item>
+        <item>http://www.miui.mk</item>
+        <item>MIUI.mk Форум</item>
+        <item>http://www.miui.mk/forum/</item>
         <item>Игри</item>
         <item>http://g.10086.cn</item>
         <item>Видео</item>

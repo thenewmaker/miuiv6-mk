@@ -80,8 +80,8 @@
   <string name="enable_encrypt_fail">Недостапната енкрипција неуспешна</string>
   <string name="enable_encrypt_indicator">Backup не е енриптиран, кликни да го овозможиш.</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">"Системот ќе го шифрира вашиот локален backup базиран на акаунтот na Xiaomi, мора да се логирате во вашиот Xiaomi акоунт кога отстранувате податоци или користите други уреди за враќање во backup."</string>
-  <string name="enable_encrypt_summery2">"Новиот backup автоматски ќе се шифрира.Морате да се поврзете на вашиот Xiaomi акоунт кога враќате податоци или користите други уреди за враќање во backup."</string>
+  <string name="enable_encrypt_summery1">"Системот ќе го шифрира вашиот локален backup базиран на Mi акаунтот и мора да се логирате во вашиот Mi акоунт кога отстранувате податоци или користите други уреди за враќање во backup."</string>
+  <string name="enable_encrypt_summery2">"Новиот backup автоматски ќе се шифрира.Морате да се поврзете на вашиот Mi акоунт кога враќате податоци или користите други уреди за враќање во backup."</string>
   <string name="enable_encrypt_title">Овозможено шифрирање</string>
   <string name="enable_encrypt_xiaomi_account">Овој backup е креиран од %1$s, ве молиме избришете го сегашниот акаунт, и логирајте се како %2$s.</string>
   <string name="exchange_account">Промена на акаунт</string>
@@ -90,10 +90,10 @@
   <string name="findlost_contact_online">Враќање на избришани контакти од Mi cloud</string>
   <string name="guarded_mode_dialog_message">Оваа функција не е дозволена во режим на Гостин</string>
   <string name="guarded_mode_dialog_title">Сега сте во режим Гостин</string>
-  <string name="import_from_xiaomi_account_hint1">1.Инсталирајте MiTalk и логирајте се.\n http://www.miliao.com\n\n3. Во MiTalk подесувања изберете ”Back up contacts to Xiaomi account”</string>
+  <string name="import_from_xiaomi_account_hint1">1.Инсталирајте Mi Talk и логирајте се.\n http://www.miliao.com\n\n3. Во Mi Talk подесувања изберете ”Back up contacts to Mi account”</string>
   <string name="import_from_xiaomi_account_hint2">Забелешка: Продолжи со следниот чекор ако веќе постои backup</string>
 
-  <string name="import_from_xiaomi_account_hint_title">Со MiTalk направи бекап на контактите од повеке уреди.</string>
+  <string name="import_from_xiaomi_account_hint_title">Со Mi Talk направи бекап на контактите од повеке уреди.</string>
   <string name="local_app_name">Бекап</string>
   <string name="local_backup_window_title">Локални резервни податоци</string>
   <string name="local_home_title">Локален backup</string>
@@ -103,8 +103,8 @@
   <string name="local_select_sysdata">Систем</string>
   <string name="local_select_userapp">Апликации</string>
   <string name="menu_patch_delete">Избриши backup(s)</string>
-  <string name="miliao_account_guide">MiTalk акаунт надграден во Xiaomi акаунт\n Узивајте во сите Xiaomi онлајн услуги</string>
-  <string name="miliao_account_login">Поврзи се со Login to MiTalk</string>
+  <string name="miliao_account_guide">MiTalk акаунт надграден во Mi акаунт\n Уживајте во сите Mi онлајн услуги</string>
+  <string name="miliao_account_login">Поврзи се со Login to Mi Talk</string>
   <string name="mms_title">Мултимедијални пораки</string>
   <string name="multi_select_title">%1$s селектирано</string>
   <string name="my_phone">Мој уред</string>

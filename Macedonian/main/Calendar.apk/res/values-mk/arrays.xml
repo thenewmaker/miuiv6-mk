@@ -31,7 +31,7 @@
         <item>10080</item>
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>No reminder</item>
+        <item>Без потсетник</item>
         <item>0 минути</item>
         <item>5 минути</item>
         <item>10 минути</item>
@@ -92,7 +92,7 @@
         <item>Casablanca</item>
         <item>London, Dublin</item>
         <item>Amsterdam, Berlin</item>
-        <item>Belgrade</item>
+        <item>Skopje</item>
         <item>Brussels</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>

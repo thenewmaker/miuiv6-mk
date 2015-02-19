@@ -135,7 +135,7 @@
   <string name="chat_msn">Разговарај користејќи Windows Live</string>
   <string name="chat_qq">Разговарај користејќи QQ</string>
   <string name="chat_skype">Разговарај користејќи Skype</string>
-  <string name="chat_yahoo">разговарај користејќи Јаху</string>
+  <string name="chat_yahoo">разговарај користејќи Yahoo</string>
   <string name="checkhint">Проверете го целниот телефон</string>
   <string name="clearCallLogConfirmation">Сите ваши записи на повици ќе бидат избришани.</string>
   <string name="clearCallLogConfirmation_title">Избриши ги сите логови на повиците?</string>
@@ -496,7 +496,7 @@
   <string name="lunar_leap">闰</string>
   <string name="lunar_yue">月</string>
   <string name="make_primary">Запомни го овој избор</string>
-  <string name="map_custom">Види %s  адреса</string>
+  <string name="map_custom">Види %s адреса</string>
   <string name="map_home">Види домашна адреса</string>
   <string name="map_other">Види адреса</string>
   <string name="map_work">Видете адреса на работа</string>

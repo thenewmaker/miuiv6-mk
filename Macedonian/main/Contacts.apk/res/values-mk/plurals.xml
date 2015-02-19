@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">%d контакти со броеви</item>
+        <item quantity="one">1 контакт со број</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">%d contacts</item>
-        <item quantity="one">1 contact</item>
+        <item quantity="other">%d контакти</item>
+        <item quantity="one">1 контакт</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d пронајдени</item>
+        <item quantity="one">1 пронајден</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d пронајдени</item>
+        <item quantity="one">1 понајден</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">споено од %0$d извори</item>
+        <item quantity="one">нема споени</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d групи</item>
+        <item quantity="one">1 група</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d people from %2$s</item>
-        <item quantity="one">%1$d person from %2$s</item>
+        <item quantity="other">%1$d контакти од %2$s</item>
+        <item quantity="one">%1$d контакт од %2$s</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d луѓе</item>
+        <item quantity="one">%1$d човек</item>
     </plurals>
     <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
+        <item quantity="other">%1$d броеви</item>
+        <item quantity="one">%1$d број</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Voicemails</item>
-        <item quantity="one">Voicemail</item>
+        <item quantity="other">%1$d Говорни пораки</item>
+        <item quantity="one">Говорна порака</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d селектирани</item>
+        <item quantity="one">%1$d селектиран</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d Омилени</item>
+        <item quantity="one">%1$d омилен</item>
     </plurals>
     <plurals name="pick_recent_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">1 recent contact</item>
+        <item quantity="other">%1$d последни контакти</item>
+        <item quantity="one">1 последен контакт</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">%1$d contacts</item>
-        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d контакти</item>
+        <item quantity="one">%1$d контакт</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
-        <item quantity="other">%1$d numbers</item>
-        <item quantity="one">%1$d number</item>
+        <item quantity="other">%1$d броеви</item>
+        <item quantity="one">%1$d број</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d contact emails</item>
-        <item quantity="one">1 contact email</item>
+        <item quantity="other">%1$d емаил адреси од контакти</item>
+        <item quantity="one">1 емаил адреса од контактот</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
-        <item quantity="other">%1$d favorites</item>
-        <item quantity="one">%1$d favorite</item>
+        <item quantity="other">%1$d омилени</item>
+        <item quantity="one">%1$d омилен</item>
     </plurals>
     <plurals name="pick_recent_contacts_list_title">
-        <item quantity="other">%1$d recent contacts</item>
-        <item quantity="one">%1$d recent contact</item>
+        <item quantity="other">%1$d последни контакти</item>
+        <item quantity="one">%1$d последен контакт</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d  contacts added"</item>
-        <item quantity="one">%1$d contact added</item>
+        <item quantity="other">" %1$d контакти се додадени"</item>
+        <item quantity="one">%1$d контакт е додаден</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d people</item>
-        <item quantity="one">1 person</item>
+        <item quantity="other">%d луѓе</item>
+        <item quantity="one">1 човек</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">%1$d contacts imported</item>
-        <item quantity="one">%1$d contact imported</item>
+        <item quantity="other">%1$d контакти се внесени</item>
+        <item quantity="one">%1$d контакт е внесен</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d селектирани</item>
+        <item quantity="zero">%1$d селектирани</item>
+        <item quantity="one">%1$d селектиран</item>
     </plurals>
 </resources>
