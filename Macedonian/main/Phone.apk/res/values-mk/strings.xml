@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="ContactScreen">Менаџирај ги SIM контактите</string>
   <string name="ExportContactScreen">Експортирај контакти на SIM</string>
@@ -382,14 +382,10 @@
   <string name="disable_sim_pin">Исклучи SIM PIN</string>
   <string name="disable_sim_pin_miui">Исклучи SIM PIN</string>
   <string name="display_name_summary">&lt;Исто како корисничкото име&gt;</string>
-<<<<<<< HEAD
   <string name="display_name_title">Прикажување на името</string>
-=======
-  <string name="display_name_title">Прикажи име</string>
->>>>>>> origin/master
   <string name="domain_address_title">Сервер</string>
   <string name="doneButton">Готово</string>
-  <string name="dtmf_tone_enable_title">Звук при бирање на броеви</string>
+  <string name="dtmf_tone_enable_title">Dial pad touch tones</string>
   <string name="dtmf_tone_entries_long_miui">Долго</string>
   <string name="dtmf_tone_entries_normal_miui">Нормално</string>
   <string name="dtmf_tones_summary">Поставете должината на DTMF тонови</string>
@@ -409,14 +405,14 @@
   <string name="emergency_enable_radio_dialog_message">Вклучување на радио...</string>
   <string name="emergency_enable_radio_dialog_retry">Надвор од подрачје, повторно пробување...</string>
   <string name="emergency_enable_radio_dialog_title">Итен повик</string>
-  <string name="empty_alert">"Потребно е %s и не може да се остави празно."</string>
+  <string name="empty_alert">"%s е потребно и неможе да остане празно."</string>
   <string name="empty_networks_list">Не се пронајдени мрежи.</string>
   <string name="enable">Вклучи</string>
   <string name="enable_antispam_strange_summary">Исклучување на првиот повик од непознат број</string>
   <string name="enable_antispam_strange_title">Безчујно за непознати броеви</string>
   <string name="enable_disable_administrative">Административна</string>
   <string name="enable_disable_advertisements">Реклами</string>
-  <string name="enable_disable_atr">Известување за проток во регионот</string>
+  <string name="enable_disable_atr">Area Traffic Reports</string>
   <string name="enable_disable_cell_bc_sms">На емитуваните СМС</string>
   <string name="enable_disable_emergency_broadcast">Итно објавување</string>
   <string name="enable_disable_eo">Можности за вработување</string>
@@ -431,7 +427,7 @@
   <string name="enable_disable_national">Национална</string>
   <string name="enable_disable_regional">Регионални</string>
   <string name="enable_disable_restaurants">Ресторани</string>
-  <string name="enable_disable_retail_directory">База на продавачи</string>
+  <string name="enable_disable_retail_directory">Retail Directory</string>
   <string name="enable_disable_stock_quotes">Берзански</string>
   <string name="enable_disable_technology_news">Технолошки вести</string>
   <string name="enable_fdn">Вклучете FDN</string>
@@ -487,8 +483,6 @@
   <string name="fdn_summary_miui">Забрана на појдовни повици кон останатите FDNs, или да броеви со одредени префикси</string>
   <string name="fw_change_failed">"Неможе да се смени бројот за пренасочување.Контактирајте го вашиот оператор Ако проблемот продолжува.".</string>
   <string name="fw_get_in_vm_failed">"Неможе да се пристапи и да се зачува тековниот број за пренасочување на подесувањата.Префрли се на новиот провајдер во секој случај."?</string>
-  <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
-Switch to the new provider anyway?"</string>
   <string name="general_news_settings">Општи Вести</string>
   <string name="get_pin2">Внеси PIN2</string>
   <string name="get_smsc_address_error_miui">"Неможе да се поврзете на мрежата.Проверете ја вашата конекција и пробајте повторно.".</string>
@@ -527,8 +521,8 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_no_phone_number_supplied">Повикот не е испратен,внесениот број не е валиден.</string>
   <string name="incall_error_out_of_service">Мобилениот интернет не е достапен.</string>
   <string name="incall_error_power_off">За да се одржи  повик, прво исклучете го Авионскиот режим.</string>
-  <string name="incall_error_supp_service_conference">Неможе да се направи Конф. повик.</string>
-  <string name="incall_error_supp_service_hangup">Неможе да се откажат повиците.</string>
+  <string name="incall_error_supp_service_conference">Unable to conference calls.</string>
+  <string name="incall_error_supp_service_hangup">Unable to release call(s).</string>
   <string name="incall_error_supp_service_reject">Не може да се одбие повикот.</string>
   <string name="incall_error_supp_service_separate">Не може да се оддели повик.</string>
   <string name="incall_error_supp_service_switch">Не може да се префрлат  повици.</string>
@@ -649,11 +643,9 @@ Switch to the new provider anyway?"</string>
   <string name="mobile_networks">Мобилна мрежа подесувања</string>
   <string name="mobile_networks_miui">Мобилни мрежи</string>
   <string name="modify_call_failure_str">"Промената за барањето за повик е неуспешна"</string>
-"</string>
   <string name="modify_call_option_title">Кој тип на повик?</string>
   <string name="modify_call_option_voice">Само глас</string>
   <string name="modify_call_option_vt">VT</string>
-<<<<<<< HEAD
   <string name="modify_call_option_vt_rx">Примање видео</string>
   <string name="modify_call_option_vt_tx">Предавање видео</string>
   <string name="modify_call_prompt_no">Не</string>
@@ -744,103 +736,10 @@ Switch to the new provider anyway?"</string>
   <string name="onscreenSwapCallsText">Размена</string>
   <string name="onscreenSwitchText">Префрли претплата</string>
   <string name="onscreen_add_call_text_miui">Додај повик</string>
-=======
-  <string name="modify_call_option_vt_rx">Video receive</string>
-  <string name="modify_call_option_vt_tx">Video transmit</string>
-  <string name="modify_call_prompt_no">No</string>
-  <string name="modify_call_prompt_yes">Yes</string>
-  <string name="multi_category_disable">Multi-category disabled</string>
-  <string name="multi_category_enable">Multi-category enabled</string>
-  <string name="name">Name</string>
-  <string name="national_disable">National news disabled</string>
-  <string name="national_enable">National news enabled</string>
-  <string name="network_forbidden_miui">%s (forbidden)</string>
-  <string name="network_manage_settings">Network Settings</string>
-  <string name="network_message">Network message</string>
-  <string name="network_query_error">Error while searching for networks.</string>
-  <string name="network_settings_sel_sub">SUBS Settings</string>
-  <string name="network_work_query_failed_message_miui">Network query failed. Touch Cancel to use your preferred network or touch OK to retry.</string>
-  <string name="networks">Network operators</string>
-  <string name="networks_title_miui">Network carriers</string>
-  <string name="newPin2Label">New PIN2</string>
-  <string name="newPinLabel">New PIN</string>
-  <string name="new_cards_available">New card available. Please configure subscriptions.</string>
-  <string name="new_password_label">New password(4 digits)</string>
-  <string name="new_pin2_hint_miui">New PIN2</string>
-  <string name="new_pin_hint_miui">New PIN</string>
-  <string name="next_miui">Next</string>
-  <string name="no_change">No changes were made.</string>
-  <string name="no_internet_available">За да воспоставите повик на интернет, прво проверете ја вашата интернет конекција.</string>
-  <string name="no_internet_available_title">Нема интернет конекција</string>
-  <string name="no_sip_account_found">Нема сметки за повикување на интернет на овој телефон. Дали сакате да додадете една сега?</string>
-  <string name="no_sip_account_found_title">Нема сметка за повикување на интернет</string>
-  <string name="no_vm_number">Missing voicemail number</string>
-  <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
-  <string name="no_voip">Повикувањето на интернет не е поддржано</string>
-  <string name="no_volte">Unable to make IMS call</string>
-  <string name="no_wifi_available">Треба да сте поврзани со Wi-Fi мрежа за повици на интернет (користете ги безжичните и мрежните поставки).</string>
-  <string name="no_wifi_available_title">Нема Wi-Fi конекција</string>
-  <string name="non_ivr_menu_collapse_menu">Collapse menu</string>
-  <string name="non_ivr_menu_view_menu">View menu</string>
-  <string name="not_a_valid_port">Бројот на портата треба да биде меѓу 1000 и 65534.</string>
-  <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
-  <string name="not_connected_miui">"Didn't connect"</string>
-  <string name="not_voice_capable">Voice calling not supported</string>
-  <string name="notification_action_end_call">Hang up</string>
-  <string name="notification_dialing">Dialing</string>
-  <string name="notification_incoming_call">Incoming call</string>
-  <string name="notification_missedCallTicker">Missed call from %s</string>
-  <string name="notification_missedCallTitle">Missed call</string>
-  <string name="notification_missedCall_call_back">Call back</string>
-  <string name="notification_missedCall_message">Message</string>
-  <string name="notification_missedCallsMsg">%s missed calls</string>
-  <string name="notification_missedCallsTitle">Missed calls</string>
-  <string name="notification_network_selection_text">Selected network (%s) unavailable</string>
-  <string name="notification_network_selection_title">No service</string>
-  <string name="notification_on_hold">On hold</string>
-  <string name="notification_ongoing_call">Ongoing call</string>
-  <string name="notification_ongoing_calling_format_miui">Calling</string>
-  <string name="notification_voicemail_no_vm_number">Voicemail number unknown</string>
-  <string name="notification_voicemail_text_format">Dial %s</string>
-  <string name="notification_voicemail_title">New voicemail</string>
-  <string name="notification_voicemail_title_count">New voicemail (%d)</string>
-  <string name="number">Number</string>
-  <string name="number_format_error_message_miui">%s only supports numbers</string>
-  <string name="number_type_jituan_miui">Group number</string>
-  <string name="number_type_miui">Number type</string>
-  <string name="number_type_mob_miui">Mobile phone</string>
-  <string name="number_type_tel_miui">Landline</string>
-  <string name="nw_subset_unlock_failed">SIM Network Subset unlock request unsuccessful.</string>
-  <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>
-  <string name="nw_unlock_failed">SIM Network unlock request unsuccessful.</string>
-  <string name="nw_unlock_success">SIM Network unlock successful.</string>
-  <string name="ok">OK</string>
-  <string name="oldPin2Label">Old PIN2</string>
-  <string name="oldPinLabel">Old PIN</string>
-  <string name="old_password_label">Old password(4 digits)</string>
-  <string name="old_pin2_hint_miui">Current PIN2</string>
-  <string name="old_pin_hint_miui">Current PIN</string>
-  <string name="onHold">On hold</string>
-  <string name="onscreenAddCallText">Add call</string>
-  <string name="onscreenAddParticipant">Add Participant</string>
-  <string name="onscreenAudioText">Audio</string>
-  <string name="onscreenEndCallText">End</string>
-  <string name="onscreenHoldText">Hold</string>
-  <string name="onscreenManageCallsText">Manage calls</string>
-  <string name="onscreenManageConferenceText">Manage conference</string>
-  <string name="onscreenMergeCallsText">Merge calls</string>
-  <string name="onscreenModifyCallText">Modify Call</string>
-  <string name="onscreenMuteText">Mute</string>
-  <string name="onscreenShowDialpadText">Dialpad</string>
-  <string name="onscreenSwapCallsText">Swap</string>
-  <string name="onscreenSwitchText">Switch Subscription</string>
-  <string name="onscreen_add_call_text_miui">Add call</string>
->>>>>>> origin/master
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
   <string name="onscreen_audio_mode_handset_miui">Хендсфри</string>
   <string name="onscreen_audio_mode_headset_miui">Слушалки</string>
   <string name="onscreen_audio_mode_miui">Answer using</string>
-<<<<<<< HEAD
   <string name="onscreen_audio_mode_speaker_miui">Звучник</string>
   <string name="onscreen_call_record_miui">Снимај</string>
   <string name="onscreen_dialer_miui">Тастатура</string>
@@ -866,33 +765,6 @@ Switch to the new provider anyway?"</string>
   <string name="ota_skip_activation_dialog_message">"Ако го прескокнете активирањето,не можете да правите повици или да се поврзете мобилен интернет (иако може да се поврзувате со WLAN мрежи).Додека не го активирате телефонот, ќе бидете прашувани секогаш кога ќе го уклучите телефонот.</string>
   <string name="ota_skip_activation_dialog_skip_label">Прескокни</string>
   <string name="ota_skip_activation_dialog_title">Скокни активација?</string>
-=======
-  <string name="onscreen_audio_mode_speaker_miui">Speaker</string>
-  <string name="onscreen_call_record_miui">Record</string>
-  <string name="onscreen_dialer_miui">Keyboard</string>
-  <string name="onscreen_end_call_text_miui">End</string>
-  <string name="onscreen_hold_text_miui">Hold</string>
-  <string name="onscreen_manage_calls_text_miui">Manage calls</string>
-  <string name="onscreen_merge_calls_text_miui">Merge calls</string>
-  <string name="onscreen_mute_text_miui">Mute</string>
-  <string name="onscreen_note_text_miui">Note</string>
-  <string name="onscreen_send_flash_text_miui">Flash</string>
-  <string name="onscreen_speaker_text_miui">Speaker</string>
-  <string name="onscreen_swap_calls_text_miui">Swap</string>
-  <string name="onscreen_tools_off_miui">Tools</string>
-  <string name="onscreen_tools_on_miui">Tools</string>
-  <string name="open_miui">Open</string>
-  <string name="optional_summary">&lt;Изборно&gt;</string>
-  <string name="ota_activate">Activate</string>
-  <string name="ota_call_end">Back</string>
-  <string name="ota_failure">Programming unsuccessful</string>
-  <string name="ota_listen">Follow the spoken instructions until you hear that activation is complete.</string>
-  <string name="ota_next">Next</string>
-  <string name="ota_progress">Wait while your phone is being programmed.</string>
-  <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to WLAN networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
-  <string name="ota_skip_activation_dialog_skip_label">Skip</string>
-  <string name="ota_skip_activation_dialog_title">Skip activation?</string>
->>>>>>> origin/master
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
   <string name="ota_speaker">Звучник</string>
   <string name="ota_successful">Вашиот телефон сега е активиран.Може да потрае и до 15 минути за услугата да  започне.</string>
@@ -906,7 +778,6 @@ Switch to the new provider anyway?"</string>
   <string name="ota_unsuccessful">"Вашиот телефон не е активиран.
 Можеби ќе треба да  најдете област со подобра покриеност (во близина на прозорец, или од надвор)
 
-<<<<<<< HEAD
 Обидете се повторно или јавете се корисничка подршка за повеќе опции.. . "</string>
   <string name="other_settings">Други подесувања за повици</string>
   <string name="other_settings_miui">Друго</string>
@@ -914,15 +785,6 @@ Switch to the new provider anyway?"</string>
   <string name="password_title">Лозинка</string>
   <string name="pause_prompt_no">Не</string>
   <string name="pause_prompt_str">"Испраќање тонови
-=======
-Try again or call customer service for more options."</string>
-  <string name="other_settings">Other call settings</string>
-  <string name="other_settings_miui">Other</string>
-  <string name="password_changed">Password changed</string>
-  <string name="password_title">Лозинка</string>
-  <string name="pause_prompt_no">No</string>
-  <string name="pause_prompt_str">"Sending tones
->>>>>>> origin/master
 "</string>
   <string name="pause_prompt_yes">Да</string>
   <string name="payphone">Говорница</string>
@@ -936,7 +798,6 @@ Try again or call customer service for more options."</string>
   <string name="pick_outgoing_call_phone_type">Направи повик</string>
   <string name="pick_outgoing_sip_phone">Профил за интернет повици</string>
   <string name="pin2_attempts">"Преостанати обиди:"</string>
-Attempts Remaining :"</string>
   <string name="pin2_changed">PIN2 успешно сменет.</string>
   <string name="pin2_changed_miui">PIN2 променет</string>
   <string name="pin2_invalid">"FDN не беше ажуриран затоа што е неточен PIN-от."</string>
@@ -944,10 +805,8 @@ Attempts Remaining :"</string>
   <string name="pin2_lock_warning_miui">"PIN2 функциите ќе бидат заклучени после уште еден неточен обид"</string>
   <string name="pin2_locked_message_miui">Обидете се повторно: PIN2 што ја внесовте е неточен</string>
   <string name="pin2_or_fdn_invalid">"FDN не е ажуриран. PIN2 е неточен или телефонскиот број беше одбиен."</string>
-  <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
   <string name="pin2_unblocked">PIN2 одблокиран!</string>
   <string name="pin_attempts_miui">%d преостанати обиди</string>
-  <string name="pin_changed">SIM PIN changed successfully.</string>
   <string name="pin_changed">SIM PIN успешно променет</string>
   <string name="pin_changed_miui">SIM PIN променет</string>
   <string name="pin_failed">PIN што го внесовте е неточен.</string>
@@ -1003,7 +862,6 @@ Attempts Remaining :"</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">2G мрежи само (заштедува батерија)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">3G мрежи само</string>
   <string name="preferred_network_type_td_scdma_miui">GSM/TD-SCDMA</string>
-<<<<<<< HEAD
   <string name="preferred_network_type_title_miui">Преферираната мрежа</string>
   <string name="primary_account_summary_with">Примарен акаунт. %s</string>
   <string name="private_num">Приватен број</string>
@@ -1062,67 +920,6 @@ Attempts Remaining :"</string>
   <string name="requesting_sim_unlock">Барам SIM отклучување...</string>
   <string name="requesting_sp_unlock">Барам SIM отклучување давател на услуги...</string>
   <string name="requesting_unlock">Барање за отклучување мрежа...</string>
-=======
-  <string name="preferred_network_type_title_miui">Preferred network type</string>
-  <string name="primary_account_summary_with">Primary account. %s</string>
-  <string name="private_num">Private number</string>
-  <string name="proceed">Proceed</string>
-  <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
-  <string name="prompt">Prompt</string>
-  <string name="prompt_user">Prompt User</string>
-  <string name="proxy_address_title">Излезна адреса на прокси</string>
-  <string name="pstn_phone">Повик од мобилен телефон</string>
-  <string name="puk2_blocked">PUK2 is permanently blocked.</string>
-  <string name="puk2_requested">Password incorrect, SIM is locked. PUK2 requested.</string>
-  <string name="puk_lock_warning_miui">"
-Your SIM card will be erased after another failed attempt."</string>
-  <string name="puk_requested">Password incorrect, PIN Blocked! PUK requested.</string>
-  <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
-  <string name="puk_unlock_success">PUK unlock successful.</string>
-  <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
-  <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
-  <string name="rc_unlock_failed">RUIM Corporate unlock request failed</string>
-  <string name="rc_unlock_success">RUIM Corporate unlock successful.</string>
-  <string name="readingSimContacts">Reading SIM card…</string>
-  <string name="reading_settings">Reading settings…</string>
-  <string name="regional_disable">Regional news disabled</string>
-  <string name="regional_enable">Regional news enabled</string>
-  <string name="register_automatically">Automatic registration…</string>
-  <string name="register_on_network">Registering on %s…</string>
-  <string name="registration_done">Registered on network.</string>
-  <string name="registration_status_checking_status">Проверување статус...</string>
-  <string name="registration_status_done">Примање повици.</string>
-  <string name="registration_status_failed_try_later">Регистрацијата на сметка е неуспешна: (%s); ќе се обиде подоцна</string>
-  <string name="registration_status_invalid_credentials">Регистрацијата на сметка е неуспешна: неточно корисничко име или лозинка.</string>
-  <string name="registration_status_no_data">Регистрацијата на сметка се прекина затоа што нема интернет конекција.</string>
-  <string name="registration_status_no_wifi_data">Регистрацијата на сметка се прекина затоа што нема Wi-Fi конекција.</string>
-  <string name="registration_status_not_receiving">Не прима повици.</string>
-  <string name="registration_status_not_running">Регистрацијата на сметка е неуспешна.</string>
-  <string name="registration_status_registering">Регистрирање...</string>
-  <string name="registration_status_server_unreachable">Регистрацијата на сметка е неуспешна: проверете го името на серверот.</string>
-  <string name="registration_status_still_trying">Уште се обидува...</string>
-  <string name="reject_via_sms_miui">Quick responses</string>
-  <string name="reject_via_sms_summary_miui">Edit pre-written text responses</string>
-  <string name="reject_via_sms_title_miui">Quick responses</string>
-  <string name="remember_my_choice">Секогаш користи за воспоставување повици на интернет</string>
-  <string name="remove_ims_account">Отстрани сметка</string>
-  <string name="remove_miui">Delete</string>
-  <string name="remove_sip_account">Отстрани сметка</string>
-  <string name="removing_account">Сметката се отстранува…</string>
-  <string name="requesting_corporate_unlock">Requesting SIM corporate unlock…</string>
-  <string name="requesting_nw_subset_unlock">Requesting SIM network subset unlock…</string>
-  <string name="requesting_nw_unlock">Requesting SIM network unlock…</string>
-  <string name="requesting_puk_unlock">Requesting PUK unlock…</string>
-  <string name="requesting_rc_unlock">Requesting UIM corporate unlock…</string>
-  <string name="requesting_rhrpd_unlock">Requesting UIM hrpd unlock…</string>
-  <string name="requesting_rnw1_unlock">Requesting UIM network1 unlock…</string>
-  <string name="requesting_rnw2_unlock">Requesting UIM network2 unlock…</string>
-  <string name="requesting_rsp_unlock">Requesting UIM service provider unlock…</string>
-  <string name="requesting_ruim_unlock">Requesting UIM UIM unlock…</string>
-  <string name="requesting_sim_unlock">Requesting SIM unlock…</string>
-  <string name="requesting_sp_unlock">Requesting SIM service provider unlock…</string>
-  <string name="requesting_unlock">Requesting network unlock…</string>
->>>>>>> origin/master
   <string name="reset_my_choice_hint">You can change which Internet calling account to use by default from the Phone &gt; Settings &gt; Internet call settings &gt; Accounts screen.</string>
   <string name="respond_via_sms_canned_response_1">"Неможат да зборам во моментов, Што има??"</string>
   <string name="respond_via_sms_canned_response_1_miui">"Неможам да зборувам сега. Јави се подоцна."?</string>
@@ -1163,7 +960,6 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="rsp_unlock_success">RUIM Service Provider unlock successful.</string>
   <string name="ruim_unlock_failed">UIM unlock request failed</string>
   <string name="ruim_unlock_success">RUIM unlock successful.</string>
-<<<<<<< HEAD
   <string name="save">Зачувај</string>
   <string name="saving_account">Зачувување на сметка...</string>
   <string name="search_networks">Пребарување мрежи</string>
@@ -1190,41 +986,11 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="set_sub_deactivate_not_supported">Деактивирањето не е подржано</string>
   <string name="set_sub_deactivate_success">Деактивирањето е успешно</string>
   <string name="set_sub_failed">Поставување претпала неуспешно</string>
-=======
-  <string name="save">Save</string>
-  <string name="saving_account">Зачувување на сметката...</string>
-  <string name="search_networks">Search networks</string>
-  <string name="selectContact">select contact</string>
-  <string name="select_automatically">Choose automatically</string>
-  <string name="select_network_automatic_hint_miui">"Can't register to the network you selected.
-Will use preferred network instead."</string>
-  <string name="sendSms">Send message</string>
-  <string name="send_button">Send</string>
-  <string name="send_keepalive_title">Send keep-alive</string>
-  <string name="separate_from_conference_miui">Separate call</string>
-  <string name="set_preferred_network_type_when_data_enabled_miui">Preferred network type can only be applied when data connection is disabled.</string>
-  <string name="set_primary_summary">Се користи за излезни повици</string>
-  <string name="set_primary_title">Постави како примарна сметка</string>
-  <string name="set_smsc_address_error_miui">Failed to set number</string>
-  <string name="set_smsc_address_timeout_miui">Connection timed out</string>
-  <string name="set_smsc_address_title_miui">Set SMS center number</string>
-  <string name="set_sub_1">Subscription 1:</string>
-  <string name="set_sub_2">Subscription 2:</string>
-  <string name="set_sub_3">Subscription 3:</string>
-  <string name="set_sub_activate_failed">Activate failed</string>
-  <string name="set_sub_activate_not_supported">Activate not supported</string>
-  <string name="set_sub_activate_success">Activate success</string>
-  <string name="set_sub_deactivate_failed">Deactivate failed</string>
-  <string name="set_sub_deactivate_not_supported">Deactivate not supported</string>
-  <string name="set_sub_deactivate_success">Deactivate success</string>
-  <string name="set_sub_failed">Set subscription failed</string>
->>>>>>> origin/master
   <string name="set_sub_global_activate_failed">Activate global failed</string>
   <string name="set_sub_global_deactivate_failed">Deactivate global failed</string>
   <string name="set_sub_no_change">Нема промена во претплатата</string>
   <string name="set_sub_not_supported_phone_in_call">Активирање или деактивирање претплата не е дозволено додека телефонот е во повик.</string>
   <string name="set_sub_success">Set subscription success</string>
-<<<<<<< HEAD
   <string name="set_subscription">Изберете претплати</string>
   <string name="set_subscription_error_atleast_one">Изберете барем една претплата</string>
   <string name="set_uicc_subscription_progress">Намести претплата е во тек...</string>
@@ -1261,59 +1027,14 @@ Will use preferred network instead."</string>
   <string name="sip_edit_new_title">SIP сметка</string>
   <string name="sip_edit_title">SIP сметка</string>
   <string name="sip_menu_add">Додавање</string>
-=======
-  <string name="set_subscription">Select subscriptions</string>
-  <string name="set_subscription_error_atleast_one">Select atleast one subscription</string>
-  <string name="set_uicc_subscription_progress">Set subscription in progress...</string>
-  <string name="settings_label">Network settings</string>
-  <string name="simContacts_airplaneMode">To import contacts from the SIM card, first turn off Airplane mode.</string>
-  <string name="simContacts_empty">No contacts on your SIM card.</string>
-  <string name="simContacts_emptyLoading">Reading from SIM card…</string>
-  <string name="simContacts_title">Manage SIM card contacts</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
-  <string name="sim_contact_name_miui">Name</string>
-  <string name="sim_contact_number_miui">Number</string>
-  <string name="sim_contacts_title_miui">Contacts on SIM card</string>
-  <string name="sim_lock_off_miui">Require PIN to use phone</string>
-  <string name="sim_lock_on_miui">Require PIN to use phone</string>
-  <string name="sim_lock_title_miui">SIM lock settings</string>
-  <string name="sim_ndp_dismiss_text">Dismiss</string>
-  <string name="sim_ndp_unlock_text">Unlock</string>
-  <string name="sim_pin_change_miui">Change SIM PIN</string>
-  <string name="sim_pin_toggle_miui">Lock SIM card</string>
-  <string name="sim_unlock_failed">SIM unlock request unsuccessful.</string>
-  <string name="sim_unlock_success">SIM unlock successful.</string>
-  <string name="sip_account_list">Сметки за SIP</string>
-  <string name="sip_accounts">Сметки за повикување на интернет (SIP)</string>
-  <string name="sip_accounts_title">SIP Сметки</string>
-  <string name="sip_add_account_tip_text">To use internet calling, add a SIP account</string>
-  <string name="sip_always_send_keepalive">Испраќај секогаш</string>
-  <string name="sip_call_options_entry_1">За сите повици кога е достапна мрежа на податоци</string>
-  <string name="sip_call_options_entry_2">Само за повици на интернет</string>
-  <string name="sip_call_options_entry_3">Прашај за секој повик</string>
-  <string name="sip_call_options_title">Користи повикување на интернет</string>
-  <string name="sip_call_options_wifi_only_entry_1">За сите повици</string>
-  <string name="sip_call_options_wifi_only_title">Користи повикување на интернет (само Wi-Fi)</string>
-  <string name="sip_edit_new_title">Детали на сметка за SIP</string>
-  <string name="sip_edit_title">Детали на сметка за SIP</string>
-  <string name="sip_menu_add">Додај</string>
->>>>>>> origin/master
   <string name="sip_menu_discard">Отфрли</string>
   <string name="sip_menu_save">Зачувај</string>
   <string name="sip_receive_calls">Примај дојдовни повици</string>
   <string name="sip_receive_calls_summary">Го намалува животниот век на батеријата</string>
-<<<<<<< HEAD
   <string name="sip_settings">Интернет повици подесувања</string>
   <string name="sip_settings_miui">Интернет повици</string>
   <string name="sip_system_decide">Автоматски</string>
   <string name="sliding_down_hint_miui">Повлечи надоле за одговор</string>
-=======
-  <string name="sip_settings">Поставки за повици на интернет</string>
-  <string name="sip_settings_miui">Internet calling</string>
-  <string name="sip_system_decide">Автоматски</string>
-  <string name="sliding_down_hint_miui">Swipe down to answer</string>
->>>>>>> origin/master
   <string name="sliding_target_hint_miui">Swipe target</string>
   <string name="sliding_up_hint_miui">Повлечи нагоре за одбивање</string>
   <string name="sms_content">Содржина:</string>
@@ -1376,19 +1097,11 @@ Will use preferred network instead."</string>
   <string name="telocation_setting_miui">Подесувања за локација</string>
   <string name="telocation_setting_summary_countrycode_off">"Don't add country code"</string>
   <string name="telocation_setting_summary_countrycode_on">Auto-dial country code</string>
-<<<<<<< HEAD
   <string name="telocation_setting_summary_teloc_off">Сокриј ја мојата локација</string>
   <string name="telocation_setting_summary_teloc_on">Покажи ја мојата локација</string>
   <string name="telocation_show_settings_miui">Прикажи подесувања</string>
   <string name="third_party_account_summary">Овој акаунт во моментов се користи од %s app.</string>
   <string name="throttle_current_usage">Мобилен интернет искористен во тековниот период</string>
-=======
-  <string name="telocation_setting_summary_teloc_off">Hide my location</string>
-  <string name="telocation_setting_summary_teloc_on">Show my location</string>
-  <string name="telocation_show_settings_miui">Display settings</string>
-  <string name="third_party_account_summary">Апликацијата на %s ја употребува оваа сметка во моментов.</string>
-  <string name="throttle_current_usage">Data used in current period</string>
->>>>>>> origin/master
   <string name="throttle_data_rate_reduced_subtext">"%1$s maximum exceeded
 Data rate reduced to %2$d Kb/s"</string>
   <string name="throttle_data_usage">Користење на податоци</string>
@@ -1402,13 +1115,8 @@ Next period starts in %4$d days (%5$s)"</string>
   <string name="throttle_time_frame">Data use period</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s)"</string>
-<<<<<<< HEAD
   <string name="title_data_settings">Подесувања на податоци</string>
   <string name="transport_title">Транспорт тип</string>
-=======
-  <string name="title_data_settings">Data Settings</string>
-  <string name="transport_title">Тип превоз</string>
->>>>>>> origin/master
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
   <string name="tty_mode_entries_off_miui">TTY Off</string>
@@ -1435,7 +1143,6 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
   <string name="use_ims_default">UseImsDefault</string>
-<<<<<<< HEAD
   <string name="use_ims_default_summary">Користете ИСП за сите гласовни повици</string>
   <string name="use_ims_default_title">Користете ИСП Секогаш</string>
   <string name="username_title">Корисничко име</string>
@@ -1443,16 +1150,6 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="vibrate_on_ring_title">Вибрирај кога ѕвони</string>
   <string name="vm_change_failed">"Неможе да се смени бројот за говорната пошта. Контактирај го вашиот оператор ако проблемот продолжи."</string>
   <string name="vm_changed">Бројот за говорната пошта е променет.</string>
-=======
-  <string name="use_ims_default_summary">Use IMS for all voice calls</string>
-  <string name="use_ims_default_title">Use IMS Always</string>
-  <string name="username_title">Корисничко име</string>
-  <string name="ussdRunning">USSD code running…</string>
-  <string name="vibrate_on_ring_title">Vibrate when ringing</string>
-  <string name="vm_change_failed">"Couldn't change the voicemail number.
-Contact your carrier if this problem persists."</string>
-  <string name="vm_changed">Voicemail number changed.</string>
->>>>>>> origin/master
   <string name="voice_privacy">Voice privacy</string>
   <string name="voice_privacy_miui">Voice privacy</string>
   <string name="voice_privacy_summary">Овозможи подобрен режим за приватност</string>
