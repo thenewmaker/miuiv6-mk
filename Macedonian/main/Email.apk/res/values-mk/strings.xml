@@ -366,7 +366,6 @@
   <string name="draft_count_format">( %1$s  и)</string>
   <string name="drawer_close">Затвори навигационен цртач</string>
   <string name="drawer_open">Отвори навигационен цртач</string>
-  <string name="eas_template">домен \\ корисник</string>
   <string name="edit_quick_response_dialog">Брз одговор</string>
   <string name="elided_padding_token">
   </string>
