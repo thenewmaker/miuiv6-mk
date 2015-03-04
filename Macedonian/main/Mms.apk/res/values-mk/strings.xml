@@ -286,9 +286,6 @@
   <string name="pick_too_many_recipients">Премногу примачи</string>
   <string name="play">Играј</string>
   <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="prefDefault_vibrateWhen">никогаш</string>
-  <string name="prefDefault_vibrate_false">никогаш</string>
-  <string name="prefDefault_vibrate_true">секогаш</string>
   <string name="pref_advanced_settings_title">Дополнителни поставувања</string>
   <string name="pref_collapse_sp_messages_summary">Групни известувања од вашиот мобилен оператор во истата конверзација</string>
   <string name="pref_edit_smsc_address">СМС број центар</string>
