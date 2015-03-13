@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>  
+<resources>
   <string name="cit_OTG_plugin_check_summary">Кога OTG уред е поврзан, текстот \ "USB OTG уред откриен \" треба да се прикажe подолу.</string>
   <string name="cit_OTG_plugin_check_title">OTG (детекција)</string>
   <string name="cit_OTG_plugout_check_summary">Кога OTG уред е отстранет, текстот \ "USB OTG уред отстранет \" треба да се прикажe подолу.</string>

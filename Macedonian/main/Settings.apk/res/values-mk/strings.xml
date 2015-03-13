@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="">Кратенки за зголемување</string>
   <string name="about_settings">За телефонот</string>
   <string name="about_settings_summary">Прикажи правни информации, статус, верзија на софтвер</string>
   <string name="ac_enable_title">Дозволи</string>
@@ -21,13 +22,6 @@
   <string name="accessibility_enable">Пристапност</string>
   <string name="accessibility_feature_state_off">Исклучено</string>
   <string name="accessibility_feature_state_on">Вклучено</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Исклучено</string>
-  <string name="accessibility_global_gesture_preference_summary_on">Вклучено</string>
-  <string name="accessibility_global_gesture_preference_title">Кратенка за пристапност</string>
-  <string name="accessibility_long_press_timeout_preference_title">Допри и задржи подолго</string>
-  <string name="accessibility_menu_item_settings">Подесувања</string>
-  <string name="accessibility_no_services_installed">Нема инсталирано услуги</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Копче за прекин на телефонски повик</string>
   <string name="accessibility_global_gesture_preference_description">"Кога е вклучена оваа опција, можете во два чекора да ги вклучите опциите за достапност, :
 
 Чекор 1: Притиснете и држете го Power копчето додека не слушнете звук и осетите вибрација.
@@ -35,16 +29,22 @@
 Чекор 1: Притиснете и држете со два прста се додека не добиете звучна потврда.
 
 Ако уредот има повеќе корисници, оваа кратенка на заклучување на екранот овозможува привремен пристап сè додека уредот не се отклучи."</string>
-  <string name="">Кратенки за зголемување</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Исклучено</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Вклучено</string>
+  <string name="accessibility_global_gesture_preference_title">Кратенка за пристапност</string>
+  <string name="accessibility_long_press_timeout_preference_title">Допри и задржи подолго</string>
+  <string name="accessibility_menu_item_settings">Подесувања</string>
+  <string name="accessibility_no_services_installed">Нема инсталирано услуги</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Копче за прекин на телефонски повик</string>
   <string name="accessibility_screen_magnification_summary">"Кога оваа карактеристика е вклучена, може да го зголемите и оддалечите зумот ако допрете трипати на екранот.
 
 Додека екранот е зголемен, можно е:
-"<li><ul>"Повлекување: повлечете два или повеќе прста по екранот.
-"<li>Прилагодете го нивото на зумирање: спојте два или повеќе прста заедно или одделете ги.</li></ul></li>"
+"&lt;li&gt;&lt;ul&gt;"&amp;#1055;&amp;#1086;&amp;#1074;&amp;#1083;&amp;#1077;&amp;#1082;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;: &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1083;&amp;#1077;&amp;#1095;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1074;&amp;#1072; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1116;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1089;&amp;#1090;&amp;#1072; &amp;#1087;&amp;#1086; &amp;#1077;&amp;#1082;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1086;&amp;#1090;.
+"&lt;li&gt;&amp;#1055;&amp;#1088;&amp;#1080;&amp;#1083;&amp;#1072;&amp;#1075;&amp;#1086;&amp;#1076;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1075;&amp;#1086; &amp;#1085;&amp;#1080;&amp;#1074;&amp;#1086;&amp;#1090;&amp;#1086; &amp;#1085;&amp;#1072; &amp;#1079;&amp;#1091;&amp;#1084;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1114;&amp;#1077;: &amp;#1089;&amp;#1087;&amp;#1086;&amp;#1112;&amp;#1090;&amp;#1077; &amp;#1076;&amp;#1074;&amp;#1072; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1116;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1089;&amp;#1090;&amp;#1072; &amp;#1079;&amp;#1072;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1086; &amp;#1080;&amp;#1083;&amp;#1080; &amp;#1086;&amp;#1076;&amp;#1076;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1075;&amp;#1080;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-Може и привремено да го зголемите она што е под прстот ако три пати допрете и задржите. Кога е зголемен, може да го влечете прстот за да истражувате различни делови на екранот. Подигнете го прстот за да се врати во претходната состојба.
+&amp;#1052;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1080; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1074;&amp;#1088;&amp;#1077;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1086; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1079;&amp;#1075;&amp;#1086;&amp;#1083;&amp;#1077;&amp;#1084;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1086;&amp;#1085;&amp;#1072; &amp;#1096;&amp;#1090;&amp;#1086; &amp;#1077; &amp;#1087;&amp;#1086;&amp;#1076; &amp;#1087;&amp;#1088;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1090; &amp;#1072;&amp;#1082;&amp;#1086; &amp;#1090;&amp;#1088;&amp;#1080; &amp;#1087;&amp;#1072;&amp;#1090;&amp;#1080; &amp;#1076;&amp;#1086;&amp;#1087;&amp;#1088;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1080; &amp;#1079;&amp;#1072;&amp;#1076;&amp;#1088;&amp;#1078;&amp;#1080;&amp;#1090;&amp;#1077;. &amp;#1050;&amp;#1086;&amp;#1075;&amp;#1072; &amp;#1077; &amp;#1079;&amp;#1075;&amp;#1086;&amp;#1083;&amp;#1077;&amp;#1084;&amp;#1077;&amp;#1085;, &amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077; &amp;#1076;&amp;#1072; &amp;#1075;&amp;#1086; &amp;#1074;&amp;#1083;&amp;#1077;&amp;#1095;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1087;&amp;#1088;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1090; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1080;&amp;#1089;&amp;#1090;&amp;#1088;&amp;#1072;&amp;#1078;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1090;&amp;#1077; &amp;#1088;&amp;#1072;&amp;#1079;&amp;#1083;&amp;#1080;&amp;#1095;&amp;#1085;&amp;#1080; &amp;#1076;&amp;#1077;&amp;#1083;&amp;#1086;&amp;#1074;&amp;#1080; &amp;#1085;&amp;#1072; &amp;#1077;&amp;#1082;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1086;&amp;#1090;. &amp;#1055;&amp;#1086;&amp;#1076;&amp;#1080;&amp;#1075;&amp;#1085;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1075;&amp;#1086; &amp;#1087;&amp;#1088;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1090; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1077; &amp;#1074;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1080; &amp;#1074;&amp;#1086; &amp;#1087;&amp;#1088;&amp;#1077;&amp;#1090;&amp;#1093;&amp;#1086;&amp;#1076;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1089;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1086;&amp;#1112;&amp;#1073;&amp;#1072;.
 
-Напомена: опцијата зголемување со три допирања функционира секаде, освен на тастатурата и на лентата за навигација."</string>
+&amp;#1053;&amp;#1072;&amp;#1087;&amp;#1086;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1072;: &amp;#1086;&amp;#1087;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1079;&amp;#1075;&amp;#1086;&amp;#1083;&amp;#1077;&amp;#1084;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077; &amp;#1089;&amp;#1086; &amp;#1090;&amp;#1088;&amp;#1080; &amp;#1076;&amp;#1086;&amp;#1087;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1092;&amp;#1091;&amp;#1085;&amp;#1082;&amp;#1094;&amp;#1080;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1088;&amp;#1072; &amp;#1089;&amp;#1077;&amp;#1082;&amp;#1072;&amp;#1076;&amp;#1077;, &amp;#1086;&amp;#1089;&amp;#1074;&amp;#1077;&amp;#1085; &amp;#1085;&amp;#1072; &amp;#1090;&amp;#1072;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1090;&amp;#1091;&amp;#1088;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1080; &amp;#1085;&amp;#1072; &amp;#1083;&amp;#1077;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1085;&amp;#1072;&amp;#1074;&amp;#1080;&amp;#1075;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1072;."</string>
   <string name="accessibility_screen_magnification_title">Гестови за зголемување</string>
   <string name="accessibility_service_default_description">Не е обезбеден опис.</string>
   <string name="accessibility_service_no_apps_message">TalkBack помага на слепи и кратковидни корисници.Дали сакате да ја инсталирате бесплатната апликација од маркет?</string>
@@ -156,7 +156,7 @@
   <string name="app_memory_use">Употреба на меморија</string>
   <string name="app_name_label">Апликација</string>
   <string name="app_not_found_dlg_text">Апликацијата не е пронајдена во списокот на инсталирани апликации.</string>
-  <string name="app_not_found_dlg_title" />
+  <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">Оваа апликација не е поддржана во ограничени профили</string>
   <string name="app_notifications_switch_label">Прикажи известувања</string>
   <string name="app_ops_never_used">(Никогаш не е користена)</string>
@@ -217,7 +217,7 @@
   <string name="backup_data_summary">Резервна копија на податоци за апликација, на лозинки на Wi-Fi и други подесувања на сервери на Google</string>
   <string name="backup_data_title">Направи резервна копија на моите податоци</string>
   <string name="backup_erase_dialog_message">Да престане со резервни копии на вашите лозинки на Wi-Fi, обележувачи, други поставки и податоци за апликацијата и да ги избрише сите копии на серверите на Google?</string>
-  <string name="backup_erase_dialog_title" />
+  <string name="backup_erase_dialog_title"/>
   <string name="backup_lock_settings_picker_title">Избери резерв. заклуч.</string>
   <string name="backup_pw_cancel_button_text">Откажи</string>
   <string name="backup_pw_set_button_text">Постави резервна лозинка</string>
@@ -322,7 +322,7 @@
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Апликација сака да се вклучи Bluetooth и таблетот да се направи видлив за други уреди. Може да го промените ова подоцна во подесувања за Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery">Апликација сака телефонот да се направи видлив за други Bluetooth уреди. Може да го промените ова подоцна во подесувања за Bluetooth.</string>
   <string name="bluetooth_auto_connect">Автоматско поврзување</string>
-  <string name="bluetooth_confirm_passkey_msg">За да се спари со:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Проверете дали се прикажува оваа лозинка:&lt;br>&lt;b>%2$s&lt;/b></string>
+  <string name="bluetooth_confirm_passkey_msg">За да се спари со:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Проверете дали се прикажува оваа лозинка:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Поврзи се со...</string>
   <string name="bluetooth_connected">Поврзани</string>
   <string name="bluetooth_connected_no_a2dp">Поврзани (без медиуми)</string>
@@ -352,10 +352,10 @@
   <string name="bluetooth_device_name">Име на уред</string>
   <string name="bluetooth_device_searchable">Видлици</string>
   <string name="bluetooth_devices">Уреди со Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">Ова ќе го оневозможи:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>од:&lt;br>&lt;b>%2$s&lt;/b></string>
+  <string name="bluetooth_disable_profile_message">Ова ќе го оневозможи:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;од:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Оневозможи профил?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s ќе се исклучи од аудио на медиум.</string>
-  <string name="bluetooth_disconnect_all_profiles">Ова ќе ја прекине вашата врска со:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="bluetooth_disconnect_all_profiles">Ова ќе ја прекине вашата врска со:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s ќе се исклучи од аудио на интерфон.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s ќе се исклучи од влезниот уред.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s ќе се исклучи од споделување конекција на интернет на овој телефон.</string>
@@ -363,7 +363,7 @@
   <string name="bluetooth_disconnect_title">Исклучи?</string>
   <string name="bluetooth_disconnected">Исклучено</string>
   <string name="bluetooth_disconnecting">Се исклучува...</string>
-  <string name="bluetooth_display_passkey_pin_msg">За да се спари со:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Напишете на него:&lt;br>&lt;b>%2$s&lt;/b>, потоа притиснете „Врати“ или „Внеси“.</string>
+  <string name="bluetooth_display_passkey_pin_msg">За да се спари со:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Напишете на него:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, потоа притиснете „Врати“ или „Внеси“.</string>
   <string name="bluetooth_dock_settings">Подесувања на прикачен полнач</string>
   <string name="bluetooth_dock_settings_a2dp">За музика и медиуми</string>
   <string name="bluetooth_dock_settings_headset">Како интерфон</string>
@@ -376,12 +376,12 @@
   <string name="bluetooth_enter_passkey_other_device">Може ќе треба да ја внесете лозинката и на другиот уред.</string>
   <string name="bluetooth_enter_pin_msg">"За да се поврзеш со:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Внеси го бараниот ПИН:"</string>
   <string name="bluetooth_enter_pin_other_device">Можеби ќе треба да го внесе овој ПИН и на другиот уред.</string>
-  <string name="bluetooth_error_title" />
+  <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Поврзан со аудио на телефон</string>
   <string name="bluetooth_headset_profile_summary_use_for">Користи за аудио на телефон</string>
   <string name="bluetooth_hid_profile_summary_connected">Поврзан со влезен уред</string>
   <string name="bluetooth_hid_profile_summary_use_for">Користи за внес</string>
-  <string name="bluetooth_incoming_pairing_msg">Од:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Поврзи се со овој уред?</string>
+  <string name="bluetooth_incoming_pairing_msg">Од:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Поврзи се со овој уред?</string>
   <string name="bluetooth_is_discoverable">Видлив за сите уреди со Bluetooth во близина (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Видлив за сите уреди со Bluetooth во близина</string>
   <string name="bluetooth_lock_voice_dialing">Заклучи гласовно бирање</string>
@@ -420,7 +420,7 @@
   <string name="bluetooth_phonebook_request">Барање за пристап кон телефонски именик</string>
   <string name="bluetooth_pin_values_hint">Обично 0000 или 1234</string>
   <string name="bluetooth_preference_connected_devices">Конектирани уреди</string>
-  <string name="bluetooth_preference_device_settings">Подесувања на уред</string>   
+  <string name="bluetooth_preference_device_settings">Подесувања на уред</string>
   <string name="bluetooth_preference_found_devices">Достапни уреди</string>
   <string name="bluetooth_preference_paired_devices">Спарени уреди</string>
   <string name="bluetooth_preference_scan_title">Скенирај за уреди</string>
@@ -606,16 +606,16 @@
   <string name="credentials_reset_warning">Погрешна лозинка. Имате уште една можност пред да се избрише меморијата за акредитиви.</string>
   <string name="credentials_reset_warning_plural">Погрешна лозинка. Имате уште %1$d можности пред да се избрише меморијата за акредитиви.</string>
   <string name="credentials_title">Меморирање акредитиви</string>
-  <string name="credentials_unlock" />
+  <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Внеси ја лозинката за меморирање акредитиви.</string>
   <string name="credentials_wrong_password">Погрешна лозинка.</string>
   <string name="crypt_keeper_button_text">Шифрирај телефон</string>
   <string name="crypt_keeper_confirm_title">Шифрирај?</string>
   <string name="crypt_keeper_cooldown">Обидете се повторно за ^1 секунди.</string>
-  <string name="crypt_keeper_data_corrupt_title">Дешифрирањето е неуспешно</string>
   <string name="crypt_keeper_data_corrupt_summary">"Лозинката што ја внесовте е правилна, но, за жал, податоците се оштетени. 
 
 За да продолжите да го користите телефонот, треба да извршите фабричко ресетирање. Кога ќе го поставувате телефонот по ресетирањето, ќе имате можност да ги обновите сите податоци коишто имаат резервни копии на вашата сметка на Google."</string>
+  <string name="crypt_keeper_data_corrupt_title">Дешифрирањето е неуспешно</string>
   <string name="crypt_keeper_desc">"Може да ги шифрирате вашите сметки, поставки, преземени апликации и податоци за нив, медиуми и други датотеки. Откако ќе го шифрирате телефонот, со претпоставка дека сте поставиле заклучување на екран (односно, шема, нумерички ПИН или лозинка), ќе треба да го отклучите екранот за да го дешифрирате телефонот секојпат кога ќе го вклучите. Единствениот друг начин да дешифрирате е да извршите ресетирање до фабричките вредности, со што ќе се избришат сите ваши податоци.
 
 Шифрирањето трае еден час или повеќе. Мора да започнете со наполнета батерија и телефонот треба да биде приклучен на полнач во текот на процесот. Ако го прекинете, може да изгубите дел или сите податоци."</string>
@@ -628,16 +628,16 @@
   <string name="crypt_keeper_failed_summary">"Шифрирањето се прекина и не може да се заврши. Како резултат на тоа, податоците од вашиот телефон веќе не се достапни. 
 
 За да продолжите да го користите телефонот, треба да се изврши ресетирање на фабричките поставувања. Кога ќе го подесите телефонот по ресетирањето, ќе имате можност да ги обновите сите податоци за кои имате резервна копија на вашата сметка на Google."</string>
-   <string name="crypt_keeper_failed_title">Шифрирањето е неуспешно</string>
-   <string name="crypt_keeper_final_desc">Операцијата шифрирање е неповратен процес и ако се прекине, ќе ги изгубите податоците. Шифрирањето трае еден час или подолго и за тоа време телефонот ќе се рестартира неколку пати.</string>
-   <string name="crypt_keeper_low_charge_text">Наполни ја батеријата и обиди се повторно.</string>
-   <string name="crypt_keeper_settings_title">Шифрирање</string>
-   <string name="crypt_keeper_setup_description">Почекајте додека телефон се шифрира. ^1% завршено.</string>
-   <string name="crypt_keeper_setup_time_remaining">Почекајте додека се кодира вашиот телефон. Преостанато време: ^1</string>
-   <string name="crypt_keeper_setup_title">Шифрирање</string>
-   <string name="crypt_keeper_switch_input_method">Префрли метод на внес</string>
-   <string name="crypt_keeper_unplugged_text">Приклучете го полначот и обидете се повторно.</string>
-   <string name="crypt_keeper_warn_wipe">Предупредување: уредот ќе се избрише по уште ^1 неуспешни обиди да се отклучи!</string>
+  <string name="crypt_keeper_failed_title">Шифрирањето е неуспешно</string>
+  <string name="crypt_keeper_final_desc">Операцијата шифрирање е неповратен процес и ако се прекине, ќе ги изгубите податоците. Шифрирањето трае еден час или подолго и за тоа време телефонот ќе се рестартира неколку пати.</string>
+  <string name="crypt_keeper_low_charge_text">Наполни ја батеријата и обиди се повторно.</string>
+  <string name="crypt_keeper_settings_title">Шифрирање</string>
+  <string name="crypt_keeper_setup_description">Почекајте додека телефон се шифрира. ^1% завршено.</string>
+  <string name="crypt_keeper_setup_time_remaining">Почекајте додека се кодира вашиот телефон. Преостанато време: ^1</string>
+  <string name="crypt_keeper_setup_title">Шифрирање</string>
+  <string name="crypt_keeper_switch_input_method">Префрли метод на внес</string>
+  <string name="crypt_keeper_unplugged_text">Приклучете го полначот и обидете се повторно.</string>
+  <string name="crypt_keeper_warn_wipe">Предупредување: уредот ќе се избрише по уште ^1 неуспешни обиди да се отклучи!</string>
   <string name="cryptkeeper_emergency_call">Итен повик</string>
   <string name="cryptkeeper_return_to_call">Врати се на повик</string>
   <string name="current_backup_pw_prompt">Внесете ја целосната тековна резервна лозинка овде</string>
@@ -706,10 +706,10 @@
   <string name="data_usage_restrict_background_title">Ограничи податоци во заднина?</string>
   <string name="data_usage_restrict_denied_dialog">"Ограничување на мобилниот интернет е возможно само кога ке поставите лимит."</string>
   <string name="data_usage_summary_title">Користење податоци</string>
-  <string name="data_usage_sweep_warning"><font size="21">^1</font><font size="9">^2</font>"
-"<font size="12">предупредување</font></string>
-    <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>"
-"<font size="12">граница</font></string>
+  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080;&amp;#1094;&amp;#1072;&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;&amp;#1087;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1091;&amp;#1087;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Етернет</string>
@@ -825,7 +825,7 @@
   <string name="dlg_confirm_unmount_text">Ако ја одмонтирате УСБ меморијата, некои апликации што ги користите ќе запрат и може да се недостапни додека повторно не ја монтирате УСБ меморијата.</string>
   <string name="dlg_confirm_unmount_title">Одмонтирај УСБ меморија?</string>
   <string name="dlg_error_unmount_text">Не можеше да се одмонтира УСБ меморијата. Обидете се повторно подоцна.</string>
-  <string name="dlg_error_unmount_title" />
+  <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">Во ред</string>
   <string name="dndm_auto_button_title">Не Вознемирувај периоди</string>
   <string name="dndm_auto_setting_group">Закажано</string>
@@ -886,7 +886,7 @@
   <string name="dolby_movie_advance">Видео подобрувач</string>
   <string name="dolby_music_advance">Музички подобрувач</string>
   <string name="dolby_roomsize_high">Надвор</string>
-  <string name="dolby_roomsize_low">Внатрешна</string> 
+  <string name="dolby_roomsize_low">Внатрешна</string>
   <string name="dolby_roomsize_normal">Нормано</string>
   <string name="dolby_roomsize_summary">Сараунт подесувања за звук доспадни се само на слушалки </string>
   <string name="dolby_roomsize_title">Сараунт:</string>
@@ -1239,8 +1239,8 @@
   <string name="lockpattern_confirm_button_text">Потврди</string>
   <string name="lockpattern_continue_button_text">Продолжи</string>
   <string name="lockpattern_need_to_confirm">Употреби ја шемата повторно за потврда</string>
-  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock">Потврди зачувана шема</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Обиди се повторно:</string>
   <string name="lockpattern_pattern_confirmed_header">Вашата нова шема за отклучување</string>
   <string name="lockpattern_pattern_entered_header">Шемата е снимена</string>
@@ -1282,21 +1282,21 @@
   <string name="manageapplications_settings_summary">Управувај и отстрани инсталирани апликации</string>
   <string name="manageapplications_settings_title">Управувај со апликации</string>
   <string name="manually_add_network">Додади мрежа</string>
-  <string name="master_clear_all">"Избриши ги сите податоци на телефонот? Не можеш да ја вратиш оваа акција!"</string>
-  <string name="master_clear_button_text">Ресетирај телефон</string>
-  <string name="master_clear_confirm_title">Ресетирај?</string>
-  <string name="master_clear_desc">Ова ќе ги избрише сите податоци од <b>внатрешната меморија</b>" на телефонот, заедно со:
-
-"<li>вашата сметка на Google</li>"
-"<li>податоци и подесувања на систем и апликации</li>"
-"<li>преземени апликации</li></string>
-    <string name="master_clear_accounts">"
+  <string name="master_clear_accounts">"
 
 Моментално сте најавени на следниве сметки:
 "</string>
-  <string name="master_clear_desc_also_erases_external"><li>Музика</li>"
-"<li>Фотографии</li>"
-"<li>Други податоци за корисникот</li></string>
+  <string name="master_clear_all">"Избриши ги сите податоци на телефонот? Не можеш да ја вратиш оваа акција!"</string>
+  <string name="master_clear_button_text">Ресетирај телефон</string>
+  <string name="master_clear_confirm_title">Ресетирај?</string>
+  <string name="master_clear_desc">Ова ќе ги избрише сите податоци од &lt;b&gt;&amp;#1074;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1088;&amp;#1077;&amp;#1096;&amp;#1085;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1084;&amp;#1077;&amp;#1084;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1112;&amp;#1072;&lt;/b&gt;" &amp;#1085;&amp;#1072; &amp;#1090;&amp;#1077;&amp;#1083;&amp;#1077;&amp;#1092;&amp;#1086;&amp;#1085;&amp;#1086;&amp;#1090;, &amp;#1079;&amp;#1072;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1086; &amp;#1089;&amp;#1086;:
+
+"&lt;li&gt;&amp;#1074;&amp;#1072;&amp;#1096;&amp;#1072;&amp;#1090;&amp;#1072; &amp;#1089;&amp;#1084;&amp;#1077;&amp;#1090;&amp;#1082;&amp;#1072; &amp;#1085;&amp;#1072; Google&lt;/li&gt;"
+"&lt;li&gt;&amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1094;&amp;#1080; &amp;#1080; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1077;&amp;#1089;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1085;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1077;&amp;#1084; &amp;#1080; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1087;&amp;#1088;&amp;#1077;&amp;#1079;&amp;#1077;&amp;#1084;&amp;#1077;&amp;#1085;&amp;#1080; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080;&lt;/li&gt;</string>
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;&amp;#1052;&amp;#1091;&amp;#1079;&amp;#1080;&amp;#1082;&amp;#1072;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1060;&amp;#1086;&amp;#1090;&amp;#1086;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1092;&amp;#1080;&amp;#1080;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1044;&amp;#1088;&amp;#1091;&amp;#1075;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1094;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1082;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1085;&amp;#1080;&amp;#1082;&amp;#1086;&amp;#1090;&lt;/li&gt;</string>
   <string name="master_clear_erase_application_progress">Бришам апликации…</string>
   <string name="master_clear_failed">Не се изврши ресетирање зашто услугата за чистење на системот не е достапна.</string>
   <string name="master_clear_final_button_text">Избриши сè</string>
@@ -1311,7 +1311,7 @@
   <string name="media_button">Копчиња за медија</string>
   <string name="media_feedback_enable_title">Вибрирај со бит</string>
   <string name="media_format_button_text">Избриши УСБ меморија</string>
-  <string name="media_format_desc">Избриши ја целата УСБ меморија? Ќе се изгубат <b>сите</b> меморирани податоци!</string>
+  <string name="media_format_desc">Избриши ја целата УСБ меморија? Ќе се изгубат &lt;b&gt;&amp;#1089;&amp;#1080;&amp;#1090;&amp;#1077;&lt;/b&gt; &amp;#1084;&amp;#1077;&amp;#1084;&amp;#1086;&amp;#1088;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1094;&amp;#1080;!</string>
   <string name="media_format_final_button_text">Избриши сè</string>
   <string name="media_format_final_desc">Избриши ја УСБ меморијата, избриши ги сите датотеки меморирани таму? Не може да се врати ова дејство!</string>
   <string name="media_format_gesture_explanation">Треба да ја употребите шемата за отклучување за да потврдите дека сакате да ја избришете УСБ меморијата.</string>
@@ -1411,7 +1411,7 @@
   <string name="modem_tool_log_stop_toast">"Сопри да снимаш лог од %s"</string>
   <string name="move_app">Премести</string>
   <string name="move_app_failed_dlg_text">Не може да се премести апликацијата %1$s</string>
-  <string name="move_app_failed_dlg_title" />
+  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Премести во телефон</string>
   <string name="move_app_to_sdcard">Премести во УСБ меморија</string>
   <string name="moving">Се преместува</string>
@@ -1539,7 +1539,7 @@
   <string name="other_relative">Други дозволи</string>
   <string name="overlay_display_devices_title">Симул. секундарен екран</string>
   <string name="owner_info_settings_edit_text_hint">Внеси текст за да се прикаже на екранот за заклучување</string>
-  <string name="owner_info_settings_summary" />
+  <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Инфо. за сопственик</string>
   <string name="packages_subtitle">Вклучени пакети</string>
   <string name="passwordIncorrect">Лозинката што ја внесовте не е точна</string>
@@ -1557,7 +1557,7 @@
   <string name="phone_call_noise_suppression">Изненадување шумот за време на повик </string>
   <string name="phone_info_label">Информации за телефонот</string>
   <string name="phone_language">Јазик</string>
-  <string name="phone_language_summary" />
+  <string name="phone_language_summary"/>
   <string name="pico_installed">Инсталиран</string>
   <string name="pico_languages_and_voices">Јазици и гласови</string>
   <string name="pico_not_installed">Не е инсталиран</string>
@@ -1769,7 +1769,7 @@
   <string name="recognizer_settings_title">Гласовно барање</string>
   <string name="recognizer_title">Препознавање на гласот</string>
   <string name="recompute_size">Recomputing големина…</string>
-  <string name="regulatory_info_text" />
+  <string name="regulatory_info_text"/>
   <string name="regulatory_information">Регулаторни информации</string>
   <string name="remove_account_failed">Администраторот не ја дозволува промената</string>
   <string name="remove_account_label">Отстрани сметка</string>
@@ -1779,13 +1779,13 @@
   <string name="reset_app_preferences_button">Ресетирај апликации</string>
   <string name="reset_app_preferences_desc">"Со ова се ресетираат сите параметри за:
 
-"<li>оневозможени апликации</li>"
-"<li>оневозможени известувања на апликација</li>"
-"<li>стандардни апликации за дејства</li>"
-"<li>ограничувања за податоци во заднина за апликации</li>"
-"<li>сите ограничувања за дозволи</li>"
+"&lt;li&gt;&amp;#1086;&amp;#1085;&amp;#1077;&amp;#1074;&amp;#1086;&amp;#1079;&amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077;&amp;#1085;&amp;#1080; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1086;&amp;#1085;&amp;#1077;&amp;#1074;&amp;#1086;&amp;#1079;&amp;#1084;&amp;#1086;&amp;#1078;&amp;#1077;&amp;#1085;&amp;#1080; &amp;#1080;&amp;#1079;&amp;#1074;&amp;#1077;&amp;#1089;&amp;#1090;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1085;&amp;#1072; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1072;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1085;&amp;#1076;&amp;#1072;&amp;#1088;&amp;#1076;&amp;#1085;&amp;#1080; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1077;&amp;#1112;&amp;#1089;&amp;#1090;&amp;#1074;&amp;#1072;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1086;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080;&amp;#1095;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1094;&amp;#1080; &amp;#1074;&amp;#1086; &amp;#1079;&amp;#1072;&amp;#1076;&amp;#1085;&amp;#1080;&amp;#1085;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1080;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1089;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1086;&amp;#1075;&amp;#1088;&amp;#1072;&amp;#1085;&amp;#1080;&amp;#1095;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1072; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1086;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1083;&amp;#1080;&lt;/li&gt;"
 
- Вие нема да изгубите никакви податоци за апликацијата."</string>
+ &amp;#1042;&amp;#1080;&amp;#1077; &amp;#1085;&amp;#1077;&amp;#1084;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1080;&amp;#1079;&amp;#1075;&amp;#1091;&amp;#1073;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1082;&amp;#1074;&amp;#1080; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1094;&amp;#1080; &amp;#1079;&amp;#1072; &amp;#1072;&amp;#1087;&amp;#1083;&amp;#1080;&amp;#1082;&amp;#1072;&amp;#1094;&amp;#1080;&amp;#1112;&amp;#1072;&amp;#1090;&amp;#1072;."</string>
   <string name="reset_app_preferences_title">Ресетирај параметри на апликација?</string>
   <string name="reset_legacy_password_settings_preface_text">Треба да ја ресетирате лозинката екранот .</string>
   <string name="resource_ringtone_volume_mute">Уредот е ставен на безчујно</string>
@@ -1808,7 +1808,7 @@
   <string name="retry">Пробај повторно</string>
   <string name="ring_volume_title">Јачина на ѕвонење</string>
   <string name="ringtone_mute">Нема</string>
-  <string name="ringtone_summary" />
+  <string name="ringtone_summary"/>
   <string name="ringtone_title">Мелодија на телефон</string>
   <string name="roaming">Роаминг на податоци</string>
   <string name="roaming_disable">Поврзи се со податочни услуги во роаминг</string>
@@ -1871,7 +1871,7 @@
   <string name="sd_insert_summary">Вметни УСБ за монтирање</string>
   <string name="sd_memory">УСБ меморија</string>
   <string name="sd_mount">Монтирај УСБ меморија</string>
-  <string name="sd_mount_summary" />
+  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Промените стапуваат на сила кога УСБ кабелот повторно ќе се поврзе.</string>
   <string name="sdcard_format">Избриши УСБ меморија</string>
   <string name="sdcard_setting">УСБ меморија</string>
@@ -2153,8 +2153,8 @@
   <string name="sync_menu_sync_now">Синхронизирај сега</string>
   <string name="sync_one_time_sync">"Допри да сесинхронизира сега
 %1$s"</string>
-  <string name="sync_plug"><font fgcolor="#ffffffff">Добредојдовте на Google Sync!</font>"
-Дозволен е пристап кон Google за синхронизирање на податоците за да се овозможи пристап кон вашите контакти, состаноци и повеќе, од каде и да сте."</string>
+  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;&amp;#1044;&amp;#1086;&amp;#1073;&amp;#1088;&amp;#1077;&amp;#1076;&amp;#1086;&amp;#1112;&amp;#1076;&amp;#1086;&amp;#1074;&amp;#1090;&amp;#1077; &amp;#1085;&amp;#1072; Google Sync!&lt;/font&gt;"
+&amp;#1044;&amp;#1086;&amp;#1079;&amp;#1074;&amp;#1086;&amp;#1083;&amp;#1077;&amp;#1085; &amp;#1077; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1087; &amp;#1082;&amp;#1086;&amp;#1085; Google &amp;#1079;&amp;#1072; &amp;#1089;&amp;#1080;&amp;#1085;&amp;#1093;&amp;#1088;&amp;#1086;&amp;#1085;&amp;#1080;&amp;#1079;&amp;#1080;&amp;#1088;&amp;#1072;&amp;#1114;&amp;#1077; &amp;#1085;&amp;#1072; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1072;&amp;#1090;&amp;#1086;&amp;#1094;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1077; &amp;#1086;&amp;#1074;&amp;#1086;&amp;#1079;&amp;#1084;&amp;#1086;&amp;#1078;&amp;#1080; &amp;#1087;&amp;#1088;&amp;#1080;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1087; &amp;#1082;&amp;#1086;&amp;#1085; &amp;#1074;&amp;#1072;&amp;#1096;&amp;#1080;&amp;#1090;&amp;#1077; &amp;#1082;&amp;#1086;&amp;#1085;&amp;#1090;&amp;#1072;&amp;#1082;&amp;#1090;&amp;#1080;, &amp;#1089;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1072;&amp;#1085;&amp;#1086;&amp;#1094;&amp;#1080; &amp;#1080; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1077;&amp;#1116;&amp;#1077;, &amp;#1086;&amp;#1076; &amp;#1082;&amp;#1072;&amp;#1076;&amp;#1077; &amp;#1080; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1090;&amp;#1077;."</string>
   <string name="sync_settings">Синхронизација</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">само Wi-Fi</string>
@@ -2284,7 +2284,7 @@
   <string name="unlock_set_unlock_mode_pin">ПИН</string>
   <string name="unlock_set_unlock_none_summary">Нема безбедност</string>
   <string name="unlock_set_unlock_none_title">Повлечи</string>
-  <string name="unlock_set_unlock_off_summary" />
+  <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Ниедно</string>
   <string name="unlock_set_unlock_password_summary">Високо ниво на безбедност</string>
   <string name="unlock_set_unlock_password_title">Лозинка</string>
@@ -2300,22 +2300,22 @@
   <string name="upload_debug_log_title">Програма за корисничко искуство</string>
   <string name="usage_log">App usage statistics</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
-   <string name="usage_stats_label">Статистика на користење</string>
-   <string name="usage_time_label">Време на употреба</string>
-   <string name="usage_type_audio">Аудио</string>
-   <string name="usage_type_cpu">Вкупно CPU</string>
-   <string name="usage_type_cpu_foreground">Преден план на CPU</string>
-   <string name="usage_type_data_recv">Мобилните пакети се примени</string>
-   <string name="usage_type_data_send">Мобилните пакети се испратени</string>
-   <string name="usage_type_data_wifi_recv">Wi-Fi пакетите се примени</string>
-   <string name="usage_type_data_wifi_send">Wi-Fi пакетите се испратени</string>
-   <string name="usage_type_gps">GPS</string>
-   <string name="usage_type_no_coverage">Време без сигнал</string>
-   <string name="usage_type_on_time">Време на вклученост</string>
-   <string name="usage_type_phone">Телефон</string>
-   <string name="usage_type_video">Видео</string>
-   <string name="usage_type_wake_lock">Задржи активен</string>
-   <string name="usage_type_wifi_running">Wi-Fi се извршува</string>
+  <string name="usage_stats_label">Статистика на користење</string>
+  <string name="usage_time_label">Време на употреба</string>
+  <string name="usage_type_audio">Аудио</string>
+  <string name="usage_type_cpu">Вкупно CPU</string>
+  <string name="usage_type_cpu_foreground">Преден план на CPU</string>
+  <string name="usage_type_data_recv">Мобилните пакети се примени</string>
+  <string name="usage_type_data_send">Мобилните пакети се испратени</string>
+  <string name="usage_type_data_wifi_recv">Wi-Fi пакетите се примени</string>
+  <string name="usage_type_data_wifi_send">Wi-Fi пакетите се испратени</string>
+  <string name="usage_type_gps">GPS</string>
+  <string name="usage_type_no_coverage">Време без сигнал</string>
+  <string name="usage_type_on_time">Време на вклученост</string>
+  <string name="usage_type_phone">Телефон</string>
+  <string name="usage_type_video">Видео</string>
+  <string name="usage_type_wake_lock">Задржи активен</string>
+  <string name="usage_type_wifi_running">Wi-Fi се извршува</string>
   <string name="usb_connection_category">Поврзи како</string>
   <string name="usb_host_mode_subtext">За користење контролери за игри и слично на USB порта,може да го намали животниот век на батеријата</string>
   <string name="usb_host_mode_text">Вклучи USB host mode</string>
@@ -2672,8 +2672,8 @@
 
 Дозволи го ова за сите апликации кои сакаат да се скенира?"</string>
   <string name="wifi_scan_notify_remember_choice">Не прикажувај повторно</string>
-  <string name="wifi_scan_notify_text_location_off">Апликациите може да скенираат за мрежи во околината, дури и кога Wi-Fi е исклучена. Ако не сакате да се случи ова, одете на Напредно > Скенирање секогаш достапно.</string>
-  <string name="wifi_scan_notify_text_location_on">За да се подобри точноста на локација и за други цели, Google и другите апликации може да скенираат за мрежи во околината, дури и кога Wi-Fi е исклучена. Ако не сакате да се случи ова, одете во Напредно > Скенирање секогаш достапно.</string>
+  <string name="wifi_scan_notify_text_location_off">Апликациите може да скенираат за мрежи во околината, дури и кога Wi-Fi е исклучена. Ако не сакате да се случи ова, одете на Напредно &gt; Скенирање секогаш достапно.</string>
+  <string name="wifi_scan_notify_text_location_on">За да се подобри точноста на локација и за други цели, Google и другите апликации може да скенираат за мрежи во околината, дури и кога Wi-Fi е исклучена. Ако не сакате да се случи ова, одете во Напредно &gt; Скенирање секогаш достапно.</string>
   <string name="wifi_secured_first_item">Обазбедено со %1$s</string>
   <string name="wifi_secured_second_item">, обезбедено со %1$s</string>
   <string name="wifi_security">Безбедност</string>
@@ -2696,8 +2696,8 @@
   <string name="wifi_setting_frequency_band_error">Имаше проблем при поставување појас на фреквенција</string>
   <string name="wifi_setting_frequency_band_summary">Назначи го опсегот на работа на фреквенцијата</string>
   <string name="wifi_setting_frequency_band_title">Опсег на фреквенција на Wi-Fi</string>
-   <string name="wifi_setting_sleep_policy_error">Настана проблем при менување на подесувањето</string>
-   <string name="wifi_setting_sleep_policy_title">Задржи Wi-Fi во текот на режим на мирување</string>
+  <string name="wifi_setting_sleep_policy_error">Настана проблем при менување на подесувањето</string>
+  <string name="wifi_setting_sleep_policy_title">Задржи Wi-Fi во текот на режим на мирување</string>
   <string name="wifi_settings">Wi-Fi</string>
   <string name="wifi_settings_category">Подесувања за Wi-Fi</string>
   <string name="wifi_settings_summary">Постави и управувај со безжични пристапни точки</string>
@@ -2706,12 +2706,12 @@
   <string name="wifi_setup_back">Назад</string>
   <string name="wifi_setup_cancel">Откажи</string>
   <string name="wifi_setup_connect">Поврзи се</string>
-    <string name="wifi_setup_description_connecting">Поврзувањето може да трае неколку минути...</string>
-  <string name="wifi_setup_description_connected">Допрете <b>Следно</b>" за да продолжи со подесувањето.
+  <string name="wifi_setup_description_connected">Допрете &lt;b&gt;&amp;#1057;&amp;#1083;&amp;#1077;&amp;#1076;&amp;#1085;&amp;#1086;&lt;/b&gt;" &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1087;&amp;#1088;&amp;#1086;&amp;#1076;&amp;#1086;&amp;#1083;&amp;#1078;&amp;#1080; &amp;#1089;&amp;#1086; &amp;#1087;&amp;#1086;&amp;#1076;&amp;#1077;&amp;#1089;&amp;#1091;&amp;#1074;&amp;#1072;&amp;#1114;&amp;#1077;&amp;#1090;&amp;#1086;.
 
-Допрете"<b>Назад</b> за да се поврзете со друга Wi-Fi мрежа.</string>
+&amp;#1044;&amp;#1086;&amp;#1087;&amp;#1088;&amp;#1077;&amp;#1090;&amp;#1077;"&lt;b&gt;&amp;#1053;&amp;#1072;&amp;#1079;&amp;#1072;&amp;#1076;&lt;/b&gt; &amp;#1079;&amp;#1072; &amp;#1076;&amp;#1072; &amp;#1089;&amp;#1077; &amp;#1087;&amp;#1086;&amp;#1074;&amp;#1088;&amp;#1079;&amp;#1077;&amp;#1090;&amp;#1077; &amp;#1089;&amp;#1086; &amp;#1076;&amp;#1088;&amp;#1091;&amp;#1075;&amp;#1072; Wi-Fi &amp;#1084;&amp;#1088;&amp;#1077;&amp;#1078;&amp;#1072;.</string>
+  <string name="wifi_setup_description_connecting">Поврзувањето може да трае неколку минути...</string>
   <string name="wifi_setup_detail">Детали за мрежа</string>
-  <string name="wifi_setup_eap_not_supported">Не може да конфигурирате EAP поврзување за Wi-Fi за време на подесување. По подесувањето, може тоа да го направите во Поставки > Безжични мрежи.</string>
+  <string name="wifi_setup_eap_not_supported">Не може да конфигурирате EAP поврзување за Wi-Fi за време на подесување. По подесувањето, може тоа да го направите во Поставки &gt; Безжични мрежи.</string>
   <string name="wifi_setup_forget">Заборави</string>
   <string name="wifi_setup_next">Следно</string>
   <string name="wifi_setup_not_connected">Не е поврзано</string>
@@ -2745,7 +2745,6 @@
   <string name="wifi_share_connected_title">MIUI споделен Wi-Fi</string>
   <string name="wifi_share_count">Имате споделено %d мрежи</string>
   <string name="wifi_share_current_network">Моментална мрежа </string>
-  <string name="wifi_show_advanced">Напредни опции</string>
   <string name="wifi_share_list_empty">Нема споделени мрежи.</string>
   <string name="wifi_share_login">Сподели Wi-Fi мрежа</string>
   <string name="wifi_share_login_summary">Ако ова е јавна мрежа,можете да ја споделите со други MIUI корисници.</string>
@@ -2763,6 +2762,7 @@
   <string name="wifi_share_upload">Сподели</string>
   <string name="wifi_share_upload_finish">Споделено</string>
   <string name="wifi_share_uploading">Споделување…</string>
+  <string name="wifi_show_advanced">Напредни опции</string>
   <string name="wifi_show_password">Прикажи лозинка</string>
   <string name="wifi_signal">Јачина на сигнал</string>
   <string name="wifi_signal_found_msg">Поврзи се на Wi-Fi AP?</string>
@@ -2853,8 +2853,8 @@
   <string name="xiaomi_router_notif_title">Mi Router известување</string>
   <string name="yes">Дa</string>
   <string name="zone_auto">Автоматска временска зона</string>
-  <string name="zone_auto_summaryOn">Користи временска зона обезбедена од мрежа</string>
   <string name="zone_auto_summaryOff">Користи временска зона обезбедена од мрежа</string>
+  <string name="zone_auto_summaryOn">Користи временска зона обезбедена од мрежа</string>
   <string name="zone_list_menu_sort_alphabetically">Подреди по азбучен ред</string>
   <string name="zone_list_menu_sort_by_timezone">Подреди по временска зона</string>
 </resources>

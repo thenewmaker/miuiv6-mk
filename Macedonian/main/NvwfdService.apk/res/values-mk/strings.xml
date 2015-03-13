@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">NVIDIA Wireless Display UI Services</string>
   <string name="miracast_access_settings_title">Пристапи Miracast Подесувања</string>
