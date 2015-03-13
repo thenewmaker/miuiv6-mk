@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="mipay_add_bank_card">Користете нова картичка</string>
   <string name="mipay_agreement">Согласи се на %1$s </string>

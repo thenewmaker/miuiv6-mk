@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Pico TTS</string>
   <string name="deu_deu_sample">Dies ist ein Beispiel für Sprachsynthese in Deutsch mit Pico.</string>

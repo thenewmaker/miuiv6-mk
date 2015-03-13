@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"Апликацијата не е инсталирана на вашиот телефон"</string>
   <string name="application_name">Системски стартувач</string>

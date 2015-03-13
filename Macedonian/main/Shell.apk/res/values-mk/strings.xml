@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Обвивка</string>
   <string name="bugreport_confirm">"Извештаите за грешки содржат податоци од различни системски белешки, Вклучувајќи персонални и приватни информации. Споделувајте грешки само со апликации и луѓе што им верувате."</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Увоз</string>
   <string name="access_sd_fail">"Неможе да пристапи USB складирање."</string>

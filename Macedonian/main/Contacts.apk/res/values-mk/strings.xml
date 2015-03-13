@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Детали на дневникот на повици</string>
   <string name="account_container_title">Увезено од</string>
@@ -153,7 +153,7 @@
   <string name="composer_failed_to_get_database_infomation">"Неможеше да добие информација за базата на податоци."</string>
   <string name="composer_has_no_exportable_contact">Нема извозни контакти. Ако имате контакти на вашиот телефон, некои провајдери на податоци може да не дозволат контактите да се извезуваат од телефонот.</string>
   <string name="composer_not_initialized">"Композиторот на визит картичката не стартуваше правилно"</string>
-  <string name="config_export_extensions_to_consider"></string>
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_prefix"> </string>
   <string name="config_export_file_suffix"> </string>
   <string name="config_prohibited_phone_number_regexp"> </string>

@@ -92,7 +92,6 @@
   <string name="guarded_mode_dialog_title">Сега сте во режим Гостин</string>
   <string name="import_from_xiaomi_account_hint1">1.Инсталирајте Mi Talk и логирајте се.\n http://www.miliao.com\n\n3. Во Mi Talk подесувања изберете ”Back up contacts to Mi account”</string>
   <string name="import_from_xiaomi_account_hint2">Забелешка: Продолжи со следниот чекор ако веќе постои backup</string>
-
   <string name="import_from_xiaomi_account_hint_title">Со Mi Talk направи бекап на контактите од повеке уреди.</string>
   <string name="local_app_name">Бекап</string>
   <string name="local_backup_window_title">Локални резервни податоци</string>
