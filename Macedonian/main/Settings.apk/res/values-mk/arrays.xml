@@ -84,7 +84,7 @@
         <item>Скенирање...</item>
         <item>Се поврзува...</item>
         <item>Автентицирање...</item>
-        <item>Добивање ИП адреса...</item>
+        <item>Добивање IP адреса...</item>
         <item>Поврзана</item>
         <item>Суспендирана</item>
         <item>Се исклучува...</item>
@@ -394,9 +394,9 @@
         <item>Секогаш проверувај</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Никогаш не користи ХДЦП проверка</item>
-        <item>Користи ХДЦП проверка само за ДРМ содржина</item>
-        <item>Секогаш користи ХДЦП проверка</item>
+        <item>Никогаш не користи HDCP проверка</item>
+        <item>Користи HDCP проверка само за ДРМ содржина</item>
+        <item>Секогаш користи HDCP проверка</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимација</item>

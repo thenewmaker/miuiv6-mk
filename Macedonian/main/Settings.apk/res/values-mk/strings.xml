@@ -146,10 +146,10 @@
   <string name="app_factory_reset_dlg_text">Сите ажурирања на оваа системска апликација на Android ќе се деинсталираат.</string>
   <string name="app_factory_reset_dlg_title">Деинсталирај ажурирања?</string>
   <string name="app_feedback">Пријави грешка</string>
-  <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app.
-Disable floating windows?"</string>
-  <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires the app to restart. You can also stop running the app manually.
-Enable floating windows?"</string>
+  <string name="app_floating_window_dlg_disable">"Ако го исклучите %1$s's лебдечкиот прозор, ќе сопре апликацијата.
+Исклучи лебдечки прозор?"</string>
+  <string name="app_floating_window_dlg_enable">"Ако го вклучите %1$s's лебдечкиот прозор, апликацијата ќе мора да се рестартира. Можете и рачно да ја стопирате апликацијата.
+Вклучи лебдечки прозор?"</string>
   <string name="app_forward_locked">Апликацијата е заштитена од копирање.</string>
   <string name="app_install_location_summary">Променете ја претпочитаната локација на инсталирање за нови апликации.</string>
   <string name="app_install_location_title">Претпочиана локација на инсталирање</string>
@@ -646,15 +646,15 @@ Enable floating windows?"</string>
   <string name="current_use_uicc_se">Користење безбеден елемент на SIM картичката</string>
   <string name="data_size_label">Податоци</string>
   <string name="data_usage_app_restrict_background">Огр. подат. од задн. на апликац.</string>
-  <string name="data_usage_app_restrict_background_summary">Disable background data on mobile networks. Non-mobile networks will be used if available.</string>
-  <string name="data_usage_app_restrict_background_summary_disabled">To restrict background data for this app, first set a mobile data limit.</string>
-  <string name="data_usage_app_restrict_dialog">"This feature may cause an app that depends on background data to stop working when only mobile networks are available.
+  <string name="data_usage_app_restrict_background_summary">Исклучете интернет на мобилната мрежа. Други не-мобилни мрежи ќе се користат ако се достапни.</string>
+  <string name="data_usage_app_restrict_background_summary_disabled">Да го ограничите мобилниот интернет за оваа Апликација, прво наместете лимит.</string>
+  <string name="data_usage_app_restrict_dialog">"Оваа опција може да предизвика проблеми за Апликациите што користат мобилен интернет, долку нема друга мрежа.
 
-You can find more appropriate data usage controls in the settings available within the app."</string>
-  <string name="data_usage_app_restrict_dialog_title">Restrict background data?</string>
-  <string name="data_usage_app_restricted">restricted</string>
+Можете да најдете по детални подесувања во самата апликација."</string>
+  <string name="data_usage_app_restrict_dialog_title">Ограничи мобилен интернет?</string>
+  <string name="data_usage_app_restricted">ограничено</string>
   <string name="data_usage_app_settings">Погледни подесувања на апликација</string>
-  <string name="data_usage_auto_sync_off_dialog">"This will conserve data and battery usage, but you'll need to sync each account manually to collect recent information. And you won't receive notifications when updates occur."</string>
+  <string name="data_usage_auto_sync_off_dialog">"Ова ќе заштеди интернет проток, како и батерија, но ќе морате рачно да ги синхронизирате сите промени што сакате. Нема да се синхронизира автоматски."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Исклучи авто-синхронизација?</string>
   <string name="data_usage_auto_sync_on_dialog">"Било кои промени на вашиот акаунт на web ќе бидат автоматски копирани на вашиот телефон.
 
@@ -699,8 +699,8 @@ You can find more appropriate data usage controls in the settings available with
   <string name="data_usage_metered_wifi_disabled">За да изберете мрежи со огран. пренос на подат., вклучете Wi-Fi.</string>
   <string name="data_usage_pick_cycle_day">Ден од месецот за ресетирање циклус на користење податоци:</string>
   <string name="data_usage_received_sent">Примени %1$s, испратени %2$s</string>
-  <string name="data_usage_restrict_background">Ако ограничите мобилни податоци во заднина, некои апликации и услуги нема да се извршуваат освен ако не сте поврзани на Wi‑Fi.</string>
-  <string name="data_usage_restrict_background_multiuser">"Ако ограничите мобилни податоци во заднина, некои апликации и услуги нема да се извршуваат освен ако не сте поврзани на Wi‑Fi.
+  <string name="data_usage_restrict_background">Ако ограничите мобилни податоци во заднина, некои апликации и услуги нема да се извршуваат освен ако не сте поврзани на Wi-Fi.</string>
+  <string name="data_usage_restrict_background_multiuser">"Ако ограничите мобилни податоци во заднина, некои апликации и услуги нема да се извршуваат освен ако не сте поврзани на Wi-Fi.
 
 Поставката важи за сите корисници на телефонот."</string>
   <string name="data_usage_restrict_background_title">Ограничи податоци во заднина?</string>
@@ -808,7 +808,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="disableNetwork">ИсклучиМрежа</string>
   <string name="disable_overlays">Исклучи хардверско преклопување</string>
-  <string name="disable_overlays_summary">Always use GPU for screen compositing</string>
+  <string name="disable_overlays_summary">Секогаш користи ја GPU за креирање на сликата на екранот</string>
   <string name="disable_power_key_long_press_under_keyguard">Исклучи го мените за power копчето</string>
   <string name="disable_service_message">Допри „Во ред“ и %1$s ќе запре.</string>
   <string name="disable_service_title">Запри %1$s?</string>
@@ -827,19 +827,19 @@ You can find more appropriate data usage controls in the settings available with
   <string name="dlg_error_unmount_text">Не можеше да се одмонтира УСБ меморијата. Обидете се повторно подоцна.</string>
   <string name="dlg_error_unmount_title" />
   <string name="dlg_ok">Во ред</string>
-  <string name="dndm_auto_button_title">Периодични do not disturb време</string>
+  <string name="dndm_auto_button_title">Не Вознемирувај периоди</string>
   <string name="dndm_auto_setting_group">Закажано</string>
   <string name="dndm_auto_time_setting">Намести време</string>
   <string name="dndm_auto_time_setting_summary">од %1$s до %2$s</string>
   <string name="dndm_auto_time_turn_off">до</string>
-  <string name="dndm_auto_time_turn_off_title">Автоматски исклучи do not disturb</string>
+  <string name="dndm_auto_time_turn_off_title">Автоматски исклучи Не Вознемирувај</string>
   <string name="dndm_auto_time_turn_on">од</string>
-  <string name="dndm_auto_time_turn_on_title">Автоматски вклучи do not disturb</string>
+  <string name="dndm_auto_time_turn_on_title">Автоматски вклучи Не Вознемирувај</string>
   <string name="dndm_dlg_remove_ok">Избриши</string>
-  <string name="dndm_dlg_remove_vip">Повиците од оваа личност ке бидат безслушни кога do not disturb е вклучено.</string>
+  <string name="dndm_dlg_remove_vip">Повиците од оваа личност ке бидат безслушни во режимот Не Вознемирувај.</string>
   <string name="dndm_menu_add_vip_custom">Додај исклучоци</string>
   <string name="dndm_mute_all">Повиците и пораките ке бидат безслушни.</string>
-  <string name="dndm_notification">Do not disturb е вклучено</string>
+  <string name="dndm_notification">Вклуен е режимот Не Вознемирувај</string>
   <string name="dndm_open">Do not disturb</string>
   <string name="dndm_repeated_call_setting_title">Повторени повици</string>
   <string name="dndm_repeated_call_summary_3min">Заѕвони кога ке добиеш втор повик од истиот број во рок од 3 минути</string>
@@ -857,7 +857,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="dndm_vip_list_custom">Исклучоци</string>
   <string name="dndm_vip_list_custom_group">Исклучоци</string>
   <string name="dndm_vip_list_group">Листа на Исклучоци</string>
-  <string name="do_not_disturb_mode">Do not disturb</string>
+  <string name="do_not_disturb_mode">Не Вознемирувај</string>
   <string name="dock_audio_media_title">Држач со звучници</string>
   <string name="dock_audio_settings_title">Аудио</string>
   <string name="dock_audio_summary_car">Подесувања за прикачениот полнач за автомобил</string>
@@ -896,7 +896,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="drive_mode">Режим во кола</string>
   <string name="drive_mode_auto_reply">Брза реакција</string>
   <string name="drive_mode_auto_sms_reply_content">"Неможам да зборам сега... Ќе те побарам подоцна"</string>
-  <string name="drive_mode_auto_sms_reply_content_title">Брза реакциј</string>
+  <string name="drive_mode_auto_sms_reply_content_title">Брза реакција</string>
   <string name="drive_mode_calling_auto_sms_reply">Одговарање на повици</string>
   <string name="drive_mode_invert_stop_report">Преврти го телефонот за безгласно</string>
   <string name="drive_mode_only_contact_reply">Одговори само на контактите</string>
@@ -910,7 +910,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="emergency_tone_summary">Подеси однесување кога се прави итен повик</string>
   <string name="emergency_tone_title">Тон за итен повик</string>
   <string name="empty_list_msg">"Немате инсталирано апликации од трета страна."</string>
-  <string name="enableNetwork">ВкчучиМрежа</string>
+  <string name="enableNetwork">Вклучи Мрежа</string>
   <string name="enable_adb">Отстранување грешки на USB</string>
   <string name="enable_adb_summary">Режим на отстранување грешки кога е поврзано USB</string>
   <string name="enable_compatibility">Скалирај апликација</string>
@@ -947,8 +947,8 @@ You can find more appropriate data usage controls in the settings available with
   <string name="error_mnc_not23">MNC полето мора да биде со 2 или 3 бројки.</string>
   <string name="error_name_empty">"Полето за име несмее да биде празно."</string>
   <string name="error_title"/>
-  <string name="external_code_size_label">USB storage app</string>
-  <string name="external_data_size_label">USB storage data</string>
+  <string name="external_code_size_label">Апликации на USB-то</string>
+  <string name="external_data_size_label">Меморија на USB-то</string>
   <string name="factory_reset_summary">"Избриши ги сите податоци од интерната меморија"</string>
   <string name="failed_to_open_app_settings_toast">Подесувањата за %1$s не се отворија</string>
   <string name="fcc_equipment_id">ИД на опрема</string>
@@ -964,7 +964,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="finish_button_label">Заврши</string>
   <string name="firmware_version">Верзија на Android</string>
   <string name="floating_window_switch_label">Овозможете лебдечки известувања</string>
-  <string name="floating_window_switch_label_disable">Disable floating windows</string>
+  <string name="floating_window_switch_label_disable">Исклучи лебдечки прозор</string>
   <string name="font_size_huge">Најголем</string>
   <string name="font_size_large">Голем</string>
   <string name="font_size_medium">Среден</string>
@@ -1136,7 +1136,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="keyboard_layout_default_label">Стандардни</string>
   <string name="keyboard_layout_dialog_setup_button">Постави редослед на тастатурата</string>
   <string name="keyboard_layout_dialog_switch_hint">За да смените, притиснете Control-Spacebar</string>
-  <string name="keyboard_layout_dialog_title">Одбери редолед на тастатурата</string>
+  <string name="keyboard_layout_dialog_title">Одбери редослед на тастатурата</string>
   <string name="keyboard_layout_picker_title">Распореди на тастатурата</string>
   <string name="keyboard_settings_category">Тастатура &amp; методи на внесување</string>
   <string name="keyboard_settings_title">Android тастатура</string>
@@ -1148,9 +1148,9 @@ You can find more appropriate data usage controls in the settings available with
   <string name="last_synced">Последно синхронизирање %1$s</string>
   <string name="later">Рестартирај подоцна</string>
   <string name="launch_count_label">Брои</string>
-  <string name="launcher_settings_title">Launcher</string>
-  <string name="launching_cit">Стартување cit, почекајте.</string>
-  <string name="launching_pho">Стартување информации за телефонот, почекајте.</string>
+  <string name="launcher_settings_title">Лаунчер</string>
+  <string name="launching_cit">Стартувам cit, почекајте.</string>
+  <string name="launching_pho">Стартувам информации за телефонот, почекајте.</string>
   <string name="launching_rep">Пријавување…</string>
   <string name="led_colors_summary">Известувања</string>
   <string name="led_frequence_summary">Намести ги интервалите помеѓу LED светкањата</string>
@@ -1197,8 +1197,8 @@ You can find more appropriate data usage controls in the settings available with
   <string name="location_title">Моја локација</string>
   <string name="lock_after_timeout">Автоматско заклучување</string>
   <string name="lock_after_timeout_summary">%1$s по режим на штедење</string>
-  <string name="lock_intro_message">Lock_intro_message</string>
-  <string name="lock_screen_unlock_show">Skip swipe screen</string>
+  <string name="lock_intro_message">Заклучи го почетните пораки</string>
+  <string name="lock_screen_unlock_show">Прескокни го лизгачкиот екран</string>
   <string name="lock_screen_unlock_show_summary">Директно оди на почетниот екран или внеси лозинка </string>
   <string name="lock_settings_common_title">Прилагодувања за заклучување</string>
   <string name="lock_settings_picker_settings">Намести заклучување на екранот</string>
@@ -1406,9 +1406,9 @@ You can find more appropriate data usage controls in the settings available with
   <string name="model_number">Број на модел</string>
   <string name="modem_tool_log">Сними Modem Logs</string>
   <string name="modem_tool_log_start">Стартувај со снимање </string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_start_toast">"Почни да снимаш лог во %s"</string>
   <string name="modem_tool_log_stop">Стопирај со снимањето</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="modem_tool_log_stop_toast">"Сопри да снимаш лог од %s"</string>
   <string name="move_app">Премести</string>
   <string name="move_app_failed_dlg_text">Не може да се премести апликацијата %1$s</string>
   <string name="move_app_failed_dlg_title" />
@@ -1638,7 +1638,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="print_settings">Печатење</string>
   <string name="print_settings_title">Услуги за печатење</string>
   <string name="priority_storage_app_settings">Корисничките податоци ќе бидат сочувани во  %1$s</string>
-  <string name="priority_storage_settings_summary">"Ако нема SD картичка детектирано , корисничките податоци ќе бидат сочувани во внатрешната меморија автоматски"</string>
+  <string name="priority_storage_settings_summary">"Ако нема SD картичка детектирано, корисничките податоци ќе бидат сочувани во внатрешната меморија автоматски"</string>
   <string name="priority_storage_summary">Одбери го стандардната локација за сочувување на корисничките податоци </string>
   <string name="priority_storage_title">Прилагодувања за меморијата</string>
   <string name="privacy_mode_dialog_message">Повици,белешки,слики,пораки и launcher ќе бидат скриени од корисник </string>
@@ -1923,7 +1923,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="search_wifi">wifi</string>
   <string name="security_enable_widgets_disabled_summary">Исклучено од администратор </string>
   <string name="security_enable_widgets_title">Овозможи виџети</string>
-  <string name="security_keyguard_category_name">Lock screen</string>
+  <string name="security_keyguard_category_name">Заклучен Екран</string>
   <string name="security_password_category_name">Лозинка</string>
   <string name="security_passwords_title">Лозинки</string>
   <string name="security_privacy_settings_title">Безбедност</string>
@@ -2255,7 +2255,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="turn_off_radio">Исклучи радио</string>
   <string name="turn_off_security_lock">Исклучи го заклучувањето</string>
   <string name="turn_on_radio">Вклучи радио</string>
-  <string name="under_keyguard">Lock screen</string>
+  <string name="under_keyguard">Заклучен Екран</string>
   <string name="uninstall_all_users_text">Деинсталирај за сите корисници</string>
   <string name="uninstall_text">Деинсталирај</string>
   <string name="unknown">Непознато</string>
@@ -2473,7 +2473,7 @@ You can find more appropriate data usage controls in the settings available with
   <string name="volume_restore_alert">Сите нивоа на јачина ќе бидат ресетирани.</string>
   <string name="volume_ring_description">Мелодија и известувања</string>
   <string name="volume_ring_mute">Исклучи звук на ѕвонење и известувањ</string>
-  <string name="volume_system_description">Camera shutter, lock screen, and other system notifications</string>
+  <string name="volume_system_description">Камера, Заклучен Екран и други модификации</string>
   <string name="volume_voice_description">Глас</string>
   <string name="vpn_cancel">Откажи</string>
   <string name="vpn_configure">Конфигурација</string>
