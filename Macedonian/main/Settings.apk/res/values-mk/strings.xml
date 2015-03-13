@@ -146,9 +146,9 @@
   <string name="app_factory_reset_dlg_text">Сите ажурирања на оваа системска апликација на Android ќе се деинсталираат.</string>
   <string name="app_factory_reset_dlg_title">Деинсталирај ажурирања?</string>
   <string name="app_feedback">Пријави грешка</string>
-  <string name="app_floating_window_dlg_disable">"Ако го исклучите %1$s's лебдечкиот прозор, ќе сопре апликацијата.
+  <string name="app_floating_window_dlg_disable">"Ако го исклучите %1$s лебдечкиот прозор, ќе сопре апликацијата.
 Исклучи лебдечки прозор?"</string>
-  <string name="app_floating_window_dlg_enable">"Ако го вклучите %1$s's лебдечкиот прозор, апликацијата ќе мора да се рестартира. Можете и рачно да ја стопирате апликацијата.
+  <string name="app_floating_window_dlg_enable">"Ако го вклучите %1$s лебдечкиот прозор, апликацијата ќе мора да се рестартира. Можете и рачно да ја стопирате апликацијата.
 Вклучи лебдечки прозор?"</string>
   <string name="app_forward_locked">Апликацијата е заштитена од копирање.</string>
   <string name="app_install_location_summary">Променете ја претпочитаната локација на инсталирање за нови апликации.</string>
