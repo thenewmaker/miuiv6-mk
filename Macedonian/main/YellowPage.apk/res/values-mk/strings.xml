@@ -268,9 +268,6 @@
   <string name="recharge_status_description">Статус:</string>
   <string name="recharge_title">Надополнување</string>
   <string name="recharge_unknown_number">Непознат</string>
-  <string name="recharge_user_confirm_summary">"Ќе се наплаќа RBM% 2 $ за %1$s 
-
-Вкупно:. Јени  %3$s  "</string>
   <string name="recharge_user_confirm_title">Потврди</string>
   <string name="refresh">Освежи</string>
   <string name="remind_another_time">"Дон &amp;apos; т покаже повторно"</string>
