@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="FMRecording_reach_storage_threshold">Snimanje zaustavljeno. Prostor za pohranu SD kartica je nizak.</string>
+  <string name="FMRecording_reach_storage_threshold">Снимањето е прекинато. Слободниот простор на SD картицата е мал.</string>
   <string name="access_sd_fail">"Nije moguć pristup SD kartici."</string>
   <string name="alert_dialog_cancel">Odustani</string>
   <string name="alert_dialog_ok">U redu</string>
