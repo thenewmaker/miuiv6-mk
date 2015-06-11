@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUI Macedonia==-</item>
+	    <item>-==MIUI Macedonia==-</item>
+        <item>-==MIUI Macedonia==-</item>
+        <item>Hi Store (почекајте).</item>
+        <item>Hi Store (почекајте)..</item>
+        <item>Hi Store (почекајте)...</item>
+        <item>Hi Store (оптимизација)...</item>
+        <item>Hi Store - Ви благодариме!</item>
+    </string-array>
+</resources>
