@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="instruction_pre">Допирнете за стартување на FTP протокол.</string>
+  <string name="my_bakup">Безбедна копија на таблетот </string>
+  <string name="phone">Таблет</string>
+  <string name="tab_phone">Таблет</string>
+</resources>

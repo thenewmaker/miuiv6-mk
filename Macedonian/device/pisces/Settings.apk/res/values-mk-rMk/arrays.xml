@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tts_rate_entries">
+        <item>Многу споро</item>
+        <item>Споро</item>
+        <item>Нормално</item>
+        <item>Брзо</item>
+        <item>Побрзо</item>
+        <item>Многу брзо</item>
+        <item>Забрзано</item>
+        <item>Многу забрзано</item>
+        <item>Најбрзо</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Ниеден</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+		</string-array>
+    <string-array name="mvno_type_entries">
+        <item>Ниеден</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+</resources>

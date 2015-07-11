@@ -17,12 +17,12 @@
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Samo EvDo</item>
+        <item>Само EvDo</item>
         <item>CDMA w/o EvDo</item>
         <item>CDMA/EvDo auto</item>
         <item>GSM/WCDMA auto</item>
-        <item>Samo 3G WCDMA</item>
-        <item>Samo 2G GSM</item>
-        <item>Poželjno GSM/WCDMA</item>
+        <item>Само 3G WCDMA</item>
+        <item>Само 2G GSM</item>
+        <item>Пожелно GSM/WCDMA</item>
 	 </string-array>
 </resources>

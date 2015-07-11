@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>СД
 <resources>
   <string name="FMRecording_reach_storage_threshold">Снимањето е прекинато. Просторот на SD картичката е многу мал.</string>
   <string name="access_sd_fail">"Не е возможен пристап на SD картичката."</string>

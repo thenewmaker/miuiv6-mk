@@ -172,7 +172,7 @@
   <string name="cit_sd_plugout_check_summary">Овој тест ќе ја открие состојбата на SD картичката, на екранот ќе се прикаже "SD картичка е вчитана"</string>
   <string name="cit_sd_plugout_check_title">Тестирање за исклучување на SD картичка</string>
   <string name="cit_sd_unmount">Исклучување на SD картичка</string>
-  <string name="cit_sd_unmount_sucess">SD картичка е успешно исклучена</string>
+  <string name="cit_sd_unmount_sucess">SD картичката е успешно исклучена</string>
   <string name="cit_sim_check_summary">Проверете детали за состојбата на SIM картичката</string>
   <string name="cit_sim_check_title">Тестирање на SIM картичката</string>
   <string name="cit_sim_error_unknown">SIM непозната грешка</string>
@@ -190,7 +190,7 @@
   <string name="cit_sim_state_ready">SIM картичката е во ред</string>
   <string name="cit_sim_state_unkown">Непозната грешка</string>
   <string name="cit_start_calibration">Започни калибрација</string>
-  <string name="cit_stop_calibration">прекини калибрација</string>
+  <string name="cit_stop_calibration">Прекини калибрација</string>
   <string name="cit_tool">Алатки</string>
   <string name="cit_tool_bluetooth">Тестни алатки за Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Bluetooth тест</string>
