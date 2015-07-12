@@ -64,7 +64,6 @@
   <string name="block_phone_number">Повици: %d </string>
   <string name="call_delete_hint">Избришете ги сите блокирани повици од избраниот број?</string>
   <string name="button_to_setting">Поставки</string>
-  <string name="call_delete_hint">Елиминација на сите блокирани повици?</string>
   <string name="call_delete_title">Елиминирај го повикот?</string>
   <string name="call_transfer_block">Блокирање на пратени повици</string>
   <string name="call_transfer_block_type">Блокирање на пратени повици</string>
@@ -79,10 +78,8 @@
   <string name="dlg_add_manual_hint">Внесете го телефонскиот број</string>
   <string name="dlg_add_manual_ok">Додадете</string>
   <string name="dlg_bl_add_manual">Додај број на блоклиста</string>
-  <string name="dlg_black_address_antispam_message">Додади го овој број на блоклиста?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Избришете ги правилата кои во моментов се користат и враќање на стандардните правила на листата со блокирани повици?"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Избришете ги правилата кои во моментов се користат и враќање на стандардните правила на блокирани повици?"</string>
-  <string name="dlg_bl_add_manual">Рачно додадете ги на листата за забранети повици</string>
   <string name="dlg_black_address_antispam_message">Додавање на оваа локација на листата на забранети повици ?</string>
   <string name="dlg_black_antispam_hint">Блоклиста</string>
   <string name="dlg_black_antispam_message">Додадете го бројов во блоклиста?</string>
@@ -126,13 +123,11 @@
   <string name="info_unantispam_sms">Дозволете пораки</string>
   <string name="label_callwait">Повик на чекање</string>
   <string name="log_count">(%d)</string>
-  <string name="marked_by_others">%d други корисници се означени како</string>
   <string name="mark_agent_block">Пријавен како посредник</string>
   <string name="mark_fraud">Измамник</string>
   <string name="mark_fraud_block">Пријавен како измамник</string>
   <string name="mark_harass">Вознемирувач</string>
   <string name="mark_harass_block">Пријавен како вознемирувач</string>
-  <string name="marked_by_user">Го означивте како</string>
   <string name="mark_number_fraud">Измамник</string>
   <string name="mark_number_harass">Вознемирувач</string>
   <string name="mark_number_info">"Имајте на ум дека овие повици понекогаш може да бидат и од корист (Нпр. кога сте во потрага за стан). Блокирајте ги само оние повици за кои сте сигурни дека не сакате да ги добиете повторно."</string>
@@ -185,7 +180,6 @@
   <string name="report_warning">"Пријава на %1$s SMS-a на Mi? Тие пораки и телефонски броеви од кои биле пратени ќе бидат вчитани на Mi услугата за преглед. Сите лични податоци ќе бидат поврзани со тие пораки и ќе останат анонимни."</string>
   <string name="report_warning_title">Пријави SMS</string>
   <string name="sim_not_ready">SIM картичката не е спремна</string>
-  <string name="sms_delete_hint">Бришење на сите блокирани пораки од овој број?</string>
   <string name="sms_delete_title">Елиминирај SMS</string>
   <string name="sms_smart_engine_update">Автоматско ажурирање на филтерот за SMS-a</string>
   <string name="special_number_group">Блокирај ги пријавените броеви</string>
@@ -273,7 +267,6 @@
   <string name="st_title_backsound_group">Порака пуштена на блокираните броеви</string>
   <string name="st_title_blacklist_numbers">Блокирани броеви</string>
   <string name="st_title_call_wait">Известувања за повик на чекање</string>
-  <string name="st_title_call_wait">Повик на чекање</string>
   <string name="st_title_call_wait_setting">Подесувања на повик на чекање</string>
   <string name="st_title_editblacklist">Уреди блоклиста</string>
   <string name="st_title_editwhitelist">Уредување на исклучоци</string>
@@ -285,7 +278,6 @@
   <string name="st_title_man_head_addblacklist">Додадете телефонски префикс во блоклиста</string>
   <string name="st_title_man_head_addwhitelist">Додадете телефонски префикс на исклучоци</string>
   <string name="st_title_mode_choose_group">Правила на Блоклиста</string>
-  <string name="st_title_open_antispam">Блоклиста</string>
   <string name="st_title_open_antispam">Листа на блокирани</string>
   <string name="st_title_other_group">Останато</string>
   <string name="st_title_settings_other_group">Дополнителни подесувања</string>
