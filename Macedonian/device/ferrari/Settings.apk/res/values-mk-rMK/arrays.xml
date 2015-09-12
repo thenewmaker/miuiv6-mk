@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_proxy_settings">
+        <item>Ништо</item>
+        <item>Рачно</item>
+	    <item>Автоматски поставки</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Локација</item>
+        <item>Лично</item>
+        <item>Испраќање на пораки</item>
+        <item>Медиуми</item>
+        <item>Уред</item>
+        <item>Стартување</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Приближна локацијa</item>
+        <item>Прецизна локација</item>
+        <item>GPS</item>
+        <item>Вибрации</item>
+        <item>Читање на контакти</item>
+        <item>Пишување на контакти</item>
+        <item>Читање на регистарот на повици</item>
+        <item>Запис во регистарот на повици</item>
+        <item>Читање на календар</item>
+        <item>промена на календар</item>
+        <item>Скенирање на Wi-Fi</item>
+        <item>Известување</item>
+        <item>Скенирање на ќелии</item>
+        <item>Повик на телефон</item>
+        <item>Читање на SMS</item>
+        <item>Пишување на SMS</item>
+        <item>Прием на SMS</item>
+        <item>Прием на SMS при итност</item>
+        <item>Прием MMS</item>
+        <item>Прием на WAP известувања</item>
+        <item>Испраќање на SMS</item>
+        <item>Читање на ICC SMS</item>
+        <item>Пишување на ICC SMS</item>
+        <item>Промена на поставки</item>
+        <item>Повлекување кон врв</item>
+        <item>Пристап кон известувања</item>
+        <item>Камера</item>
+        <item>Снимање на звук</item>
+        <item>Репродукција на аудиозапис</item>
+        <item>Читање на предмеморија</item>
+        <item>Промена на предммеморија </item>
+        <item>Медиумски тастери</item>
+        <item>Аудиофокус</item>
+        <item>Главна гласност</item>
+        <item>Гласност на глас</item>
+        <item>Гласност на ѕвоно</item>
+        <item>Гласност на медиуми</item>
+        <item>Гласност на аларм</item>
+        <item>Гласност на известувања</item>
+        <item>Гласност на Bluetooth</item>
+        <item>Задржи во активна состојба</item>
+        <item>Пратење на локација</item>
+        <item>Пратење на локација со висока потрошувачка на батеријата</item>
+        <item>Статистики за употреба</item>
+        <item>Исклучување/уклучување на микрофон</item>
+        <item>Тoast прозори</item>
+        <item>Проекција на медиуми</item>
+        <item>Активирај VPN</item>
+        <item>Промена на wlan</item>
+        <item>Промена на bluetooth</item>
+        <item>Испраќање на MMS</item>
+        <item>Читање на MMS</item>
+        <item>Пишување на MMS</item>
+        <item>Автоматски старт</item>
+        <item>Промена на nfc</item>
+        <item>Бришење на SMS</item>
+        <item>Бришење MMS</item>
+        <item>Бришење на контакти</item>
+        <item>Бришење нарегистар на повици</item>
+        <item>Промена на податоци</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Вибрации</item>
+        <item>Читање на контакти</item>
+        <item>Промена на контакти</item>
+        <item>Читање на регистар на повици</item>
+        <item>Промена на регистар на повици</item>
+        <item>Читање на календар</item>
+        <item>Промена на календар</item>
+        <item>Локација</item>
+        <item>Објава на известувања</item>
+        <item>Локација</item>
+        <item>Повик на телефон</item>
+        <item>Читање на SMS/MMS</item>
+        <item>Пишување на SMS/MMS</item>
+        <item>Прием на SMS/MMS</item>
+        <item>Прием на SMS/MMS</item>
+        <item>Прием на SMS/MMS</item>
+        <item>Прием на SMS/MMS</item>
+        <item>Испраќање на SMS/MMS</item>
+        <item>Читање SMS/MMS</item>
+        <item>Пишување на SMS/MMS</item>
+        <item>Промена на поставки</item>
+        <item>Влечење кон врв</item>
+        <item>Пристап кон известувања</item>
+        <item>Камера</item>
+        <item>Снимање на звук</item>
+        <item>Репродукција на аудиозапис</item>
+        <item>Читање на предмеморија</item>
+        <item>Промена на предмеморија</item>
+        <item>Медиумски тастери</item>
+        <item>Аудиофокус</item>
+        <item>Главна гласност</item>
+        <item>Гласност на глас</item>
+        <item>Гласност на ѕвоно</item>
+        <item>Гласност на медиуми</item>
+        <item>Гласност на аларм</item>
+        <item>Гласност на известувања</item>
+        <item>Гласност на Bluetooth</item>
+        <item>Задржи во активна состојба</item>
+        <item>Локација</item>
+        <item>Локација</item>
+        <item>Статистики за употреба</item>
+        <item>Иклучи/уклучи микрофон</item>
+        <item>Toast прозор</item>
+        <item>Проекцја на медиум</item>
+        <item>Активирај VPN</item>
+        <item>Промени WLAN</item>
+        <item>Промени Bluetooth</item>
+        <item>Испрати MMS</item>
+        <item>Читај MMS</item>
+        <item>Пиши MMS</item>
+        <item>Автоматски старт</item>
+        <item>Промени Nfc</item>
+        <item>Бришење SMS</item>
+        <item>Бришење на MMS</item>
+        <item>Бришење на контакти</item>
+        <item>Избриши го регистарот на повици</item>
+        <item>Измени податоци</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>зададено</item>
+        <item>Нисшто</item>
+        <item>Отпечаток</item>
+        <item>Сенка</item>
+        <item>Подигнато</item>
+        <item>Втиснато</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Употреба на задените поставки за апликацијата</item>
+        <item>Бело на црно</item>
+        <item>Црно на бело</item>
+        <item>Жолто на црно</item>
+        <item>Жолто на плаво</item>
+        <item>Прилагодено</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Последните 4 знаци</item>
+        <item>Првите 4 знаци</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Вообичаена</item>
+        <item>Умерена</item>
+        <item>Ниска</item>
+        <item>Критична</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Постојана</item>
+        <item>Главна активност</item>
+        <item>Važna (во преден план)</item>
+        <item>Важна (во позадина)</item>
+        <item>За чување</item>
+        <item>Тешка</item>
+        <item>Услуга (се изведува)</item>
+        <item>Услуга (рестартирање)</item>
+        <item>Приемник</item>
+        <item>Куќа</item>
+        <item>Последна активност</item>
+        <item>Предмеморија (активност)</item>
+        <item>Предмеморија (клиент на активност)</item>
+        <item>Предмеморија (празна)</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Последните 30 денови</item>
+        <item>Постави циклус за употреба...</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Исклучено</item>
+        <item>Ограничени прекини</item>
+        <item>Без прекин</item>
+    </string-array>
+	 <string-array name="app_ops_permissions">
+        <item>Дозволи</item>
+        <item>Игнорирај</item>
+        <item>Секогаш прашај</item>
+     </string-array>
+	<string-array name="usage_stats_display_order_types">
+        <item>Време на употреба</item>
+        <item>Последан употреба</item>
+        <item>Име н апликацијата</item>
+    </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>64 KB од предмеморија.</item>
+        <item>256 KB од предмеморија.</item>
+        <item>1 MB од предмеморија.</item>
+        <item>4 MB од предмеморија.</item>
+        <item>16 MB од предмеморија.</item>
+    </string-array>
+	<string-array name="track_frame_time_entries">
+        <item>Исклучено</item>
+        <item>На екран во облик на лента</item>
+        <item>Во наредбата adb shell dumpsys gfxinfo</item>
+    </string-array>
+	<string-array name="debug_hw_overdraw_entries">
+        <item>Исклучено</item>
+        <item>Приказ на слојни преклопувања</item>
+        <item>Приказ на подрачја на деутероаномалијаPrikaži područja za deuteranomaliju</item>
+    </string-array>
+</resources>

@@ -9,7 +9,7 @@
   <string name="cit_ac_charger_in">AC полначот е приклучен</string>
   <string name="cit_ac_charger_out">AC полначот е исклучен</string>
   <string name="cit_accelermeter_sensor_check_summary">Екранот ќе прикаже три насоки на забрзување X, Y, Z 
-(Напомена: Кога е телефонот превртен,вредниостите ќе се променат врз база на ориентацијата)</string>
+(Напомена: Кога е телефонот превртен,вредностите ќе се променат врз база на ориентацијата)</string>
   <string name="cit_accelermeter_sensor_check_title">Тестирање на забрзување</string>
   <string name="cit_audio_loopback_check_one_title">Тестирање на левиот звучник на главниот микрофон</string>
   <string name="cit_audio_loopback_check_summary_first">"Тестирање на левиот звучник на главниот микрофон.
@@ -49,7 +49,7 @@
   <string name="cit_button_light_off">Исклучете го позадинското светло на на типката.</string>
   <string name="cit_button_light_on">Уклучете го позадинското светло на на типката.</string>
   <string name="cit_calibration_fail">Калибрацијата е неуспешна.</string>
-  <string name="cit_calibration_pass">Калибрацијата е успешна</string>
+  <string name="cit_calibration_pass">Калибрацијата е успешна.</string>
   <string name="cit_camera_sdcard_error">SD картичката е полна. Сликите не може да се меморираат.</string>
   <string name="cit_charger_plugin_check_summary">Проверете ја моменталната состојба на полначот.</string>
   <string name="cit_charger_plugin_check_title">Тестирање на конекторот за полначот.</string>

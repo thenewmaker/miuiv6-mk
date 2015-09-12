@@ -3,10 +3,10 @@
     <string name="wallpapers">Анимирани позадински слики за Андроид</string>
     <string name="wallpaper_walkaround">Околу камерата</string>
     <string name="wallpaper_walkaround_author">Google</string>
-    <string name="wallpaper_walkaround_desc">Гледајте низ својот телефон и одете околу без опасност од незгодаG.</string>
+    <string name="wallpaper_walkaround_desc">Гледајте низ својот телефон и одете околу без опасност од незгода.</string>
     <string name="wallpaper_clock">Поларен часовник</string>
     <string name="wallpaper_clock_author">Google</string>
-    <string name="wallpaper_clock_desc">Пртедставува датум и време во облик на лаците во насока на стрелките на часовникот: месец, ден, час, минута и секунда.</string>
+    <string name="wallpaper_clock_desc">Претставува датум и време во облик на лаците во насока на стрелките на часовникот: месец, ден, час, минута и секунда.</string>
     <string name="clock_settings">Поставки на поларен часовник</string>
     <string name="show_seconds">Покажи ги секундите</string>
     <string name="variable_line_width">Различни ширини на прстенот</string>
@@ -17,6 +17,6 @@
     <string name="palette_white_c">Поларна мечка (динамичен)</string>
     <string name="palette_black_c">Црна дупка (динамично)</string>
     <string name="palette_halloween">Пита од тиква</string>
-    <string name="palette_zenburn">Вселенска овочна салата</string>
+    <string name="palette_zenburn">Вселенска овошна салата</string>
     <string name="palette_oceanic">Плав ласер</string>
 </resources>

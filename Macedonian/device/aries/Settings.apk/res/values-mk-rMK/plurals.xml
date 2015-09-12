@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Уште %1$d чекор и ќе станете развоен програмер.</item>
+        <item quantity="one">Уште %1$d чекор и ќе станете развоен програмер.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Лозинката мора да содржи барем: %d знаци.</item>
+        <item quantity="one">Лозинката море да содржи барем една буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Лозинката мора да содржи барем:%d мали букви.</item>
+        <item quantity="one">Лозинката мора да содржи барем една мала буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Лозинката мора да содржи барем: %d големи букви</item>
+        <item quantity="one">Лозинката мора да содржи барем една голема буква.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Лозинката мора да содржи барем: %d бројчeни знаци.</item>
+        <item quantity="one">Лозинката мора да содржи барем еден бројчeн знак.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Лозинката мора да содржи барем: %d посебни знаци.</item>
+        <item quantity="one">Лозината мора да содржи барем еден посебен симбол.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Лозинката мора да содржи барем: %d знаци кои не се букви.</item>
+        <item quantity="one">Лозинката мора да содржи барем еден знак кој не е буква.</item>
+    </plurals>
+   <plurals name="power_center_battery_day">
+        <item quantity="other">"%d денови "</item>
+        <item quantity="one">"%d ден "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%ds "</item>
+        <item quantity="one">"%ds "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин "</item>
+        <item quantity="one">"%d мин "</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Број на апликации кои може да читаат известувања.</item>
+        <item quantity="one">%d апликации може да читаат известувања.</item>
+    </plurals>
+	<plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Број на апликации кои овозможуваат услови: %d</item>
+        <item quantity="one">%d апликации овозможуваат услови</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неточен PIN код на SIM картичката; преостанат број на обиди: %d.</item>
+        <item quantity="one">Неточен PIN код на SIM картичката; имате уште %d обид пред да морате да стапите во контакт со вашиот мобилен оператор за отклучување на вашиот уред.</item>
+    </plurals>
+	<plurals name="show_pho_countdown">
+        <item quantity="other">"Уште %1$d чекор од влез до информациите во телефонот."</item>
+        <item quantity="one">"Уште %1$d чекор од влез до информациите во телефонот."</item>
+     </plurals>
+	 <plurals name="show_cit_countdown">
+        <item quantity="other">Уште %1$d чекор од влез во cit.</item>
+        <item quantity="one">Уште %1$d чекор од влез во cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Уште %1$d чекори до влез за пријавување на грешки.</item>
+        <item quantity="one">Уште %1$d чекор до влез за пријавување на грешки.</item>
+    </plurals>
+	    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">Една минута</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d ч</item>
+        <item quantity="one">Еден час</item>
+	</plurals>
+</resources> 

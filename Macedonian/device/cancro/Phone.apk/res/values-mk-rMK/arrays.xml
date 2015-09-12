@@ -21,7 +21,7 @@
         <item>CDMA w/o EvDo</item>
         <item>CDMA/EvDo auto</item>
         <item>GSM/WCDMA auto</item>
-        <item>WCDMA само</item>
+        <item>WCDMA само/item>
         <item>GSM само</item>
         <item>GSM/WCDMA пожелно</item>
     </string-array>
