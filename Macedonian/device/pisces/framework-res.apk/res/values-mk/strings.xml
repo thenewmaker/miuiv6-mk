@@ -8,7 +8,6 @@
   <string name="CLIRPermanent">Не може да се промени ID на повикувачот</string>
   <string name="CfMmi">Пренасочување на повик</string>
   <string name="ClipMmi">ID на дојдовен повикувач</string>
-  <string name="ClipMmi">ID на влезен повик</string>
   <string name="ClirMmi">ID на излезен повик</string>
   <string name="CndMmi">Испорака на повикувачки број</string>
   <string name="CnipMmi">Содржи повикувачки број</string>
@@ -765,7 +764,6 @@
   <string name="permdesc_hardware_test">Овозможува на апликацијата контрола на различни периферни уреди за тестирање на хардвер.</string>
   <string name="permdesc_injectEvents">Овозможува на апликацијата испорака на свои влезни настани ( притиснати копчиња , итн .. ) на други апликации. Малициозните апликации може на  тој начин да го превземат уредот.</string>
   <string name="permdesc_installLocationProvider">Создавање на лажни извори на локација за тестирање или инсталирање на нов давател на локација. Оваа апликација ви овозможува да се заобиколи локацијата и / или статуси вратени од други извори на локации, како што се GPS или мрежен A-GPS.</string>
-  <string name="permdesc_forceBack">И овозможува на палиокацијата присилно затворање и враќање на сите активности во преден план.Не е потребно за нормални апликации.</string>
   <string name="permdesc_installPackages">Овозможува на апликацијата инсталирање на нови или надградени пакети на Андроид . Малициозни апликации можат да го искористат ова за да додавање на нови апликации со произволно моќни дозволи.</string>
   <string name="permdesc_install_shortcut">Овозможува да додавате кратенки на почетниот екран без интервенција на корисникот.</string>
   <string name="permdesc_interactAcrossUsers">Им овозможува на апликациите извршување на активностите меѓу корисниците на уредот. Малициозни апликации може да ги искористат предностите за нарушување на здравствената заштита меѓу корисниците.</string>
@@ -1475,15 +1473,11 @@
   <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Видеозаписот не е во за емитирање од овој уред.</string>
   <string name="webviewchromium_media_player_error_text_unknown">Видеозаписот не може да се репродуцира.</string>
   <string name="webviewchromium_media_player_error_title">Видеото не може да се репродуцира.</string>
-  <string name="webviewchromium_media_player_loading_video">Вчитување на видеото</string>
   <string name="webviewchromium_time_picker_dialog_hour_minute_separator">:</string>
   <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
   <string name="webviewchromium_time_picker_dialog_pm">PM</string>
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="webviewchromium_month_picker_dialog_title">Поставување на месец</string>
-  <string name="webviewchromium_opening_file_error">Избраната база не е отворена</string>
-  <string name="webpage_unresponsive">"Страницата откажа послушност. Дали сакате да ја затворите?"</string>
-  <string name="websearch">Веб- пребарување</string>
   <string name="week">недела</string>
   <string name="weeks">недела</string>
   <string name="whichApplication">Работата заврши ја со следната апликација...</string>

@@ -1473,15 +1473,11 @@
   <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Видеозаписот не е во за емитирање од овој уред.</string>
   <string name="webviewchromium_media_player_error_text_unknown">Видеозаписот не може да се репродуцира.</string>
   <string name="webviewchromium_media_player_error_title">Видеото не може да се репродуцира.</string>
-  <string name="webviewchromium_media_player_loading_video">Вчитување на видеото</string>
   <string name="webviewchromium_time_picker_dialog_hour_minute_separator">:</string>
   <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
   <string name="webviewchromium_time_picker_dialog_pm">PM</string>
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="webviewchromium_month_picker_dialog_title">Поставување на месец</string>
-  <string name="webviewchromium_opening_file_error">Избраната база не е отворена</string>
-  <string name="webpage_unresponsive">"Страницата откажа послушност. Дали сакате да ја затворите?"</string>
-  <string name="websearch">Веб- пребарување</string>
   <string name="week">недела</string>
   <string name="weeks">недела</string>
   <string name="whichApplication">Работата заврши ја со следната апликација...</string>
